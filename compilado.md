@@ -77,7 +77,7 @@ A região central do continente não é dividida em reinos feudais genéricos, m
 **A Potência Dominante**
 - **O Governo:** Governado pela Rainha Ysolde Bastian, que já está em idade avançada, criando uma bomba-relógio de sucessão. Ela é competente, mas distraída por intrigas internas.
 - **O Círculo de Giz:** A capital é literalmente dominada pela Torre Pura, sede do Círculo de Giz, de frente para o palácio. Em Bastion, a magia tem poder político real e ostensivo.
-- **A Tensão Interna:** O atrito não vem de fora, mas de dentro. A nobreza agrária tradicional (o "celeiro do mundo") sustenta o reino, mas se ressente de pagar as "Patentes Mágicas" (impostos do Círculo de Giz). Os arquimagos, por sua vez, enxergam a taxação como preço justo para manter a estabilidade. Bastion está tão ocupada brigando internamente que é incapaz de ver ameaças nas fronteiras.
+- **A Tensão Interna e a Grade Arcana:** O atrito não vem de fora, mas de dentro. A nobreza agrária (o celeiro do mundo) odeia pagar as extorsivas "Patentes Mágicas". No entanto, eles não têm escolha: o Círculo de Giz mantém a imensa **Grade Arcana**, uma rede de geometria subterrânea que garante safras milagrosas ano após ano. A nobreza é refém dessa grade. Bastion está tão ocupada discutindo impostos e manutenção dessa rede que se torna cega e surda às ameaças nas fronteiras.
 
 ## Reino de Ferrovale
 **A Espada Ressentida**
@@ -146,13 +146,18 @@ O continente é vasto e fisicamente traumatizado pela abertura milenar da Grande
 ---
 
 ## 1. As Planícies Temperadas (O Centro Geopolítico)
-A região central, onde a sobrevivência e a política colidem através de um triângulo de poder (Bastion, Ferrovale, Marca da Fenda).
-- **Serra da Ruptura (Presas de Krag):** A cordilheira que margeia a Fenda no centro. O Norte é conhecido como Presas de Krag (picos vulcânicos e calor geotérmico canalizado). É onde fica encravada a cidade industrial de **Krag-Mora**.
-- **O Colo Branco:** A oeste, o único desfiladeiro (aberto 4 meses ao ano pelo degelo) e passagem terrestre viável entre o Norte Congelado e o resto do continente. Controlado pelo Cartel do Aço-Frio.
-- **Rio Áureo:** Nasce na Serra, irriga as planícies e enriquece a capital *Bastion*, desaguando a oeste no Mar do Poente.
-- **Porto Sem Nome (A Foz):** A cidade costeira foz do Rio Áureo. Não tem nome oficial porque Bastion e Ferrovale brigam pelo controle. Na prática, é a capital livre do contrabando.
+Enquanto as outras três regiões se definem pelo que têm de estranho, as Planícies se definem pelo que *não* têm: sem gelo industrial, sem areia instável, sem magia transbordando. É rica e fértil exatamente porque é normal — e é disputada (Bastion, Ferrovale, Marca da Fenda) exatamente por isso. Todo mundo consegue viver aqui, então todo mundo a quer.
+
+- **A Grade Arcana:** A verdadeira razão de Bastion ser o "celeiro do mundo". Uma imensa rede de geometria arcana mantida subterraneamente pelo Círculo de Giz. Ela garante colheitas milagrosas ano após ano, forçando toda a nobreza agrária a engolir os altos impostos mágicos, pois ninguém sobrevive sem a Grade.
+- **Serra da Ruptura (Presas de Krag):** A cordilheira que margeia a Fenda no centro. O Norte é conhecido como Presas de Krag (picos vulcânicos). Lá fica encravada a cidade industrial de **Krag-Mora**.
+- **O Colo Branco:** A oeste, o único desfiladeiro viável entre o Norte Congelado e o resto do continente, controlado pelo Cartel do Aço-Frio.
+- **Rio Áureo e Porto Sem Nome:** O grande rio que nasce na Serra e irriga Bastion desaguando no *Porto Sem Nome*, a capital não oficial do contrabando costeiro.
+- **Rio Prata e Lago das Garças:** Um segundo rio que nasce a sudoeste, sustentando a pequena nobreza e criando o Lago das Garças — um recanto bucólico atormentado por lendas de coisas submersas.
+- **As Colunas Douradas:** Colinas suaves a sudoeste na rota para o deserto (Zul-Bazar). Lar de uma nobreza rural e gananciosa, propícia a intrigas políticas em menor escala por cada colina de trigo.
+- **A Mata Vetusta:** Uma floresta inexplicavelmente selvagem no meio das planícies civilizadas. Nem Bastion nem Ferrovale a desmataram. Mais velha que os castelos ao redor, é refúgio de bandidos — mas também um lugar onde pessoas somem em silêncio.
+- **A Estrada Real:** A vasta via que liga Bastion a Ferrovale, despencando em qualidade e segurança até a Marca da Fenda. Atualmente, os pedágios perdem o controle conforme os ataques goblins espalham caos e desertores.
 - **O Norte Congelado:** Contém a Tundra Alva, a Geleira do Manto e o Mar de Gelo Eterno, povoado por nômades, pescadores e, nas sombras das fendas congeladas, os invisíveis Quirópteros.
-- **As Terras Mortas e o Cinturão de Cinzas:** Arredores orientais e imediatos de Krag-Mora, onde a poluição e a alta concentração de minério (Ferro Dissonante) calam completamente o uso de Magia Comum, tornando curas arcanas impossíveis.
+- **As Terras Mortas e o Cinturão de Cinzas:** Arredores orientais imediatos de Krag-Mora, onde a poluição e a alta concentração de minério (Ferro Dissonante) calam completamente o uso de Magia Comum.
 
 ---
 
@@ -222,12 +227,12 @@ Essa falha geográfica criou um imenso **"Gargalo"** de terra firme.
 Ela não é uma aventureira, mas uma burocrata do mais alto nível em Bastion. Sobrevive lidando e equilibrando o peso dos Arquimagos e a fúria da nobreza agrária da capital (que detestam as "Patentes Mágicas" da Torre Pura).
 
 ## Segredos e Motivações
-- **Motivação Pública:** Manter o império burocrático e as leis mágicas fluindo perfeitamente no Círculo de Giz.
-- **O Segredo:** Ela notou que a sucessão da Centelha dos Magos (a Regra dos 3.333) está mudando e "despertando" rápido demais próximo à fronteira militarizada de Ferrovale. É um erro estatístico absurdo.
+- **Motivação Pública:** Viajar esporadicamente entre Bastion e a fronteira para supervisionar pessoalmente e fazer a manutenção da **Grade Arcana** (a imensa geometria ritual que garante as colheitas do reino).
+- **O Segredo:** Essas viagens oficiais são o álibi perfeito. A verdadeira razão para ela estar constantemente indo até a fronteira é que ela notou uma distorção: a sucessão da Centelha dos Magos (a Regra dos 3.333) está "despertando" e "morrendo" rápido demais perto de Ferrovale. É um erro estatístico absurdo.
 - **Problema:** Sem provas materiais, acusar o exército de Ferrovale seria estopim de uma guerra diplomática.
 
 ## Como os Jogadores a Encontram
-Ela precisa de agentes negáveis, pessoas fora do radar político. Mercenários e Zés-ninguém são os contatos ideais. Ela pagará (muito bem) em ouro e talvez num raro diagrama de Magia Comum para que investiguem sumiços de pessoas nos campos, onde a vista da Rainha Ysolde não alcança.
+Ela estará fora da segurança da capital, supostamente checando um nó da Grade Arcana perto de uma estrada rural. Ela precisa de agentes negáveis, pessoas fora do radar político para checar esses picos de magia. Mercenários e Zés-ninguém da região são os contatos ideais. Ela pagará (muito bem) em ouro e talvez num raro diagrama de Magia Comum para que investiguem.
 
 # Irmão Sebo
 

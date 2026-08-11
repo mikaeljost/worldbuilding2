@@ -5,13 +5,18 @@ O continente é vasto e fisicamente traumatizado pela abertura milenar da Grande
 ---
 
 ## 1. As Planícies Temperadas (O Centro Geopolítico)
-A região central, onde a sobrevivência e a política colidem através de um triângulo de poder (Bastion, Ferrovale, Marca da Fenda).
-- **Serra da Ruptura (Presas de Krag):** A cordilheira que margeia a Fenda no centro. O Norte é conhecido como Presas de Krag (picos vulcânicos e calor geotérmico canalizado). É onde fica encravada a cidade industrial de **Krag-Mora**.
-- **O Colo Branco:** A oeste, o único desfiladeiro (aberto 4 meses ao ano pelo degelo) e passagem terrestre viável entre o Norte Congelado e o resto do continente. Controlado pelo Cartel do Aço-Frio.
-- **Rio Áureo:** Nasce na Serra, irriga as planícies e enriquece a capital *Bastion*, desaguando a oeste no Mar do Poente.
-- **Porto Sem Nome (A Foz):** A cidade costeira foz do Rio Áureo. Não tem nome oficial porque Bastion e Ferrovale brigam pelo controle. Na prática, é a capital livre do contrabando.
+Enquanto as outras três regiões se definem pelo que têm de estranho, as Planícies se definem pelo que *não* têm: sem gelo industrial, sem areia instável, sem magia transbordando. É rica e fértil exatamente porque é normal — e é disputada (Bastion, Ferrovale, Marca da Fenda) exatamente por isso. Todo mundo consegue viver aqui, então todo mundo a quer.
+
+- **A Grade Arcana:** A verdadeira razão de Bastion ser o "celeiro do mundo". Uma imensa rede de geometria arcana mantida subterraneamente pelo Círculo de Giz. Ela garante colheitas milagrosas ano após ano, forçando toda a nobreza agrária a engolir os altos impostos mágicos, pois ninguém sobrevive sem a Grade.
+- **Serra da Ruptura (Presas de Krag):** A cordilheira que margeia a Fenda no centro. O Norte é conhecido como Presas de Krag (picos vulcânicos). Lá fica encravada a cidade industrial de **Krag-Mora**.
+- **O Colo Branco:** A oeste, o único desfiladeiro viável entre o Norte Congelado e o resto do continente, controlado pelo Cartel do Aço-Frio.
+- **Rio Áureo e Porto Sem Nome:** O grande rio que nasce na Serra e irriga Bastion desaguando no *Porto Sem Nome*, a capital não oficial do contrabando costeiro.
+- **Rio Prata e Lago das Garças:** Um segundo rio que nasce a sudoeste, sustentando a pequena nobreza e criando o Lago das Garças — um recanto bucólico atormentado por lendas de coisas submersas.
+- **As Colunas Douradas:** Colinas suaves a sudoeste na rota para o deserto (Zul-Bazar). Lar de uma nobreza rural e gananciosa, propícia a intrigas políticas em menor escala por cada colina de trigo.
+- **A Mata Vetusta:** Uma floresta inexplicavelmente selvagem no meio das planícies civilizadas. Nem Bastion nem Ferrovale a desmataram. Mais velha que os castelos ao redor, é refúgio de bandidos — mas também um lugar onde pessoas somem em silêncio.
+- **A Estrada Real:** A vasta via que liga Bastion a Ferrovale, despencando em qualidade e segurança até a Marca da Fenda. Atualmente, os pedágios perdem o controle conforme os ataques goblins espalham caos e desertores.
 - **O Norte Congelado:** Contém a Tundra Alva, a Geleira do Manto e o Mar de Gelo Eterno, povoado por nômades, pescadores e, nas sombras das fendas congeladas, os invisíveis Quirópteros.
-- **As Terras Mortas e o Cinturão de Cinzas:** Arredores orientais e imediatos de Krag-Mora, onde a poluição e a alta concentração de minério (Ferro Dissonante) calam completamente o uso de Magia Comum, tornando curas arcanas impossíveis.
+- **As Terras Mortas e o Cinturão de Cinzas:** Arredores orientais imediatos de Krag-Mora, onde a poluição e a alta concentração de minério (Ferro Dissonante) calam completamente o uso de Magia Comum.
 
 ---
 

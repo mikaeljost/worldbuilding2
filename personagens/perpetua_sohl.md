@@ -12,9 +12,9 @@
 Ela não é uma aventureira, mas uma burocrata do mais alto nível em Bastion. Sobrevive lidando e equilibrando o peso dos Arquimagos e a fúria da nobreza agrária da capital (que detestam as "Patentes Mágicas" da Torre Pura).
 
 ## Segredos e Motivações
-- **Motivação Pública:** Manter o império burocrático e as leis mágicas fluindo perfeitamente no Círculo de Giz.
-- **O Segredo:** Ela notou que a sucessão da Centelha dos Magos (a Regra dos 3.333) está mudando e "despertando" rápido demais próximo à fronteira militarizada de Ferrovale. É um erro estatístico absurdo.
+- **Motivação Pública:** Viajar esporadicamente entre Bastion e a fronteira para supervisionar pessoalmente e fazer a manutenção da **Grade Arcana** (a imensa geometria ritual que garante as colheitas do reino).
+- **O Segredo:** Essas viagens oficiais são o álibi perfeito. A verdadeira razão para ela estar constantemente indo até a fronteira é que ela notou uma distorção: a sucessão da Centelha dos Magos (a Regra dos 3.333) está "despertando" e "morrendo" rápido demais perto de Ferrovale. É um erro estatístico absurdo.
 - **Problema:** Sem provas materiais, acusar o exército de Ferrovale seria estopim de uma guerra diplomática.
 
 ## Como os Jogadores a Encontram
-Ela precisa de agentes negáveis, pessoas fora do radar político. Mercenários e Zés-ninguém são os contatos ideais. Ela pagará (muito bem) em ouro e talvez num raro diagrama de Magia Comum para que investiguem sumiços de pessoas nos campos, onde a vista da Rainha Ysolde não alcança.
+Ela estará fora da segurança da capital, supostamente checando um nó da Grade Arcana perto de uma estrada rural. Ela precisa de agentes negáveis, pessoas fora do radar político para checar esses picos de magia. Mercenários e Zés-ninguém da região são os contatos ideais. Ela pagará (muito bem) em ouro e talvez num raro diagrama de Magia Comum para que investiguem.
