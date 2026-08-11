@@ -12,6 +12,10 @@ Bairros e distritos construídos sobre placas terrestres suspensas no ar por Ped
 
 Mística, majestosa e vertiginosa, acompanhada pelo som do vento nas correntes de ancoragem, o cantar de aves exóticas e o brilho de flores tropicais.
 
+## Economia e fonte de renda
+
+Coleta e exportação de espécimes botânicos raros (como a Seiva-Estrela e as Flores-Luz), venda de penas, dejetos e componentes de monstros selvagens extraídos do dossel, serviços de navegação e transporte aéreo e manutenção de redes gravitacionais.
+
 ## Quem vive/frequenta
 
 Aeris (povo-pluma), nobres influentes, alquimistas do Conclave das Flores-Luz, Ancoradores do Céu e batedores do Dossel Verde.
