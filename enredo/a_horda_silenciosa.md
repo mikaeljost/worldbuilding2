@@ -15,12 +15,14 @@ Conforme viajantes mais astutos se movem pelas províncias e cruzam informaçõe
 3. **Evolução Militar:** A doutrina de combate dos "selvagens" mudou subitamente. Hobgoblins agora vestem e comandam falanges táticas organizadas. Eles usam armaduras de aço fundido, comunicam-se a longas distâncias usando sinais de fumaça avançados, envenenam lâminas com toxinas refinadas e empregam uma logística impecável em cercos.
 
 ## O Grande Plot Twist
-A inteligência militar e logística dos Goblins não é fruto de um milagre evolutivo. Os goblins são selvagens demais para forjarem aço padronizado ou mapearem rotas comerciais.
+A inteligência militar e logística dos Goblins não é fruto de um milagre evolutivo.
 
-**Uma mente humana de imenso poder político e recursos ilimitados está orquestrando a Horda Silenciosa.**
+**O General Kastel Draven, governante de fato do reino militarista de Ferrovale, é o arquiteto por trás da Horda Silenciosa.**
 
-Pode ser um Rei com inclinações expansionistas, um General altamente influente ou um Conselheiro de Corte astuto. Este "arquiteto" permanece nas sombras, abastecendo os goblins com mapas, equipamentos de forja, rotas secretas e diretrizes estratégicas.
+Draven abastece os goblins com mapas, equipamentos de forja, rotas secretas e diretrizes estratégicas. Ele usa os monstros como um exército negável e descartável para destruir as fazendas do reino rival (Bastion) sem declarar guerra aberta.
 
-### O Objetivo do Arquiteto
-O objetivo é claro, sangrento e cínico: usar os monstros como uma praga incontrolável para moer a civilização lentamente. A Horda serve para desestabilizar as defesas dos reinos rivais e esgotar as guildas locais, deixando o cenário em desespero total.
-Quando todos estiverem ajoelhados e sangrando, o orquestrador sugirá, com seus exércitos intocados, não como um vilão, mas como o "único salvador do continente", tomando o controle político total e irrevogável sobre as ruínas da civilização.
+### O Verdadeiro Objetivo: O Ouro-Sangue
+O terror político e territorial, no entanto, é apenas a superfície.
+Em contato com segredos macabros das profundezas (a *Doutrina do Abismo*), Draven descobriu como utilizar o **Ouro-Sangue** em escala industrial. Ele pretende realizar o impossível: converter força vital em poder ritualístico suficiente para forçar a si mesmo a se tornar um dos **3.333** Magos Verdadeiros.
+
+A terrível "procriação forçada" dos criadouros goblins e os sequestros em massa são, na verdade, uma gigantesca fachada logística. As vítimas não estão apenas sustentando as tropas dos goblins; sua vitalidade e almas estão sendo sistematicamente extraídas nos abismos para alimentar o ritual herético de ascensão do General.
