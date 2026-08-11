@@ -12,6 +12,10 @@ Localizada no centro das planícies; clima ameno e ensolarado, cercada por exten
 
 Aristocrática, opulenta e extremamente burocrática por fora, mas apodrecida por intrigas políticas, chantagens e corrupção rural.
 
+## Economia e fonte de renda
+
+Agricultura em escala continental (trigo, grãos e pecuária), arrecadação de impostos rituais e tarifas comerciais pelo Círculo de Giz, fornecimento de cereais para as demais capitais e selamento legal/fiscal de patentes e acordos rituais.
+
 ## Quem vive/frequenta
 
 Nobres feudais, fiscais arcanos do Círculo de Giz, Cães-Farejadores da polícia mágica, os Semeadores de Sangue e a corte aristocrática.
