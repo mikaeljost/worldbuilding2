@@ -57,3 +57,9 @@ echo "" >> $OUT
 echo "## 7. Panteão e Religião" >> $OUT
 cat lore/panteao_e_crencas.md >> $OUT
 echo "" >> $OUT
+echo "---" >> $OUT
+echo "" >> $OUT
+
+echo "## 8. Linha do Tempo e Passado" >> $OUT
+cat linha-do-tempo/ascensao_de_draven.md >> $OUT
+echo "" >> $OUT
