@@ -12,6 +12,10 @@ Construída verticalmente nos penhascos da Fenda; abafada, fria e exposta aos ve
 
 Brutal, desesperadora e tétrica, dominada pelo tilintar de correntes, o eco de picaretas na rocha e o cheiro de suor e mofo.
 
+## Economia e fonte de renda
+
+Mineração de trabalho forçado (extração de minérios pesados e pedras preciosas), tráfico ilegal de escravos e prisioneiros executado pela guilda de guardas corruptos, e contrabando de artigos proibidos para dentro e fora dos complexos prisionais.
+
 ## Quem vive/frequenta
 
 Prisioneiros de todos os reinos, os Mantenedores da Corrente, guardas corruptos Traficantes de Grilhões e o submundo dos Ratos da Fenda.
