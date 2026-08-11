@@ -12,6 +12,10 @@ Plataformas suspensas no ar no centro do abismo; clima frio, marcado por névoas
 
 Tensa, vertiginosa e perigosa, acompanhada pelo som metálico contínuo das correntes balançando e pelo rangido de guinchos e elevadores.
 
+## Economia e fonte de renda
+
+Mineração de Arcanita Bruta e extração de relíquias abissais no fundo da Fenda, cobrança de pedágios e tarifas pelo transporte vertical de cargas e pessoas, manutenção especializada de correntes pesadas e guinchos arcanos.
+
 ## Quem vive/frequenta
 
 Engenheiros de Elo, Ratos de Cabo, Mergulhadores da Névoa, Lapidadores de Obsidiana e os patrulheiros da Guarda dos Elos.
