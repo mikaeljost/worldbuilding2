@@ -63,3 +63,9 @@ echo "" >> $OUT
 echo "## 8. Linha do Tempo e Passado" >> $OUT
 cat linha-do-tempo/ascensao_de_draven.md >> $OUT
 echo "" >> $OUT
+echo "---" >> $OUT
+echo "" >> $OUT
+
+echo "## 9. Lendas da Engenharia Divina" >> $OUT
+cat lore/engenharia_divina_e_mitos.md >> $OUT
+echo "" >> $OUT
