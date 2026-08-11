@@ -12,6 +12,10 @@ Localizada em um desfiladeiro árido; clima seco, quente e fustigado por tempest
 
 Violenta, efervescente e anárquica, onde a vida é barata e o som de lutas de espadas, apostas ruidosas e festas embriagadas toma as ruas a qualquer hora.
 
+## Economia e fonte de renda
+
+Apostas e entretenimento violento nas Arenas de Combate, contratos de assassinato e chantagem executados pelo Sindicato das Lâminas Negras, tráfico de venenos, substâncias ilegais, relíquias roubadas e falsificação de identidades e documentos.
+
 ## Quem vive/frequenta
 
 Orcs mercenários, criminosos fugitivos, executores do Sindicato das Lâminas Negras, Barões do Coliseu e receptadores dos Dentes-de-Ouro.
