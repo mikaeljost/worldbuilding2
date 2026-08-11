@@ -12,6 +12,10 @@ Localizada sobre o casco da criatura em constante movimento pelos mares; clima o
 
 Nômade, acolhedora e vibrante, preenchida pelo som das ondas do mar, aromas de algas medicinais e o movimento constante de barcos de escolta.
 
+## Economia e fonte de renda
+
+Pesca oceânica de grande porte e caça de monstros marinhos, raspagem e processamento de cracas marinhas arcanas e Sal Arcano extraídos do próprio casco, resgate de tesouros em naufrágios profundos e rotas marítimas itinerantes de comércio livre de impostos.
+
 ## Quem vive/frequenta
 
 Navegadores dos Astrólogos do Fluxo, Colhedores de Casco, Engenheiros das Cavidades e a Guarda da Carapaça.
