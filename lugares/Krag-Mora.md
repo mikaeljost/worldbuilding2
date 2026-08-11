@@ -12,6 +12,10 @@ Encravada em uma garganta rochosa nas montanhas congeladas do Noroeste; ar denso
 
 Industrial, claustrofóbica e insalubre, impregnada pelo cheiro de metal queimado, pelo estalo incandescente das fornalhas e pelo som ininterrupto de engrenagens pneumáticas.
 
+## Economia e fonte de renda
+
+Mineração em larga escala de Carvão-de-Sangue, fundição de ligas metálicas resistentes, fabricação e exportação de golens industriais e autômatos, fornecimento de peças mecânicas de precisão e produção de energia a vapor para outras regiões.
+
 ## Quem vive/frequenta
 
 Anões mestres-forjadores, operários humanos com membros mecânicos, engenheiros do Sindicato do Ferro-Frio, os Trajes-de-Chumbo e os Cirurgiões-Engrenagem.
