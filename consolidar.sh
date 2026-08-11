@@ -51,3 +51,21 @@ cat itens/bussola_de_sangue_frio.md >> $OUT
 echo "" >> $OUT
 cat itens/giz_de_osso_de_martir.md >> $OUT
 echo "" >> $OUT
+echo "---" >> $OUT
+echo "" >> $OUT
+
+echo "## 7. Panteão e Religião" >> $OUT
+cat lore/panteao_e_crencas.md >> $OUT
+echo "" >> $OUT
+echo "---" >> $OUT
+echo "" >> $OUT
+
+echo "## 8. Linha do Tempo e Passado" >> $OUT
+cat linha-do-tempo/ascensao_de_draven.md >> $OUT
+echo "" >> $OUT
+echo "---" >> $OUT
+echo "" >> $OUT
+
+echo "## 9. Lendas da Engenharia Divina" >> $OUT
+cat lore/engenharia_divina_e_mitos.md >> $OUT
+echo "" >> $OUT

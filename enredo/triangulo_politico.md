@@ -6,7 +6,7 @@ A região central do continente não é dividida em reinos feudais genéricos, m
 **A Potência Dominante**
 - **O Governo:** Governado pela Rainha Ysolde Bastian, que já está em idade avançada, criando uma bomba-relógio de sucessão. Ela é competente, mas distraída por intrigas internas.
 - **O Círculo de Giz:** A capital é literalmente dominada pela Torre Pura, sede do Círculo de Giz, de frente para o palácio. Em Bastion, a magia tem poder político real e ostensivo.
-- **A Tensão Interna:** O atrito não vem de fora, mas de dentro. A nobreza agrária tradicional (o "celeiro do mundo") sustenta o reino, mas se ressente de pagar as "Patentes Mágicas" (impostos do Círculo de Giz). Os arquimagos, por sua vez, enxergam a taxação como preço justo para manter a estabilidade. Bastion está tão ocupada brigando internamente que é incapaz de ver ameaças nas fronteiras.
+- **A Tensão Interna e a Grade Arcana:** O atrito não vem de fora, mas de dentro. A nobreza agrária (o celeiro do mundo) odeia pagar as extorsivas "Patentes Mágicas". No entanto, eles não têm escolha: o Círculo de Giz mantém a imensa **Grade Arcana**, uma rede de geometria subterrânea que garante safras milagrosas ano após ano. A nobreza é refém dessa grade. Bastion está tão ocupada discutindo impostos e manutenção dessa rede que se torna cega e surda às ameaças nas fronteiras.
 
 ## Reino de Ferrovale
 **A Espada Ressentida**

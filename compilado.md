@@ -77,7 +77,7 @@ A região central do continente não é dividida em reinos feudais genéricos, m
 **A Potência Dominante**
 - **O Governo:** Governado pela Rainha Ysolde Bastian, que já está em idade avançada, criando uma bomba-relógio de sucessão. Ela é competente, mas distraída por intrigas internas.
 - **O Círculo de Giz:** A capital é literalmente dominada pela Torre Pura, sede do Círculo de Giz, de frente para o palácio. Em Bastion, a magia tem poder político real e ostensivo.
-- **A Tensão Interna:** O atrito não vem de fora, mas de dentro. A nobreza agrária tradicional (o "celeiro do mundo") sustenta o reino, mas se ressente de pagar as "Patentes Mágicas" (impostos do Círculo de Giz). Os arquimagos, por sua vez, enxergam a taxação como preço justo para manter a estabilidade. Bastion está tão ocupada brigando internamente que é incapaz de ver ameaças nas fronteiras.
+- **A Tensão Interna e a Grade Arcana:** O atrito não vem de fora, mas de dentro. A nobreza agrária (o celeiro do mundo) odeia pagar as extorsivas "Patentes Mágicas". No entanto, eles não têm escolha: o Círculo de Giz mantém a imensa **Grade Arcana**, uma rede de geometria subterrânea que garante safras milagrosas ano após ano. A nobreza é refém dessa grade. Bastion está tão ocupada discutindo impostos e manutenção dessa rede que se torna cega e surda às ameaças nas fronteiras.
 
 ## Reino de Ferrovale
 **A Espada Ressentida**
@@ -146,13 +146,18 @@ O continente é vasto e fisicamente traumatizado pela abertura milenar da Grande
 ---
 
 ## 1. As Planícies Temperadas (O Centro Geopolítico)
-A região central, onde a sobrevivência e a política colidem através de um triângulo de poder (Bastion, Ferrovale, Marca da Fenda).
-- **Serra da Ruptura (Presas de Krag):** A cordilheira que margeia a Fenda no centro. O Norte é conhecido como Presas de Krag (picos vulcânicos e calor geotérmico canalizado). É onde fica encravada a cidade industrial de **Krag-Mora**.
-- **O Colo Branco:** A oeste, o único desfiladeiro (aberto 4 meses ao ano pelo degelo) e passagem terrestre viável entre o Norte Congelado e o resto do continente. Controlado pelo Cartel do Aço-Frio.
-- **Rio Áureo:** Nasce na Serra, irriga as planícies e enriquece a capital *Bastion*, desaguando a oeste no Mar do Poente.
-- **Porto Sem Nome (A Foz):** A cidade costeira foz do Rio Áureo. Não tem nome oficial porque Bastion e Ferrovale brigam pelo controle. Na prática, é a capital livre do contrabando.
+Enquanto as outras três regiões se definem pelo que têm de estranho, as Planícies se definem pelo que *não* têm: sem gelo industrial, sem areia instável, sem magia transbordando. É rica e fértil exatamente porque é normal — e é disputada (Bastion, Ferrovale, Marca da Fenda) exatamente por isso. Todo mundo consegue viver aqui, então todo mundo a quer.
+
+- **A Grade Arcana:** A verdadeira razão de Bastion ser o "celeiro do mundo". Uma imensa rede de geometria arcana mantida subterraneamente pelo Círculo de Giz. Ela garante colheitas milagrosas ano após ano, forçando toda a nobreza agrária a engolir os altos impostos mágicos, pois ninguém sobrevive sem a Grade.
+- **Serra da Ruptura (Presas de Krag):** A cordilheira que margeia a Fenda no centro. O Norte é conhecido como Presas de Krag (picos vulcânicos). Lá fica encravada a cidade industrial de **Krag-Mora**.
+- **O Colo Branco:** A oeste, o único desfiladeiro viável entre o Norte Congelado e o resto do continente, controlado pelo Cartel do Aço-Frio.
+- **Rio Áureo e Porto Sem Nome:** O grande rio que nasce na Serra e irriga Bastion desaguando no *Porto Sem Nome*, a capital não oficial do contrabando costeiro.
+- **Rio Prata e Lago das Garças:** Um segundo rio que nasce a sudoeste, sustentando a pequena nobreza e criando o Lago das Garças — um recanto bucólico atormentado por lendas de coisas submersas.
+- **As Colunas Douradas:** Colinas suaves a sudoeste na rota para o deserto (Zul-Bazar). Lar de uma nobreza rural e gananciosa, propícia a intrigas políticas em menor escala por cada colina de trigo.
+- **A Mata Vetusta:** Uma floresta inexplicavelmente selvagem no meio das planícies civilizadas. Nem Bastion nem Ferrovale a desmataram. Mais velha que os castelos ao redor, é refúgio de bandidos — mas também um lugar onde pessoas somem em silêncio.
+- **A Estrada Real:** A vasta via que liga Bastion a Ferrovale, despencando em qualidade e segurança até a Marca da Fenda. Atualmente, os pedágios perdem o controle conforme os ataques goblins espalham caos e desertores.
 - **O Norte Congelado:** Contém a Tundra Alva, a Geleira do Manto e o Mar de Gelo Eterno, povoado por nômades, pescadores e, nas sombras das fendas congeladas, os invisíveis Quirópteros.
-- **As Terras Mortas e o Cinturão de Cinzas:** Arredores orientais e imediatos de Krag-Mora, onde a poluição e a alta concentração de minério (Ferro Dissonante) calam completamente o uso de Magia Comum, tornando curas arcanas impossíveis.
+- **As Terras Mortas e o Cinturão de Cinzas:** Arredores orientais imediatos de Krag-Mora, onde a poluição e a alta concentração de minério (Ferro Dissonante) calam completamente o uso de Magia Comum.
 
 ---
 
@@ -222,12 +227,12 @@ Essa falha geográfica criou um imenso **"Gargalo"** de terra firme.
 Ela não é uma aventureira, mas uma burocrata do mais alto nível em Bastion. Sobrevive lidando e equilibrando o peso dos Arquimagos e a fúria da nobreza agrária da capital (que detestam as "Patentes Mágicas" da Torre Pura).
 
 ## Segredos e Motivações
-- **Motivação Pública:** Manter o império burocrático e as leis mágicas fluindo perfeitamente no Círculo de Giz.
-- **O Segredo:** Ela notou que a sucessão da Centelha dos Magos (a Regra dos 3.333) está mudando e "despertando" rápido demais próximo à fronteira militarizada de Ferrovale. É um erro estatístico absurdo.
+- **Motivação Pública:** Viajar esporadicamente entre Bastion e a fronteira para supervisionar pessoalmente e fazer a manutenção da **Grade Arcana** (a imensa geometria ritual que garante as colheitas do reino).
+- **O Segredo:** Essas viagens oficiais são o álibi perfeito. A verdadeira razão para ela estar constantemente indo até a fronteira é que ela notou uma distorção: a sucessão da Centelha dos Magos (a Regra dos 3.333) está "despertando" e "morrendo" rápido demais perto de Ferrovale. É um erro estatístico absurdo.
 - **Problema:** Sem provas materiais, acusar o exército de Ferrovale seria estopim de uma guerra diplomática.
 
 ## Como os Jogadores a Encontram
-Ela precisa de agentes negáveis, pessoas fora do radar político. Mercenários e Zés-ninguém são os contatos ideais. Ela pagará (muito bem) em ouro e talvez num raro diagrama de Magia Comum para que investiguem sumiços de pessoas nos campos, onde a vista da Rainha Ysolde não alcança.
+Ela estará fora da segurança da capital, supostamente checando um nó da Grade Arcana perto de uma estrada rural. Ela precisa de agentes negáveis, pessoas fora do radar político para checar esses picos de magia. Mercenários e Zés-ninguém da região são os contatos ideais. Ela pagará (muito bem) em ouro e talvez num raro diagrama de Magia Comum para que investiguem.
 
 # Irmão Sebo
 
@@ -339,3 +344,127 @@ Parecem simples pedaços de giz cilíndricos, um pouco mais espessos que o norma
 
 ## Ganchos com o Cenário
 - **A Horda Silenciosa:** Como a horda evoluiu logisticamente, batedores hobgoblins aprenderam a procurar por resíduos pálidos nos arredores dos acampamentos. Se avistam círculos recém-desenhados, costumam cavar o solo ao redor por baixo (ou mandar escravos fazerem) para quebrar o selo antes de emboscarem os aventureiros.
+
+---
+
+## 7. Panteão e Religião
+# Religião e o Panteão
+
+No continente brutal, a fé é prática e transacional. Não há milagres gratuitos. *Nenhum deus concede magia de cura ou poderes milagrosos*; para curar, usa-se a difícil Magia Comum, conhecimento herborista e sorte.
+
+## A Base de Tudo
+- **O Primórdio:** A força bruta que vaza da Grande Fenda. Acadêmicos acreditam ser a fonte de toda magia e da Regra dos 3.333. A maioria das pessoas comuns nem usa o termo.
+- **Os Ecos e o Além:** Quando alguém morre, deixa um eco (resíduo da alma) por um tempo antes de se dissolver. A necromancia paliativa da *Irmandade da Cinza* trabalha nessa janela. Eles estão em pânico porque os ecos estão "sumindo" antes da morte se completar (obra dos rituais de Ouro-Sangue de Draven).
+
+## Os Deuses Maiores
+
+**Nyxara, a Que Pesa os Ecos**
+- **Domínio:** Morte, julgamento, memória.
+- **A Fé:** Ela não julga moralidade, apenas exige que a morte siga o fluxo natural. Possui um templo em cada cemitério, dividido entre coveiros tradicionais (Guardiões do Ciclo) e os necromantes paliativos (Irmandade da Cinza).
+- **O Gancho:** Nyxara está furiosa e impotente. O esquema de extração de Ouro-Sangue de Kastel Draven arranca almas violentamente antes do julgamento dela. Um devoto de Nyxara sente profunda náusea ao ver um cadáver usado nesse esquema.
+
+**Vorthain, o Punho que Não Descansa**
+- **Domínio:** Guerra, conquista, força.
+- **A Fé:** Não tem templos, apenas quartéis e capelães-de-guerra. Antes de grandes combates, o fiel faz um corte raso na palma da mão. Extremamente cultuado no Reino de Ferrovale.
+- **O Gancho (A Blasfêmia):** O exército credita a Vorthain a aniquilação da antiga Horda por Draven. Na verdade, foi um pacto herético de sacrifício com a *Doutrina do Abismo*. O mito fundador de Draven é a maior blasfêmia existente contra o deus que seu povo adora.
+
+**Solenne, a Tecelã do Saber**
+- **Domínio:** Magia comum, conhecimento e pactos inquebráveis.
+- **A Fé:** Cultuada por ritualistas autônomos e pelo *Conservatório dos Fios Dourados* (em Zul-Bazar), que usa a deusa como garantia em contratos comerciais. Curiosamente, a elite do Círculo de Giz a ignora, tratando magia apenas como ciência.
+
+**Baldrun, o Forjador**
+- **Domínio:** Ofício, ordem, civilização e fogo controlado.
+- **A Fé:** Forte em Krag-Mora (Norte Congelado) e Bastion. Não há grandes suntuosidades: o ferreiro mais velho da guilda é o sacerdote. Negligenciar a forja de um ancestral é o maior dos pecados.
+
+**Meridax, o Errante das Marés**
+- **Domínio:** Comércio, sorte, o mar.
+- **A Fé:** Venerado em docas e no *Porto Sem Nome*. O ritual exige atirar uma moeda na água antes de zarpar.
+- **O Gancho:** A colossal Tartuga-cidade marinha não sofre taxação dos espíritos dos rios (Náiades) não por medo, mas porque ela é considerada uma criatura sagrada sob a proteção direta de Meridax.
+
+**Thessa, a Seiva Primeva**
+- **Domínio:** Natureza bruta e crescimento. Cultuada exclusivamente na selva do Berço Primordial, de forma orgânica, onde não há rezas, apenas barganhas constantes com a própria selva e os Duendes.
+
+## Os Deuses Menores e Entidades
+
+- **Zeph, o Que Não Deixa Rastro:** Domínio sobre ladrões e segredos. Invocado no momento exato do golpe certeiro, prosperando na tensão do contrabando em *Malaxis*.
+- **Ombrae, a Voz sem Boca:** Domínio sobre a loucura e sonhos. Ligada às *Dobras* (as partes profundas da Fenda). Os pesadelos nas províncias têm aumentado, indicando que ela — ou algo lá embaixo — está ganhando força.
+- **Kaeliss, a Flecha Silenciosa:** Deusa da caça e do equilíbrio, respeitada por nômades no Deserto.
+- **A Chama-Sem-Nome:** Não é cultuada, é temida. É o calor geotérmico instável de Krag-Mora, respeitada através de superstições e tabus dos mineiros (ex: nunca cantar perto de fendas de vapor).
+- **Skarah, a Que Voa Antes da Tempestade:** Padroeira do céu e dos mensageiros alados (Aeris).
+- **O Fio:** Não é um deus, é um conceito ou destino. Quando a notícia do óbito de um dos **3.333** magos ecoa pelo continente, vilas inteiras, de todas as religiões, fazem um minuto de silêncio para a superstição da *Bênção Silenciosa*, torcendo "para que O Fio escolha bem" e desperte o poder em uma de suas crianças.
+
+---
+
+## 8. Linha do Tempo e Passado
+# A Ascensão de Draven (Há 30 Anos)
+
+## O Ano das Cinzas (A Invasão Alada)
+Há três décadas, as profundezas do mundo vomitaram o inferno. Da colossal falha tectônica conhecida como a Grande Fenda (ou A Cicatriz), emergiu uma ameaça aterradora: feras colossais, dotadas de chifres retorcidos e asas imensas. Essas criaturas cuspiam um fogo devorador e possuíam garras capazes de rasgar soldados em armaduras pesadas como se fossem feitos de papel úmido.
+
+O terror espalhou-se rapidamente. Camponeses foram barbaramente mutilados e fazendas inteiras, que antes eram o sustento do continente, foram reduzidas a cinzas fumegantes. Em um raro momento de aliança desesperada, as forças do reino se juntaram para combater a ameaça, mas as táticas tradicionais falharam miseravelmente. As baixas do exército aumentavam em uma progressão assustadora.
+
+## O Jovem Oficial e a Marcha Suicida
+Em meio a essa guerra de atrito que parecia perdida, um jovem soldado demonstrou uma habilidade e frieza fora do comum: Kastel Draven. Sua destreza implacável no campo de batalha rapidamente chamou a atenção, rendendo-lhe o seu primeiro comando militar sobre um pequeno e destemido pelotão.
+
+Com o reino à beira do colapso, uma missão suicida foi declarada: uma força conjunta precisava adentrar o coração da Grande Fenda para destruir o ninho ou atrair a fúria das criaturas para longe da civilização. A jornada até a orla do abismo foi brutal. O desgaste foi tão severo que, ao chegarem na beirada da Cicatriz, metade do pelotão de Draven já havia perecido na lama e no fogo.
+
+## A Descida e o Silêncio
+Mesmo com os números dizimados, Draven não recuou. Ele ordenou a descida rumo à escuridão da Fenda. O plano funcionou de forma aterrorizante: a presença humana na ravina atraiu a atenção da horda alada, que mergulhou em massa atrás dos soldados.
+
+E então, seguiu-se o silêncio. Durante dias intermináveis, nenhuma alma retornou e o eco do abismo permaneceu mudo.
+
+## O Retorno do Salvador
+Quando os generais da superfície já declaravam a missão como um fracasso absoluto, uma figura solitária emergiu da borda da Fenda. Kastel Draven retornou vivo. Ele estava sozinho, exausto e banhado em sangue, mas seu retorno marcou um milagre: as criaturas aladas nunca mais foram vistas e os ataques pararam no mesmo instante.
+
+Draven nunca proferiu uma única palavra sobre o que aconteceu nas profundezas. Seu silêncio transformou-se em uma lenda viva, e a sobrevivência impossível o alçou ao status de uma divindade para as tropas, garantindo sua ascensão até se tornar o General-Chefe e líder incontestável de Ferrovale.
+
+---
+
+## O Segredo do Mestre (A Verdade Oculta dos Jogadores)
+Enquanto a lenda canta sobre um herói que abateu demônios no escuro, a verdade que os jogadores poderão investigar ao longo da campanha é infinitamente mais sombria.
+
+O que Draven encontrou lá embaixo, na *Cicatriz Final*, não foi a vitória pela espada, mas sim o seu primeiro contato com uma entidade ancestral insondável (a *Doutrina do Abismo*). Para exterminar a horda inimiga, Draven não lutou ao lado de seus homens até o último suspiro; ele usou o restante de seu próprio pelotão para realizar um sacrifício massivo e profano.
+
+Foi através do massacre premeditado de seus próprios soldados que a horda alada foi dizimada. Foi ali que ele teve o primeiro vislumbre e aprendeu sobre a extração massiva de vitalidade (o Ouro-Sangue) — um conhecimento macabro que ele levou décadas estudando em segredo e que agora, trinta anos depois, ele finalmente colocou em prática coordenando os criadouros da Horda de Goblins Silenciosa para alcançar os 3.333.
+
+---
+
+## 9. Lendas da Engenharia Divina
+# Lendas da Engenharia Divina e Mecânica do Mundo
+
+As lendas deste mundo afastam-se das concepções teológicas comuns. A magia não é um dom esotérico, mas uma ciência estrita, uma mecânica arcaica de calibração que os deuses (ou Arquitetos) usaram para tentar programar e manter a realidade.
+
+## 1. O Mito da Primeira Forja (A Criação em Camadas)
+*Traduzido das placas de pedra de Vaeth-Kar.*
+As religiões mais antigas afirmam que os Arquitetos não criaram o mundo com um estalar de dedos, mas de forma metódica. Utilizando enormes cadinhos celestiais, eles derretiam a matéria bruta (rocha, magma, minerais arcanos) e a depositavam e resfriavam camada por camada. O mundo foi literalmente impresso, linha por linha. É por isso que a **Magia Comum** (rituais, geometria) funciona: os mortais estão apenas imitando os movimentos de calibração que os deuses usaram para traçar as fundações da realidade. Um erro de cálculo mortal ofende a matemática original.
+
+## 2. A Dissonância e a Grande Cicatriz (A Falha Crítica)
+*A verdade teológica escondida na Árvore Fornalha.*
+A Grande Fenda não foi uma punição divina, mas uma **falha catastrófica de manutenção**. Originalmente, a correntes mágicas e as placas tectônicas vibravam em frequência constante. Eons atrás, a vibração do núcleo perdeu o compasso, gerando fricção e calor insuportáveis na crosta. Os deuses desceram para tentar realinhar os eixos e recalibrar a magia. O esforço causou tanto torque que o mundo não suportou: a crosta se partiu. A energia que hoje vaza pela Fenda é o sangue de uma máquina divina operando com o motor quebrado. Os deuses não abandonaram o mundo; eles falharam em consertá-lo.
+
+## 3. As Centelhas de Diagnóstico (A Origem dos 3.333)
+*O segredo herege da Irmandade da Cinza.*
+De onde vêm as exatas 3.333 Centelhas dos Magos Verdadeiros? A lenda obscura diz que, antes da Grande Fenda se abrir por completo, os Arquitetos estilhaçaram sua própria essência em 3.333 fragmentos para monitorar a degradação da realidade. Essas centelhas não eram feitiços, eram **sondas de diagnóstico** feitas para ler anomalias do mundo. Sem seus mestres, elas ficaram presas, ancorando-se aleatoriamente em mortais. Um corpo humano não foi feito para hospedar uma ferramenta administrativa divina; por isso o *Despertar* causa surtos explosivos. O mago altera a realidade porque tem acesso direto ao código-fonte do mundo, mas sem um manual de instruções.
+
+## 4. O Fio de Ouro-Sangue e a Costura da Alma
+*O tomo blasfemo que inspira o General Draven.*
+Como os deuses uniam almas a corpos? Não com "sopros divinos", mas com um processo industrial frio. Utilizavam frequências ultrassônicas para fundir vitalidade à matéria através de filamentos microscópicos de **Ouro-Sangue**, "soldando" a vida ao sistema nervoso. A Doutrina do Abismo ensinou Draven a reverter essa soldagem: a agonia dos criadouros rompe a solda original, permitindo que a força vital pura seja drenada. Draven consome isso para forçar seu corpo na estatística dos 3.333.
+
+## 5. A Rede de Prismas de Alerta (A Origem da Arcanita)
+*Lenda geológica do Deserto e das Profundezas Cegas.*
+Para monitorar a estabilidade do mundo, os deuses ergueram colossais torres prismáticas translúcidas, formando uma arquitetura de rede sem fio. Se a pressão mágica subisse, os prismas transmitiam alarmes em tempo real. Com a ruptura da Grande Fenda, a rede sobrecarregou e explodiu. Seus estilhaços choveram no Deserto, formando a **Arcanita Bruta**. A pedra não é caótica: ela está freneticamente tentando transmitir um alarme de erro milenar, causando feedbacks violentos na mente de quem faz rituais próximos a ela. Fragmentos intactos dessa rede (Prismas Ocultos) ainda operam no escuro das minas de Libertaris, transmitindo telemetrias de alarmes silenciosos.
+
+## 6. A Calibração Botânica (A Orquídea-Véu e Seiva-Densa)
+*A ecologia sagrada e corrompida do Berço Primordial.*
+A botânica serve para estabilizar a mecânica do mundo.
+- **O Fruto de Seiva-Densa:** Sintetizado para os deuses cruzarem o vácuo da criação. Uma refeição incrivelmente densa, repleta de estabilizadores mágicos de vida útil eterna. Mortais penam para digerir tal tecnologia nutricional; uma mordida errada vira pedra no intestino.
+- **A Orquídea-Véu:** Plantada pelos Arquitetos como um "filtro regulador" para que a fauna não entrasse em curto-circuito mental perto da Fenda. Seu pólen força a mente a atenuar ansiedades e suavizar traumas, evitando histeria em massa. O terror é que Draven usa as toxinas biológicas de obediência desta mesma flor nas cativas dos criadouros goblins, deturpando um mecanismo de segurança ambiental.
+
+## 7. O Pêndulo de Aethelgard e o Códice das Falhas Contínuas
+*A manutenção diária nas planícies.*
+- **O Pêndulo de Aethelgard:** A Pedra-Pólen que mantém a Metrópole Suspendida no ar é caótica. Os magos não "lançam feitiço de voo". Eles calculam continuamente o erro entre a altitude desejada e a posição real da cidade, compensando o peso. Se esse ciclo de controle matemático falhar por um minuto, a cidade despenca.
+- **O Códice (Bastion):** O Círculo de Giz monitora a magia através de um painel de pedra automatizado na Torre Pura. Este sistema registra *logs de erro* (alteração em selos, forjas, manutenções da Grade Arcana). É através da matemática contínua das falhas desses registros que a Arquimaga Perpétua Sohl descobriu que o sistema ao redor de Ferrovale está corrompido, e não por videntes místicos.
+
+## 8. As Montarias de Aço-Nervoso (A Telemetria Antiga)
+*Fragmentos de Vaeth-Kar.*
+As raças pré-cataclisma não cavalgavam bestas vivas, mas veículos de osso e metal. A pilotagem exigia telemetria ativa: o cavaleiro lia a pressão e temperatura através de cristais transmissores no chassi diretamente com a ponta dos dedos. Cavalgar era calibrar fisicamente a tração de uma máquina em terrenos brutais, algo que hoje é apenas uma lenda esquecida no deserto.
