@@ -12,6 +12,10 @@ Localizada entre as dunas do deserto; clima abrasador de dia e congelante à noi
 
 Rica, faiscante e ostentosa, dominada pelo aroma de incenso, o colorido de tecidos luxuosos, o vozerio das feiras e a constante vigilância de agiotas arcanos.
 
+## Economia e fonte de renda
+
+Sistema bancário e crédito internacional controlados pelas Balanças de Vidro, comércio e refinamento da valiosa especiaria Pólvora-de-Sol, cobrança de impostos sobre a distribuição de água potável e mediação de contratos mágicos pelo Conservatório dos Fios Dourados.
+
 ## Quem vive/frequenta
 
 Gnomos juristas, banqueiros do Conservatório dos Fios Dourados, mercadores da especiaria Pólvora-de-Sol, Cantores da Areia e caçadores de penhoras.
