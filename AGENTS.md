@@ -8,7 +8,7 @@ Você está atuando como um co-autor e assistente criativo para este cenário de
 - **Protagonismo:** Apesar do clima hostil, os heróis têm espaço para brilhar e mudar o mundo através de astúcia, preparação e trabalho em equipe, não por "poder puro e inconsequente". Não é puro terror, a esperança e o heroísmo existem e são recompensados quando agem com inteligência.
 
 ## 2. A Magia (A Regra dos 3.333)
-- **Magos Verdadeiros:** Existem exatamente 3.333 pessoas no mundo capazes de alterar a realidade. Se um morre, o poder desperta instantaneamente e aleatoriamente em outra pessoa (um bebê, um mendigo, um rei). Surtos de magia não controlados são perigosos. Elites, reinos e facções são obcecados em monitorar, caçar ou controlar os "Despertados".
+- **Magos Verdadeiros:** Existem exatamente 3.333 pessoas no mundo capazes de alterar a realidade. Se um morre, o poder desperta instantaneamente em outra pessoa aleatória. Surtos de magia não controlados são perigosos. A percepção pública varia do terror de "bombas-relógio" até a adoração de heróis abençoados. Não existe controle global, mas há duas ordens emergentes caçando-os: Os **Grilhões Arcanos** (Inquisidores que forçam o recrutamento ou executam) e a **Vigília de Cinzas** (Templários que querem exterminar todos os magos). Ambas possuem uma aliança frágil.
 - **Magia Comum (Rituais):** Pessoas normais não nascem com magia. Elas dependem de conhecimento técnico maçante, geometria, idiomas mortos, sacrifícios e catalisadores. É demorado, difícil e monopolizado por corporações/academias em grandes centros. No interior, é quase inexistente devido ao analfabetismo. O poder real está em quem detém os tomos de rituais.
 
 ## 3. O Enredo de Fundo: A Horda Silenciosa

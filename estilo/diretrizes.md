@@ -13,8 +13,8 @@ A "Horda Silenciosa" de Goblins não faz nada "porque eles são maus". Tudo o qu
 - **Os Criadouros:** É um tema pesado, focado em horror, então use-o para gerar urgência e repulsa. Isso dá aos jogadores (os heróis) um motivo inquestionável para intervir e salvar as vítimas, contrastando o horror com o heroísmo da salvação.
 
 ## 3. O Paradoxo da Magia
-O mundo desconfia da magia.
-- **Os 3.333:** Devem ser vistos com temor, como se alguém estivesse andando com uma bomba nuclear instável atada ao peito. Se os jogadores conhecerem um, ele provavelmente está escondido, aterrorizado ou sendo cassado.
+O mundo tem uma relação complexa e ambígua com a magia.
+- **Os 3.333:** Por causa dos surtos de poder, muitos os veem como ameaças terríveis e instáveis — verdadeiras bombas-relógio caminhantes. No entanto, isso não é uma regra absoluta; há também quem os admire profundamente, vendo-os como salvadores, prodígios abençoados ou lendas vivas. Se os jogadores conhecerem um Despertado, ele pode ser um recluso aterrorizado ou um herói arrogante adorado por um vilarejo.
 - **Rituais (Magia Comum):** Para a maioria, magia é papelada e poeira. Aventureiros usando magia comum precisam de tempo e preparação. Se eles querem usar um círculo mágico para proteger o acampamento, eles devem passar a tarde inteira desenhando com sal e pó de prata. Recompense a preparação!
 
 ## 4. O Protagonismo Heroico (Não é apenas sofrimento)
