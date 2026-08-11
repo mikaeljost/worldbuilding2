@@ -12,6 +12,10 @@ Uma colossal árvore viva de casca espessa; clima interno fresco, úmido e ilumi
 
 Orgânica, mística e surpreendentemente produtiva, onde o som de forjas metálicas ecoa em harmonia com cânticos druídicos de crescimento vegetal.
 
+## Economia e fonte de renda
+
+Forjamento e exportação do cobiçado metal Aço-Anil, arquitetura e carpintaria botânica (estruturas vivas em madeira mística), elixires e bálsamos medicinais druídicos e fabricação de armas e armaduras de elite.
+
 ## Quem vive/frequenta
 
 Elfos Primordiais, Anões arquitetos, os Sangradores Sagrados, Tecelões de Raízes e a Falange de Raiz-E-Aço.
