@@ -13,7 +13,10 @@ Ele herdou o título de um lugar que ninguém quer: a Marca da Fenda, um territ�
 
 ## Segredos e Motivações
 - **Motivação Pública:** Impedir que seus últimos vilarejos sejam engolidos pelos surtos sincronizados e organizados da Horda Goblinoide.
-- **O Segredo:** Em desespero para não perder tudo, pode ser que o Barão tenha aceitado recentemente "apoiadores e conselheiros" anônimos (agentes encobertos do General Kastel Draven). Ele não entende completamente o pacto sombrio que pode ter assinado e talvez vire um fantoche e traidor involuntário mais para frente.
+- **O Segredo:**
+<!-- SEGREDO -->
+Em desespero para não perder tudo, pode ser que o Barão tenha aceitado recentemente "apoiadores e conselheiros" anônimos (agentes encobertos do General Kastel Draven). Ele não entende completamente o pacto sombrio que pode ter assinado e talvez vire um fantoche e traidor involuntário mais para frente.
+<!-- FIM SEGREDO -->
 
 ## Como os Jogadores o Encontram
 Na praça lamacenta de sua principal fortaleza caindo aos pedaços. Ele é o primeiro "Quest-Giver" prático do jogo. Contrata aventureiros baratos porque ninguém profissional ou de renome (como os mercenários das capitais) sequer leria as cartas dele implorando por ajuda.

@@ -95,6 +95,7 @@ A região central do continente não é dividida em reinos feudais genéricos, m
 
 # A Verdade sobre a Horda Silenciosa
 
+<!-- SEGREDO -->
 O General Kastel Draven não é apenas um militar ambicioso orquestrando táticas de Goblins. Sua ambição rasgou a lógica da magia mundial.
 
 ## O Ouro-Sangue e os 3.333
@@ -106,6 +107,7 @@ A terrível "procriação forçada" e o sequestro massivo de mulheres por parte 
 1. Desestabilizar o celeiro agrícola de Bastion e drenar seus recursos.
 2. Servir como **fachada para uma operação de extração de vitalidade em massa**. A força vital das vítimas está sendo drenada nos criadouros para alimentar os colossais rituais de Ouro-Sangue que o General necessita para usurpar sua centelha arcana.
 (Isso explica por que estudiosos sombrios notam que "almas estão desaparecendo").
+<!-- FIM SEGREDO -->
 
 # A Horda Silenciosa
 
@@ -124,17 +126,21 @@ Conforme viajantes mais astutos se movem pelas províncias e cruzam informaçõe
 3. **Evolução Militar:** A doutrina de combate dos "selvagens" mudou subitamente. Hobgoblins agora vestem e comandam falanges táticas organizadas. Eles usam armaduras de aço fundido, comunicam-se a longas distâncias usando sinais de fumaça avançados, envenenam lâminas com toxinas refinadas e empregam uma logística impecável em cercos.
 
 ## O Grande Plot Twist
+<!-- SEGREDO -->
 A inteligência militar e logística dos Goblins não é fruto de um milagre evolutivo.
 
 **O General Kastel Draven, governante de fato do reino militarista de Ferrovale, é o arquiteto por trás da Horda Silenciosa.**
 
 Draven abastece os goblins com mapas, equipamentos de forja, rotas secretas e diretrizes estratégicas. Ele usa os monstros como um exército negável e descartável para destruir as fazendas do reino rival (Bastion) sem declarar guerra aberta.
+<!-- FIM SEGREDO -->
 
 ### O Verdadeiro Objetivo: O Ouro-Sangue
+<!-- SEGREDO -->
 O terror político e territorial, no entanto, é apenas a superfície.
 Em contato com segredos macabros das profundezas (a *Doutrina do Abismo*), Draven descobriu como utilizar o **Ouro-Sangue** em escala industrial. Ele pretende realizar o impossível: converter força vital em poder ritualístico suficiente para forçar a si mesmo a se tornar um dos **3.333** Magos Verdadeiros.
 
 A terrível "procriação forçada" dos criadouros goblins e os sequestros em massa são, na verdade, uma gigantesca fachada logística. As vítimas não estão apenas sustentando as tropas dos goblins; sua vitalidade e almas estão sendo sistematicamente extraídas nos abismos para alimentar o ritual herético de ascensão do General.
+<!-- FIM SEGREDO -->
 
 ---
 
@@ -228,8 +234,11 @@ Ela não é uma aventureira, mas uma burocrata do mais alto nível em Bastion. S
 
 ## Segredos e Motivações
 - **Motivação Pública:** Viajar esporadicamente entre Bastion e a fronteira para supervisionar pessoalmente e fazer a manutenção da **Grade Arcana** (a imensa geometria ritual que garante as colheitas do reino).
-- **O Segredo:** Essas viagens oficiais são o álibi perfeito. A verdadeira razão para ela estar constantemente indo até a fronteira é que ela notou uma distorção: a sucessão da Centelha dos Magos (a Regra dos 3.333) está "despertando" e "morrendo" rápido demais perto de Ferrovale. É um erro estatístico absurdo.
+- **O Segredo:**
+<!-- SEGREDO -->
+Essas viagens oficiais são o álibi perfeito. A verdadeira razão para ela estar constantemente indo até a fronteira é que ela notou uma distorção: a sucessão da Centelha dos Magos (a Regra dos 3.333) está "despertando" e "morrendo" rápido demais perto de Ferrovale. É um erro estatístico absurdo.
 - **Problema:** Sem provas materiais, acusar o exército de Ferrovale seria estopim de uma guerra diplomática.
+<!-- FIM SEGREDO -->
 
 ## Como os Jogadores a Encontram
 Ela estará fora da segurança da capital, supostamente checando um nó da Grade Arcana perto de uma estrada rural. Ela precisa de agentes negáveis, pessoas fora do radar político para checar esses picos de magia. Mercenários e Zés-ninguém da região são os contatos ideais. Ela pagará (muito bem) em ouro e talvez num raro diagrama de Magia Comum para que investiguem.
@@ -249,8 +258,11 @@ Ele sobrevive nas franjas da "Marca da Fenda", tolerado por pena e superstição
 
 ## Segredos e Motivações
 - **Motivação Pública:** Cuidar dos cemitérios empobrecidos da Marca da Fenda e manter a tradição moribunda da Irmandade da Cinza.
-- **O Segredo:** Sebo é um especialista absoluto na mecânica do *roubo de vitalidade*. Ele notou antes de todos que, ultimamente, muitas pessoas não estão apenas morrendo nos ataques goblins: as almas estão "sumindo" direto das terras.
+- **O Segredo:**
+<!-- SEGREDO -->
+Sebo é um especialista absoluto na mecânica do *roubo de vitalidade*. Ele notou antes de todos que, ultimamente, muitas pessoas não estão apenas morrendo nos ataques goblins: as almas estão "sumindo" direto das terras.
 - **Problema:** Ele tem um terror profundo de envolver a si mesmo, temendo o estigma que atrai à sua Ordem. Sebo sabe como combater os rituais de Ouro-Sangue que a Doutrina do Abismo usa, mas tem vergonha de agir ativamente.
+<!-- FIM SEGREDO -->
 
 ## Como os Jogadores o Encontram
 No Claustro do Pó, um santuário arruinado que fica logo na fronteira com a Grande Fenda. Aventureiros investigarão desaparecimentos a mando do Barão, e Sebo será a primeira pessoa com respostas aterrorizantes e sobrenaturais sobre a natureza da Horda Goblinoide, desde que confiem no velho necromante.
@@ -270,7 +282,10 @@ Ele herdou o título de um lugar que ninguém quer: a Marca da Fenda, um territ�
 
 ## Segredos e Motivações
 - **Motivação Pública:** Impedir que seus últimos vilarejos sejam engolidos pelos surtos sincronizados e organizados da Horda Goblinoide.
-- **O Segredo:** Em desespero para não perder tudo, pode ser que o Barão tenha aceitado recentemente "apoiadores e conselheiros" anônimos (agentes encobertos do General Kastel Draven). Ele não entende completamente o pacto sombrio que pode ter assinado e talvez vire um fantoche e traidor involuntário mais para frente.
+- **O Segredo:**
+<!-- SEGREDO -->
+Em desespero para não perder tudo, pode ser que o Barão tenha aceitado recentemente "apoiadores e conselheiros" anônimos (agentes encobertos do General Kastel Draven). Ele não entende completamente o pacto sombrio que pode ter assinado e talvez vire um fantoche e traidor involuntário mais para frente.
+<!-- FIM SEGREDO -->
 
 ## Como os Jogadores o Encontram
 Na praça lamacenta de sua principal fortaleza caindo aos pedaços. Ele é o primeiro "Quest-Giver" prático do jogo. Contrata aventureiros baratos porque ninguém profissional ou de renome (como os mercenários das capitais) sequer leria as cartas dele implorando por ajuda.
@@ -292,7 +307,10 @@ Ele retornou sozinho. A horda inimiga, erradicada. A lenda o tornou um deus para
 
 ## Segredos e Motivações
 - **Motivação Pública:** Proteger Ferrovale e liderar sua supremacia militar sobre o pacato Reino de Bastion.
-- **O Segredo:** Ele orquestrou a Horda de Goblins Silenciosa. Não por guerra, mas como logística. Ele precisa de milhares de vítimas (sequestros) para refinar a energia delas em Ouro-Sangue e consumi-lo, forçando seu corpo a despertar como um dos **3.333**, alcançando assim poder arcano para cimentar o domínio eterno de seu exército.
+- **O Segredo:**
+<!-- SEGREDO -->
+Ele orquestrou a Horda de Goblins Silenciosa. Não por guerra, mas como logística. Ele precisa de milhares de vítimas (sequestros) para refinar a energia delas em Ouro-Sangue e consumi-lo, forçando seu corpo a despertar como um dos **3.333**, alcançando assim poder arcano para cimentar o domínio eterno de seu exército.
+<!-- FIM SEGREDO -->
 
 ## Como os Jogadores o Encontram
 No início, eles não o encontram. Ele é o arquiteto invisível. Sinais dele aparecerão apenas como falhas estratégicas que não batem: acampamentos goblins com suprimentos de forja de Ferrovale, rituais macabros usando sangue humano sob a guarda de batedores Hobgoblins. Eventualmente, confrontá-lo significará não apenas abater um homem, mas quebrar toda uma rede leal de exércitos.
@@ -421,11 +439,13 @@ Draven nunca proferiu uma única palavra sobre o que aconteceu nas profundezas. 
 ---
 
 ## O Segredo do Mestre (A Verdade Oculta dos Jogadores)
+<!-- SEGREDO -->
 Enquanto a lenda canta sobre um herói que abateu demônios no escuro, a verdade que os jogadores poderão investigar ao longo da campanha é infinitamente mais sombria.
 
 O que Draven encontrou lá embaixo, na *Cicatriz Final*, não foi a vitória pela espada, mas sim o seu primeiro contato com uma entidade ancestral insondável (a *Doutrina do Abismo*). Para exterminar a horda inimiga, Draven não lutou ao lado de seus homens até o último suspiro; ele usou o restante de seu próprio pelotão para realizar um sacrifício massivo e profano.
 
 Foi através do massacre premeditado de seus próprios soldados que a horda alada foi dizimada. Foi ali que ele teve o primeiro vislumbre e aprendeu sobre a extração massiva de vitalidade (o Ouro-Sangue) — um conhecimento macabro que ele levou décadas estudando em segredo e que agora, trinta anos depois, ele finalmente colocou em prática coordenando os criadouros da Horda de Goblins Silenciosa para alcançar os 3.333.
+<!-- FIM SEGREDO -->
 
 ---
 
@@ -444,11 +464,15 @@ A Grande Fenda não foi uma punição divina, mas uma **falha catastrófica de m
 
 ## 3. As Centelhas de Diagnóstico (A Origem dos 3.333)
 *O segredo herege da Irmandade da Cinza.*
+<!-- SEGREDO -->
 De onde vêm as exatas 3.333 Centelhas dos Magos Verdadeiros? A lenda obscura diz que, antes da Grande Fenda se abrir por completo, os Arquitetos estilhaçaram sua própria essência em 3.333 fragmentos para monitorar a degradação da realidade. Essas centelhas não eram feitiços, eram **sondas de diagnóstico** feitas para ler anomalias do mundo. Sem seus mestres, elas ficaram presas, ancorando-se aleatoriamente em mortais. Um corpo humano não foi feito para hospedar uma ferramenta administrativa divina; por isso o *Despertar* causa surtos explosivos. O mago altera a realidade porque tem acesso direto ao código-fonte do mundo, mas sem um manual de instruções.
+<!-- FIM SEGREDO -->
 
 ## 4. O Fio de Ouro-Sangue e a Costura da Alma
 *O tomo blasfemo que inspira o General Draven.*
+<!-- SEGREDO -->
 Como os deuses uniam almas a corpos? Não com "sopros divinos", mas com um processo industrial frio. Utilizavam frequências ultrassônicas para fundir vitalidade à matéria através de filamentos microscópicos de **Ouro-Sangue**, "soldando" a vida ao sistema nervoso. A Doutrina do Abismo ensinou Draven a reverter essa soldagem: a agonia dos criadouros rompe a solda original, permitindo que a força vital pura seja drenada. Draven consome isso para forçar seu corpo na estatística dos 3.333.
+<!-- FIM SEGREDO -->
 
 ## 5. A Rede de Prismas de Alerta (A Origem da Arcanita)
 *Lenda geológica do Deserto e das Profundezas Cegas.*
@@ -458,7 +482,10 @@ Para monitorar a estabilidade do mundo, os deuses ergueram colossais torres pris
 *A ecologia sagrada e corrompida do Berço Primordial.*
 A botânica serve para estabilizar a mecânica do mundo.
 - **O Fruto de Seiva-Densa:** Sintetizado para os deuses cruzarem o vácuo da criação. Uma refeição incrivelmente densa, repleta de estabilizadores mágicos de vida útil eterna. Mortais penam para digerir tal tecnologia nutricional; uma mordida errada vira pedra no intestino.
-- **A Orquídea-Véu:** Plantada pelos Arquitetos como um "filtro regulador" para que a fauna não entrasse em curto-circuito mental perto da Fenda. Seu pólen força a mente a atenuar ansiedades e suavizar traumas, evitando histeria em massa. O terror é que Draven usa as toxinas biológicas de obediência desta mesma flor nas cativas dos criadouros goblins, deturpando um mecanismo de segurança ambiental.
+- **A Orquídea-Véu:** Plantada pelos Arquitetos como um "filtro regulador" para que a fauna não entrasse em curto-circuito mental perto da Fenda. Seu pólen força a mente a atenuar ansiedades e suavizar traumas, evitando histeria em massa.
+<!-- SEGREDO -->
+O terror é que Draven usa as toxinas biológicas de obediência desta mesma flor nas cativas dos criadouros goblins, deturpando um mecanismo de segurança ambiental.
+<!-- FIM SEGREDO -->
 
 ## 7. O Pêndulo de Aethelgard e o Códice das Falhas Contínuas
 *A manutenção diária nas planícies.*

@@ -13,8 +13,11 @@ Ele sobrevive nas franjas da "Marca da Fenda", tolerado por pena e superstição
 
 ## Segredos e Motivações
 - **Motivação Pública:** Cuidar dos cemitérios empobrecidos da Marca da Fenda e manter a tradição moribunda da Irmandade da Cinza.
-- **O Segredo:** Sebo é um especialista absoluto na mecânica do *roubo de vitalidade*. Ele notou antes de todos que, ultimamente, muitas pessoas não estão apenas morrendo nos ataques goblins: as almas estão "sumindo" direto das terras.
+- **O Segredo:**
+<!-- SEGREDO -->
+Sebo é um especialista absoluto na mecânica do *roubo de vitalidade*. Ele notou antes de todos que, ultimamente, muitas pessoas não estão apenas morrendo nos ataques goblins: as almas estão "sumindo" direto das terras.
 - **Problema:** Ele tem um terror profundo de envolver a si mesmo, temendo o estigma que atrai à sua Ordem. Sebo sabe como combater os rituais de Ouro-Sangue que a Doutrina do Abismo usa, mas tem vergonha de agir ativamente.
+<!-- FIM SEGREDO -->
 
 ## Como os Jogadores o Encontram
 No Claustro do Pó, um santuário arruinado que fica logo na fronteira com a Grande Fenda. Aventureiros investigarão desaparecimentos a mando do Barão, e Sebo será a primeira pessoa com respostas aterrorizantes e sobrenaturais sobre a natureza da Horda Goblinoide, desde que confiem no velho necromante.

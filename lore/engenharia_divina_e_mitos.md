@@ -12,11 +12,15 @@ A Grande Fenda não foi uma punição divina, mas uma **falha catastrófica de m
 
 ## 3. As Centelhas de Diagnóstico (A Origem dos 3.333)
 *O segredo herege da Irmandade da Cinza.*
+<!-- SEGREDO -->
 De onde vêm as exatas 3.333 Centelhas dos Magos Verdadeiros? A lenda obscura diz que, antes da Grande Fenda se abrir por completo, os Arquitetos estilhaçaram sua própria essência em 3.333 fragmentos para monitorar a degradação da realidade. Essas centelhas não eram feitiços, eram **sondas de diagnóstico** feitas para ler anomalias do mundo. Sem seus mestres, elas ficaram presas, ancorando-se aleatoriamente em mortais. Um corpo humano não foi feito para hospedar uma ferramenta administrativa divina; por isso o *Despertar* causa surtos explosivos. O mago altera a realidade porque tem acesso direto ao código-fonte do mundo, mas sem um manual de instruções.
+<!-- FIM SEGREDO -->
 
 ## 4. O Fio de Ouro-Sangue e a Costura da Alma
 *O tomo blasfemo que inspira o General Draven.*
+<!-- SEGREDO -->
 Como os deuses uniam almas a corpos? Não com "sopros divinos", mas com um processo industrial frio. Utilizavam frequências ultrassônicas para fundir vitalidade à matéria através de filamentos microscópicos de **Ouro-Sangue**, "soldando" a vida ao sistema nervoso. A Doutrina do Abismo ensinou Draven a reverter essa soldagem: a agonia dos criadouros rompe a solda original, permitindo que a força vital pura seja drenada. Draven consome isso para forçar seu corpo na estatística dos 3.333.
+<!-- FIM SEGREDO -->
 
 ## 5. A Rede de Prismas de Alerta (A Origem da Arcanita)
 *Lenda geológica do Deserto e das Profundezas Cegas.*
@@ -26,7 +30,10 @@ Para monitorar a estabilidade do mundo, os deuses ergueram colossais torres pris
 *A ecologia sagrada e corrompida do Berço Primordial.*
 A botânica serve para estabilizar a mecânica do mundo.
 - **O Fruto de Seiva-Densa:** Sintetizado para os deuses cruzarem o vácuo da criação. Uma refeição incrivelmente densa, repleta de estabilizadores mágicos de vida útil eterna. Mortais penam para digerir tal tecnologia nutricional; uma mordida errada vira pedra no intestino.
-- **A Orquídea-Véu:** Plantada pelos Arquitetos como um "filtro regulador" para que a fauna não entrasse em curto-circuito mental perto da Fenda. Seu pólen força a mente a atenuar ansiedades e suavizar traumas, evitando histeria em massa. O terror é que Draven usa as toxinas biológicas de obediência desta mesma flor nas cativas dos criadouros goblins, deturpando um mecanismo de segurança ambiental.
+- **A Orquídea-Véu:** Plantada pelos Arquitetos como um "filtro regulador" para que a fauna não entrasse em curto-circuito mental perto da Fenda. Seu pólen força a mente a atenuar ansiedades e suavizar traumas, evitando histeria em massa.
+<!-- SEGREDO -->
+O terror é que Draven usa as toxinas biológicas de obediência desta mesma flor nas cativas dos criadouros goblins, deturpando um mecanismo de segurança ambiental.
+<!-- FIM SEGREDO -->
 
 ## 7. O Pêndulo de Aethelgard e o Códice das Falhas Contínuas
 *A manutenção diária nas planícies.*
