@@ -9,9 +9,15 @@ Existem exatos 3.333 magos verdadeiros no mundo. Nem um a mais, nem um a menos. 
 Esse despertar é cego e indiscriminado. Pode atingir um recém-nascido em uma manjedoura rural, o filho herdeiro de um Rei, ou um camponês miserável cavando batatas na chuva.
 
 ### O Perigo do Despertar
-O despertar da magia ocorre sem qualquer aviso prévio e, muitas vezes, desencadeia surtos incontroláveis de poder bruto. Aldeias inteiras já foram transformadas em cinzas ou vidro apenas pelo despertar acidental de uma criança apavorada.
+O despertar da magia ocorre sem qualquer aviso prévio e, muitas vezes, desencadeia surtos incontroláveis de poder bruto. Aldeias inteiras já foram transformadas em cinzas ou vidro apenas pelo despertar acidental de uma criança apavorada. Por causa desses acidentes, a percepção popular sobre os *Despertados* é dividida: muitos os temem como monstros incontroláveis, enquanto outros os idolatram como salvadores e lendas vivas.
 
-Devido a essa imprevisibilidade e poder incalculável, o monitoramento dos 3.333 tornou-se a maior obsessão das elites políticas, militares e corporativas. Reis e Guildas mantêm vastas redes de espiões arcanos, assassinos e "contadores" com a única função de rastrear, catalogar, recrutar (ou aprisionar) o surgimento de novos *Despertados*. Eles são vistos como as armas de cerco mais valiosas — e perigosas — do mundo.
+### A Caçada aos Despertados
+Diferente das lendas, atualmente **não existe um monitoramento global organizado** por grandes reinos. Em vez disso, o controle sobre os 3.333 está nas mãos de duas ordens emergentes, pequenas e fanaticamente dedicadas, que possuem uma frágil aliança no momento:
+
+1. **Os Grilhões Arcanos:** Uma ordem de magos e ritualistas que agem como inquisidores. Eles caçam novos magos com o objetivo de forçá-los a se unirem às suas fileiras para "aprender controle". Se o Despertado resiste ou é considerado perigoso demais, eles o executam.
+2. **A Vigília de Cinzas:** Uma irmandade de guerreiros templários com uma crença absoluta: a magia primária é uma abominação. Eles acreditam que é possível e necessário exterminar todos os magos da existência.
+
+Por conveniência ou necessidade frente ao caos do continente, essas duas facções mantêm uma trégua tênue enquanto caçam seus alvos.
 
 ---
 
