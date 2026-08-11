@@ -51,3 +51,9 @@ cat itens/bussola_de_sangue_frio.md >> $OUT
 echo "" >> $OUT
 cat itens/giz_de_osso_de_martir.md >> $OUT
 echo "" >> $OUT
+echo "---" >> $OUT
+echo "" >> $OUT
+
+echo "## 7. Panteão e Religião" >> $OUT
+cat lore/panteao_e_crencas.md >> $OUT
+echo "" >> $OUT
