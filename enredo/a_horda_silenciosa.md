@@ -15,14 +15,18 @@ Conforme viajantes mais astutos se movem pelas províncias e cruzam informaçõe
 3. **Evolução Militar:** A doutrina de combate dos "selvagens" mudou subitamente. Hobgoblins agora vestem e comandam falanges táticas organizadas. Eles usam armaduras de aço fundido, comunicam-se a longas distâncias usando sinais de fumaça avançados, envenenam lâminas com toxinas refinadas e empregam uma logística impecável em cercos.
 
 ## O Grande Plot Twist
+<!-- SEGREDO -->
 A inteligência militar e logística dos Goblins não é fruto de um milagre evolutivo.
 
 **O General Kastel Draven, governante de fato do reino militarista de Ferrovale, é o arquiteto por trás da Horda Silenciosa.**
 
 Draven abastece os goblins com mapas, equipamentos de forja, rotas secretas e diretrizes estratégicas. Ele usa os monstros como um exército negável e descartável para destruir as fazendas do reino rival (Bastion) sem declarar guerra aberta.
+<!-- FIM SEGREDO -->
 
 ### O Verdadeiro Objetivo: O Ouro-Sangue
+<!-- SEGREDO -->
 O terror político e territorial, no entanto, é apenas a superfície.
 Em contato com segredos macabros das profundezas (a *Doutrina do Abismo*), Draven descobriu como utilizar o **Ouro-Sangue** em escala industrial. Ele pretende realizar o impossível: converter força vital em poder ritualístico suficiente para forçar a si mesmo a se tornar um dos **3.333** Magos Verdadeiros.
 
 A terrível "procriação forçada" dos criadouros goblins e os sequestros em massa são, na verdade, uma gigantesca fachada logística. As vítimas não estão apenas sustentando as tropas dos goblins; sua vitalidade e almas estão sendo sistematicamente extraídas nos abismos para alimentar o ritual herético de ascensão do General.
+<!-- FIM SEGREDO -->

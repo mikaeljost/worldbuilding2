@@ -15,7 +15,10 @@ Ele retornou sozinho. A horda inimiga, erradicada. A lenda o tornou um deus para
 
 ## Segredos e Motivações
 - **Motivação Pública:** Proteger Ferrovale e liderar sua supremacia militar sobre o pacato Reino de Bastion.
-- **O Segredo:** Ele orquestrou a Horda de Goblins Silenciosa. Não por guerra, mas como logística. Ele precisa de milhares de vítimas (sequestros) para refinar a energia delas em Ouro-Sangue e consumi-lo, forçando seu corpo a despertar como um dos **3.333**, alcançando assim poder arcano para cimentar o domínio eterno de seu exército.
+- **O Segredo:**
+<!-- SEGREDO -->
+Ele orquestrou a Horda de Goblins Silenciosa. Não por guerra, mas como logística. Ele precisa de milhares de vítimas (sequestros) para refinar a energia delas em Ouro-Sangue e consumi-lo, forçando seu corpo a despertar como um dos **3.333**, alcançando assim poder arcano para cimentar o domínio eterno de seu exército.
+<!-- FIM SEGREDO -->
 
 ## Como os Jogadores o Encontram
 No início, eles não o encontram. Ele é o arquiteto invisível. Sinais dele aparecerão apenas como falhas estratégicas que não batem: acampamentos goblins com suprimentos de forja de Ferrovale, rituais macabros usando sangue humano sob a guarda de batedores Hobgoblins. Eventualmente, confrontá-lo significará não apenas abater um homem, mas quebrar toda uma rede leal de exércitos.

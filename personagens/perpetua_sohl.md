@@ -13,8 +13,11 @@ Ela não é uma aventureira, mas uma burocrata do mais alto nível em Bastion. S
 
 ## Segredos e Motivações
 - **Motivação Pública:** Viajar esporadicamente entre Bastion e a fronteira para supervisionar pessoalmente e fazer a manutenção da **Grade Arcana** (a imensa geometria ritual que garante as colheitas do reino).
-- **O Segredo:** Essas viagens oficiais são o álibi perfeito. A verdadeira razão para ela estar constantemente indo até a fronteira é que ela notou uma distorção: a sucessão da Centelha dos Magos (a Regra dos 3.333) está "despertando" e "morrendo" rápido demais perto de Ferrovale. É um erro estatístico absurdo.
+- **O Segredo:**
+<!-- SEGREDO -->
+Essas viagens oficiais são o álibi perfeito. A verdadeira razão para ela estar constantemente indo até a fronteira é que ela notou uma distorção: a sucessão da Centelha dos Magos (a Regra dos 3.333) está "despertando" e "morrendo" rápido demais perto de Ferrovale. É um erro estatístico absurdo.
 - **Problema:** Sem provas materiais, acusar o exército de Ferrovale seria estopim de uma guerra diplomática.
+<!-- FIM SEGREDO -->
 
 ## Como os Jogadores a Encontram
 Ela estará fora da segurança da capital, supostamente checando um nó da Grade Arcana perto de uma estrada rural. Ela precisa de agentes negáveis, pessoas fora do radar político para checar esses picos de magia. Mercenários e Zés-ninguém da região são os contatos ideais. Ela pagará (muito bem) em ouro e talvez num raro diagrama de Magia Comum para que investiguem.

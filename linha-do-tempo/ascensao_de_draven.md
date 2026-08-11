@@ -23,8 +23,10 @@ Draven nunca proferiu uma única palavra sobre o que aconteceu nas profundezas. 
 ---
 
 ## O Segredo do Mestre (A Verdade Oculta dos Jogadores)
+<!-- SEGREDO -->
 Enquanto a lenda canta sobre um herói que abateu demônios no escuro, a verdade que os jogadores poderão investigar ao longo da campanha é infinitamente mais sombria.
 
 O que Draven encontrou lá embaixo, na *Cicatriz Final*, não foi a vitória pela espada, mas sim o seu primeiro contato com uma entidade ancestral insondável (a *Doutrina do Abismo*). Para exterminar a horda inimiga, Draven não lutou ao lado de seus homens até o último suspiro; ele usou o restante de seu próprio pelotão para realizar um sacrifício massivo e profano.
 
 Foi através do massacre premeditado de seus próprios soldados que a horda alada foi dizimada. Foi ali que ele teve o primeiro vislumbre e aprendeu sobre a extração massiva de vitalidade (o Ouro-Sangue) — um conhecimento macabro que ele levou décadas estudando em segredo e que agora, trinta anos depois, ele finalmente colocou em prática coordenando os criadouros da Horda de Goblins Silenciosa para alcançar os 3.333.
+<!-- FIM SEGREDO -->

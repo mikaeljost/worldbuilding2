@@ -24,6 +24,7 @@ A região central do continente não é dividida em reinos feudais genéricos, m
 
 # A Verdade sobre a Horda Silenciosa
 
+<!-- SEGREDO -->
 O General Kastel Draven não é apenas um militar ambicioso orquestrando táticas de Goblins. Sua ambição rasgou a lógica da magia mundial.
 
 ## O Ouro-Sangue e os 3.333
@@ -35,3 +36,4 @@ A terrível "procriação forçada" e o sequestro massivo de mulheres por parte 
 1. Desestabilizar o celeiro agrícola de Bastion e drenar seus recursos.
 2. Servir como **fachada para uma operação de extração de vitalidade em massa**. A força vital das vítimas está sendo drenada nos criadouros para alimentar os colossais rituais de Ouro-Sangue que o General necessita para usurpar sua centelha arcana.
 (Isso explica por que estudiosos sombrios notam que "almas estão desaparecendo").
+<!-- FIM SEGREDO -->
