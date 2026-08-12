@@ -37,6 +37,47 @@ echo "---" >> $OUT
 echo "" >> $OUT
 cat lugares/a_grande_fenda.md >> $OUT
 echo "" >> $OUT
+echo "---" >> $OUT
+echo "" >> $OUT
+echo "## 4.1 Cidades e Lugares de Destaque" >> $OUT
+cat lugares/Aethelgard.md >> $OUT
+echo "" >> $OUT
+echo "---" >> $OUT
+cat lugares/Bastion.md >> $OUT
+echo "" >> $OUT
+echo "---" >> $OUT
+cat lugares/Gristal.md >> $OUT
+echo "" >> $OUT
+echo "---" >> $OUT
+cat lugares/Krag-Mora.md >> $OUT
+echo "" >> $OUT
+echo "---" >> $OUT
+cat lugares/Libertaris.md >> $OUT
+echo "" >> $OUT
+echo "---" >> $OUT
+cat lugares/Malaxis.md >> $OUT
+echo "" >> $OUT
+echo "---" >> $OUT
+cat lugares/Tartuga.md >> $OUT
+echo "" >> $OUT
+echo "---" >> $OUT
+cat lugares/Treehold.md >> $OUT
+echo "" >> $OUT
+echo "---" >> $OUT
+cat lugares/Zul-Bazar.md >> $OUT
+echo "" >> $OUT
+echo "---" >> $OUT
+cat lugares/Centro_Sudoeste.md >> $OUT
+echo "" >> $OUT
+echo "---" >> $OUT
+cat lugares/Noroeste.md >> $OUT
+echo "" >> $OUT
+echo "---" >> $OUT
+cat lugares/Noroeste_Leste.md >> $OUT
+echo "" >> $OUT
+echo "---" >> $OUT
+cat lugares/Sudeste.md >> $OUT
+echo "" >> $OUT
 echo "<div style='page-break-after: always;'></div>" >> $OUT
 echo "" >> $OUT
 
