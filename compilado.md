@@ -1,6 +1,9 @@
 # Worldbuilding: Fantasia Medieval Dark Fantasy
 
-## 1. Diretrizes de Estilo e Criação
+> Documento Oficial de Lore, Regras, Geografia e NPCs
+
+<br><br>
+# 1. Diretrizes de Estilo e Criação
 # Diretrizes de Criação (O Guia do Mestre)
 
 Este guia destina-se a manter a coesão criativa de todo o projeto. Sempre que for desenvolver novas partes deste cenário, lembre-se destas regras de ouro:
@@ -24,9 +27,9 @@ O mundo tem uma relação complexa e ambígua com a magia.
 Apesar de ser um cenário *Grimdark* focado em dificuldades mortais (inspirado em The Witcher e Goblin Slayer), os heróis **importam**.
 - Quando os jogadores se preparam, estudam o inimigo, afiam suas espadas e bolam um plano, deixe-os vencer de forma esmagadora. A vitória com cérebro e tática contrasta com a matança inconsequente, provando que eles são de fato os heróis que o mundo brutal tanto precisa.
 
----
+<div style='page-break-after: always;'></div>
 
-## 2. A Magia e as Regras do Mundo
+# 2. A Magia e as Regras do Mundo
 # A Regra dos 3.333 e a Magia Comum
 
 ## A Regra dos 3.333
@@ -66,9 +69,9 @@ O verdadeiro gargalo para o poder das massas é a ignorância. Em grandes metró
 
 Nos vilarejos rurais e nas fronteiras isoladas (onde a maior parte dos mercenários inicia suas jornadas), o alto nível de analfabetismo, a falta de acesso a tomos antigos e o medo tornam a Magia Comum quase inexistente. Nestes lugares isolados, encontrar alguém com conhecimento ritualístico suficiente até mesmo para acender uma fogueira mágica ou curar uma infecção é uma raridade absoluta, tratada com enorme reverência ou extrema suspeita.
 
----
+<div style='page-break-after: always;'></div>
 
-## 3. O Enredo e a Política
+# 3. O Enredo e a Política
 # O Triângulo Político (Planícies Temperadas)
 
 A região central do continente não é dividida em reinos feudais genéricos, mas sim sustentada por um triângulo de tensão constante que beira a guerra fria. Este equilíbrio de poder é o estopim de fundo para a ameaça principal da campanha.
@@ -109,6 +112,8 @@ A terrível "procriação forçada" e o sequestro massivo de mulheres por parte 
 (Isso explica por que estudiosos sombrios notam que "almas estão desaparecendo").
 <!-- FIM SEGREDO -->
 
+---
+
 # A Horda Silenciosa
 
 O que deveria ser a praga diária e desorganizada dos reinos do interior se tornou, no silêncio e nas sombras, a maior ameaça à sobrevivência do continente.
@@ -142,9 +147,9 @@ Em contato com segredos macabros das profundezas (a *Doutrina do Abismo*), Drave
 A terrível "procriação forçada" dos criadouros goblins e os sequestros em massa são, na verdade, uma gigantesca fachada logística. As vítimas não estão apenas sustentando as tropas dos goblins; sua vitalidade e almas estão sendo sistematicamente extraídas nos abismos para alimentar o ritual herético de ascensão do General.
 <!-- FIM SEGREDO -->
 
----
+<div style='page-break-after: always;'></div>
 
-## 4. Geografia
+# 4. Geografia do Mundo
 # Geografia Expandida do Continente
 
 O continente é vasto e fisicamente traumatizado pela abertura milenar da Grande Fenda. O mapa é dividido por biomas e regiões que refletem diferentes formas de lidar com esse cataclisma mágico e tectônico.
@@ -191,6 +196,8 @@ No Sudeste extremo, a Grande Fenda não acaba; ela "transborda". A magia escapa 
 ## As Lendas Vivas (Entidades da Geografia)
 **A Tartuga:** Uma tartaruga marinha ancestral e colossal. Não é uma besta, é praticamente uma ilha em movimento. Ela sobre os mares e grandes rios navegáveis (incluindo o Rio Áureo). Oferece carona/escolta mística e ignora as taxações das fadas dos rios (os Náiades).
 
+---
+
 # A Grande Fenda (A Terra Fendida)
 
 > *“Eles dizem que os deuses tentaram rasgar o mundo ao meio como se fosse pão velho. Só não terminaram o serviço porque perderam o apetite olhando para nós.”* – Sussurro comum nas tavernas do Gargalo.
@@ -216,9 +223,9 @@ Essa falha geográfica criou um imenso **"Gargalo"** de terra firme.
 - Essa área de passagem é coberta por terra extremamente fértil e uma selva densa e contínua.
 - Politicamente e economicamente, quem controla o Gargalo controla o pulso do mundo, tornando esta região um barril de pólvora constante, alvo de ambição de reis, mercenários e, silenciosamente, das rotas estratégicas da Horda Silenciosa.
 
----
+<div style='page-break-after: always;'></div>
 
-## 5. Personagens Principais
+# 5. Personagens Principais e NPCs
 # Arquimaga Perpétua Sohl
 
 > *"As pessoas mentem, os reis mentem e o ouro definitivamente mente. Mas a matemática da magia é perfeitamente exata. E a matemática diz que tem uma poça de sangue em algum lugar sob o nariz da Rainha."*
@@ -243,6 +250,7 @@ Essas viagens oficiais são o álibi perfeito. A verdadeira razão para ela esta
 ## Como os Jogadores a Encontram
 Ela estará fora da segurança da capital, supostamente checando um nó da Grade Arcana perto de uma estrada rural. Ela precisa de agentes negáveis, pessoas fora do radar político para checar esses picos de magia. Mercenários e Zés-ninguém da região são os contatos ideais. Ela pagará (muito bem) em ouro e talvez num raro diagrama de Magia Comum para que investiguem.
 
+---
 # Irmão Sebo
 
 > *"Vocês ouvem os corvos. Eu ouço o vazio que os corpos deixam quando o eco da alma foi engolido."*
@@ -267,6 +275,7 @@ Sebo é um especialista absoluto na mecânica do *roubo de vitalidade*. Ele noto
 ## Como os Jogadores o Encontram
 No Claustro do Pó, um santuário arruinado que fica logo na fronteira com a Grande Fenda. Aventureiros investigarão desaparecimentos a mando do Barão, e Sebo será a primeira pessoa com respostas aterrorizantes e sobrenaturais sobre a natureza da Horda Goblinoide, desde que confiem no velho necromante.
 
+---
 # Barão Corvin Aldeu
 
 > *"Se o Rei de Ferrovale quisesse essas terras, mandava soldados, não apenas taxas. Se a Rainha de Bastion se importasse, mandava ouro. Então, mercenários, a vida destas pessoas está nas mãos da minha miséria e das espadas baratas de vocês."*
@@ -290,6 +299,7 @@ Em desespero para não perder tudo, pode ser que o Barão tenha aceitado recente
 ## Como os Jogadores o Encontram
 Na praça lamacenta de sua principal fortaleza caindo aos pedaços. Ele é o primeiro "Quest-Giver" prático do jogo. Contrata aventureiros baratos porque ninguém profissional ou de renome (como os mercenários das capitais) sequer leria as cartas dele implorando por ajuda.
 
+---
 # General Kastel Draven
 
 > *"Esses bastardos leem tomos para fazer poeira levitar e acham que controlam o universo. A verdadeira divindade exige suor, comando e, acima de tudo, o ouro do sangue dos fracos."*
@@ -315,9 +325,9 @@ Ele orquestrou a Horda de Goblins Silenciosa. Não por guerra, mas como logísti
 ## Como os Jogadores o Encontram
 No início, eles não o encontram. Ele é o arquiteto invisível. Sinais dele aparecerão apenas como falhas estratégicas que não batem: acampamentos goblins com suprimentos de forja de Ferrovale, rituais macabros usando sangue humano sob a guarda de batedores Hobgoblins. Eventualmente, confrontá-lo significará não apenas abater um homem, mas quebrar toda uma rede leal de exércitos.
 
----
+<div style='page-break-after: always;'></div>
 
-## 6. Itens Mágicos
+# 6. Itens Mágicos
 # Bússola de Sangue-Frio
 
 > *"Não olhe muito para a agulha, recruta. Ela não aponta para o Norte, ela aponta para onde a realidade está sangrando."* – Instrução de um Inquisidor dos Grilhões Arcanos.
@@ -341,6 +351,7 @@ Um objeto pesado do tamanho da palma da mão, forjado em chumbo rústico e ferro
 - **A Caçada aos 3.333:** Se os jogadores roubarem uma, eles podem prever se há um Inquisidor caçando um mago por perto, ou usar para tentar achar o mago primeiro.
 - **A Vigília de Cinzas:** Os templários odeiam essas bússolas, considerando-as profanidades. Eles quebram qualquer uma que encontram com martelos de guerra, punindo quem as carrega.
 
+---
 # Giz de Osso de Mártir
 
 > *"Você não paga pelos ingredientes, meu jovem ignorante. Você paga porque este giz permite que você durma a noite sem que uma criatura arranque sua espinha pela garganta."* – Patenteador de uma Academia em Gristal.
@@ -363,9 +374,9 @@ Parecem simples pedaços de giz cilíndricos, um pouco mais espessos que o norma
 ## Ganchos com o Cenário
 - **A Horda Silenciosa:** Como a horda evoluiu logisticamente, batedores hobgoblins aprenderam a procurar por resíduos pálidos nos arredores dos acampamentos. Se avistam círculos recém-desenhados, costumam cavar o solo ao redor por baixo (ou mandar escravos fazerem) para quebrar o selo antes de emboscarem os aventureiros.
 
----
+<div style='page-break-after: always;'></div>
 
-## 7. Panteão e Religião
+# 7. Religião e o Panteão
 # Religião e o Panteão
 
 No continente brutal, a fé é prática e transacional. Não há milagres gratuitos. *Nenhum deus concede magia de cura ou poderes milagrosos*; para curar, usa-se a difícil Magia Comum, conhecimento herborista e sorte.
@@ -411,9 +422,9 @@ No continente brutal, a fé é prática e transacional. Não há milagres gratui
 - **Skarah, a Que Voa Antes da Tempestade:** Padroeira do céu e dos mensageiros alados (Aeris).
 - **O Fio:** Não é um deus, é um conceito ou destino. Quando a notícia do óbito de um dos **3.333** magos ecoa pelo continente, vilas inteiras, de todas as religiões, fazem um minuto de silêncio para a superstição da *Bênção Silenciosa*, torcendo "para que O Fio escolha bem" e desperte o poder em uma de suas crianças.
 
----
+<div style='page-break-after: always;'></div>
 
-## 8. Linha do Tempo e Passado
+# 8. Linha do Tempo e o Passado de Draven
 # A Ascensão de Draven (Há 30 Anos)
 
 ## O Ano das Cinzas (A Invasão Alada)
@@ -447,9 +458,9 @@ O que Draven encontrou lá embaixo, na *Cicatriz Final*, não foi a vitória pel
 Foi através do massacre premeditado de seus próprios soldados que a horda alada foi dizimada. Foi ali que ele teve o primeiro vislumbre e aprendeu sobre a extração massiva de vitalidade (o Ouro-Sangue) — um conhecimento macabro que ele levou décadas estudando em segredo e que agora, trinta anos depois, ele finalmente colocou em prática coordenando os criadouros da Horda de Goblins Silenciosa para alcançar os 3.333.
 <!-- FIM SEGREDO -->
 
----
+<div style='page-break-after: always;'></div>
 
-## 9. Lendas da Engenharia Divina
+# 9. Mitos da Engenharia Divina
 # Lendas da Engenharia Divina e Mecânica do Mundo
 
 As lendas deste mundo afastam-se das concepções teológicas comuns. A magia não é um dom esotérico, mas uma ciência estrita, uma mecânica arcaica de calibração que os deuses (ou Arquitetos) usaram para tentar programar e manter a realidade.
