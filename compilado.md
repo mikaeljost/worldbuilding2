@@ -1,6 +1,9 @@
 # Worldbuilding: Fantasia Medieval Dark Fantasy
 
-## 1. Diretrizes de Estilo e Criação
+> Documento Oficial de Lore, Regras, Geografia e NPCs
+
+<br><br>
+# 1. Diretrizes de Estilo e Criação
 # Diretrizes de Criação (O Guia do Mestre)
 
 Este guia destina-se a manter a coesão criativa de todo o projeto. Sempre que for desenvolver novas partes deste cenário, lembre-se destas regras de ouro:
@@ -24,9 +27,9 @@ O mundo tem uma relação complexa e ambígua com a magia.
 Apesar de ser um cenário *Grimdark* focado em dificuldades mortais (inspirado em The Witcher e Goblin Slayer), os heróis **importam**.
 - Quando os jogadores se preparam, estudam o inimigo, afiam suas espadas e bolam um plano, deixe-os vencer de forma esmagadora. A vitória com cérebro e tática contrasta com a matança inconsequente, provando que eles são de fato os heróis que o mundo brutal tanto precisa.
 
----
+<div style='page-break-after: always;'></div>
 
-## 2. A Magia e as Regras do Mundo
+# 2. A Magia e as Regras do Mundo
 # A Regra dos 3.333 e a Magia Comum
 
 ## A Regra dos 3.333
@@ -66,9 +69,9 @@ O verdadeiro gargalo para o poder das massas é a ignorância. Em grandes metró
 
 Nos vilarejos rurais e nas fronteiras isoladas (onde a maior parte dos mercenários inicia suas jornadas), o alto nível de analfabetismo, a falta de acesso a tomos antigos e o medo tornam a Magia Comum quase inexistente. Nestes lugares isolados, encontrar alguém com conhecimento ritualístico suficiente até mesmo para acender uma fogueira mágica ou curar uma infecção é uma raridade absoluta, tratada com enorme reverência ou extrema suspeita.
 
----
+<div style='page-break-after: always;'></div>
 
-## 3. O Enredo e a Política
+# 3. O Enredo e a Política
 # O Triângulo Político (Planícies Temperadas)
 
 A região central do continente não é dividida em reinos feudais genéricos, mas sim sustentada por um triângulo de tensão constante que beira a guerra fria. Este equilíbrio de poder é o estopim de fundo para a ameaça principal da campanha.
@@ -109,6 +112,8 @@ A terrível "procriação forçada" e o sequestro massivo de mulheres por parte 
 (Isso explica por que estudiosos sombrios notam que "almas estão desaparecendo").
 <!-- FIM SEGREDO -->
 
+---
+
 # A Horda Silenciosa
 
 O que deveria ser a praga diária e desorganizada dos reinos do interior se tornou, no silêncio e nas sombras, a maior ameaça à sobrevivência do continente.
@@ -142,9 +147,9 @@ Em contato com segredos macabros das profundezas (a *Doutrina do Abismo*), Drave
 A terrível "procriação forçada" dos criadouros goblins e os sequestros em massa são, na verdade, uma gigantesca fachada logística. As vítimas não estão apenas sustentando as tropas dos goblins; sua vitalidade e almas estão sendo sistematicamente extraídas nos abismos para alimentar o ritual herético de ascensão do General.
 <!-- FIM SEGREDO -->
 
----
+<div style='page-break-after: always;'></div>
 
-## 4. Geografia
+# 4. Geografia do Mundo
 # Geografia Expandida do Continente
 
 O continente é vasto e fisicamente traumatizado pela abertura milenar da Grande Fenda. O mapa é dividido por biomas e regiões que refletem diferentes formas de lidar com esse cataclisma mágico e tectônico.
@@ -191,6 +196,8 @@ No Sudeste extremo, a Grande Fenda não acaba; ela "transborda". A magia escapa 
 ## As Lendas Vivas (Entidades da Geografia)
 **A Tartuga:** Uma tartaruga marinha ancestral e colossal. Não é uma besta, é praticamente uma ilha em movimento. Ela sobre os mares e grandes rios navegáveis (incluindo o Rio Áureo). Oferece carona/escolta mística e ignora as taxações das fadas dos rios (os Náiades).
 
+---
+
 # A Grande Fenda (A Terra Fendida)
 
 > *“Eles dizem que os deuses tentaram rasgar o mundo ao meio como se fosse pão velho. Só não terminaram o serviço porque perderam o apetite olhando para nós.”* – Sussurro comum nas tavernas do Gargalo.
@@ -218,7 +225,474 @@ Essa falha geográfica criou um imenso **"Gargalo"** de terra firme.
 
 ---
 
-## 5. Personagens Principais
+## 4.1 Cidades e Lugares de Destaque
+## [Aethelgard, A Metrópole Suspendida]
+
+## Resumo
+
+Uma maravilha arquitetônica composta por ilhas de terra que flutuam sobre a selva do Berço Primordial.
+
+## Geografia e clima
+
+Bairros e distritos construídos sobre placas terrestres suspensas no ar por Pedra-Pólen; clima tropical com ventos constantes de altitude e bioluminescência noturna.
+
+## Atmosfera
+
+Mística, majestosa e vertiginosa, acompanhada pelo som do vento nas correntes de ancoragem, o cantar de aves exóticas e o brilho de flores tropicais.
+
+## Economia e fonte de renda
+
+Coleta e exportação de espécimes botânicos raros (como a Seiva-Estrela e as Flores-Luz), venda de penas, dejetos e componentes de monstros selvagens extraídos do dossel, serviços de navegação e transporte aéreo e manutenção de redes gravitacionais.
+
+## Quem vive/frequenta
+
+Aeris (povo-pluma), nobres influentes, alquimistas do Conclave das Flores-Luz, Ancoradores do Céu e batedores do Dossel Verde.
+
+## Pontos de interesse
+
+[As Estufas Suspensas das Flores-Luz]: Jardins flutuantes onde são cultivadas as plantas medicinais e toxinas mais valiosas do mundo.
+
+[Os Balancins dos Ancoradores do Céu]: As engenhocas sob as ilhas que regulam os contrapesos arcanos de Pedra-Pólen.
+
+[As Correntes de Ancoragem]: Elos monumentais de aço que prendem a cidade voadora ao solo da selva.
+
+## Ganchos de aventura
+
+Ancoradores deshonestos desregularam os contrapesos de um bairro popular para extorquir os moradores sob a ameaça de queda da ilha.
+
+A divisão de Coleta Profunda do Conclave precisa de segurança para coletar cascas de ovos de feras voadoras na base das correntes.
+
+---
+## [Bastion, O Trono Dourado]
+
+## Resumo
+
+A majestosa capital administrativa e agrícola das Planícies Temperadas, celeiro do continente e sede do Círculo de Giz.
+
+## Geografia e clima
+
+Localizada no centro das planícies; clima ameno e ensolarado, cercada por extensos campos de trigo, canais de irrigação e imponentes muralhas de pedra branca.
+
+## Atmosfera
+
+Aristocrática, opulenta e extremamente burocrática por fora, mas apodrecida por intrigas políticas, chantagens e corrupção rural.
+
+## Economia e fonte de renda
+
+Agricultura em escala continental (trigo, grãos e pecuária), arrecadação de impostos rituais e tarifas comerciais pelo Círculo de Giz, fornecimento de cereais para as demais capitais e selamento legal/fiscal de patentes e acordos rituais.
+
+## Quem vive/frequenta
+
+Nobres feudais, fiscais arcanos do Círculo de Giz, Cães-Farejadores da polícia mágica, os Semeadores de Sangue e a corte aristocrática.
+
+## Pontos de interesse
+
+[A Torre Pura]: Sede do Círculo de Giz onde são emitidas e reguladas as patentes rituais.
+
+[Os Campos de Ouro-Sangue]: Extensas propriedades rurais onde a máfia agrícola realiza rituais para acelerar as colheitas.
+
+[O Ateliê dos Alfaiates de Seda-Férrea]: A lendária alfaiataria secreta de onde nobres são espionados por fios de Raiz-de-Eco nas golas de suas roupas.
+
+## Ganchos de aventura
+
+Um agricultor independente recusa-se a pagar a taxa de proteção dos Semeadores de Sangue e solicita escolta para salvar sua lavoura de espantalhos de carne.
+
+Os Cães-Farejadores recrutam os jogadores para perseguir um ritualista que vendia licenças mágicas falsificadas no distrito pobre.
+
+---
+## [Gristal (A Cidade Acorrentada)]
+
+##Resumo
+
+Uma metrópole vertiginosa suspensa sobre o precipício sem fim da Grande Fenda, ancorada por correntes ancestrais colossais.
+
+## Geografia e clima
+
+Plataformas suspensas no ar no centro do abismo; clima frio, marcado por névoas subindo da Fenda e ventos violentos.
+
+## Atmosfera
+
+Tensa, vertiginosa e perigosa, acompanhada pelo som metálico contínuo das correntes balançando e pelo rangido de guinchos e elevadores.
+
+## Economia e fonte de renda
+
+Mineração de Arcanita Bruta e extração de relíquias abissais no fundo da Fenda, cobrança de pedágios e tarifas pelo transporte vertical de cargas e pessoas, manutenção especializada de correntes pesadas e guinchos arcanos.
+
+## Quem vive/frequenta
+
+Engenheiros de Elo, Ratos de Cabo, Mergulhadores da Névoa, Lapidadores de Obsidiana e os patrulheiros da Guarda dos Elos.
+
+## Pontos de interesse
+
+[Os Elevadores Centrais de Guincho]: A infraestrutura oficial que transporta passageiros e cargas entre a borda da Fenda e as plataformas.
+
+[A Rede Clandestina de Ratos de Cabo]: Um emaranhado perigoso de tirolesas, cestos e roldanas de transporte ilegal.
+
+[O Salto do Silêncio]: O ponto da borda de onde criminosos condenados são arremessados diretamente no precipício sem fim.
+
+## Ganchos de aventura
+
+Sabotadores jogaram ácido místico nas engrenagens das correntes centrais, fazendo uma plataforma habitada começar a ceder.
+
+Um Mergulhador da Névoa resgatou uma relíquia antiga do fundo do abismo que atrai a atenção de cultistas da Doutrina do Abismo.
+
+---
+## [Krag-Mora, A Cidade-Fornalha]
+
+## Resumo
+
+A capital fabril do Norte gelado, movida a caldeiras de Carvão-de-Sangue e focada na metalurgia pesada e engenharia a vapor.
+
+## Geografia e clima
+
+Encravada em uma garganta rochosa nas montanhas congeladas do Noroeste; ar denso carregado de fuligem tóxica e calor de fornos, cercado por neves perpétuas.
+
+## Atmosfera
+
+Industrial, claustrofóbica e insalubre, impregnada pelo cheiro de metal queimado, pelo estalo incandescente das fornalhas e pelo som ininterrupto de engrenagens pneumáticas.
+
+## Economia e fonte de renda
+
+Mineração em larga escala de Carvão-de-Sangue, fundição de ligas metálicas resistentes, fabricação e exportação de golens industriais e autômatos, fornecimento de peças mecânicas de precisão e produção de energia a vapor para outras regiões.
+
+## Quem vive/frequenta
+
+Anões mestres-forjadores, operários humanos com membros mecânicos, engenheiros do Sindicato do Ferro-Frio, os Trajes-de-Chumbo e os Cirurgiões-Engrenagem.
+
+## Pontos de interesse
+
+[O Grande Motor]: A sede central do Sindicato do Ferro-Frio e coração energético da cidade.
+
+[As Cavernas dos Druidas Cegos]: Túneis profundos onde cogumelos venenosos purificados são cultivados para sustentar os operários.
+
+[O Bairro das Próteses]: Becos sombrios onde os Cirurgiões-Engrenagem instalam membros de sucata e enviam cobradores para reaver peças em atraso.
+
+## Ganchos de aventura
+
+Os Trajes-de-Chumbo ameaçam cruzar os braços após a morte misteriosa de três membros nas tubulações centrais.
+
+Uma guilda clandestina está contrabando próteses mecânicas adulteradas que contêm veios ocultos de Ferro Dissonante.
+
+---
+## [Libertaris (A Cidade-Prisão)]
+
+## Resumo
+
+Uma colônia penal inexpugnável escavada nos paredões verticais da Grande Fenda dedicada à extração forçada de Ferro Dissonante.
+
+## Geografia e clima
+
+Construída verticalmente nos penhascos da Fenda; abafada, fria e exposta aos ventos cortantes do abismo, sem acesso à luz solar direta.
+
+## Atmosfera
+
+Brutal, desesperadora e tétrica, dominada pelo tilintar de correntes, o eco de picaretas na rocha e o cheiro de suor e mofo.
+
+## Economia e fonte de renda
+
+Mineração de trabalho forçado (extração de minérios pesados e pedras preciosas), tráfico ilegal de escravos e prisioneiros executado pela guilda de guardas corruptos, e contrabando de artigos proibidos para dentro e fora dos complexos prisionais.
+
+## Quem vive/frequenta
+
+Prisioneiros de todos os reinos, os Mantenedores da Corrente, guardas corruptos Traficantes de Grilhões e o submundo dos Ratos da Fenda.
+
+## Pontos de interesse
+
+[A Zona de Mercado do Portão]: O único setor onde visitantes e comerciantes externos são autorizados a negociar com a administração.
+
+[As Minas de Ferro Dissonante (Aço-Mudo)]: Galerias profundas onde o mineral anula completamente qualquer manifestação arcana.
+
+[Os Túneis Secretos dos Ratos da Fenda]: Passagens ocultas nas escarpas usadas para contrabandear o aço supressor para fora da prisão.
+
+## Ganchos de aventura
+
+Os Traficantes de Grilhões forjaram a morte de um diplomata preso para vendê-lo no mercado negro e os jogadores são contratados para resgatá-lo.
+
+Os Ratos da Fenda precisam de ajuda para transportar uma carga ilegal de Ferro Dissonante sem chamar a atenção dos guinchos centrais.
+
+---
+## [Malaxis (A Cidade Sem Lei)]
+
+## Resumo
+
+Um refúgio caótico na fronteira desértica governado exclusivamente por gangues, mercenários e cartéis criminosos.
+
+## Geografia e clima
+
+Localizada em um desfiladeiro árido; clima seco, quente e fustigado por tempestades de poeira e rochas calcificadas.
+
+## Atmosfera
+
+Violenta, efervescente e anárquica, onde a vida é barata e o som de lutas de espadas, apostas ruidosas e festas embriagadas toma as ruas a qualquer hora.
+
+## Economia e fonte de renda
+
+Apostas e entretenimento violento nas Arenas de Combate, contratos de assassinato e chantagem executados pelo Sindicato das Lâminas Negras, tráfico de venenos, substâncias ilegais, relíquias roubadas e falsificação de identidades e documentos.
+
+## Quem vive/frequenta
+
+Orcs mercenários, criminosos fugitivos, executores do Sindicato das Lâminas Negras, Barões do Coliseu e receptadores dos Dentes-de-Ouro.
+
+## Pontos de interesse
+
+[O Coliseu dos Barões]: O grande anfiteatro onde combates de gladiadores e feras movimentam apostas milionárias.
+
+[A Fortaleza das Lâminas Negras]: A sede inexpugnável da guilda de assassinos de elite mais temida do continente.
+
+[Os Galpões dos Dentes-de-Ouro]: Depósitos do submundo onde cargas roubadas de carruagens são "lavadas" e negociadas.
+
+## Ganchos de aventura
+
+Uma disputa territorial entre os Barões do Coliseu e a Liga dos Agenciadores ameaça incendiar o distrito das arenas.
+
+O Sindicato das Lâminas Negras foi contratado para assassinar um aliado do grupo, mas a lei do cliente impede que aceitem contra-propostas diretas.
+
+---
+## [Tartuga (A Cidade Nômade)]
+
+## Resumo
+
+Uma metrópole flutuante e autossustentável construída sobre a carapaça de uma Tartaruga-Marinha Ancestral que navega livremente pelos oceanos.
+
+## Geografia e clima
+
+Localizada sobre o casco da criatura em constante movimento pelos mares; clima oceânico, com brisas marinhas salgadas e sol constante.
+
+## Atmosfera
+
+Nômade, acolhedora e vibrante, preenchida pelo som das ondas do mar, aromas de algas medicinais e o movimento constante de barcos de escolta.
+
+## Economia e fonte de renda
+
+Pesca oceânica de grande porte e caça de monstros marinhos, raspagem e processamento de cracas marinhas arcanas e Sal Arcano extraídos do próprio casco, resgate de tesouros em naufrágios profundos e rotas marítimas itinerantes de comércio livre de impostos.
+
+## Quem vive/frequenta
+
+Navegadores dos Astrólogos do Fluxo, Colhedores de Casco, Engenheiros das Cavidades e a Guarda da Carapaça.
+
+## Pontos de interesse
+
+[O Casco Superior e as Feiras Nômades]: Distritos vibrantes de madeira erguidos diretamente nas placas da carapaça.
+
+[As Câmaras Fossilizadas do Casco]: Reservatórios de água potável e moradias escavadas nas partes ocas da carapaça superior.
+
+[As Torres de Balista das Extremidades]: Postos de vigilância que protegem o colosso contra piratas e monstros marinhos.
+
+## Ganchos de aventura
+
+A tartaruga colossal mudou subitamente seu curso rumo a uma zona de tempestades mana-solares no oceano e os Astrólogos do Fluxo precisam descobrir o motivo.
+
+Piratas usaram ganchos de escalada durante a noite para tentar invadir os reservatórios de água doce das cavidades.
+
+---
+## [Treehold (A Árvore-Fornalha)]
+
+## Resumo
+
+Uma árvore de proporções continentais no Berço Primordial em cujo tronco vive uma sociedade integrada de Elfos e Anões.
+
+## Geografia e clima
+
+Uma colossal árvore viva de casca espessa; clima interno fresco, úmido e iluminado por fungos bioluminescentes e seiva metálica reluzente.
+
+## Atmosfera
+
+Orgânica, mística e surpreendentemente produtiva, onde o som de forjas metálicas ecoa em harmonia com cânticos druídicos de crescimento vegetal.
+
+## Economia e fonte de renda
+
+Forjamento e exportação do cobiçado metal Aço-Anil, arquitetura e carpintaria botânica (estruturas vivas em madeira mística), elixires e bálsamos medicinais druídicos e fabricação de armas e armaduras de elite.
+
+## Quem vive/frequenta
+
+Elfos Primordiais, Anões arquitetos, os Sangradores Sagrados, Tecelões de Raízes e a Falange de Raiz-E-Aço.
+
+## Pontos de interesse
+
+[Os Veios de Aço-Anil]: Os canais sagrados de onde é extraída a seiva metálica azul sem ferir a árvore-mãe.
+
+[Os Salões Esculpidos do Tronco]: Galerias, pontes e moradias moldadas no interior da madeira por rituais acústicos.
+
+[A Fortificação das Raízes]: A grande muralha na base do tronco guardada pela Falange de Raiz-E-Aço contra os perigos da selva.
+
+## Ganchos de aventura
+
+Um veio de Aço-Anil começou a petrificar precocemente devido a um parasita arcano introduzido nas raízes.
+
+Os Guardiões da Copa pedem reforços para rebater um bando de criaturas aladas que usou as ramificações superiores para invadir a cidade.
+
+---
+## [Zul-Bazar, A Cidade dos Mil Mercados]
+
+## Resumo
+
+A brilhante e impiedosa capital financeira e comercial erguida no coração do Deserto de Sol-Crestado.
+
+## Geografia e clima
+
+Localizada entre as dunas do deserto; clima abrasador de dia e congelante à noite, pontilhada por cúpulas de vidro, torres de minarete e praças com fontes de oásis.
+
+## Atmosfera
+
+Rica, faiscante e ostentosa, dominada pelo aroma de incenso, o colorido de tecidos luxuosos, o vozerio das feiras e a constante vigilância de agiotas arcanos.
+
+## Economia e fonte de renda
+
+Sistema bancário e crédito internacional controlados pelas Balanças de Vidro, comércio e refinamento da valiosa especiaria Pólvora-de-Sol, cobrança de impostos sobre a distribuição de água potável e mediação de contratos mágicos pelo Conservatório dos Fios Dourados.
+
+## Quem vive/frequenta
+
+Gnomos juristas, banqueiros do Conservatório dos Fios Dourados, mercadores da especiaria Pólvora-de-Sol, Cantores da Areia e caçadores de penhoras.
+
+## Pontos de interesse
+
+[O Palácio de Vidro]: A sede monumental do Conservatório dos Fios Dourados onde são firmados contratos mágicos invioláveis.
+
+[O Cartel da Pólvora-de-Sol]: As refinarias e mercados de luxo dedicados à especiaria solar.
+
+[Os Cofres dos Quebradores de Selos]: Instalações subterrâneas onde ficam guardadas relíquias penhoradas por devedores inadimplentes.
+
+## Ganchos de aventura
+
+Um nobre assinou um contrato mágico no Palácio de Vidro contendo uma cláusula oculta que ameaça tomar sua alma e contrata o grupo para encontrar uma brecha legal.
+
+Os Quebradores de Selos precisam de força bruta para recuperar uma arca roubada de um banco clandestino antes que o devedor fuja do deserto.
+
+---
+## [O Centro e Sudoeste: As Planícies Temperadas (O Coração dos Reinos)]
+
+## Resumo
+
+O centro populacional, agrícola e feudal do continente, irrigado pelos grandes rios que nascem nas proximidades da Grande Fenda.
+
+## Geografia e clima
+
+Clima temperado equilibrado com estações bem marcadas, vales férteis, florestas densas e rios calmos navegáveis com magia natural estável.
+
+## Atmosfera
+
+Feudal, burocrática e aparentemente serena, mas envenenada por intrigas de corte, cobrança abusiva de impostos rituais e o medo constante do submundo.
+
+## Quem vive/frequenta
+
+A maioria da população humana, Halflings camponeses, agentes do Círculo de Giz, cavaleiros dos Leões de Bronze e membros da máfia dos Semeadores de Sangue.
+
+## Pontos de interesse
+
+[Bastion (O Trono Dourado)]: A capital feudal e burocrática que serve como o celeiro do continente.
+
+[A Bacia dos Rios Navegáveis]: A principal artéria aquática de comércio controlado pelas eclusas das Náiades.
+
+[As Florestas de Fronteira]: Bosques densos onde pequenos vilarejos rurais sofrem sem a proteção dos grandes reinos.
+
+## Ganchos de aventura
+
+Um condado inteiro está sendo extorquido pelos Semeadores de Sangue através de pragas arcanas direcionadas.
+
+Camponeses relatam o desaparecimento sistemático de mulheres em vilarejos isolados perto das florestas sem que os Leões de Bronze aceitem investigar.
+
+---
+## [O Noroeste (Além da Fenda): O Norte Congelado e as Terras Mortas]
+
+## Resumo
+
+Uma região polar e industrializada além da Fenda onde a escassez arcana forçou a civilização a dominar a engenharia a vapor e a mineração pesada.
+
+## Geografia e clima
+
+Tundras geladas implacáveis, glaciares cortantes e noites polares que duram meses. É uma Zona de Magia Escassa onde rituais exigem o dobro de catalisadores materiais.
+
+## Atmosfera
+
+Opressiva, cinzenta e gélida, preenchida pelo constante rosnar de motores a vapor, apitos de exaustores e fumaça tóxica metálica de carvão-de-sangue contra o horizonte congelado.
+
+## Quem vive/frequenta
+
+Anões mestres-forjadores, operários humanos, Quirópteros nas cidades subterrâneas, engenheiros do Sindicato do Ferro-Frio, os Trajes-de-Chumbo e os Druidas Cegos.
+
+## Pontos de interesse
+
+[Krag-Mora (A Cidade-Fornalha)]: A metrópole industrial movida a caldeiras de alta pressão.
+
+[Os Veios Profundos de Carvão-de-Sangue]: Minas subterrâneas incandescentes de onde se extrai o combustível do Norte.
+
+[A Fronteira dos Glaciares]: Vastidões congeladas inóspitas repletas de ruínas fabris abandonadas.
+
+## Ganchos de aventura
+
+Uma paralisação dos Trajes-de-Chumbo ameaça fazer o reator central de uma fundição explodir.
+
+Bandos de Hobgoblins usando armaduras pesadas de aço fundido começaram a interceptar caravanas de carvão na neve.
+
+---
+## [O Nordeste e Leste: O Grande Deserto de Sol-Crestado]
+
+## Resumo
+
+Um impiedoso oceano de areias escaldantes e ruínas antigas cortado pela Fenda e dominado pelo comércio de especiarias e bancos arcanos.
+
+## Geografia e clima
+
+Dunas móveis de sílica, paredões rochosos e planícies de sal. O clima varia de calor abrasador durante o dia a temperaturas congelantes à noite, com constantes tempestades mana-solares.
+
+## Atmosfera
+
+Exótica, desolada e perigosa, caracterizada pelo brilho de poeira dourada no ar e pela constante ameaça de insolação, vermes de areia e ilusões mágicas.
+
+## Quem vive/frequenta
+
+Elfos das Areias nômades, mercadores ricos de Zul-Bazar, guias dos Cantores da Areia, caçadores de relíquias e mercenários do deserto.
+
+## Pontos de interesse
+
+[Zul-Bazar (A Cidade dos Mil Mercados)]: O centro financeiro e comercial do deserto.
+
+[O Mar de Cactos-Solares]: A perigosa região onde florescem os esporos da valiosa especiaria Pólvora-de-Sol.
+
+[As Ruínas Soterradas da Fenda Norte]: Cidades antigas cobertas pelas areias e cheias de artefatos esquecidos.
+
+## Ganchos de aventura
+
+Uma tempestade mana-solar desenterrou o acesso a uma tumba repleta de quartzo-sussurrante e armadilhas rituais.
+
+O Cartel da Pólvora-de-Sol contrata escoltas para defender uma colheita secreta contra ataques coordenados de goblins montados em bestas do deserto.
+
+---
+## [O Sudeste (Onde a Fenda Termina): O Berço Primordial]
+
+## Resumo
+
+Um cinturão de selva equatorial de Altíssima Densidade Mágica onde a energia arcana brota diretamente do solo e sustenta formações flutuantes.
+
+## Geografia e clima
+
+Selva equatorial úmida com vegetação gigante, pântanos bioluminescentes e ilhas terrestres flutuantes suspensas no ar por minérios de Pedra-Pólen.
+
+## Atmosfera
+
+Exuberante, mística e perigosa, marcada pelo ar denso saturado de poder arcano, ruídos de feras colossais e o brilho constante de plantas mágicas.
+
+## Quem vive/frequenta
+
+Aeris (povo-pluma), Elfos Primordiais, Karkinos nas áreas costeiras, Duendes feéricos e batedores das guildas alquímicas.
+
+## Pontos de interesse
+
+[Aethelgard (A Metrópole Suspendida)]: A cidade flutuante no céu do Berço Primordial.
+
+[Treehold (A Árvore-Fornalha)]: Uma colossal árvore viva habitada em conjunto por Elfos e Anões.
+
+[O Solo Primitivo da Selva]: O ecossistema perigoso onde se extrai Seiva-Estrela pura e componentes exóticos de monstros.
+
+## Ganchos de aventura
+
+Uma besta voadora colossal foi contaminada por toxinas de Orquídea-Véu e ameaça as pontes de ancoragem de Aethelgard.
+
+Uma expedição da Divisão de Coleta Profunda desapareceu no chão da selva enquanto buscava dejetos mágicos raros.
+
+<div style='page-break-after: always;'></div>
+
+# 5. Personagens Principais e NPCs
 # Arquimaga Perpétua Sohl
 
 > *"As pessoas mentem, os reis mentem e o ouro definitivamente mente. Mas a matemática da magia é perfeitamente exata. E a matemática diz que tem uma poça de sangue em algum lugar sob o nariz da Rainha."*
@@ -243,6 +717,7 @@ Essas viagens oficiais são o álibi perfeito. A verdadeira razão para ela esta
 ## Como os Jogadores a Encontram
 Ela estará fora da segurança da capital, supostamente checando um nó da Grade Arcana perto de uma estrada rural. Ela precisa de agentes negáveis, pessoas fora do radar político para checar esses picos de magia. Mercenários e Zés-ninguém da região são os contatos ideais. Ela pagará (muito bem) em ouro e talvez num raro diagrama de Magia Comum para que investiguem.
 
+---
 # Irmão Sebo
 
 > *"Vocês ouvem os corvos. Eu ouço o vazio que os corpos deixam quando o eco da alma foi engolido."*
@@ -267,6 +742,7 @@ Sebo é um especialista absoluto na mecânica do *roubo de vitalidade*. Ele noto
 ## Como os Jogadores o Encontram
 No Claustro do Pó, um santuário arruinado que fica logo na fronteira com a Grande Fenda. Aventureiros investigarão desaparecimentos a mando do Barão, e Sebo será a primeira pessoa com respostas aterrorizantes e sobrenaturais sobre a natureza da Horda Goblinoide, desde que confiem no velho necromante.
 
+---
 # Barão Corvin Aldeu
 
 > *"Se o Rei de Ferrovale quisesse essas terras, mandava soldados, não apenas taxas. Se a Rainha de Bastion se importasse, mandava ouro. Então, mercenários, a vida destas pessoas está nas mãos da minha miséria e das espadas baratas de vocês."*
@@ -290,6 +766,7 @@ Em desespero para não perder tudo, pode ser que o Barão tenha aceitado recente
 ## Como os Jogadores o Encontram
 Na praça lamacenta de sua principal fortaleza caindo aos pedaços. Ele é o primeiro "Quest-Giver" prático do jogo. Contrata aventureiros baratos porque ninguém profissional ou de renome (como os mercenários das capitais) sequer leria as cartas dele implorando por ajuda.
 
+---
 # General Kastel Draven
 
 > *"Esses bastardos leem tomos para fazer poeira levitar e acham que controlam o universo. A verdadeira divindade exige suor, comando e, acima de tudo, o ouro do sangue dos fracos."*
@@ -315,9 +792,9 @@ Ele orquestrou a Horda de Goblins Silenciosa. Não por guerra, mas como logísti
 ## Como os Jogadores o Encontram
 No início, eles não o encontram. Ele é o arquiteto invisível. Sinais dele aparecerão apenas como falhas estratégicas que não batem: acampamentos goblins com suprimentos de forja de Ferrovale, rituais macabros usando sangue humano sob a guarda de batedores Hobgoblins. Eventualmente, confrontá-lo significará não apenas abater um homem, mas quebrar toda uma rede leal de exércitos.
 
----
+<div style='page-break-after: always;'></div>
 
-## 6. Itens Mágicos
+# 6. Itens Mágicos
 # Bússola de Sangue-Frio
 
 > *"Não olhe muito para a agulha, recruta. Ela não aponta para o Norte, ela aponta para onde a realidade está sangrando."* – Instrução de um Inquisidor dos Grilhões Arcanos.
@@ -341,6 +818,7 @@ Um objeto pesado do tamanho da palma da mão, forjado em chumbo rústico e ferro
 - **A Caçada aos 3.333:** Se os jogadores roubarem uma, eles podem prever se há um Inquisidor caçando um mago por perto, ou usar para tentar achar o mago primeiro.
 - **A Vigília de Cinzas:** Os templários odeiam essas bússolas, considerando-as profanidades. Eles quebram qualquer uma que encontram com martelos de guerra, punindo quem as carrega.
 
+---
 # Giz de Osso de Mártir
 
 > *"Você não paga pelos ingredientes, meu jovem ignorante. Você paga porque este giz permite que você durma a noite sem que uma criatura arranque sua espinha pela garganta."* – Patenteador de uma Academia em Gristal.
@@ -363,9 +841,9 @@ Parecem simples pedaços de giz cilíndricos, um pouco mais espessos que o norma
 ## Ganchos com o Cenário
 - **A Horda Silenciosa:** Como a horda evoluiu logisticamente, batedores hobgoblins aprenderam a procurar por resíduos pálidos nos arredores dos acampamentos. Se avistam círculos recém-desenhados, costumam cavar o solo ao redor por baixo (ou mandar escravos fazerem) para quebrar o selo antes de emboscarem os aventureiros.
 
----
+<div style='page-break-after: always;'></div>
 
-## 7. Panteão e Religião
+# 7. Religião e o Panteão
 # Religião e o Panteão
 
 No continente brutal, a fé é prática e transacional. Não há milagres gratuitos. *Nenhum deus concede magia de cura ou poderes milagrosos*; para curar, usa-se a difícil Magia Comum, conhecimento herborista e sorte.
@@ -411,9 +889,9 @@ No continente brutal, a fé é prática e transacional. Não há milagres gratui
 - **Skarah, a Que Voa Antes da Tempestade:** Padroeira do céu e dos mensageiros alados (Aeris).
 - **O Fio:** Não é um deus, é um conceito ou destino. Quando a notícia do óbito de um dos **3.333** magos ecoa pelo continente, vilas inteiras, de todas as religiões, fazem um minuto de silêncio para a superstição da *Bênção Silenciosa*, torcendo "para que O Fio escolha bem" e desperte o poder em uma de suas crianças.
 
----
+<div style='page-break-after: always;'></div>
 
-## 8. Linha do Tempo e Passado
+# 8. Linha do Tempo e o Passado de Draven
 # A Ascensão de Draven (Há 30 Anos)
 
 ## O Ano das Cinzas (A Invasão Alada)
@@ -447,9 +925,9 @@ O que Draven encontrou lá embaixo, na *Cicatriz Final*, não foi a vitória pel
 Foi através do massacre premeditado de seus próprios soldados que a horda alada foi dizimada. Foi ali que ele teve o primeiro vislumbre e aprendeu sobre a extração massiva de vitalidade (o Ouro-Sangue) — um conhecimento macabro que ele levou décadas estudando em segredo e que agora, trinta anos depois, ele finalmente colocou em prática coordenando os criadouros da Horda de Goblins Silenciosa para alcançar os 3.333.
 <!-- FIM SEGREDO -->
 
----
+<div style='page-break-after: always;'></div>
 
-## 9. Lendas da Engenharia Divina
+# 9. Mitos da Engenharia Divina
 # Lendas da Engenharia Divina e Mecânica do Mundo
 
 As lendas deste mundo afastam-se das concepções teológicas comuns. A magia não é um dom esotérico, mas uma ciência estrita, uma mecânica arcaica de calibração que os deuses (ou Arquitetos) usaram para tentar programar e manter a realidade.
