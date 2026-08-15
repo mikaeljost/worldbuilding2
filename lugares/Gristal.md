@@ -1,6 +1,6 @@
 ## [Gristal (A Cidade Acorrentada)]
 
-## Resumo
+##Resumo
 
 Uma metrópole vertiginosa suspensa sobre o precipício sem fim da Grande Fenda, ancorada por correntes ancestrais colossais.
 
