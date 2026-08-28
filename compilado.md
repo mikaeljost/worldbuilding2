@@ -3502,37 +3502,466 @@ As raças pré-cataclisma não cavalgavam bestas vivas, mas veículos de osso e 
 <div style='page-break-after: always;'></div>
 
 # 10. Facções e Sociedades Secretas
-## [A Doutrina do Abismo]
+Lore Expandida: A Doutrina do Abismo
+A carne mortal é apenas barro bruto à espera do molde profano; nas profundezas das Trevas, o sangue incandesce, a pele se avermelha, e a verdadeira forma do homem renasce em chifres, garras e cinzas.
 
-## Resumo
+## I. Visão Geral e a Filosofia da Ruptura
+Se o continente visível é mantido pelo equilíbrio frágil da geometria rúnica, pelo calculismo da Torre Pura e pelo suor dos mortais, A Doutrina do Abismo representa a força oposta, metodológica, demonológica e inexorável que deseja ver cada engrenagem, corrente, monumento e selo reduzido a cinzas, ferrugem e pó. Ela não é uma mera seita de fanáticos lunáticos ou uma turba de loucos desorganizados; trata-se de uma escola secular, matemática, sombria e terrivelmente rigorosa de demonologia, magia de sangue, manipulação do Ouro-Sangue e canalização do Arkanum.
+Surgida nas profundezas insondáveis da Grande Fenda durante os anos traumáticos que se seguiram à abertura da Cicatriz, a Doutrina prega uma verdade teológica aterrorizante: a Fenda não foi um acidente tectônico ou uma catástrofe imprevisível, mas a boca sagrada do mundo tentando expurgar a "praga da criação". Para os devotos da Doutrina, os deuses (ou Arquitetos) falharam miseravelmente ao tentar prender a energia primária e fluida do universo em leis rígidas de matéria, biologia e alma. A verdadeira iluminação só é alcançada quando as soldas arcanas que prendem o espírito ao corpo são rompidas através da dor calculada, permitindo que a vitalidade seja extraída, convertida em energia abissal pura e remodelada no Arkanum Demoníaco.
+A Doutrina rejeita veementemente qualquer tecnologia a vapor, pistões ou engrenagens refinadas. Sua "ciência" é orgânica, mineralógica, acústica, sanguinária e demonológica. Suas ferramentas são agulhas de chumbo purificado, diapasões de ressonância abissal, frascos de ouro líquido contaminado, nitrato de mercúrio, círculos rituais traçados com poeira de ossos de mártires e grimórios selados em pele de entidades infernais.
 
-Uma escola secreta e proibida de demonologia e magia de sangue que utiliza Ouro-Sangue para invocar e barganhar com entidades das profundezas.
++---------------------------------------+
 
-## Objetivo/Agenda
+|
+      INVOCADORES PRIMORDIAIS        |
 
-Obter poder absoluto através do sacrifício de vidas humanas, romper os selos da Fenda e subjugar os reinos do continente.
+|
+ (Mestres das Células & Arkanum)      |
 
-## Hierarquia
++-------------------
++-------------------+
+                                        |
 
-Organizada em células clandestinas independentes sob a autoridade dos Invocadores Primordiais. A liderança específica ainda não foi criada.
+[ Segredos do Ouro-Sangue & Demonologia ]
+                                        |
+                                        v
 
-## Território/Base
++---------------------------------------+
 
-[Cavernas Insondáveis sob Gristal], com cultos ocultos infiltrados em várias capitais.
+|
+   A ORDEM DOS ESCULTORES DE CARNE   |
 
-## Recursos
+|
+(Extração, Mutação & Criadores de Imps)|
 
-Invocação de entidades abissais, manipulação de Ouro-Sangue, segredos arcanos proibidos e devotos leais até a morte.
++-------------------
++-------------------+
+                                        |
 
-## Relações com outras facções
++--------------------------------
++--------------------------------+
 
-[O Círculo de Giz]: inimiga fatal — caçada ativamente em todo o continente sem trégua.
+|
 
-[A Horda Silenciosa]: aliada oculta — suspeita de fornecer rituais e suporte sombrio à expansão goblin.
+|
+                               |
 
-## Membros notáveis
+v
 
-Ainda não criado.
+v
+                               v
+
++---------------+
+
++-----------------+
+
++-----------------+
+| INFILTRADOS DE|
+|
+MERGULHADORES
+|
+
+|
+SERVOS DA       |
+|    CORTE
+|
+
+|
+  PROFANOS
+|
+
+|
+  SOMBRA        |
+|(Espionagem)
+|
+             |(Submundo Fenda)
+|
+             |(Demonizados)    |
+
++-------
++-------+
+
++--------
++--------+
+
++--------
++--------+
+
+|
+
+|
+                               |
+
++-------------------------------
++--------------------------------+
+                                        |
+                                        v
+
++---------------------------------------+
+
+|
+    AS ENTIDADES DAS PROFUNDEZAS      |
+
+|
+  (Ombrae, Imps, Demônios e Ecos)     |
+
++---------------------------------------+
+
+
+
+1. A Dogmática da Solda Rompida
+Os acólitos do Abismo acreditam que o sofrimento físico não é uma punição moral, mas um catalisador vibracional. Quando o corpo humano sofre uma agonia calculada e pontual, a "frequência de solda" — os filamentos invisíveis de Ouro-Sangue que os Arquitetos usavam para prender o espírito ao sistema nervoso — entra em ponto de saturação estática.
+Nesse momento exato, se o ritualista utilizar catalisadores de chumbo e mercúrio salino, a alma pode ser descolada da carne sem que se dissolva na morte natural. A essência vital assim liberada precipita-se na forma de um fluido dourado viscoso e reluzente: o Ouro-Sangue puro.
+2. A Metamorfose Infernal: O Arkanum da Carne e Sangue
+Ao combinarem a Reversão de Solda com os mistérios do Arkanum, os altos sacerdotes da Doutrina não apenas extraem essência, mas reescrevem o código do próprio corpo. O consumo e a infusão direta de Ouro-Sangue contaminado com bile abissal provocam mutações demoníacas profundas e assustadoras:
+A Douradura e o Manto de Carcaça Rubra: Sob o odor acre de ozônio e enxofre queimado, a carne do acólito passa por uma transfiguração pavorosa. Enquanto alguns sacerdotes desenvolvem uma epiderme translúcida e doentia, através da qual se vê o pulso incandescente do Ouro-Sangue fluindo em veias que tilintam como fios de ouro refinado, os executores de altar sofrem uma erupção de dores dilacerantes: a pele humana estala e descola em tiras fumegantes, dando lugar a um couro vulcânico carmim-vívido e áspero como rocha calcinada, totalmente insensível ao beijo devorador das chamas e à corrosão fervente do ácido.
+A Coroação dos Chifres de Basalto: O crânio do cultista estala em um rangido abafado e nauseante de fraturas suturais quando a estrutura óssea é forçada para fora da testa. Em meio ao gosto acre de fluido espinhal e ao cheiro de ossos queimados, erguem-se hastes retorcidas de basalto vulcânico e osso petrificado. Ao emergirem, esses chifres não são meras armas de impacto, mas ressonadores vivos que zumbem com um ruído grave e constante, sintonizando as vibrações estáticas do Arkanum e traduzindo o sussurro frio e alucinatório da entidade Ombrae diretamente no cérebro do possuído.
+A Laceração das Garras da Fenda: A mutação das mãos é um tormento tátil e ruidoso. Com o estalar seco e rápido das unhas caindo na poeira, a carne das falanges se rasga para dar passagem a placas de quitina negra e espinhos de dentes ósseos que se fundem aos dedos. O toque dessas garras emite um arranhar estridente de metal contra rocha; elas cortam o couro duro e retalham o ferro cru com a facilidade macabra de quem rasga tecido podre, soltando faíscas roxas a cada estocada.
+O Açoite da Cauda Farpada: Na extremidade inferior da coluna vertebral, uma convulsão muscular rasga os tecidos moles conforme o osso cóccix se estica e brota para fora do corpo em um longo chicote de vértebras expostas e placas quitinosas. A cauda açoita o ar com um estalo limpo e sibilante, vertendo gotas de uma bílis negra de cheiro adocicado e veneno paralisante capaz de entorpecer os nervos de quem for arranhado ou estrangulado por suas farpas.
+
+## III. Sede e Operações Territoriais: O Abismo sob a Teia
+Apesar de possuir células clandestinas operando nos becos de Bastion, nos armazéns de Malaxis, nas galerias penais de Libertaris e nas raízes profundas de Treehold, o verdadeiro coração pulsante da Doutrina do Abismo reside nas Cavernas Insondáveis sob Gristal.
+
+[ O CUME DE GRISTAL (SUPERFÍCIE) ]
+ <- Vigilância da Guarda & Pedágios
+      /                                   \
+
+[ A BACIA HANGARES (NÍVEL MÉDIO) ]
+
+[ OS SALTO DO SILÊNCIO ]
+ (Lapidadores, Mercado & Gaiolas)    (Cadáveres sem Rito & Ecos Caídos)
+
+|
+                                    |
+   ===================================================
+
+\\\\\\\\    AS PROFUNDEZAS CEGAS DA FENDA       ////////
+<- Sede Real da Doutrina
+   ===================================================
+                        ||
+                        ||  (Névoa Ácida, Poços Negros & Velas de Piche)
+                        \/
+
+[ OS NÚCLEOS DE EXTRAÇÃO E DEMONOLOGIA ]
+<- Altares, Poços de Imps e Rituais
+
+
+
+1. A Catedral do Piche Negro (Profundezas Cegas de Gristal)
+Localizada centenas de metros abaixo da plataforma mais inferior de Gristal, em uma câmara natural de basalto calcinado onde a Névoa Ácida é tão densa que queima a pele desprotegida em poucos minutos.
+Arquitetura Sacra: A catedral não possui paredes de pedra lavrada, mas sim estruturas moldadas na própria rocha corroída pelo exsudato da Fenda, decoradas com milhares de crânios de condenados que despencaram do Salto do Silêncio. No centro do salão principal, ergue-se o Tanque dos Ecos Roubados — uma piscina de dez metros de diâmetro preenchida por Ouro-Sangue, mercúrio salino e piche negro, onde os Invocadores Primordiais escutam os murmúrios de Ombrae, A Voz sem Boca.
+O Salão das Agulhas e das Mutações: Uma galeria lateral abafada contendo quarenta altares de basalto equipados com calhas de recepção metálica. É onde as vítimas capturadas na superfície são mantidas suspensas em arneses de couro enquanto mestres anatomistas conduzem o processo de extração vital e rituais de mutação demoníaca em acólitos voluntários.
+Os Criadouros de Imps e Diabretes: Galpões quentes e enfumaçados contendo dezenas de cubas de cerâmica preenchidas com líquido amniótico abissal. É aqui que a Doutrina incuba e alimenta ninhadas de Imps de Piche usando o sangue contaminado descartado da extração.
+O Escudo do Ferro Dissonante: Aproveitando a proximidade com veios profundos de Ferro Dissonante (Aço-Mudo) nas paredes da Fenda, a Doutrina constrói seus altares no interior de câmaras isoladas do sinal de rastreamento da Torre Pura. O minério supressor anula qualquer tentativa de detecção arcana por parte das bússolas de Bastion, permitindo que a facção conduza rituais de grande escala sem levantar alarmes no Códice.
+2. A Teia de Células nas Capitais e Territórios
+Bastion (O Cinturão Semeador): Opera sob o disfarce do culto proibido dos Semeadores de Sangue. A célula oferece rituais de fertilização clandestinos para Barões do Trigo falidos, enquanto drena a vitalidade do solo para alimentar os poços da capital e ocultar imps disfarçados de corvos e pragas rurais.
+Libertaris (A Máfia do Necrotério): Mancomunada com os guardas corruptos dos Traficantes de Grilhões, a Doutrina compra prisioneiros dados como "oficialmente mortos" nos livros carcerários para extrair seu sangue nas cavernas profundas das minas antes de descartar os corpos mutilados no abismo.
+Malaxis (Os Alquimistas de Piche): Financia laboratórios clandestinos nos Banhos de Sangue e Piche para refinar venenos de escorpião, sínteses de Orquídea-Véu e elixires de mutação corporal que conferem garras de osso temporárias para gladiadores de arena.
+Aethelgard (Os Agoureiros da Queda): Infiltrados nas favelas das Raízes do Céu, os cultistas atuam como a seita dos Agoureiros do Abismo, soltando imps alados na escuridão para cortar cabos secundários e enfraquecer os tirantes das Correntes de Ancoragem.
+Krag-Mora (Os Sabotadores de Chumbo): Operam nas sombras do Bairro das Próteses e do Cinturão de Cinzas, contaminando tubulações de vapor com bile de demônio e vendendo próteses biomecânicas incrustadas com ossos de entidades da Fenda.
+Treehold (Os Paragões da Seiva Negra): Atuam nas galerias profundas das raízes, tentando infectar os canais de Seiva-Anil com sangue demoníaco para petrificar o tronco da Árvore-Mãe e dar origem a uma vegetação espinhosa e carnívora.
+
+## IV. A Ciência Profana, Arkanum de Trevas e Demonologia
+A Doutrina do Abismo é a única facção no mundo que domina a fusão entre a Reversão de Solda Vital e a Demonologia do Arkanum das Trevas. Enquanto os Arquitetos usavam a geometria para unir o mundo, a Doutrina usa a vontade e o sangue para rasgar o tecido cósmico e deformar a matéria.
+
+[ VÍTIMA EM AGONIA ]
++
+[ AUMENTO DE FREQUÊNCIA ]
++
+[ AGULHAS DE CHUMBO E MERCÚRIO ]
+                                  |
+                                  v
+
+[ RUPTURA DA SOLDA VITAL ]
+                                  |
+
++------------------
++------------------+
+
+|
+                                    |
+
+v
+                                    v
+
+[ AUMENTO DE ARKANUM DAS TREVAS ]
+
+[ REFINAMENTO DE OURO-SANGUE ]
+  (Mutação: Chifres, Garras, Pele)        (Invocação de Imps e Bestas)
+
+
+
+1. Rituais de Transmutação e Arkanum da Carne
+Ao traçarem círculos rituais com poeira de osso profanada e óleo de piche, os sacerdotes canalizam o Arkanum das Trevas diretamente nos tecidos do praticante:
+O Rito das Garras de Pesadelo: O ritualista mergulha as mãos em um tacho de nitrato de mercúrio fervente impregnado com pó de arcanita e sangue de besta. As unhas caem instantaneamente, e ossos afiados e escuros emergem das falanges, criando garras duras como Aço-Anil capazes de canalizar eletricidade estática roxa.
+A Crisálida da Pele Rubra: O acólito é banhado em Ouro-Sangue misturado a enxofre e bile abissal. A epiderme humana descasca em placas, dando lugar a uma pele espessa e vermelha como carmim vivo, que repele lâminas comuns e extingue chamas ao toque.
+A Brotação da Cauda Farpada: Um espinho de osso abissal é cravado na base da espinha do acólito. Ao longo de três dias de febre e agonia, uma cauda muscular e segmentada brota da coluna, equipada com um ferrão capaz de injetar toxinas paralisantes.
+2. A Grimoire da Invocação: Imps e Servos Infernais
+Utilizando o Ouro-Sangue como catalisador e frequências de diapasões de fenda, os Invocadores rasgam fendas temporárias para invocar a fauna nativa das Dobras do Abismo:
+Os Imps de Piche (Duendes do Abismo): Criaturas pequenas (com meio metro de altura), grotescas e asas de morcego feitas de pele e óleo denso. Possuem olhos amarelos brilhantes, dentes agulhados e risadas estridentes. São usados como espiões, mensageiros, saboteiros de fiação e ladrões de pequenos artefatos nas capitais.
+As Serpentes de Piche: Criaturas de sombra e óleo denso que rastejam pelas frestas de portas e esgotos para estrangular alvos em silêncio absoluto.
+Os Cães de Fogo Abissal: Quadrúpedes esqueléticos sem pele, cobertos por crostas de basalto incandescente e saliva de enxofre, usados para caçar fugitivos da Doutrina na tundra ou no deserto.
+Os Caçadores de Ecos (Os Descarnados): Behemoths disformes compostos por membros ossudos e dezenas de garras que se alimentam de almas recém-libertadas antes que alcancem o além.
+Ombrae, A Voz sem Boca: A grande entidade abissal adorada pelos Primordiais. Manifesta-se como um pulso de vácuo, escuridão e whispers que revelam segredos do código-fonte do mundo em troca de centenas de frascos de Ouro-Sangue.
+
+## V. Hierarquia e Estrutura das Células
+A Doutrina opera em um sistema rígido de segredo, células isoladas e negação plausível. Se um acólito é capturado por inquisidores dos Grilhões Arcanos ou Cães-Farejadores de Bastion, um feitiço de combustão interna espontânea é ativado no nitrato de mercúrio presente em suas veias, reduzindo o cérebro do prisioneiro a cinzas antes que possa revelar a localização da sede.
+
++-------------------------------------------------------+
+
+|
+            INVOCADORES PRIMORDIAIS                   |
+
+|
+ (Mestres Supremos, Guardiões do Tanque dos Ecos)     |
+
++---------------------------
++---------------------------+
+                                   |
+                                   v
+
++-------------------------------------------------------+
+
+|
+           MESTRES DA AGONIA E ESCULTORES             |
+
+|
+ (Supervisores de Criadouros, Mutação & Alquimia)     |
+
++---------------------------
++---------------------------+
+                                   |
+
++----------------
++----------------+
+
+|
+                                |
+
+v
+                                v
+
++------------------------------+
+
++------------------------------+
+
+|
+   INFILTRADOS DA NÉVOA
+|
+
+|
+    ACÓLITOS DEMONIZADOS     |
+
+|
+(Diplomatas, Advogados,
+|
+
+|
+(Executores com Garras,      |
+
+|
+ Burocritas das Capitais)
+|
+
+|
+ Chifres e Criadores de Imps) |
+
++------------------------------+
+
++------------------------------+
+
+
+
+1. Os Invocadores Primordiais
+Os três líderes supremos da facção que residem permanentemente na Catedral do Piche Negro sob Gristal. Eles abdicaram de suas identidades mortais e sofreram transfigurações demoníacas profundas. Vestem túnicas pesadas de tecido de arame forradas com veludo roxo manchado de ouro. Seus corpos possuem chifres coroados de basalto, peles de textura de obsidiana e veias incandescentes em tom dourado pálido.
+2. Os Mestres da Agonia e Escultores de Carne
+Alquimistas e anatomistas sombrios encarregados de administrar as estações de extração de Ouro-Sangue, os rituais de mutação corporal e os criadouros da Horda Silenciosa. São eles que fornecem as agulhas de chumbo, as toxinas baseadas em Orquídea-Véu e os elixires de esporos que transformam acólitos em seres demoníacos.
+3. Os Infiltrados da Névoa
+Agentes disfarçados que operam na alta sociedade, nos tribunais e nos cartórios das grandes capitais. Ocupam cargos de escrivães no Distrito dos Selos em Bastion, advogados corruptos na Chancelaria de Libertaris, juízes no Palácio de Vidro em Zul-Bazar e diplomatas em Ferrovale. Embora escondam suas mutações sob luvas elegantes, muitos já possuem garras retráteis ou olhos de pupilas verticais mantidos sob viseiras e óculos fumê.
+4. Os Acólitos Demonizados
+A massa operacional de choque e submundo da Doutrina. Ladrões de sepultura em Bastion, gladiadores deformados em Malaxis, marinheiros mercenários em Tartuga e contrabandistas em Libertaris. Exibem abertamente suas mutações (pele rubra, pequenas hastes cranianas, caudas farpadas) nos subsolos e usam imps de estimação para executar furtos e assassinatos em becos escuros.
+
+## VI. Membros Notáveis
+Invocador Primordial Malakor-Vex: O mais antigo e impiedoso líder da Doutrina em Gristal. Foi um prestigiado erudito da Torre Pura de Bastion expulsão há cinquenta anos por praticar vivisseção em aprendizes. Hoje, Malakor-Vex possui dois grandes chifres de basalto incrustados de runas roxas e uma pele de textura de pedra vulcânica. Não tem olhos físicos; no lugar das órbitas, possui dois cristais de Arcanita que captam o Arkanum das Trevas. É o arquiteto intelectual da aliança secreta com o General Kastel Draven.
+A Matriarca dos Ecos Roubados (Sra. Vespera): Uma aristocrata imensamente influente que reside em um palácio nobre no Distrito Sul de Bastion. Por trás de sua fachada de patrona das artes e caridade urbana, Vespera é uma mestre do Arkanum das Trevas. Sob suas luvas de seda carmesim, esconde garras negras e afiadas de quitina. Gerencia a rede secreta dos Semeadores de Sangue, canalizando recursos rurais para a Catedral em Gristal.
+Mestre Kaelen, o Escultor de Carne: Um anatomista humano que atua no submundo dos Banhos de Sangue e Piche em Malaxis. É o criador dos elixires de pele rubra e o especialista em incubar imps de piche em cubas de líquido amniótico abissal.
+Irmão Vaelen, o Vento Mudo: Um cultista infiltrado de raça Aeris que atua nas Estufas Suspensas de Aethelgard. Vaelen sofreu a mutação das Asas de Morcego Abissal, escondendo suas membranas negras sob capas pesadas enquanto usa imps alados para sabotar as Correntes de Ancoragem da metrópole suspensa.
+
+## VII. Relações Geopolíticas e Conexões Secretas
+
++-------------------------------------------------------+
+
+|
+              A DOUTRINA DO ABISMO                    |
+
++---------------------------
++---------------------------+
+                                   |
+
++--------------------------
++--------------------------+
+
+|
+
+|
+                         |
+
+v
+
+v
+                         v
+
++---------------+
+
++---------------+
+
++---------------+
+| O CÍRCULO DE
+|
+
+|
+GENERAL KASTEL|
+|
+GUARDIÕES DO  |
+|     GIZ
+|
+
+|
+   DRAVEN
+|
+
+|
+   CICLO      |
+|(Inimigo Fatal/|          |(Aliança Oculta|          |(Inimigo Sacro/|
+| Caça Absoluta)|
+|
+& Ouro-Sangue)|
+|
+Ecos Roubados)|
+
++---------------+
+
++---------------+
+
++---------------+
+
+
+
+1. A Aliança Oculta com o General Kastel Draven
+O segredo geopolítico mais perigoso do continente. Há trinta anos, durante a marcha suicida na Cicatriz Final da Fenda, Draven não venceu a horda alada por bravura ou gênio militar; ele fez um pacto profano com Malakor-Vex, sacrificando metade do seu próprio pelotão em um altar de basalto em troca da destruição das feras e do aprendizado do Arkanum de Trevas.
+Hoje, a Doutrina fornece a tecnologia logística, os rituais demoníacos, os imps saboteiros e os compostos químicos de submissão que alimentam os criadouros goblins da Horda Silenciosa. Em troca, Draven envia milhares de cativas para a extração de Ouro-Sangue e promete conceder à Doutrina o controle absoluto de todas as câmaras subterrâneas de Bastion e das minas de Ferrovale após a queda dos reinos.
+2. A Inimizade Fatal com o Círculo de Giz
+O Círculo de Giz da Torre Pura enxerga a Doutrina como uma infecção cancerígena e uma aberração matemática que ameaça destruir a estabilidade da Grade Arcana e a ordem universal. A ordem dos arquimagos não poupa recursos para incinerar qualquer acólito demonizado ou imp capturado. Em contrapartida, a Doutrina usa imps de piche para contaminar os condutores de prata da Grade nas províncias rurais e desestabilizar o suprimento de grãos.
+3. O Conflito Teológico com Nyxara e os Guardiões do Ciclo
+Para os devotos e sacerdotes da deusa da morte Nyxara (incluindo a Irmandade da Cinza e os Guardiões do Ciclo), a Doutrina do Abismo é a abominação suprema. Ao prender as almas em frascos de Ouro-Sangue, transfigurar a carne mortal em aberrações demoníacas e impedir que o "eco" do falecido siga o fluxo natural para o além, a Doutrina provoca uma náusea espiritual profunda em qualquer necromante paliativo. Os sacerdotes de Nyxara caçam as células da Doutrina para libertar os ecos aprisionados nos tanques de mercúrio.
+
+## VIII. Ganchos de Aventura e Ameaças
+1. A Infestação dos Imps de Piche
+O Cenário: Uma praga de pequenos Imps de Piche invadiu os depósitos de pergaminhos do Distrito dos Selos em Bastion, roendo certidões de patente e provocando pequenos incêndios de fogo sulfuroso nos arquivos.
+A Complicação: A Guarda Real acha que é uma infestação comum de pragas, mas a Arquimaga Sohl descobre que os imps estão roubando especificamente os mapas de localização dos nós subterrâneos da Grade Arcana.
+O Gancho: Os aventureiros são contratados para caçar os diabretes nos sótãos e tubulações da cidade, rastrear o ninho clandestino nos esgotos e neutralizar o acólito de pele rubra que os comanda antes que os mapas sejam entregues à Sra. Vespera.
+2. O Resgate no Tanque dos Ecos
+O Cenário: Uma importante arquivista do Círculo de Giz, que possuía as cifras secretas de calibração do Códice da Torre Pura, foi sequestrada em Bastion e levada para a Catedral do Piche Negro sob Gristal.
+<!-- SEGREDO -->
+A Complicação: Os Invocadores Primordiais estão preparando um ritual de Arkanum de Trevas de doze horas para arrancar as memórias e a alma da arquivista, convertendo sua essência em Ouro-Sangue e usando sua carne para incubar uma besta de sombra.
+<!-- FIM SEGREDO -->
+O Gancho: A Arquimaga Perpétua Sohl contrata o grupo sob sigilo absoluto para descer às Profundezas Cegas de Gristal, invadir a Catedral sob névoa corrosiva, desarmar os altares de agulhas de chumbo, eliminar os acólitos demonizados e resgatar a arquivista antes do colapso total de sua integridade espiritual.
+3. O Comboio do Sangue Dourado
+O Cenário: Um comboio clandestino de três carruagens lacradas com placas de chumbo deixa os limites da Marca da Fenda durante a noite rumo à fortaleza militar do General Draven em Ferrovale.
+<!-- SEGREDO -->
+A Complicação: As carruagens carregam trinta frascos de Ouro-Sangue refinado e quatro cubas de fermentação de imps de piche, escoltados por uma mistura de Hobgoblins de elite e Acólitos Demonizados armados com garras de quitina e caudas farpadas.
+<!-- FIM SEGREDO -->
+<!-- SEGREDO -->
+O Gancho: Os jogadores interceptam o comboio na estrada da serra e precisam decidir entre destruir os recipientes profanos, entregá-los ao Círculo de Giz para análise ou usar o material como prova definitiva para denunciar a traição de Draven perante o conselho de reis.
+<!-- FIM SEGREDO -->
+4. A Praga da Carne Vermelha
+O Cenário: Uma fazenda de grande porte no Cinturão Alvorada de Bastion teve seus camponeses transformados em executores de pele rubra e chifres rústicos após o proprietário contratar os serviços dos Semeadores de Sangue e usar um elixir de Arkanum de Trevas no poço da propriedade.
+A Complicação: Os camponeses mutantes trancaram o proprietário no celeiro e estão preparando um ritual para sacrificar todo o gado vizinho e invocar um Caçador de Ecos gigante.
+O Gancho: O grupo precisa invadir a fazenda tomada pela névoa sulfurosa, neutralizar os camponeses demonizados sem massacrar os inocentes não contaminados, purificar o poço central com nitrato de prata e impedir a manifestação do behemoth abissal.
+5. O Leilão do Elixir da Garra
+O Cenário: Uma poção rara baseada em Arcanita e Ouro-Sangue — o Elixir da Garra Abissal, capaz de conceder garras e força demoníaca temporária a qualquer guerreiro comum — foi colocada em leilão secreto no submundo dos Banhos de Piche em Malaxis.
+<!-- SEGREDO -->
+A Complicação: Agentes dos Grilhões Arcanos, emissários do General Draven e cultistas da Doutrina estão na cidade disputando o frasco com baús de ouro e lâminas envenenadas.
+<!-- FIM SEGREDO -->
+O Gancho: Os aventureiros precisam se infiltrar no leilão clandestino, roubar ou arrematar o elixir e escapar de Malaxis antes que os executores demonizados do Sindicato das Lâminas Negras fechem as rotas do desfiladeiro.
+6. A Invasão da Gaiola Nove
+O Cenário: Uma célula da Doutrina conseguiu assumir o controle dos guinchos do Bloco Quatro em Libertaris e está usando duzentos prisioneiros acorrentados como cobaias para um ritual de mutação em massa e invocação de uma Serpente de Piche gigante.
+A Complicação: Se a invocação for concluída, a besta destruirá os tirantes de sustentação do setor médio, provocando a queda em cadeia das gaiolas de celas sobre o abismo.
+O Gancho: Os jogadores são contratados pelos Ratos da Fenda para escalar as escarpas no escuro, invadir as passarelas ocupadas por acólitos de chifres e caudas farpadas, desarmar os altares de agulhas e eliminar o Mestre da Agonia antes que o ritual se complete.
+7. A Heresia no Templo de Nyxara
+O Cenário: O sumo sacerdote de um grande cemitério público em Bastion foi possuído por uma entidade do Abismo e começou a metamorfosear seu próprio corpo em segredo, desenvolvendo pele de obsidiana e asas de imp sob as vestes sacerdotais.
+<!-- SEGREDO -->
+A Complicação: O sacerdote corrupto começou a usar os corpos dos falecidos trazidos pelas famílias para extrair resíduos de Ouro-Sangue e criar uma ninhada de diabretes ocultos nas catacumbas.
+<!-- FIM SEGREDO -->
+O Gancho: A Irmandade da Cinza recruta o grupo para conduzir uma investigação discreta no interior das catacumbas do cemitério, destruir o ninho de imps, eliminar o sacerdote demonizado e libertar os ecos aprisionados antes que a população descubra a profanação do santuário.
+
+## VIII. Elementos Sensoriais para o Mestre Narrar
+Utilize estes elementos descritivos durante as sessões envolvendo a Doutrina do Abismo para transmitir a atmosfera sombria, fria, alquímica, demoníaca e aterradora da facção:
+Sons:
+O ganido agudo, a risada estridente e o esvoaçar frenético de Imps de Piche se escondendo nos cantos escuros do teto.
+O som oco, viscoso e contínuo de Ouro-Sangue e piche pingando em cubas metálicas e tanques de basalto.
+O zumbido grave, vibrante e irritante que emana dos diapasões de ressonância abissal usados nos rituais de Arkanum de Trevas.
+O estalar seco de ossos e articulações se projetando para fora do corpo durante os rituais de mutação de garras e chifres.
+O sussurro sobreposto em idiomas mortos e guturais que ecoa das fendas e dos frascos de Ouro-Sangue.
+Visões:
+Acólitos de pele rubra ou carmesim, com chifres retorcidos de basalto projetando-se da testa e caudas farpadas balançando sob capas roxas.
+O brilho dourado, denso e doentio do Ouro-Sangue refletindo a luz vacilante de velas de piche negro.
+Diabretes pequenos de pele oleosa negra e olhos amarelos brilhantes empoleirados nas vigas de madeira e altares.
+Agulhas longas e ocas de chumbo cravadas na pele de vítimas inconscientes dispostas em círculos rituais de poeira de osso.
+Manchas de óleo negro e piche corrosivo escorrendo pelas paredes de basalto das cavernas subterrâneas.
+Cheiros:
+O odor pungente, acre e sufocante de enxofre, enxofre queimado, ozônio, nitrato de mercúrio e piche de carvão.
+O fedor adocicado, nauseante e denso de sangue estagnado, suor de febre e fluido vital decomposto misturado a vinagre alquímico.
+O cheiro forte de queimado que surge quando acólitos demonizados usam garras incandescentes contra metais e tecidos.
+Tato e Sensações Térmicas:
+O frio congelante, úmido e antinatural que envolve o ar ao redor de um altar de Ouro-Sangue ativo.
+A sensação de calor escaldante e queimadura ao se aproximar de um cultista de pele rubra ou de um Cão de Fogo Abissal.
+A textura viscosa, pesada e morna do Ouro-Sangue ao entrar em contato com a pele.
+A rigidez e aspereza de escamas de basalto e garras de osso ao tocar em acólitos transfigurados.
+
+## IX. Economia e Tabela de Preços do Submundo Profano
+No mercado negro da Doutrina do Abismo, moedas de ouro comum são aceitas apenas para a compra de suprimentos mundanos. O verdadeiro comércio de alto nível é feito com frascos de Ouro-Sangue, elixires de mutação demoníaca, contratação de imps e cobrança de favores de vida:
+Item / Serviço
+Preço no Submundo (Células da Doutrina)
+Preço para Estrangeiros / Mercado Negro
+Frasco de Ouro-Sangue Refinado (Dose 50ml)
+120 Peças de Ouro
+300 Peças de Ouro (Produto altamente proibido)
+Elixir da Garra Abissal (Mutação de 1 Hora)
+45 Peças de Ouro
+110 Peças de Ouro (Concede garras de quitina temporárias)
+Ovo de Imp de Piche (Para Incubação)
+35 Peças de Ouro
+90 Peças de Ouro (Mascote/espião abissal perigoso)
+Agulha Oca de Chumbo com Nitrato de Mercúrio
+10 Peças de Ouro
+25 Peças de Ouro (Ferramenta de extração clandestina)
+Frasco de Toxina de Submissão de Orquídea-Véu
+18 Peças de Ouro
+45 Peças de Ouro (Usada para controle de cativos)
+Diapasão de Ressonância Abissal (Frequência Nula)
+40 Peças de Ouro
+90 Peças de Ouro (Instrumento para ocultar magia)
+Poeira de Ossos de Mártir Profanados (Saco 1kg)
+8 Peças de Ouro
+20 Peças de Ouro (Catalisador de círculos de sangue)
+Espelho de Eco Partido (Uso Único)
+150 Peças de Ouro
+400 Peças de Ouro (Rastreia um Despertado dos 3.333)
+Contratação de Imp de Piche para Furto/Espionagem (Dia)
+15 Peças de Ouro
+35 Peças de Ouro (Serviço de criatura furtiva)
+Vela de Piche Negro com Resina Abissal (Unidade)
+2 Peças de Prata
+8 Peças de Prata (Iluminação invisível a olhos comuns)
+Amuleto de Proteção contra Bússola de Sangue
+35 Peças de Ouro
+80 Peças de Ouro (Oculta o usuário de inquisidores)
+Bilis de Serpente de Piche (Dose 10ml)
+30 Peças de Ouro
+75 Peças de Ouro (Veneno que dissolve metal e couro)
+
+
 
 ---
 
@@ -3568,231 +3997,4372 @@ Ainda não criado.
 
 ---
 
-## [A Guarda da Carapaça]
+Lore Expandida: A Falange de Raiz-e-Aço
+Onde a paciência da rocha encontra o voo silencioso da flecha; na Bacia das Bandeiras, a honra não é herdada por sangue, mas forjada em cicatrizes, registrada na madeira-ferro e temperada no Aço-Anil.
 
-## Resumo
+## I. Visão Geral e a Doutrina do Escudo e da Folha
+Se as metrópoles do continente dependem de exércitos mercenários com o soldo em atraso ou de guardas burocráticas presas a impostos e cartórios, A Falange de Raiz-e-Aço representa o ápice da coordenação militar, cooperação inter-racial e disciplina tática no mundo conhecido. Operando a partir do coração militar em Treehold, a Falange cumpre uma função crucial: é a força de defesa territorial inexpugnável do reino, o exército permanente de elite da Árvore-Mãe e o bastião de contenção primário contra as ameaças que escorrem da Grande Fenda e as incursões devastadoras da Horda Silenciosa.
+Diferente de tropas de aluguel ou bandos de aventureiros informais, a Falange opera como um exército profissional de estado com código de conduta rigoroso. Não existem "contratos de caça em quadros de taverna"; o ingresso é um compromisso militar solene assinado no Tratado das Raízes Forjadas perante o Conselho das Duas Cascas. A promoção nas fileiras é estritamente regulada por anos de serviço na linha de frente, conduta marcial irretocável, disciplina em formação e domínio das táticas combinadas de combate na selva, nas passarelas e nos pântanos do Berço Primordial.
+1. Origens Históricas e o Tratado das Raízes Forjadas
+A fundação da Falange remonta aos anos sangrentos que se seguiram à abertura da Grande Fenda. Quando as primeiras hordas de monstros e abominações mutantes emergiram do abismo, as guarnições isoladas de elfos nas copas e os clãs de anões nas raízes sofreram baixas devastadoras. Apenas quando o lendário Mestre-Forjador Grimnir Barbazul e a Alta-Patrulheira Elenari Vento-Verde uniram a rigidez dos escudos de torre anões à precisão mortal dos arcos longos elficos, a linha de defesa conseguiu deter o avanço inimigo na Batalha do Passo da Seiva.
+Nesse dia histórico, foi selado o Tratado das Raízes Forjadas. Ficou estabelecido que Treehold jamais manteria forças raciais separadas: cada regimento de infantaria anã seria acompanhado por um contingente de cobertura elfica, e cada posto avançado seria comandado por uma dupla de oficiais de raças distintas.
 
-Força de defesa instalada em torres nas extremidades de Tartuga para proteger a cidade contra piratas e feras marinhas.
++---------------------------------------+
 
-## Objetivo/Agenda
+|
+       COMANDO CENTRAL DA FALANGE     |
 
-Guarnecer a cidade flutuante, controlar quem sobe a bordo e repelir ataques de monstros marinhos ou piratas.
+|
+  (Grão-Mestre Anão & Capitã Elfa)    |
 
-## Hierarquia
++-------------------
++-------------------+
+                                        |
 
-Comandada pelo Capitão da Carapaça. A liderança específica ainda não foi criada.
+[ Estado-Maior & Estratégia de Vanguarda ]
+                                        |
+                                        v
 
-## Território/Base
++---------------------------------------+
 
-[As Torres de Balista das Extremidades em Tartuga].
+|
+   HIERARQUIA E PATENTES MILITARES    |
 
-## Recursos
+|
+  (Escala de Comando e Bastiões)      |
 
-Balistas marítimas pesadas, ganchos de escalada, projéteis incendíarios e frota de barcos de patrulha.
++-------------------
++-------------------+
+                                        |
 
-## Relações com outras facções
++--------------------------------
++--------------------------------+
 
-[Os Astrólogos do Fluxo]: aliada — utilizam as previsões náuticas dos astrólogos para preparar interceptações.
+|
 
-## Membros notáveis
+|
+                               |
 
-Ainda não criado.
+v
+
+v
+                               v
+
++---------------+
+
++-----------------+
+
++-----------------+
+| RANK AÇO-ANIL
+|
+
+|
+RANK GALHO-OURO
+|
+
+|
+RANK FOLHA-PRATA|
+|(Campeões/Gerais)|            |(Comandantes/Cient)|            |(Patrulheiros)   |
+
++-------
++-------+
+
++--------
++--------+
+
++--------
++--------+
+
+|
+
+|
+                               |
+
++-------------------------------
++--------------------------------+
+                                        |
+                                        v
+
++---------------------------------------+
+
+|
+    RANK CASCA-BRONZE (RECRUTAS)      |
+
+|
+  (Guarnição Urbana & Treinamento)    |
+
++-------------------
++-------------------+
+                                        |
+                                        v
+
++---------------------------------------+
+
+|
+    DIVISÕES ESPECIALIZADAS DE CAMPO    |
+
+|
+(Bastiões, Vento Verde & Artilharia)  |
+
++---------------------------------------+
+
+
+2. A Vida na Legião e o Juramento da Seiva
+A atmosfera no Grande Quartel dos Bastões em Treehold cheira a cera de abelha, óleo de polir Aço-Anil, resina fresca de pinho e couro tratado. Escutam-se as ordens firmes de capitães anões inspecionando formações de escudos, o som ritmado de marchas pesadas em passadiços de madeira-ferro, o afinamento de arcos longos e a leitura contínua de relatórios de patrulha no Salão das Bandeiras.
+Ao ingressar na Falange, o recruta passa pelo ritual do Juramento da Seiva: uma lâmina de Aço-Anil faz um pequeno corte na palma da mão do soldado, que então encosta a mão na casca do tronco central. A Árvore-Mãe absorve a gota de sangue, e o recruta recebe sua Insígnia do Tronco — uma placa militar pesada travada no peito da armadura que serve como identificação, registro de patente e amuleto de proteção.
+
+## II. A Hierarquia de Fardamento e Patentes Militares
+A Falange de Raiz-e-Aço organiza seus regimentos através de uma escala estrita de quatro patentes operacionais. A progressão não é concedida por nascimento ou riqueza, mas por tempo de serviço comprovado em campanhas militares e avaliações rigorosas do Estado-Maior.
+
+[ CANDIDATO / RECRUTA ]
+-->
+[ JURAMENTO À ÁRVORE ]
+-->
+[ INSÍGNIA CASCA-BRONZE ]
+                                                             |
+                                                             v
+
+[ CAMPEÃO AÇO-ANIL ]
+   <--
+[ CAPITÃO GALHO-OURO ]
+<--
+[ PATRULHEIRO FOLHA-PRATA ]
+  (Generais de Legião)        (Comandantes de Setor)      (Garra de Vanguarda)
+
+
+1. Patente 1: Casca de Bronze (Recrutas e Guarnição Interna)
+Emblema: Uma placa redonda de bronze polido gravada com o selo de Treehold e a imagem de um broto de carvalho.
+Função Militar: Soldados recém-incorporados após passarem pelo treinamento de dezoito meses nas Raízes-Fornalha e na Praça de Armas. Atuam na guarnição interna das passarelas do Tronco Médio, na guarda de portões urbanos, no controle de eclusas de seiva e no escolta de comboios civis dentro do perímetro urbano.
+Especializações Internas:
+Guardas do Duto: Encarregados de patrulhar os canais de Seiva-Anil contra sabotadores.
+Sentinelas da Passarela: Garantem a ordem pública e a segurança nas pontes pênseis e plataformas de mercado.
+2. Patente 2: Folha de Prata (Patrulheiros de Vanguarda e Vetores)
+Emblema: Insígnia folheada a prata com entalhes de duas flechas e um machado cruzados sobre uma folha de lótus.
+Função Militar: A espinha dorsal operacional de combate da Falange. Guerreiros e arqueiros veteranos que executam patrulhas de longo alcance no Istmo Vivo, caçam batedores, escoltam comboios diplomáticos e garantem a segurança das rotas comerciais que abastecem Treehold.
+Especializações Internas:
+Batedores do Vento Verde: Elfos especializados em camuflagem na copa, rastreamento de monstros e emboscadas com arcos longos.
+Infantaria da Casca: Anões peritos em combate de proximidade com machado e escudo de torre em terreno acidentado.
+3. Patente 3: Galho de Ouro (Comandantes de Setor e Estrategistas)
+Emblema: Uma placa pesada de liga de ouro e bronze rúnico com trançados elficos e símbolos de fortificação anã.
+Função Militar: Capitães de pelotão, estrategistas de cerco, mestres de fortificação e instrutores chefes. Respondem pela defesa de setores inteiros da Muralha dos Anéis Exteriores, comandam operações de retaliação contra ameaças de grande porte no Berço Primordial e gerenciam a logística dos arsenais.
+Especializações Internas:
+Mestres de Balista: Oficiais encarregados da artilharia pesada de catapulta de raiz e balistas de Aço-Anil.
+Comandantes de Quadrante: Responsáveis por coordenar a resposta tática em caso de cerco ou invasão de larga escala.
+4. Patente 4: Aço-Anil (Generais, Campeões e Altos-Comandantes)
+Emblema: Uma insígnia pura de Aço-Anil com brilho iridescente azulado que reflete a luz com nuances purpúras.
+Função Militar: O alto escalão do comando militar de Treehold. Poucos guerreiros na história da cidade alcançaram este posto lendário. Vestem armaduras completas de Aço-Anil purificado e lideram formações de legião inteiras em guerras abertas. Assentam-se no Conselho das Duas Cascas em tempos de conflito para definir a estratégia geopolítica do reino.
+
+## III. Táticas Combinadas: A Sincronia de Guerra
+A força esmagadora da Falange repousa na união invicta das táticas de Parede de Escudos Anã e Arquearia Flutuante Elfica. Em combate, a Falange não atua como dois grupos separados, mas sim como um único e devastador organismo de guerra.
+
+[ LINHA DE FRENTE: ANÕES ]
+
+[ LINHA DE APOIO: ELFOS ]
+ (Escudos Quadrados de Aço-Anil +       (Arcos Longos de Madeira-Viva +
+  Martelos Rúnicos de Inércia)           Flechas com Seiva Paralisante)
+             \                                       /
+              \                                     /
+
++-----------------------------------+
+
+|
+   A FALANGE DE RAIZ-E-AÇO        |
+
+|
+(Formação Combinada Invicto-Tática)|
+
++-------------------
++---------------+
+                                   |
+                                   v
+
+[ ARTILHARIA: CATAPULTAS DE RAIZ VIVA ]
+             (Blocos de Basalto & Vasos de Resina)
+
+
+1. Os Bastiões da Casca (Infantaria Pesada Anã)
+Os anões formam a barreira inquebrável da formação de batalha. Vestem armaduras completas de placas quadradas de Aço-Anil e usam escudos de torre mecânicos equipados com travas laterais.
+Formação "Parede de Anil": Quando a linha é atacada por cavalaria, monstros gigantes ou hordas de goblins, os anões encaixam os escudos uns nos outros, criando uma muralha de metal reluzente de dois metros de altura sem frestas.
+Golpe de Inércia Sísmica: Atrás da parede de escudos, os guerreiros anões batem marretas rúnicas no solo em ritmo cadenciado. As runas cravadas no Aço-Anil descarregam ondas de choque sísmicas locais que desestabilizam o solo sob os pés dos atacantes, derrubando montarias e quebrando a força de investidas inimigas antes do impacto direto.
+2. Os Arqueiros do Vento Verde (Arqueiria de Precisão Elfica)
+Posicionados logo atrás da parede de escudos anã, ou camuflados no alto das ramificações superiores e na vegetação do entorno, os elfos operam como a força de destruição à distância.
+Arcos de Madeira-Viva: Seus arcos longos são cultivados em ramos vivos de madeira-ferro, flexíveis e calibrados para a força de cada atirador.
+Munição de Precisão: Disparam salvas disciplinares de flechas com pontas de Aço-Anil banhadas em Seiva-Paralisante. Capazes de perfurar placas de ferro cru a quinhentos metros de distância, as flechas paralisam o sistema nervoso de alvos grandes em poucos segundos, permitindo que a infantaria anã avance e finalize os sobreviventes com martelos e machados.
+3. A Artilharia das Raízes e Cerco Viva
+A Falange utiliza máquinas de cerco e defesas fixas que dispensam pólvora ou motores a vapor.
+Catapultas de Raiz: Tiras musculares e elásticas das próprias raízes vivas da Árvore-Mãe são tensionadas por roldanas de bronze e travadas com fechos rúnicos. Podem arremessar blocos de basalto de uma tonelada e vasos de resina incandescente a distâncias colossais com silêncio absoluto e precisão impressionante.
+Balistas de Trilha: Lançadores pesados montados sobre suportes de madeira-ferro que disparam arpoões de Aço-Anil amarrados a cabos de fibra de cipó-vivo, usados para derrubar monstros voadores ou travar carros de guerra inimigos.
+
+## IV. Quartel-General: O Salão das Bandeiras e das Armas
+O centro nervoso do comando da Falange fica localizado na Bacia da Confluência, no tronco de Treehold, ocupando uma vasta caverna petrificada e escavada na madeira ancestral.
+
+[ O SALÃO DAS BANDEIRAS (ESTADO-MAIOR) ]
+      /                                        \
+
+[ O ARSENAL DE AÇO-ANIL ]
+
+[ A PRAÇA DE ARMAS ]
+ (Forja & Manutenção de Legião)           (Instrução e Treinamento Militar)
+
+|
+                                       |
+   ======================================================
+
+\\\\\\\\    OS ALOJAMENTOS DA GUARNIÇÃO         ////////
+   ======================================================
+          |
+          v
+
+[ A CRIPTA DOS ESTANDARTES & TOMBADOS ]
+
+
+O Salão das Bandeiras: A sala de mapa tático circular onde os comandantes analisam relatórios de batedores, posicionamento de tropas da Horda Silenciosa, movimentações da Doutrina do Abismo e relatórios comerciais. No centro da sala, uma maquete tridimensional do Berço Primordial esculpida em madeira e pedra é constantemente atualizada por cartógrafos.
+O Arsenal de Aço-Anil: As oficinas militares subterrâneas onde mestres-forjadores anões e herbalistas elfos produzem, mantêm e alinham o armamento oficial da legião. Centenas de bigornas ressoam dia e noite enquanto tanques de resina e seiva azul temperam as lâminas recém-forjadas.
+A Praça de Armas: Campo de treinamento suspenso por vigas de madeira-ferro onde recrutas de Patente Casca-Bronze praticam a formação de escudos travados sob chuva de flechas de treino sem ponta e marchas de resistência com armadura completa.
+A Cripta dos Estandartes: Galeria solene onde ficam guardados os estandartes de regimentos desativados e onde os nomes de todos os soldados mortos em combate são entalhados nas paredes de madeira petrificada da Árvore-Mãe.
+
+## V. Membros Notáveis do Comando
+Grão-Mestre Thrain Barbazul (Patente Aço-Anil): Um veterano anão de quatro séculos com a barba trançada em fios reluzentes de Aço-Anil e ouro. Perdeu o olho esquerdo contra um Behemoth da Horda Silenciosa na Batalha da Fenda e comanda a Falange com rigor inabalável, disciplina e uma memória tática fenomenal.
+Capitã Caelen Vento-Verde (Patente Aço-Anil): Mestre-arqueira elfa de reflexos lendários e olhar sereno. Encarregada do comando das forças de vanguarda no Istmo Vivo e da vigilância das fronteiras do Berço Primordial. É famosa por conseguir disparar três flechas em alvos distintos antes que a primeira toque o chão.
+Mestre-de-Armas Kaelen (Patente Galho-Ouro): O instrutor-chefe anão encarregado de formar os recrutas de Patente Casca-Bronze. Famoso pela disciplina severa, voz de trovão e por inspecionar cada fecho e fivela das armaduras com uma régua de latão.
+Estrategista-Chefe Elian (Patente Galho-Ouro): Um elfo erudito especialista em geografia militar e análise de movimento de tropas inimigas. É o responsável por desenhar as rotas de patrulha e coordenar os suprimentos de campanha da legião.
+
+## VI. Relações Geopolíticas e Militares
+
++-------------------------------------------------------+
+
+|
+              FALANGE DE RAIZ-E-AÇO                   |
+
++---------------------------
++---------------------------+
+                                   |
+
++--------------------------
++--------------------------+
+
+|
+
+|
+                         |
+
+v
+
+v
+                         v
+
++---------------+
+
++---------------+
+
++---------------+
+| OS CÃES-
+|
+
+|
+MARCA DA
+|
+
+|
+HORDA         |
+| FAREJADORES
+|
+
+|
+   FENDA
+|
+
+|
+SILENCIOSA    |
+|(Bastion/
+|
+         |(Aliança
+|
+         |(Inimigo Mortal/|
+| Relação Fria)
+|
+
+|
+Tática)
+|
+
+|
+Extermínio)   |
+
++---------------+
+
++---------------+
+
++---------------+
+
+
+Cães-Farejadores de Bastion: Relação fria, formal e estritamente burocrática. A Falange enxerga os guardas de Bastion como burocratas urbanos presos a leis civis e incapazes de lutar na selva fértil, enquanto Bastion vê a Falange como uma força militar autônoma e perigosamente poderosa fora de seu controle legislativo.
+Marca da Fenda: Mantêm uma aliança tática de contenção e defesa mútua contra os monstros que sobem do abismo. A Falange envia regimentos de Folha-Prata para apoiar a guarnição dos fortes da cicatriz durante crises.
+Horda Silenciosa do General Draven: Inimigo declarado e mortal. A Falange combate ativamente qualquer incursão dos criadouros goblins e hobgoblins no perímetro da floresta, aplicando diretivas de extermínio contra os batedores inimigos.
+Doutrina do Abismo: Caça absoluta. Qualquer célula de cultistas detectada tentando infectar as raízes com Ouro-Sangue ou praticando rituais de mutação é neutralizada sem direito a rendição ou julgamento.
+
+## VII. Ordens de Operação e Diretivas Militares
+As missões da Falange são emitidas pelo Estado-Maior no Salão das Bandeiras através de Diretivas Militares seladas com cera verde e carimbo de Aço-Anil.
+1. Diretiva de Vanguarda: A Varredura dos Canais
+A Missão: Limpar um ninho de Mofo-Cinza e parasitas arcanos nos canais de irrigação de seiva do Nível Baixo de Treehold.
+<!-- SEGREDO -->
+A Complicação: A proliferação foi acelerada por saboteiros infiltrados da Doutrina do Abismo usando resíduos de Ouro-Sangue.
+<!-- FIM SEGREDO -->
+Objetivo Primário: Garantir a segurança do fluxo de seiva e eliminar a célula de infiltrados sem danificar as paredes dos dutos.
+Recompensa Militar: Concessão da Medalha da Casca Limpa e promoção interna de patrulha.
+2. Diretiva de Contenção: A Intercepção do Istmo
+A Missão: Interceptar uma coluna avançada de Hobgoblins da Horda Silenciosa armada com equipamentos pesados roubados de Ferrovale.
+A Complicação: A coluna inimiga carrega frascos de veneno de Orquídea-Véu para contaminar os poços avançados da guarda no Istmo Vivo.
+Objetivo Primário: Destruir o comboio inimigo, recuperar os estoques de veneno e capturar o oficial comandante para interrogatório.
+Recompensa Militar: Concessão de Flechas de Aço-Anil e licença de uso do Arsenal de Legião.
+3. Diretiva de Reconhecimento: A Sombra da Fenda
+A Missão: Liderar um pelotão de reconhecimento até as bordas da Grande Fenda para mapear uma nova fortaleza militar erguida pelos cultistas do Abismo.
+A Complicação: A região é afetada por tempestades estáticas que anulam a comunicação mística com a sede da Falange.
+Objetivo Primário: Mapear as defesas inimigas, identificar o número de tropas e retornar com relatórios de inteligência antes de ser detectado.
+Recompensa Militar: Citação de Honra no Salão das Bandeiras e promoção para a Patente Folha-Prata.
+4. Diretiva de Defesa: O Cerco do Anel Sul
+A Missão: Defender o Portão Sul da Muralha dos Anéis Exteriores contra uma onda de ataque de besouros geotérmicos e goblins da Horda.
+A Complicação: Uma das catapultas de raiz travou devido ao acúmulo de resina e precisa ser reparada sob chuva de projéteis inimigos.
+Objetivo Primário: Manter a linha de escudos travada, reparar a máquina de cerco e repelir a investida sem perder o controle da muralha.
+Recompensa Militar: Concessão do Escudo Quadrado de Aço-Anil Oficial.
+5. Diretiva de Escolta: O Carregamento de Seiva-Azul
+A Missão: Escoltar uma caravana de seis tanques de Seiva-Anil purificada das forjas baixas até os depósitos do Conselho das Duas Cascas.
+A Complicação: Mercenários mercantes de Zul-Bazar contrataram ladrões de tirolesa para roubar os tanques durante o trajeto.
+Objetivo Primário: Entregar a carga intacta e neutralizar os mercenários sem interromper o tráfego civil das passarelas.
+Recompensa Militar: Licença de compra de elixires de campanha no Arsenal.
+6. Diretiva de Caça: A Besta do Pântano Vivo
+A Missão: Caçar um Quimera de Piteira que invadiu as fazendas do perímetro externo e devorou três patrulhas de recrutas.
+A Complicação: A besta é imune a flechas comuns e solta um nevoeiro gordo e tóxico que cega os combatentes.
+Objetivo Primário: Utilizar arpoões de Aço-Anil para imobilizar o monstro e finalizar a besta com ataques sísmicos de martelo.
+Recompensa Militar: Troféu de Caça de Legião e promoção para o Comando de Pelotão.
+7. Diretiva de Resgate: O Pelotão Perdido
+A Missão: Entrar no território denso do Berço Primordial para localizar e resgatar um pelotão de patrulheiros elfos encurralado em uma ravina.
+A Complicação: A ravina está cercada por uma força tripla de goblins e monstros abissais mutantes.
+Objetivo Primário: Quebrar o cerco inimigo com uma formação de parede de escudos, resgatar os sobreviventes e escoltá-los de volta a Treehold.
+Recompensa Militar: Concessão da insígnia da Folha de Prata de Vanguarda.
+
+## VIII. Elementos Sensoriais para o Mestre Narrar
+Utilize estes elementos descritivos durante as sessões envolvendo a Falange de Raiz-e-Aço para transmitir a atmosfera de disciplina, ordem militar, poder bélico e coesão tática:
+Sons:
+O eco pesado, metálico e cadenciado da marcha anã em armaduras completas de Aço-Anil sobre as passarelas de madeira-ferro.
+O estalar seco, limpo e sincronizado de escudos de torre sendo encaixados nas travas mecânicas da parede de metal.
+O assobio sibilante de dezenas de flechas de madeira viva cortando o ar em rajadas disciplinadas.
+O baque grave e profundo de marretas rúnicas golpeando o solo e provocando tremores secundários.
+O soar solene e estridente de trompas de chifre de besta convocando formações na Praça de Armas.
+Visões:
+Formações perfeitas de infantaria anã com escudos azuis iridescentes travados lado a lado com arqueiros elfos de mantos verdes.
+O brilho roxo-azulado das insígnias militares de Aço-Anil refletindo a luz dos fungos bioluminescentes do tronco.
+Estandartes pesados de seda carmesim e verde com o símbolo da árvore e do machado balançando no topo dos bastiões.
+Fileiras de recrutas marchando em ritmo perfeito sob o olhar severo de mestres-de-armas de barba trançada.
+O vapor limpo subindo dos corpos dos soldados após sessões exaustivas de treinamento de escudos.
+Cheiros:
+O aroma limpo, ferroso e pesado de metal recém-polido, graxa de boi e óleo de sésamo usado nas armaduras.
+O cheiro forte, fresco e revigorante de pinho, resina, orvalho e terra úmida durante as patrulhas na floresta.
+O odor adocicado e medicinal do elixir de Seiva-Azul usado nos postos de socorro da legião.
+Tato e Sensações Térmicas:
+A sensação de peso, firmeza e solidez ao vestir a armadura de Aço-Anil ou segurar a insígnia militar da Falange.
+A vibração física no peito causada pelos impactos sísmicos dos martelos nas formações de infantaria.
+O ar fresco, seco e equilibrado do tronco central que alivia o cansaço dos treinos militares.
+
+## IX. Tabela de Suprimentos e Equipamentos Militares
+A concessão de equipamentos, armas e licenças da Falange é regulada diretamente pelo Arsenal de Legião. Integrantes oficiais possuem descontos e acesso exclusivo, enquanto civis e estrangeiros enfrentam restrições rigorosas:
+Item / Equipamento / Licença
+Custo de Concessão (Membros Oficiais)
+Restrição para Civis / Estrangeiros
+Lâmina de Adaga de Aço-Anil Oficial
+40 Peças de Ouro
+Proibido para civis (Item militar de regimento)
+Arco Longo de Madeira-Viva do Exército
+25 Peças de Ouro
+Proibido para civis (Arma de vanguarda restrita)
+Escudo de Torre Quadrado de Aço-Anil
+80 Peças de Ouro
+Proibido para civis (Equipamento tático de legião)
+Frasco de Elixir de Seiva-Azul de Campanha (100ml)
+12 Peças de Ouro
+35 Peças de Ouro (Uso médico militar controlado)
+Dúzia de Flechas de Penetração de Aço-Anil
+4 Peças de Ouro
+Proibido para civis (Munição de exército)
+Dose de Seiva Paralisante Militar (Grama)
+8 Peças de Ouro
+Proibido para civis (Insumo controlado de caça)
+Corda de Cipó-Vivo de Campanha (20m)
+3 Peças de Prata
+1 Peça de Ouro (Corda militar ultra-resistente)
+Ração Militar de Pão de Nozes com Mel (7 Dias)
+2 Peças de Prata
+5 Peças de Prata (Alimento de longa durabilidade)
+Martelo de Guerra Rúnico com Carga Sísmica
+90 Peças de Ouro
+Proibido para civis (Arma pesada de bastião)
+Manta de Camuflagem Folhada de Vanguarda
+6 Peças de Ouro
+18 Peças de Ouro (Equipamento de batedor)
+Kit de Manutenção e Polimento de Aço-Anil
+2 Peças de Ouro
+6 Peças de Ouro (Ferramentas de artesão de forja)
+Lança de Impacto de Aço-Anil com Arpoão
+50 Peças de Ouro
+Proibido para civis (Arma de artilharia e cerco)
+
+
 
 ---
 
-## [A Guarda dos Elos]
+Lore Expandida: A Guarda da Carapaça
+A onda não quebra a rocha pela força, mas pela constante entrega do seu fluxo; nós somos a maré que acolhe os fracos, defende o titã e devolve os violentos às profundezas de onde nunca deveriam ter saído.
 
-## Resumo
+## I. Visão Geral e a Doutrina da Maré Fluida
+Se nos reinos do continente as forças militares marcham em armaduras pesadas de ferro cru com botas ritmadas que fazem a terra tremer, A Guarda da Carapaça representa o oposto absoluto da arte da guerra tradicional: é a ordem dedicada de guardiões, protetores e mestres marciais de Tartuga. Operando a partir do Bastião de Coral Vivo instalado nas placas traseiras e nadadeiras do leviatã, a Guarda cumpre uma missão sagrada: defender o ecossistema único do colosso marinho, garantir a paz interior das passarelas de madrepérola e repelir qualquer ameaça trazida por piratas, corsários ou abominações que sobem das fossas do abismo.
+A Guarda não é uma milícia comunitária amadora ou rotativa, tampouco uma guilda mercenária de aventureiros caçadores de recompensa. Trata-se de uma Ordem Monástica e Militar Dedicada, cujos membros abdicam de ambições políticas e dedicam suas vidas ao estudo do Caminho da Água Serena. Seus integrantes entram para a ordem ainda jovens e passam por anos de rigoroso treinamento físico, espiritual, acrobático e elementar.
+Ao contrário dos exércitos continentais que visam a aniquilação física do inimigo por perfuração e esmagamento, a filosofia da Guarda repousa no Princípio da Reflexão e Desvio: o guardião nunca contrapõe força contra força. Ele absorve o impacto do golpe inimigo, usa a gravidade e o impulso do próprio agressor contra ele mesmo e arremessa o oponente nas águas do oceano ou o imobiliza com travamentos articulares de precisão antes que uma única gota de sangue inocente seja derramada sobre o casco sagrado.
 
-Força de segurança militar armada com bestas e ganchos de atracação que patrulha as plataformas suspensas de Gristal.
++---------------------------------------+
 
-## Objetivo/Agenda
+|
+       COMANDO CENTRAL DA GUARDA      |
 
-Manter a lei nas pontes e arremessar criminosos graves diretamente no precipício sem fim durante as execuções.
+|
+  (Mestre do Casco & Capitã do Flanco)|
 
-## Hierarquia
++-------------------
++-------------------+
+                                        |
 
-Comandada pelo Capitão das Pontes. A liderança específica ainda não foi criada.
+[ Estado-Maior & Conselho das Seis Flutuações ]
+                                        |
+                                        v
 
-## Território/Base
++---------------------------------------+
 
-Postos de segurança nas correntes e elevadores centrais de Gristal.
+|
+   HIERARQUIA E PATENTES MARCIAIS     |
 
-## Recursos
+|
+  (Graus de Devoção e Corais)         |
 
-Bestas pesadas, ganchos de contenção, redes de captura e jurisdição de execução sumária no Salto do Silêncio.
++-------------------
++-------------------+
+                                        |
 
-## Relações com outras facções
++--------------------------------
++--------------------------------+
 
-[Os Engenheiros de Elo]: aliada — garantem a proteção do maquinário em troca de financiamento.
+|
 
-## Membros notáveis
+|
+                               |
 
-Ainda não criado.
+v
+
+v
+                               v
+
++---------------+
+
++-----------------+
+
++-----------------+
+| RANK CRISTAL
+|
+
+|
+RANK MARÉ-ALTA
+|
+
+|
+RANK GOTA-GUIA  |
+|(Guardas Supremos)|           |(Comandantes de Flanco)|         |(Praticantes de Campo)|
+
++-------
++-------+
+
++--------
++--------+
+
++--------
++--------+
+
+|
+
+|
+                               |
+
++-------------------------------
++--------------------------------+
+                                        |
+                                        v
+
++---------------------------------------+
+
+|
+    RANK CONCHA-BRANCA (INICIADOS)    |
+
+|
+  (Treinamento & Patrulha Urbana)     |
+
++-------------------
++-------------------+
+                                        |
+                                        v
+
++---------------------------------------+
+
+|
+  DIVISÕES ESPECIALIZADAS DE CAMPO    |
+
+|
+(Mergulhadores, Arpões & Defensores)  |
+
++---------------------------------------+
+
+
+
+1. Origens Históricas e a Batalha do Arrecife Vermelho
+A fundação da Guarda remonta aos séculos traumáticos que se seguiram à partida dos Arquitetos, quando Tartuga ainda era uma comunidade dispersa de sobreviventes extremamente vulneráveis a ataques de corsários marítimos. O evento fundador da Ordem ocorreu durante a Batalha do Arrecife Vermelho, quando uma frota de doze galés piratas tentou ancorar na carapaça para perfurar o casco em busca de ossos e fluidos de titã.
+Naquele dia, doze praticantes ancestrais da Magia do Fluxo uniram-se na praia de conchas moídas. Usando apenas bastões de madeira, técnicas acrobáticas e a canalização da água da maré, desarmaram mais de trezentos invasores e derrubaram as tripulações nas águas do oceano sem perfurar um único casco de barco ou tirar uma única vida. Daquele dia em diante, foi selado o Código do Casco: a Guarda da Carapaça jamais usaria lâminas de aço cru, pólvora ou armas de mutilação desnecessária.
+2. O Batismo no Abismo Azul e a Composição Espiritual
+Todo recruta admitido para a ordem passa pelo complexo ritual do Batismo no Abismo Azul, estruturado em três etapas profundas:
+O Salto da Nadadeira: O iniciado salta da nadadeira traseira em mar aberto durante uma noite de lua cheia, enfrentando a queda vertiginosa e a turbulência das marés sem demonstrar pânico.
+A Dança dos Cetáceos: O recruta deve nadar ao lado de criaturas marinhas de águas profundas por três horas em escuridão total, demonstrando controle absoluto da respiração, apnéia e ausência de medo.
+A Sintonização Cardíaca: Mergulhado nas câmaras inferiores do casco, o iniciado encosta o peito nu na rocha ossea e sintoniza seu próprio pulso cardíaco com a vibração lenta, grave e contínua do coração do colosso marinho.
+
+[ RECRUTA / CANDIDATO ]
+-->
+[ O SALTO DA NADADEIRA ]
+-->
+[ A DANÇA DOS CETÁCEOS ]
+                                                                   |
+                                                                   v
+
+[ INSÍGNIA CONCHA-BRANCA ]
+<--
+[ SINTONIZAÇÃO CARDÍACA ]
+<--
+[ BATISMO COMPLETO ]
+
+
+
+II. A Arte Marcial das Marés: A Dança das Seis Correntes
+A eficácia tática e a reputação formidável da Guarda repousam em uma disciplina marcial única no continente: A Dança das Seis Correntes. Esta arte combina o combate corporal acrobático, o uso de bastões flexíveis de madeira, projéteis de arpoamento e a manipulação elementar fluida da água salgada e da umidade do ar.
+
+[ ATAQUE INIMIGO EM INVESTIDA ]
+      -->
+[ ABSORÇÃO DE IMPULSO E ROTAÇÃO ]
+
+|
+                                            |
+
+v
+                                            v
+
+[ DESVIO ELEMENTAR DE ÁGUA ]
+         -->
+[ TRAVAMENTO ARTICULAR / ARREMESSO ]
+ (Uso de Escudos Fluidos de Maré)              (Projeção do Inimigo ao Oceano)
+
+
+
+1. As Seis Formas de Combate Corporal
+A Forma do Orvalho (Esquiva e Leveza): O guardião move-se com a fluidez de uma gota deslizando por uma folha de lótus aquático. Permite esquivar de estocadas rápidas de adagas, flechas e projéteis com movimentos mínimos de tronco e quadril, utilizando o piso molhado ou escorregadio das passarelas de junco como vantagem de deslocamento.
+A Forma do Redemoinho (Desarme e Rotação): Focada em interceptar e redirecionar o peso de oponentes armados. Ao receber um golpe de espada pesada ou machado de duas mãos, o guardião gira o corpo, agarra o pulso ou o cabo da arma do agressor e usa a força da própria investida para desarmá-lo e arremessá-lo sobre a balaustrada diretamente no mar.
+A Forma da Cascata (Impacto e Pressão Nervosa): Uma sequência rápida e ritmada de golpes com as palmas das mãos, cotovelos e a base do bastão em pontos de pressão nervosa do corpo humano. Capaz de paralisar temporariamente os membros do oponente ou induzir desmaio instantâneo sem quebrar ossos ou causar hemorragias internas.
+A Forma da Maré-Cheia (Manipulação Hidro-Elementar): Praticada pelos mestres com maior afinidade arcana. O guardião canaliza a água do mar ou a umidade da brisa ao redor do seu corpo, criando escudos fluidos capazes de amortecer impactos físicos violentos ou arremessar colunas de água salgada para empurrar grupos de invasores para fora das passarelas.
+A Forma da Ancoragem (Inércia da Carapaça): O combatente alinha seu centro de gravidade com a massa calcificada do casco de osso. Torna-se virtualmente impossível de ser derrubado, empurrado ou movido, funcionando como uma rocha firme contra a qual a investida dos inimigos se quebra desordenadamente.
+A Forma do Abismo (Combate Subaquático e Apnéia): Especialização dos patrulheiros de nadadeira e mergulhadores. Permite lutar sob a água em apnéia prolongada por até trinta minutos, utilizando pequenos arpões com pontas de coral vivo e redes de seda marinha para imobilizar monstros e mergulhadores inimigos sem sufocá-los.
+2. Armamento Tradicional da Ordem
+A Guarda rejeita categoricamente armas de lâmina de aço, bestas mecânicas ou armas de pólvora. Seu arsenal é inteiramente confeccionado em materiais orgânicos e sustentáveis do ecossistema marinho:
+O Bastão de Madeira-Marinha (Kaelo): Um bastão pesado e extremamente flexível de dois metros de comprimento, esculpido em raízes de árvores dos mangues profundos. É leve, incrivelmente resistente e imbuído com resina de algas que impede que rache ao bloquear impactos metálicos pesados.
+Arpões de Marfim e Coral Vivo: Lançadores leves de braço que disparam pequenos arpões de marfim de morsa amarrados a cabos de seda marinha ultra-resistentes. Usados para agarrar bordas de navios piratas, resgatar marinheiros caídos ou travar oponentes à distância.
+O Escudo de Madrepérola: Um escudo leve e oval confeccionado com lâminas de concha polida. Além de repelir golpes físicos, a superfície espelhada reflete a luz do sol diretamente nos olhos dos agressores durante combates diurnos.
+Redes de Seda Marinha com Pesos de Coral: Redes trançadas com fios de aranhas aquáticas, extremamente leves quando secas, mas que se contraem e ficam pesadas ao entrar em contato com a água salgada, imobilizando alvos instantaneamente.
+
+## III. Hierarquia e Estágios de Devoção
+A progressão dentro da Guarda da Carapaça é estritamente meritocrática, técnica e espiritual, regulada pela maestria demonstrada nas Formas da Maré e pelo tempo de serviço dedicado à proteção comunitária de Tartuga.
+
+[ RECRUTA / CANDIDATO ]
+-->
+[ BATISMO NO ABISMO ]
+-->
+[ INSÍGNIA CONCHA-BRANCA ]
+                                                            |
+                                                            v
+
+[ MESTRE CRISTAL ]
+     <--
+[ CAPITÃO MARÉ-ALTA ]
+<--
+[ PATRULHEIRO GOTA-GUIA ]
+  (Conselho Supremo)         (Comandante de Setor)      (Guardião de Passarela)
+
+
+
+1. Patente 1: Concha-Branca (Iniciados e Guarda Urbana)
+Emblema: Um pingente simples de concha espiral branca trançado em cabo de junco marinho.
+Função Militar: Jovens guardiões que concluíram o treinamento básico de três anos. Atuam na patrulha das passarelas da Feira de Madrepérola, no controle de tráfego de botes nos ancoradouros, no apoio a idosos e no auxílio de emergências comunitárias.
+Subdivisões Especializadas:
+Guardiões dos Poços: Encarregados de vigiar os reservatórios internos de água doce contra contaminações.
+Sentinelas de Junco: Patrulham as pontes pênseis e garantem a segurança das crianças junto à água.
+Guias do Ancoradouro: Orientam botes estrangeiros e previnem acidentes na atracagem.
+2. Patente 2: Gota-Guia (Patrulheiros de Vanguarda e Mergulhadores)
+Emblema: Insígnia de madrepérola lapidada em formato de gota de água com detalhes em azul-turquesa.
+Função Militar: A espinha dorsal operacional de defesa. Guerreiros e acrobatas experientes encarregados da vigilância perimetral do casco, escolta de embarcações de pesca, mergulho de inspeção da carapaça e contenção de ataques de saqueadores.
+Subdivisões Especializadas:
+Mergulhadores do Casco: Inspecionam a carapaça da Tartaruga Ancestral para remover parasitas e resíduos nocivos.
+Batedores da Maré: Operam pirogas rápidas no perímetro de dois quilômetros ao redor da cidade para detectar navios suspeitos.
+Escolha dos Botes: Garantem a proteção de comboios comerciais nas rotas marítimas abertas.
+3. Patente 3: Maré-Alta (Comandantes de Flanco e Estrategistas)
+Emblema: Placa pesada de osso de baleia gravada com três espirais rúnicas preenchidas com tinta de alga bioluminescente.
+Função Militar: Oficiais superiores responsáveis pela defesa de setores inteiros da cidade (Nadadeira Esquerda, Nadadeira Direita, Cume e Cauda). Coordenam a resposta tática em caso de ataques de frotas piratas ou tempestades tropicais severas.
+Subdivisões Especializadas:
+Mestres de Quadrante: Responsáveis pela logística de suprimentos e evacuação de setores urbanos.
+Táticos de Tempestade: Comandam os rituais de imersão parcial do casco durante furacões no oceano.
+4. Patente 4: Mestre Cristal (Conselho Supremo da Guarda)
+Emblema: Um amuleto feito de coral vivo e cristal de quartzo marinho que brilha com uma luz ciana suave em sintonização com a maré.
+Função Militar: Os seis maiores mestres marciais da ordem (conhecidos como o Conselho das Seis Flutuações). Ocupam assentos no Conselho Comunitário de Tartuga para deliberar sobre a segurança e as rotas de navegação da cidade ao lado dos Astrólogos do Fluxo.
+
+## IV. Quartel-General: O Bastião de Coral Vivo
+O centro de comando da Guarda da Carapaça fica localizado na seção posterior do casco, próximo à cauda e às placas osseas mais espessas do leviatã.
+
+[ O SALÃO DAS SEIS ESPIRAIS (ESTADO-MAIOR) ]
+      /                                           \
+
+[ O ANEL DOS CORAIS ]
+
+[ O ARSENAL DE MARFIM ]
+ (Anfiteatro de Treinamento e Artes Marciais)  (Forja e Manutenção de Equipamentos)
+
+|
+                                          |
+   ================================----------------========
+
+\\\\\\\\    OS ALOJAMENTOS DOS GUARDIÕES        ////////
+   ================================----------------========
+          |
+          v
+
+[ O POÇO DO BATISMO (ACCESSO AO MAR ABIERTO) ]
+
+
+
+O Salão das Seis Espirais: Sala de mapas aquáticos e reuniões táticas do Estado-Maior. No centro, uma mesa de coral esculpida contém um modelo tridimensional em escala do casco da Tartaruga Ancestral e das correntes marítimas do entorno.
+O Anel dos Corais: Um anfiteatro aberto de mármore de coral pavimentado com areia fina de conchas moídas onde iniciantes e mestres praticam as Formas da Maré sob o olhar atento dos instrutores.
+O Poço do Batismo: Uma cavidade natural no casco que conecta o interior do bastião diretamente às águas cristalinas do oceano aberto, utilizada para saídas rápidas de emergência e rituais de consagração.
+A Câmara da Ressonância Cardíaca: Um santuário silencioso no fundo do bastião onde os mestres realizam meditações profundas encostados na rocha ossea para monitorar a saúde e o pulso do titã.
+A Galeria dos Mantos Aquáticos: Alojamento e vestiário da ordem onde são guardadas as túnicas leves de algodão marinho e os óleos aromáticos usados para polir os bastões Kaelo.
+
+## V. Membros Notáveis do Comando
+Capitã Lyra (Patente Mestre Cristal): Comandante suprema da Guarda da Carapaça. Uma estrategista brilhante e mestre incomparável da Forma do Redemoinho. Famosa por desarmar sozinha oito piratas armados no convés de um navio invasor antes que a primeira espada tocasse o chão.
+Mestre-Aquático Kaelen (Patente Mestre Cristal): Um ancião de pele bronzeada, cicatrizes sutis e olhos serenos que supervisiona o treinamento de iniciantes. É um dos raros praticantes capazes de moldar colunas de água salgada purificada sem o uso de diapasões arcanos.
+Guardiã Nerida (Patente Maré-Alta): Responsável pelo comando do Flanco da Cauda. Especialista em combate acrobático subaquático e caça a monstros marinhos que se aproximam das palafitas residenciais.
+Guardião Taelor (Patente Gota-Guia): Um jovem prodígio especialista em infiltração noturna e uso de arpões de marfim. Famoso por resgatar três famílias de pescadores durante um ataque de corsários sob tempestade.
+Anciã Vespera (Mestre Cristal da Sintonização): A guardiã mais antiga da ordem, encarregada de monitorar o pulso e a saúde da Tartaruga Ancestral na Câmara da Ressonância.
+
+## VI. Relações Geopolíticas e Relações Militares
+
++-------------------------------------------------------+
+
+|
+              A GUARDA DA CARAPAÇA                    |
+
++---------------------------
++---------------------------+
+                                   |
+
++--------------------------
++--------------------------+
+
+|
+
+|
+                         |
+
+v
+
+v
+                         v
+
++---------------+
+
++---------------+
+
++---------------+
+| SINDICATO DAS
+|
+
+|
+QUEBRADORES
+|
+
+|
+FALANGE DE    |
+| LÂMINAS NEGRAS|
+|
+DE SELOS
+|
+
+|
+RAIZ-E-AÇO    |
+|(Malaxis/
+|
+         |(Zul-Bazar/
+|
+         |(Treehold/     |
+| Inimigo Morte)|
+|
+Respeito Frio)|
+|
+Aliança de Honra)|
+
++---------------+
+
++---------------+
+
++---------------+
+
+
+
+Sindicato das Lâminas Negras e Piratas de Malaxis: Inimigos declarados. A Guarda combate com firmeza qualquer tentativa de abordagem de corsários contra Tartuga, aplicando desarmes e arremessando agressores ao oceano.
+Quebradores de Selos de Zul-Bazar: Relação fria e vigilante. Os Quebradores respeitam a autoridade da Guarda nas passarelas, mas a Guarda impede qualquer tentativa de cobrança coercitiva ou captura de devedores dentro do perímetro da cidade flutuante.
+Falange de Raiz-e-Aço de Treehold: Profunda admiração mútua. Ambas as facções enxergam-se como guardiãs de santuários vivos (a Árvore-Mãe e o Leviatã Ancestral). Periodicamente, trocam emissários para compartilhar técnicas de defesa não invasiva.
+Cães-Farejadores de Bastion: Relação diplomática neutra. A Guarda permite a entrada de inspetores de Bastion na Feira de Madrepérola, contanto que cumpram o Código do Casco e não portem armas de mutilação.
+
+## VII. Diretivas e Missões Operacionais
+As missões da Guarda da Carapaça são emitidas no Salão das Seis Espirais através de Diretivas da Maré gravadas em lâminas de madrepérola:
+1. Diretiva de Resgate: O Vaso do Pescador
+Fase de Investigação: Localizar o sinal de fumaça de um bote de pesca desaparecido perto dos Mangues Sussurrantes.
+A Missão: Resgatar uma família de pescadores cujo bote flutuante ficou preso em um leito de algas espessas durante uma tempestade repentina.
+A Complicação: A área atraiu tubarões de carapaça de osso que estão tentando virar a embarcação.
+Objetivo Primário: Liberar o bote usando cortes de coral, neutralizar os predadores com bastões Kaelo e escoltar a família em segurança de volta às palafitas.
+Recompensa: Concessão da Insígnia da Concha-Branca de Vanguarda.
+2. Diretiva de Contenção: A Invasão da Névoa
+Fase de Investigação: Patrulhar o Flanco da Nadadeira Esquerda após os batedores notarem o silêncio atípico dos sinos de concha.
+A Missão: Interceptar uma piroga de corsários de Malaxis que se aproximou sorrateiramente sob a névoa noturna.
+A Complicação: Os piratas carregam recipientes de piche incandescente para atear fogo nas habitações de junco.
+Objetivo Primário: Desarmar os invasores usando a Forma do Redemoinho, apreender o piche e lançar os corsários na água sem danificar as palafitas.
+Recompensa: Concessão de Arpão de Marfim Oficial e promoção a Gota-Guia.
+3. Diretiva de Purificação: O Parasita do Casco
+Fase de Investigação: Analisar o aumento de temperatura corporal registrado no Anel dos Corais durante a travessia.
+A Missão: Mergulhar nas águas sob o casco de Aethel-Chelis para remover uma infestação de cracas geotérmicas corrosivas que está causando febre na Tartaruga Ancestral.
+A Complicação: As cracas soltam fluidos ácidos quando raspadas incorretamente.
+Objetivo Primário: Limpar as placas afetadas usando unguentos de algas-filtro sem ferir a pele do colosso.
+Recompensa: Elogio de Honra no Conselho dos Mestres e licença para uso de elixires medicinais.
+4. Diretiva de Proteção: A Balsa dos Devedores
+Fase de Investigação: Interceptar uma queixa formal apresentada no ancoradouro por mercenários de Zul-Bazar.
+A Missão: Impedir que um grupo de mercenários de Zul-Bazar capture uma família de refugiados de contrato dentro das passarelas da Feira de Madrepérola.
+A Complicação: Os mercenários possuem uma ordem de penhora válida no Palácio de Vidro, mas a legislação de Tartuga garante asilo sagrado a todos a bordo do casco.
+Objetivo Primário: Bloquear os mercenários com paredes humanas de escudos de madrepérola, expulsá-los dos ancoradouros e garantir a segurança dos refugiados.
+Recompensa: Concessão do Bastão de Madeira-Marinha de Mestre.
+5. Diretiva de Vigilância: A Sombra da Fossa
+Fase de Investigação: Instalar diapasões de som abissal nos arrecifes externos antes da travessia noturna.
+A Missão: Patrulhar o perímetro de arrecifes próximos durante a travessia de Tartuga sobre a Fossa de Sombra.
+A Complicação: Serpentes marinhas gigantes costumam subir das profundezas atraídas pela luminescência das cúpulas da cidade.
+Objetivo Primário: Utilizar diapasões de som abissal para desviar o curso das bestas antes que alcancem o casco.
+Recompensa: Promoção à Patente Maré-Alta.
+6. Diretiva de Investigação: A Seiva Contaminada
+Fase de Investigação: Rastrear a origem do gosto amargo notado pela população na água potável da Bacia Central.
+A Missão: Investigar o envenenamento misterioso de um dos reservatórios internos de água doce na Câmara do Osso Vazio.
+<!-- SEGREDO -->
+A Complicação: Saboteiros da Doutrina do Abismo infiltraram-se como limpadores de alga para introduzir resíduos de Ouro-Sangue no reservatório.
+<!-- FIM SEGREDO -->
+Objetivo Primário: Neutralizar a célula de saboteiros, purificar o reservatório com filtros de coral e reforçar a guarda nas galerias inferiores.
+Recompensa: Medalha da Água Pura e assento de observador no Conselho de Guerra.
+7. Diretiva de Escolta: A Caravana do Coral
+Fase de Investigação: Mapear a rota de navegação mais segura até o atol de cultivo medicinal.
+A Missão: Escoltar um comboio de pirogas levando mudas raras de coral medicinal e pérolas negras da Feira de Madrepérola até um atol seguro de cultivo.
+A Complicação: Um navio galé de caçadores de escravos de Libertaris está perseguindo a caravana no oceano aberto.
+Objetivo Primário: Usar táticas de dispersão aquática, abalroar a galé com colunas de água elementar e entregar a carga intacta.
+Recompensa: Concessão do Título de Guardião Lendário do Casco.
+
+## VIII. Elementos Sensoriais para o Mestre Narrar
+Utilize estes elementos descritivos durante as sessões envolvendo a Guarda da Carapaça para transmitir sua graça, leveza, autoridade pacífica e maestria marcial:
+Sons:
+O som suave, seco e ritmado de bastões de madeira marinha bloqueando golpes e batendo no chão de conchas moídas.
+O marulhar limpo e contínuo da água salgada sendo deslocada por movimentos corporais fluidos durante o combate.
+O estalar melodioso e ritmado de sinos de madrepérola balançando nos ombros das túnicas dos guardiões.
+O assobio sibilante de arpões de marfim cortando o ar amarrados a cabos de seda marinha.
+O canto coral suave dos guardiões ao iniciarem patrulhas ao amanhecer no Anel dos Corais.
+Visões:
+Guerreiros vestindo túnicas leves de algodão branco e mantos azuis-turquesa, movendo-se com a graça de uma dança sobre o piso molhado.
+O brilho espetacular do sol refletindo nos escudos de madrepérola polida e nas insígnias de coral vivo.
+A acrobacia impressionante de guardiões saltando das passarelas para o oceano sem causar marolas violentas.
+Formações circulares de escudos leves desviando flechas e golpes metálicos com giros contínuos de corpo.
+Cheiros:
+O aroma fresco, limpo e revigorante de sal marinho, brisa tropical e ozônio puro.
+O cheiro adocicado e medicinal dos óleos de alga usados para lubrificar as articulações e polir os bastões.
+O cheiro suave de flores de lótus aquáticas trançadas no cabelo dos guardiões.
+Tato e Sensações Térmicas:
+A sensação de brisa morna e respingos de água doce refrescando o rosto durante o treino no Anel dos Corais.
+A textura lisa, fria e polida dos bastões de madeira marinha e das insígnias de madrepérola.
+A firmeza e estabilidade da postura dos mestres ao demonstrarem a Forma da Ancoragem.
+
+## IX. Economia e Tabela de Equipamentos e Concessões da Ordem
+A concessão de equipamentos e licenças da Guarda é regulada diretamente pelo Bastião de Coral Vivo. Moradores e aliados possuem acesso favorecido, enquanto estrangeiros enfrentam avaliação rigorosa:
+| Item / Equipamento / Licença
+|
+Custo (Membros Oficiais / Aliados)
+|
+Restrição para Estrangeiros |
+| Bastão de Madeira-Marinha (Kaelo)
+|
+10 Peças de Prata
+|
+5 Peças de Ouro (Exige teste de respeito à ordem) |
+| Escudo de Madrepérola Polida
+|
+15 Peças de Prata
+|
+8 Peças de Ouro (Peça artesanal sob encomenda) |
+| Arpão de Marfim com Cabo de Seda Marinha
+|
+4 Peças de Ouro
+|
+Proibido (Equipamento tático exclusivo de guarda) |
+| Frasco de Óleo de Alga para Polimento (100ml)| 2 Peças de Prata
+|
+1 Peça de Ouro (Insumo medicinal e de manutenção) |
+| Pingente da Concha-Branca (Identificação)
+|
+Concedido por Mérito
+|
+Proibido (Item sagrado de iniciação) |
+| Elixir de Respiração Aquática (Dose 1 Hora)
+|
+6 Peças de Ouro
+|
+18 Peças de Ouro (Uso controlled de mergulho) |
+| Corda de Seda Marinha de Campanha (20m)
+|
+8 Peças de Prata
+|
+3 Peças de Ouro (Corda ultra-resistente e leve) |
+| Ração de Tâmaras Secas com Mel de Alga (7 Dias)| 1 Peça de Prata
+|
+4 Peças de Prata (Alimento leve de longa durabilidade)|
+| Diapasão de Concha para Elementalismo
+|
+8 Peças de Ouro
+|
+25 Peças de Ouro (Instrumento de afinação hídrica) |
+| Capa de Algodão Marinho de Vanguarda
+|
+3 Peças de Ouro
+|
+10 Peças de Ouro (Vestuário leve que repele água) |
+| Kit de Limpeza de Casco de Coral
+|
+1 Peça de Prata
+|
+5 Peças de Prata (Ferramentas de conservação) |
+| Licença de Escolta de Piroga (Semana)
+|
+Concedido por Mérito
+|
+30 Peças de Ouro (Serviço de proteção no mar) |
 
 ---
 
-## [A Irmandade da Cinza]
+Lore Expandida: A Guarda dos Elos
+O metal não perdoa o erro, a balança não aceita mentiras e a dívida que não se paga em ouro é quitada na queda livre do abismo.
 
-## Resumo
+## I. Visão Geral e a Doutrina do Metal sob Tensão
+Se nos reinos terrestres as forças da ordem marcham em nome de reis, coroas ou deuses da justiça, em Gristal a lei é ditada por duas forças implacáveis e matemáticas: o peso do ouro e a tensão das Correntes Mestre. A Guarda dos Elos é a corporação militar, policial e fiscal mantida e financiada pela oligarquia dos Barões da Arcanita e pelo Sindicato dos Guinchos. Sua missão primordial não é prover caridade comunitária, mas garantir a estabilidade física das plataformas flutuantes, cobrar pedágios e impostos de entrada na Balsa dos Portões, proteger o monopólio da Arcanita Bruta e suprimir implacavelmente qualquer tentativa de sabotagem ou contrabando.
+A Guarda dos Elos opera com uma mentalidade fria, corporativa, calculista e profundamente pragmática. Seus integrantes não são cavaleiros idealistas, mas mercenários disciplinados, fiscais alfandegários, veteranos de combate urbano e caçadores acrobatas treinados para lutar a centenas de metros de altura sob vento cortante. A pesagem de mercadorias é um processo rigorosamente concentrado no portal de entrada da cidade: quem chega a Gristal pela Balsa dos Portões deve submeter suas caixas e volumes à balança oficial para que a taxa de ancoragem e o imposto de frete sejam calculados; quem tenta burlar essa fiscalização inicial ou danificar um tirante de aço é considerado um risco estrutural e financeiro, sendo descartado sem julgamento no Salto do Silêncio.
+Totalmente desprovida de máquinas a vapor ou quinquilharias, a tecnologia e o fardamento da Guarda dos Elos apoiam-se na engenharia mecânica pesada medieval, na proteção contra agentes químicos e na feitiçaria geométrica de contrapeso. Seus patrulheiros vestem capotes pesados de couro oleado com antiácido, peitorais leves de chumbo que absorvem a radiação de Arcanita, elmos abertos com visores de malha metálica contra a poeira e carregam um arsenal especializado em contenção tridimensional: lançadores manuais de arpão com cabos de aço flexível, bestas pesadas de repetição e cacetetes de ferro ponderado.
 
-Uma tradição mágica decadente e marginalizada dedicada à necromancia paliativa e à consolação de espíritos vagantes.
++---------------------------------------+
 
-## Objetivo/Agenda
+|
+       COMANDO CENTRAL DA GUARDA      |
 
-Preservar os ensinamentos ancestrais sobre a passagem da alma, realizar rituais fúnebres dignos para os pobres e sobreviver ao preconceito generalizado.
+|
+  (Mestre-Comandante dos Elos & Cume) |
 
-## Hierarquia
++-------------------
++-------------------+
+                                        |
 
-Orientada por um Conselho de Anciãos Necromantes. A liderança específica ainda não foi criada.
+[ Estado-Maior & Cartório das Balanças ]
+                                        |
+                                        v
 
-## Território/Base
++---------------------------------------+
 
-[O Claustro do Pó na Borda da Fenda].
+|
+   HIERARQUIA E PATENTES DE AÇO       |
 
-## Recursos
+|
+  (Insígnias & Graus de Autoridade)   |
 
-Vasto conhecimento fúnebre e espiritual, rituais de comunicação pós-morte e bibliotecas ancestrais sobre a Fenda.
++-------------------
++-------------------+
+                                        |
 
-## Relações com outras facções
++--------------------------------
++--------------------------------+
 
-[Guilda dos Ossos Falantes]: inimiga — repudia ex-membros que profanam e comercializam cadáveres de sabedoria ancestral.
+|
 
-[A Doutrina do Abismo]: inimiga — combate ativamente os rituais de sacrifício da magia do abismo.
+|
+                               |
 
-## Membros notáveis
+v
 
-Ainda não criado.
+v
+                               v
+
++---------------+
+
++-----------------+
+
++-----------------+
+| CAPITÃO DE ELO|
+|
+ INSPETOR DE
+|
+
+|
+GUARDA DE BACIA |
+|(Comandante de
+|
+
+|
+   BALANÇA
+|
+             |(Patrulha Urbana |
+|  Plataforma)
+|
+             |(Fiscal de Entrad|
+|
+ & Contenção)   |
+
++-------
++-------+
+
++--------
++--------+
+
++--------
++--------+
+
+|
+
+|
+                               |
+
++-------------------------------
++--------------------------------+
+                                        |
+                                        v
+
++---------------------------------------+
+
+|
+      RECRUTA DE VIGIA DA BORDA       |
+
+|
+  (Postos do Cume & Inspeção Inicial) |
+
++-------------------
++-------------------+
+                                        |
+                                        v
+
++---------------------------------------+
+
+|
+    DIVISÕES ESPECIALIZADAS DE CAMPO    |
+
+|
+(Pedágios, Correntes, Salto & Cabo)   |
+
++-------------------
++-------------------+
+
+
+
+1. A Lei do Imposto de Entrada e da Pesagem (O Direito do Cume)
+A legislação aplicada pela Guarda dos Elos é baseada no Códice de Tensão, um conjunto de leis fiscais e físicas gravado em placas de bronze no Cume das Correntes. Os crimes em Gristal são categorizados pelo impacto que causam na receita fiscal e na estabilidade da cidade:
+Sonegação de Carga na Entrada (O Ouro Oculto): Opor-se à pesagem oficial de tributação na Balsa dos Pedágios ou contrabandear Arcanita Bruta para dentro do perímetro sem o selo da guarda resulta no confisco imediato de toda a mercadoria e na aplicação de uma multa equivalente ao triplo do valor estimado. Se o infrator não puder pagar, é transferido para o trabalho escravo de lubrificação de correntes ou lançado no precipício.
+Avanço sem Ancoragem (Insubordinação de Tráfego): Movimentar cestos de carga ou embarcações sem autorização do operador de guincho do setor. A Guarda utiliza lançadores de arpão para travar e perfurar os cabos da embarcação clandestina, deixando-a balançando no vazio até que a taxa ou a multa seja quitada.
+Crime de Cisalhamento (Sabotagem de Sustentação): Qualquer ato de vandalismo, uso de ácidos ou desgaste intencional provocado contra os elos, tirantes ou roldanas das Correntes Mestre. É considerado o crime hediondo supremo em Gristal, punível com execução imediata no Salto do Silêncio sem direito a recurso ou rito fúnebre.
+2. O Juramento do Arnes e da Chave
+Ao ser promovido a Guarda de Bacia, o recruta passa pela cerimônia do Juramento do Arnes e da Chave. Diante da estátua de Solenne na Praça dos Seis Monólitos, o oficial recebe sua insígnia de chumbo, seu arnês de couro com mosquetão duplo e uma chave de fenda pesada usada para ajustar as travas de segurança dos tirantes.
+O juramento declamado resume a ética implacável da facção: "Juro pela firmeza do aço, pela retidão da balança na entrada e pelo silêncio do abismo. Não dobrarei o joelho à piedade, cobrarei cada moeda devida no portão e não permitirei que o metal ceda até que a vida caia".
+
+## II. A Hierarquia e Insígnias de Aço
+A progressão dentro da Guarda dos Elos é rigidamente regulada pelo tempo de serviço, eficiência na arrecadação de impostos alfandegários, contagem de contrabandistas capturados e maestria em combate de altitude.
+
+[ RECRUTA DA BORDA ]
+-->
+[ JURAMENTO DO ARNES ]
+-->
+[ GUARDA DE BACIA ]
+                                                             |
+                                                             v
+
+[ MESTRE-COMANDANTE ]
+<--
+[ CAPITÃO DE ELO ]
+<--
+[ INSPETOR DE BALANÇA ]
+
+
+
+1. Patente 1: Recruta da Borda (Sentinelas do Cume)
+Emblema: Uma placa circular de chumbo bruto presa ao ombro do capote, com a gravação de uma roldana simples.
+Função militar: Soldados novatos encarregados da vigilância perimetral dos penhascos no Cume, controle de filas de mercadores na Balsa dos Pedágios, checagem de documentos simples e escolta de comboios de alimentos.
+Funções de Rotina:
+Vigias da Balsa: Verificam as permissões e organizam o fluxo de desembarque no Cume.
+Guardas da Escória: Impedem que habitantes miseráveis das plataformas baixas subam sem autorização pelas escadarias de serviço.
+2. Patente 2: Guarda de Bacia (Patrulheiros de Plataforma)
+Emblema: Insígnia de bronze em formato de elo de corrente cruzado por um cacetete ponderado.
+Função militar: A espinha dorsal operacional da guarda urbana. Patrulham os bairros das "Gaiolas" na Bacia Hangares, intervêm em brigas de taverna, contêm motins de operários, executam prisões de devedores e mantêm a ordem pública no Mercado das Balanças.
+Funções de Rotina:
+Patrulheiros de Grelha: Percorrem as passarelas da plataforma média garantindo que a ordem seja mantida e que nenhuma carga volumosa bloqueie as rotas de emergência.
+Contensores de Incêndio: Armados com baldes de areia salina e mantas antiácidas, atuam rapidamente para extinguir focos de fogo de piche nas gaiolas residenciais.
+3. Patente 3: Inspetor de Balança / Capitão de Elo (Comandantes de Setor)
+Emblema: Uma insígnia pesada de prata salina e chumbo gravada com a imagem de uma balança de gancho e um diapasão.
+Função militar: Oficiais superiores encarregados de chefiar postos de fiscalização alfandegária na Balsa, avaliar carregamentos de Arcanita Bruta trazidos do abismo, gerenciar os livros de pedágio do setor e comandar as estações de defesa dos monólitos de sustentação.
+Funções de Rotina:
+Fiscal de Carga Mestre: Responsável pela avaliação técnica e pesagem inicial do valor de minérios e relíquias trazidas das Profundezas Cegas pelos Mergulhadores da Névoa, definindo o imposto de entrada do Cume.
+Comandante de Plataforma: Coordena a resposta tática em caso de ataques de piratas de caravana ou sabotagens dos Ratos de Cabo.
+4. Patente 4: Mestre-Comandante dos Elos (Estado-Maior do Cume)
+Emblema: Um peitoral completo de chumbo polido e aço-feérico com incrustações de minério de galena que brilham em tons escuros iridescentes.
+Função militar: O líder supremo da Guarda dos Elos (atualmente o Comandante Vane), que ocupa um assento permanente no Conselho dos Barões e responde diretamente pelo gerenciamento de defesa de toda a teia de sustentação de Gristal.
+
+## III. Subdivisões Especializadas de Campo
+A Guarda dos Elos divide suas operações em quatro esquadrões altamente treinados para lidar com os perigos específicos da geografia vertical:
+
++-------------------------------------------------------+
+
+|
+                A GUARDA DOS ELOS                     |
+
++---------------------------
++---------------------------+
+                                   |
+
++--------------------------
++--------------------------+
+
+|
+
+|
+                         |
+
+v
+
+v
+                         v
+
++---------------+
+
++---------------+
+
++---------------+
+| PATRULHA DOS
+|
+
+|
+VIGIA DAS
+|
+
+|
+ESQUADRÃO DO  |
+|   PEDÁGIOS
+|
+
+|
+ CORRENTES
+|
+
+|
+   SALTO      |
+|(Balsa/Tributos|          |(Física/Metais)|          |(Execuções/Baixa|
+
++-------
++-------+
+
++-------
++-------+
+
++-------
++-------+
+
+|
+
+|
+                         |
+
++--------------------------
++--------------------------+
+                                   |
+                                   v
+
++-----------------------+
+
+|
+ CAÇADORES DE CABO    |
+                       |(Antisubversão/Ratos)  |
+
++-----------------------+
+
+
+
+1. A Patrulha dos Pedágios (Fiscais da Balsa)
+Especializada na recepção, pesagem inicial de carga e tributação de mercadorias e passageiros que chegam à cidade. Operam exclusivamente nas estações da Balsa dos Portões no Cume das Correntes.
+Táticas: Utilizam balanças industriais de gancho no portal de desembarque para pesar caixotes e aplicam o Selo de Carga de chumbo quente nas mercadorias liberadas. São famosos pela frieza em detectar compartimentos falsos em carruagens e mochilas durante a inspeção de entrada.
+2. A Vigia das Correntes (Anjos do Aço)
+Composta por guardas com treinamento técnico de engenharia que patrulham os monólitos de ancoragem e as seis Correntes Mestre.
+Táticas: Trabalham empoleirados em arneses sobre os penhascos da Fenda. Além das armas de combate, carregam martelos de calibração de bronze e baldes de pasta de galena. Sua função é proteger as correntes contra saboteiros e garantir que os Engenheiros de Elo realizem a lubrificação sem interferências.
+3. O Esquadrão do Salto (Polícia Baixa e Executores)
+A divisão mais temida e violenta, responsável pela patrulha das plataformas baixas e pela condução das execuções públicas no Salto do Silêncio.
+Táticas: Vestem capas escuras encharcadas em óleo antiácido para resistir à Névoa Ácida das Profundezas Cegas. Marcham em formações fechadas com escudos leves de ferro e cacetetes ponderados, suprimindo com violência qualquer motim de operários ou heresia da Doutrina do Abismo.
+4. Os Caçadores de Cabo (Antisubversão e Tirolesa)
+A unidade de elite e acrobática encarregada de combater os Ratos de Cabo e destruir a teia de linhas clandestinas que cruza o desfiladeiro para burlar os pedágios da entrada.
+Táticas: Usam arneses leves de couro com roldanas de bronze duplo nos pulsos, permitindo que se desloquem em alta velocidade pelos cabos da cidade. São armados com tesouras pesadas de atrito capazes de cortar cabos de aço clandestinos e lançadores manuais de arpão com travas de mola.
+
+## IV. Equipamento e Arsenal da Corporação
+A Guarda dos Elos rejeita categoricamente armas de fogo, motores a vapor ou invenções pneumáticas complexas. Seus equipamentos e ferramentas de fiscalização focam na resistência mecânica, proteção ambiental e eficiência alfandegária:
+O Capote Antiácido de Galena: Um sobretudo pesado de couro de boi curado em óleo de linhaça e pulverizado com pó de galena. Protege o guarda contra a névoa corrosiva do abismo, respingos de chuva de ferrugem e cortes superficiais de lâminas.
+O Peitoral de Chumbo e Ferro: Uma placa peitoral composta por uma lâmina interna de chumbo puro revestida por chapa de ferro xadrez. Amortece golpes de clava e neutraliza a radiação e volatilidade de cristais de Arcanita Bruta.
+O Lançador Manual de Arpão: Um dispositivo mecânico de braço operado por manivela de mola de aço. Dispara um pequeno arpão de ferro ligado a um cabo de aço flexível de vinte metros, usado para prender fugitivos em pontes, ancorar o guarda em vigas durante rajadas de vento ou travar cestos volantes em fuga.
+A Besta Pesada de Repetição: Uma besta de aço montada sobre um suporte de madeira de carvalho com cano curto de carga manual por alavanca. Dispara dardos de ferro quadrado com grande poder de penetração em curtas distâncias.
+O Cacetete de Ferro Ponderado: Uma clava curta de ferro maciço com núcleo de chumbo no topo. Capaz de quebrar ossos e desmaiar oponentes com um único golpe no elmo sem provocar hemorragias excessivas que sujem as grelhas de circulação.
+A Balança de Gancho de Solenne: Uma balança portátil de latão e fita de chumbo levada pelos inspetores nos postos alfandegários da Balsa para verificar a massa de moedas, lingotes e recipientes de Arcanita no momento da entrada ou em abordagens de carga contrabandeada.
+
+## V. Quartel-General: A Bastilha do Cume
+O centro nervoso do comando e da administração da Guarda dos Elos é A Bastilha do Cume, uma fortaleza austera e retangular erguida em alvenaria de calcário e ferro-negro, localizada estrategicamente na borda norte do Cume das Correntes, diretamente sobre o monólito da Sentinela Leste.
+
+[ O CARTÓRIO CENTRAL DAS BALANÇAS (ESTADO-MAIOR) ]
+      /                                                 \
+
+[ A BOVESPA DAS ARCANITAS ]
+
+[ O ARSENAL DE AÇO E CABO ]
+ (Registro de Impostos e Licenças)              (Depósito de Armas e Arneses)
+
+|
+                                                |
+   ===============================================================
+
+\\\\\\\\    OS ALOJAMENTOS DA GUARDA DE BACIA           ////////
+   ===============================================================
+          |
+          v
+
+[ AS CELAS DE PENDURA (CÂMARA SUBTERRÂNEA SUSPENSA) ]
+
+
+
+O Cartório Central das Balanças: Onde funcionam os escritórios dos Inspetores de Balança e onde ficam guardados os Livros de Tensão e de Tarifas. Milhares de registros de impostos de entrada, licenças de frete e notas de dívida são organizados em arquivos de madeira pesada blindados contra umidade.
+A Bovespa das Arcanitas: Uma galeria protegida onde são armazenadas temporariamente as amostras de Arcanita Bruta confiscadas no contrabando de entrada, antes de serem leiloadas para os Lapidadores de Obsidiana da Bacia Hangares.
+O Arsenal de Aço e Cabo: As oficinas internas onde armeiros da guarda fabricam, mantêm e testam as bestas de repetição, os lançadores de arpão e os cabos de aço dos arneses. O ar cheira a óleo lubrificante, piche e pó de metal.
+As Celas de Pendura: A prisão interna da Bastilha. Consiste em dez gaiolas de ferro fundido suspensas sobre a Fenda por fora da parede da fortaleza. Os prisioneiros graves ficam trancados nessas celas expostos ao vento congelante, à névoa ácida e à vertigem até o dia de seu julgamento ou execução no Salto.
+
+## VI. Liderança e Membros Notáveis
+Comandante Vane (Mestre-Comandante dos Elos): Um homem de cinquenta anos com o rosto marcado por cicatrizes de ácido e olhos frios de cor cinza-aço. Serviu vinte anos na Vigia das Correntes e governa a guarda com disciplina de ferro e cálculo financeiro implacável. É famoso por sua frase dita ao Conselho dos Barões: "Não me importo com quem governa o continente, contanto que o pedágio do portão caia nas minhas caixas no horário".
+Inspetora-Chefe Lyra (Patente Inspetor de Balança): A oficial responsável pela fiscalização alfandegária e pela pesagem na Balsa dos Pedágios no Cume. Uma mulher astuta e incorruptível que possui uma memória fotográfica para rostos e declarações de carga. Desmantelou dezenas de esquemas de falsificação de notas de frete.
+Capitão Kaelen (Patente Capitão de Elo): Comandante do Esquadrão do Salto. Um guerreiro truculento de peitoral de chumbo reforçado, especialista em combate urbano nas passarelas baixas e responsável por supervisionar as execuções públicas no Salto do Silêncio.
+Caçador-Chefe Zeph (Patente Capitão de Elo): O líder acrobático dos Caçadores de Cabo. Um elfo de reflexos impressionantes que domina o deslocamento por tirolesas noturnas e conhece cada linha clandestina estendida pelos Ratos de Cabo para burlar a fiscalização de entrada.
+
+## VII. Devoção e Tabus da Corporação
+A religiosidade na Guarda dos Elos é pragmática, funcional e focada no cumprimento do dever e na proteção das estruturas físicas da cidade:
+1. A Culto a Solenne e Baldrun
+Solenne: Invocada pelos Inspetores de Balança como a patrona da precisão e do direito fiscal no portal de entrada. Antes de iniciar uma inspeção de grande porte na Balsa, os fiscais pressionam o selo de Solenne contra a palma da mão, pedindo clareza visual para detectar fraudes e fundos falsos em caixotes.
+Baldrun: Adorado pelos oficiais de manutenção e pela Vigia das Correntes. Os guardas batem o peito da armadura três vezes na bigorna da Bastilha antes de assumirem o turno nas correntes, pedindo que o metal resista ao cisalhamento e não rache sob a névoa.
+2. O Respeito Temeroso a Nyxara
+Embora a guarda seja uma instituição secular corporativa, os executores do Esquadrão do Salto nutrem um respeito supersticioso por Nyxara. Antes de empurrarem um condenado no Salto do Silêncio, o oficial responsável solta uma moeda de chumbo no vazio e recita a prece de encerramento: "Que o chumbo pague a passagem, que a gravidade cumpra a sentença e que Nyxara recolha o eco onde a terra não alcança".
+3. Tabus da Farda
+O Aceite de Moeda Leve: É considerado um tabu e um sinal de azar grave entre os guardas aceitar propina em moedas raspadas ou levemente adulteradas durante as checagens do portão. Acredita-se que guardar "ouro falso" na bolsa da farda atrai a quebra do cabo do próprio arnês na próxima patrulha.
+A Espada Desprotegida: É proibido portar lâminas longas de aço cru sem bainha de couro lubrificado com galena durante patrulhas nas plataformas baixas. A umidade da névoa ácida pode corroer a lâmina em poucas horas, travando-a na bainha.
+
+## VIII. Diretivas de Operação e Ganchos de Aventura
+As missões e contratos da Guarda dos Elos são emitidos pelo Estado-Maior na Bastilha do Cume através de Diretivas do Códice gravadas em placas de chumbo:
+1. Diretiva de Fiscalização: A Balsa da Arcanita Clandestina
+Fase de Investigação: Um carregamento de cinco toneladas de Arcanita Bruta não declarada tentará cruzar a Balsa dos Pedágios no Cume disfarçado sob sacos de grãos.
+A Missão: Infiltrar-se na barcaça durante a travessia de entrada, conduzir a inspeção alfandegária, interceptar a carga contrabandeada e prender o capitão antes do descarregamento.
+A Complicação: Os contrabandistas instalaram cargas de piche no poço da barcaça e ameaçam explodir os cabos de atrito, o que derrubará a balsa inteira sobre o mercado da Bacia Hangares.
+Objetivo Primário: Desarmar as cargas de piche, neutralizar a tripulação clandestina com cacetetes ponderados e guiar a balsa em segurança até o porto fiscal da Bastilha.
+Recompensa: Concessão da Insígnia de Inspetor Assistente e bolsa de moedas de prata do Cartório.
+2. Diretiva de Antisubversão: A Caça às Linhas Negras
+Fase de Investigação: Os Ratos de Cabo estenderam uma nova teia de cabos de aço clandestinos entre o setor das gaiolas baixas e uma caverna oculta para desviar mercadorias da cobrança de impostos do Cume.
+A Missão: Liderar um esquadrão dos Caçadores de Cabo pelas tirolesas noturnas, mapear o ninho de contrabando e cortar os cabos da rede pirata.
+A Complicação: A operação ocorre durante um fenômeno do Eco da Dobra, provocando oscilações na gravidade local e náuseas intensas nos patrulheiros pendurados nos cabos.
+Objetivo Primário: Eliminar os acrobatas piratas no ar, cortar as conexões de aço com tesouras de atrito e apreender os baús de armas contrabandeadas de Ferrovale.
+Recompensa: Lançador Manual de Arpão Oficial e promoção para a Patente Guarda de Bacia.
+3. Diretiva de Segurança: O Sabotador do Monólito Leste
+Fase de Investigação: Uma mancha de ácido concentrado foi encontrada no ancoradouro da Sentinela Leste, indicando uma tentativa deliberada de corroer os parafusos do monólito mestre.
+A Missão: Investigar os galpões de suprimentos da Bacia Hangares, identificar o alquimista que sintetizou o ácido e desmantelar a célula da Doutrina do Abismo responsável pelo atentado.
+<!-- SEGREDO -->
+A Complicação: O alquimista barricou-se em uma oficina cheia de frascos de Ouro-Sangue e ameaça libertar uma Serpente de Piche nos dutos de ventilação da Bacia.
+<!-- FIM SEGREDO -->
+Objetivo Primário: Invadir a oficina sob névoa de enxofre, neutralizar o cultista e recuperar os mapas de ataque às outras cinco correntes.
+Recompensa: Peitoral de Chumbo e Ferro do Arsenal da Bastilha e citação de honra no Conselho dos Barões.
+4. Diretiva de Execução: A Fuga das Celas de Pendura
+Fase de Investigação: Três prisioneiros de alta periculosidade — incluindo um agente de inteligência do General Draven — conseguiram quebrar as barras de uma gaiola pênsil na Bastilha e estão tentando fugir pelas vigas inferiores da fortaleza.
+A Missão: Rastrear os fugitivos na escuridão das vigas do Cume, impedir que alcancem as tirolesas dos Ratos de Cabo e trazê-los de volta para a sentença no Salto.
+A Complicação: Uma tempestade de Ventos de Cisalhamento atingiu a cidade, fazendo as vigas de ferro balançarem violentamente e reduzindo a visibilidade a zero.
+Objetivo Primário: Utilizar lançadores de arpão para imobilizar os fugitivos nas vigas e conduzi-los ao Salto do Silêncio para execução imediata.
+Recompensa: Medalha de Bronze de Tensão e licença para uso de Besta Pesada de Repetição.
+5. Diretiva de Proteção: A Manutenção da Espinha de Baldrun
+Fase de Investigação: Os Engenheiros de Elo relataram que o elo quarenta e dois da Espinha de Baldrun desenvolveu microfissuras e precisa de um banho de galena e salina sob urgência.
+A Missão: Escoltar a equipe de manutenção durante a descida ao longo da corrente mestre e garantir sua proteção contra ataques de monstros voadores da Fenda.
+A Complicação: Um bando de Morcegos de Bismuto aninhou-se nas dobras do elo danificado e ataca ferozmente qualquer pessoa que se aproxime com tochas ou braseiros.
+Objetivo Primário: Eliminar as criaturas com salvas de bestas de repetição, garantir a aplicação da pasta de galena no metal e retornar em segurança ao Cume.
+Recompensa: Concessão de Capote Antiácido de Galena de Vanguarda.
+6. Diretiva de Contenção: O Motim do Bloco das Gaiolas
+Fase de Investigação: Os moradores da Gaiola Oito na Bacia Hangares iniciaram um motim armado após a Guarda dos Elos estabelecer uma nova taxa de circulação por grelhas no setor.
+A Missão: Invadir o bloco rebelde, restaurar a ordem pública, prender os líderes da insurreição e reabrir as passarelas de comércio.
+A Complicação: Os rebeldes barricaram as pontes de acesso com chapas de ferro xadrez e estão armados com cacetetes roubados e frascos de piche incandescente.
+Objetivo Primário: Avançar em formação de escudos de ferro, desarmar os insurgentes sem destruir as passarelas de suporte e reestabelecer o controle alfandegário.
+Recompensa: Gratificação em moedas de prata do Cartório e acesso aos aposentos do Cume.
+7. Diretiva de Investigação: A Fraude da Balança do Portão
+Fase de Investigação: Uma remessa de quinhentas moedas de ouro recolhidas na Balsa dos Pedágios deu entrada no Cartório com peso 15% inferior ao padrão oficial do Círculo de Giz, indicando adulteração no momento do tributo.
+A Missão: Investigar a equipe de fiscais de plantão na Balsa, identificar o oficial corrupto e recuperar a diferença sonegada.
+A Complicação: O fiscal corrupto mancomunou-se com receptadores dos Dentes-de-Ouro de Malaxis e planeja fugir de Gristal em um cesto volante sob a névoa noturna.
+Objetivo Primário: Interceptar o cesto volante no ar usando grampos de arpão, prender o fiscal traidor e entregar o ouro recuperado à Bastilha.
+Recompensa: Promoção para a Patente Inspetor de Balança e concessão de Balança de Gancho Oficial.
+
+## IX. Elementos Sensoriais para o Mestre Narrar
+Utilize estes elementos descritivos durante as sessões envolvendo a Guarda dos Elos para transmitir sua autoridade fria, disciplina corporativa e pragmatismo rígido:
+Sons:
+O tinir pesado e o ranger surdo das travas e mosquetões de ferro do arnês de couro a cada passo do guarda nas grelhas.
+O som seco, metálico e sincronizado do engate do cabo de aço no lançador manual de arpão antes do disparo.
+O bater firme e ritmado de cacetetes de ferro ponderado contra as barras das celas e parapeitos para dispersar multidões.
+O uivo agudo do vento cortante de altitude passando através das malhas de ferro dos elmos da patrulha.
+O tinir limpo de moedas e pesos de chumbo sendo jogados sobre os pratos de latão nas mesas de inspeção alfandegária da Balsa.
+Visões:
+Formações disciplinadas de guardas vestindo capotes escuros de couro oleado e peitorais de chumbo marchando sobre as grelhas metálicas.
+O brilho opaco, frio e cinzento das insígnias de chumbo e bronze refletindo a luz dos braseiros de piche.
+Guardas acrobatas deslizando em alta velocidade pelas tirolesas superiores com roldanas de bronze emitindo faíscas azuis.
+A imagem imponente de inspetores segurando balanças de gancho nos portais de entrada e apontando bestas de repetição para caixotes de carga não declarados.
+Cheiros:
+O odor pungente, forte e pesado de óleo de linhaça, graxa de boi, piche de carvão e galena usado nos capotes e armaduras.
+O cheiro acre e metálico de poeira de ferro e chumbo que adere ao tecido e ao couro dos uniformes.
+O aroma adocicado e amargo de fumo de rolo consumido pelos guardas durante as pausas de turno nos postos de vigia.
+Tato e Sensações Térmicas:
+A sensação de firmeza, peso e rigidez ao vestir o capote antiácido de galena e o arnês de couro.
+O frio cortante do metal dos cabos de aço e das bestas ao ser manuseado sem luvas espessas.
+A estabilidade e o equilíbrio da postura dos guardas ao travarem seus arneses nas vigas durante rajadas de vento.
+
+## X. Tabela de Equipamentos, Propinas e Licenças da Corporação
+A concessão de equipamentos, passe de circulação e licenças da Guarda dos Elos é regulada diretamente pelo Cartório Central das Balanças na Bastilha do Cume:
+| Item / Equipamento / Licença
+|
+Custo Oficial (Membros da Guarda / Credenciados)
+|
+Custo no Mercado Negro / Propina (Submundo) |
+| Capote Antiácido de Galena Oficial
+|
+25 Peças de Ouro
+|
+10 Peças de Ouro (Capote de guarda falecido/usado) |
+| Peitoral de Chumbo e Ferro Xadrez
+|
+40 Peças de Ouro
+|
+18 Peças de Ouro (Arma de sucata da Bacia) |
+| Lançador Manual de Arpão com Cabo de Aço
+|
+35 Peças de Ouro
+|
+15 Peças de Ouro (Equipamento tático roubado) |
+| Besta Pesada de Repetição (Modelo da Guarda)| 50 Peças de Ouro
+|
+22 Peças de Ouro (Arma de contrabando sem selo) |
+| Cacetete de Ferro Ponderado com Núcleo de Chumbo| 8 Peças de Ouro
+|
+3 Peças de Ouro (Clava de fabricação de cela) |
+| Balança de Gancho Portátil de Solenne
+|
+18 Peças de Ouro
+|
+6 Peças de Ouro (Balança descalibrada artesanal) |
+| Arnês de Couro com Mosquetão Duplo de Bronze| 12 Peças de Ouro
+|
+4 Peças de Ouro (Equipamento usado de Rato de Cabo) |
+| Licença de Imposto/Frete na Balsa (Diária)
+|
+10 Peças de Ouro
+|
+3 Peças de Ouro (Propina para fiscal do portal) |
+| Passaporte de Acesso Rápido ao Cume (Mês)
+|
+80 Peças de Ouro
+|
+25 Peças de Ouro (Passe falsificado com selo) |
+| Propina para Vista Grossa em Caixote Não Declarado| Proibido (Execução no Salto)
+|
+15 Peças de Ouro por volume de Arcanita |
+| Caixa de 20 Dardos de Ferro Quadrado para Besta| 4 Peças de Ouro
+|
+1 Peça de Ouro e 5 Pratas (Munição de sucata) |
+| Dose de Pasta de Galena e Piche para Revestimento| 2 Peças de Prata
+|
+5 Peças de Prata (Insumo para impermeabilizar couro) |
 
 ---
 
-## [A Irmandade da Fuligem]
+Lore Expandida: A Guilda dos Ossos Falantes
+A memória não morre quando a carne apodrece; ela apenas muda de proprietário. O sábio que levou seu maior segredo para o túmulo apenas o guardou em um cofre cuja chave nós sabemos esculpir.
 
-## Resumo
+## I. Visão Geral e a Doutrina da Necro-Espionagem Mercantil
+Nas catacumbas esquecidas sob a opulência de Bastion, nos poços de escória desativados de Krag-Mora e nas galerias secretas sob as feiras de Zul-Bazar, o som do martelo do leiloeiro não bate sobre madeira limpa, mas sobre o topo de crânios humanos banhados em nitrato de prata. É ali que opera A Guilda dos Ossos Falantes: a mais nefasta, lucrativa e refinada rede de necro-espionagem, pirataria de patentes e tráfico de conhecimentos proibidos do continente.
+Surgida originalmente de um cisma sangrento no coração da Irmandade da Cinza, a Guilda foi fundada por ex-paladinos e eruditos que rejeitaram o dogma do "Rito do Consentimento" e a caridade sem lucro aos miseráveis. Para os Ossos Falantes, a Necromancia Paliativa da Irmandade é uma tolice sentimental e um desperdício imperdoável de recursos. Se um grande engenheiro de Krag-Mora morre antes de registrar a fórmula de uma liga metálica, se um diplomata de Bastion é assassinado carregando segredos de estado ou se um alquimista de Zul-Bazar falece sem herdeiros, a Guilda não vê um "eco a ser pacificado", mas sim uma propriedade intelectual flutuante à espera de extração.
+Diferente da Irmandade da Cinza (que é pobre, compassiva e usa apenas necromancia paliativa), a Guilda dos Ossos Falantes é composta pelo que o continente reconhece como necromantes reais e profanos:
+Necromantes e Taumaturgos: Eruditos frios que dominam a reanimação de cadáveres para trabalho braçal de laboratório, extração de fluidos cerebrais e amarração de espíritos em recepáculos arcanos.
+Bruxas e Hexblades: Conjuradores que pactuam com almas encarceradas, forjando armas de pacto e lâminas negras cujos cortes canalizam os gritos de agonia de sábios interrogados.
+Paladinos Negros: Cavaleiros sacrílegos que protegem os laboratórios subterrâneos, vestindo armaduras de ferro-negro alimentadas pelo fogo de almas acorrentadas.
+A guilda opera um negócio milionário e clandestino: compra cadáveres frescos de sábios, inventores, magistrados e generais de ladrões de sepultura, instala os crânios em pedestais de latão e conduzem o Rito da Confissão Forçada. Uma vez extraídos os segredos, fórmulas alquímicas, rotas de cofres ou projetos de máquinas, a Guilda patenteia os achados em cartórios corruptos ou vende as informações no mercado negro para Barões do Trigo, oficiais de Ferrovale e corretores de Zul-Bazar.
+Totalmente desprovida de estéticas steampunk ou engrenagens a vapor, a tecnologia da guilda é arcano-mineral, acústica, orgânica e necromântica: relógios de areia de osso moído, agulhas de chumbo para perfuração craniana, tubos acústicos de cobre para amplificação de vozes espectrais, jarras de aprisionamento de ectoplasma e lâmpadas de nitrato de mercúrio que forçam espíritos a falarem a verdade.
 
-Sindicato trabalhista dos mineradores de Carvão-de-Sangue das veias profundas de Krag-Mora.
++---------------------------------------+
 
-## Objetivo/Agenda
+|
+   A CÚPULA DOS MESTRES DO LEILÃO     |
 
-Garantir melhores salários, cotas de alimentação purificada e segurança contra o mofo negro e desabamentos nas minas.
+|
+  (Conselho de Necro-Espionagem)      |
 
-## Hierarquia
++-------------------
++-------------------+
+                                        |
 
-Liderada por representantes eleitos das galerias de mineração. A liderança específica ainda não foi criada.
+[ Compra de Cadáveres & Ordens de Roubo ]
+                                        |
+                                        v
 
-## Território/Base
++---------------------------------------+
 
-Distrito Mineiro e Veios Profundos em Krag-Mora.
+|
+   LABORATÓRIOS DE INTERROGAÇÃO       |
 
-## Recursos
+|
+  (Perfuração, Mercúrio & Confissão)  |
 
-Poder de paralisação total da economia do Norte (se a guilda cruzar os braços, as caldeiras da cidade apagam).
++-------------------
++-------------------+
+                                        |
 
-## Relações com outras facções
++--------------------------------
++--------------------------------+
 
-[O Sindicato do Ferro-Frio]: tensa/adversária — negocia constantes reajustes sob a ameaça de paralisações operacionais.
+|
 
-[Os Druidas Cegos]: aliada — adquire rações de cogumelos purificados a custos reduzidos para os operários.
+|
+                               |
 
-## Membros notáveis
+v
 
-Ainda não criado.
+v
+                               v
+
++---------------+
+
++-----------------+
+
++-----------------+
+| PALADINOS
+|
+
+|
+BRUXAS E
+|
+
+|
+CORRETORES DE   |
+| NEGROS
+|
+
+|
+HEXBLADES
+|
+
+|
+PATENTES        |
+|(Guarda de
+|
+             |(Encantamento de
+|
+             |(Leilão Velado em|
+| Catacumbas)
+|
+
+|
+Lâminas/Pactos)
+|
+
+|
+Zul/Bastion)    |
+
++-------
++-------+
+
++--------
++--------+
+
++--------
++--------+
+
+|
+
+|
+                               |
+
++-------------------------------
++--------------------------------+
+                                        |
+                                        v
+
++---------------------------------------+
+
+|
+    MERCADO NEGRO CONTINENTAL         |
+
+|
+(Venda de Fórmulas, Segredos & Senhas)|
+
++---------------------------------------+
+
+
+II. O Sistema de Interrogação e o Necro-Cripto-Registro
+A guilda não reanima mortos apenas para criar zumbis irracionais de combate (embora use corpos reanimados como servos silenciosos em seus ateliês). O verdadeiro ativo da facção é o Crânio Falante de Segunda Matriz.
+
+[ ROUBO DE SEPULTURA ]
+-->
+[ PERFURAÇÃO CRANIANA (AGULHA DE CHUMBO) ]
+-->
+[ INJEÇÃO DE MERCÚRIO ]
+                                                                                   |
+                                                                                   v
+
+[ VENDA DA PATENTE ]
+  <--
+[ TRANSCLICAGEM EM PAPEL PRATA ]
+         <--
+[ INTERROGAÇÃO RÚNICA ]
+
+
+1. O Protocolo da Extração de Memória
+Quando o corpo de um sábio é entregue nos subsolos da guilda, os taumaturgos executam o protocolo de extração:
+A Separação e a Limpeza: O crânio é decepado do esqueleto e limpo com banhos de ácido mineral e sal de bismuto. A calota craniana sofre perfurações cirúrgicas de precisão em pontos de ressonância do cérebro.
+A Injeção de Mercúrio e Nitrato: Agulhas de chumbo introduzem uma liga líquida de mercúrio purificado e poeira de arcanita no tecido cerebral fossilizado. Essa liga age como um condutor metálico para a memória residual impregnada no osso.
+O Pedestal da Confissão: O crânio é montado sobre um pedestal de latão conectado a tubos acústicos de cobre. Quando o necromante acende velas de gordura de cadáver e pronuncia a encantação da Língua da Tumba, a liga de mercúrio incandesce em tom azulado. A boca do crânio move-se mecanicamente, articulada por impulsos mágicos, e a voz do falecido ecoa pelos tubos de cobre, forçada a responder a qualquer pergunta feita pelos leiloeiros.
+2. O Registro de Patentes Fantasma
+Após extrair a fórmula, o projeto ou o segredo do falecido, os Corretores de Patentes da guilda redigem um documento em papelão de nitrato de prata. O documento é autenticado com a impressão digital do próprio crânio (usando cinza de osso) e vendido no mercado negro sob o selo de "Invenção Independente", contornando os fiscais do Círculo de Giz ou do Sindicato do Ferro-Frio.
+
+## III. Arsenal, Feitiçaria e Rituais Profanos
+Rejeitando a delicadeza dos elixires medicinais ou as armas de fogo ruidosas, a guilda utiliza um arsenal pesado, profano e focado na dor espiritual, na ligação de almas e na necro-proteção:
+
+[ O CRÂNCIO FALANTE DE LATÃO ]
+
+[ A LÂMINA HEXBLADE VINCULADA ]
+     (Recepáculo de Memória & Confissão)        (Alma Acorrentada no Aço)
+                   \                              /
+                    \                            /
+
++------------------------------------------+
+
+|
+      ARSENAL DOS NECROMANTES            |
+
+|
+      (Conhecimento, Dor & Contenção)    |
+
++---------------------
++--------------------+
+                                   |
+
++----------------
++----------------+
+
+|
+                                |
+
+v
+                                v
+
+[ A AGULHA DE PERFURAÇÃO ]
+
+[ A JARRA DE PEZ DE ECTOPLASMA ]
+   (Conduto de Mercúrio e Poeira)          (Prisão de Espíritos e Confissões)
+
+
+A Lâmina Hexblade de Alma Acorrentada: Espadas bastardas e cimitarras pesadas de aço-negro carregadas por paladinos negros e guerreiros do pacto. A lâmina possui sulcos banhados a mercúrio onde o espírito de um sábio ou guerreiro interrogado é acorrentado à força. Quando a espada golpeia, o espírito solta um grito de agonia psíquica que ensurdece oponentes e faz a carne ao redor da ferida apodrecer em segundos.
+Jarras de Pez de Ectoplasma: Potes de cerâmica negra selados com chumbo e preenchidos com piche frio. Usados por bruxas da guilda para aprisionar espectros de diplomatas e mercadores. O espírito preso é torturado com agulhas quentes de latão inseridas na jarra até revelar senhas de cofres ou locais de tesouros escondidos.
+As Agulhas de Perfuração de Chumbo: Agulhas de trinta centímetros de comprimento impregnadas com nitrato de prata e sal. Lançadas ou cravadas no pescoço de inimigos vivos durante emboscadas, interrompem a circulação de energia mágica e paralisam os movimentos corporais.
+O Manto de Pele de Defunto: Vestes pesadas costuradas com pedaços de couro de cadáveres embalsamados em óleo de galena. Concedem ao usuário imunidade a venenos de esgoto, resistência a mofo de decomposição e tornam o portador invisível para mortos-vivos irracionais.
+
+## IV. Geografia Operacional e Laboratórios Clandestinos
+A Guilda dos Ossos Falantes opera uma teia de necro-laboratórios e salas de leilão escondidas nas Entranhas do continente:
+
+[ BASTION: AS CATACUMBAS DOS SELOS ROUBADOS ]
+ <- Espionagem de Patentes da Corte
+      /                                             \
+
+[ KRAG-MORA: OS POÇOS DA ESCÓRIA CEGA ]
+
+[ ZUL-BAZAAR: O BAZAR DAS VOZES DE PRATA ]
+ (Pirataria de Ligas & Projetos de Golens)     (Leilões Secretos de Segredos Comerciais)
+
+|
+                                            |
+   ============================================================
+
+\\\\\\\\   AS REDES DE ROUBO DE SEPULTURA E CEMITÉRIOS   ////////
+   ============================================================
+
+
+1. As Catacumbas dos Selos Roubados (Bastion)
+Escavadas sob os velhos cemitérios parque do Cinturão Alvorada, conectadas por passagens secretas aos esgotos do Distrito dos Selos.
+Operação: Especializada em roubar cadáveres de burocratas, juízes e arquimagos recém-falecidos da Torre Pura. É onde a guilda extrai segredos de estado, chantagens diplomáticas e rituais rúnicos para vender à inteligência do General Draven em Ferrovale ou a Barões do Trigo rivalizados.
+2. Os Poços da Escória Cega (Krag-Mora)
+Instalados em galerias de mineração desativadas nos Veios Profundos, imersas na fumaça e fuligem da cidade-fornalha.
+Pirataria Industrial: O foco aqui é a necro-engenharia. A guilda compra corpos de Engenheiros-Mestres e artesãos falecidos do Sindicato do Ferro-Frio, extraindo fórmulas secretas de ligas de Aço-Anil, esquemas de válvulas de pressão e códigos de comando de golens a vapor para vender a forjas clandestinas na Fenda.
+3. O Bazar das Vozes de Prata (Zul-Bazar)
+Um complexo subterrâneo abobadado escondido atrás dos poços de água do Oásis dos Sete Poços.
+A Bolsa das Memórias: Onde ocorrem os maiores e mais caros leilões de segredos do continente. Banqueiros do Conservatório, embaixadores e príncipes-mercadores sentam-se em camarotes de veludo negro enquanto o leiloeiro ativa crânios falantes sob luz de lanternas de mercúrio, vendendo senhas de cofres e mapas de ruínas de Vaeth-Kar ao melhor comprador.
+
+## V. Relações Geopolíticas e A Guerra dos Ecos
+
++-------------------------------------------------------+
+
+|
+            GUILDA DOS OSSOS FALANTES                 |
+
++---------------------------
++---------------------------+
+                                   |
+
++--------------------------
++--------------------------+
+
+|
+
+|
+                         |
+
+v
+
+v
+                         v
+
++---------------+
+
++---------------+
+
++---------------+
+| A IRMANDADE DA|
+|
+O CÍRCULO DE
+|
+
+|
+GENERAL KASTEL|
+|     CINZA
+|
+
+|
+    GIZ
+|
+
+|
+   DRAVEN     |
+|(Inimigo Sacro/|          |(Compradores de|          |(Cliente VIP de|
+| Caça Absoluta)|
+|
+Patentes/Rival)
+|
+Necro-Espiões)|
+
++---------------+
+
++---------------+
+
++---------------+
+
+
+Guerra de Extermínio com a Irmandade da Cinza: A Irmandade da Cinza enxerga a Guilda dos Ossos Falantes como a pior abominação moral do mundo — traidores da tradição de Nyxara que profanam a morte por moedas. Os Paladinos de Cinza caçam os laboratórios da guilda impiedosamente, destruindo os crânios falantes e libertando as almas acorrentadas.
+Complicidade Cínica com o Círculo de Giz: Embora o Círculo de Giz condene a necromancia em público, arquimagos corruptos e burocratas da Torre Pura compram secretamente patentes antigas e fórmulas roubadas da Guilda dos Ossos Falantes para registrar como "descobertas acadêmicas" no Distrito dos Selos.
+Aliança de Ouro com Ferrovale: O General Kastel Draven é o maior comprador individual da guilda. Ele paga fortunas em barras de ferro e ouro para a Guilda dos Ossos Falantes interrogar generais e diplomatas capturados de Bastion, obtendo relatórios táticos e rotas de suprimento antes de avançar com a Horda Silenciosa.
+
+## VI. A Cúpula dos Mestres do Leilão (5 Líderes Notáveis)
+A guilda é gerenciada por um conselho executivo de cinco mestres da necro-espionagem, cada um especialista em uma disciplina profana e representando uma raça do continente:
+Mestre Valakor "O Leiloeiro de Crânios" (Humano - Necromante): O cérebro estratégico e cofundador da guilda. Um ex-erudito da Torre Pura de Bastion de cinquenta anos, olhar frio, lábios manchados de mercúrio e mãos magras repletas de anéis de osso. Valakor é quem comanda os leilões centrais de patentes e gerencia a venda de segredos diplomáticos para Ferrovale.
+Lady Morwen "A Bruxa dos Nove Chifres" (Elfa - Bruxaria de Pacto / Hexblade): Uma elfa refinada e cruel que comanda a rede de espionagem nas capitais. Empunha a lendária espada Grito-Mudo, uma lâmina Hexblade na qual estão acorrentadas as almas de nove magistrados de Bastion. É especialista em aprisionar espíritos em jarras de pez.
+Sir Korgoth "O Paladino da Lâmina Cega" (Meio-Orc - Paladino Negro): O comandante das forças de choque e segurança dos laboratórios subterrâneos. Um meio-orc gigante vestindo armadura completa de ferro-negro com sulcos incandescentes de chama violeta. Vane recruta guerreiros banidos para proteger as catacumbas contra os ataques da Irmandade da Cinza.
+Mestre Kaelen "Mão-de-Mercúrio" (Anão - Taumaturgo Industrial): Um anão ex-artesão de Krag-Mora que perdeu os escrúpulos ao perceber o valor do ouro. É o cérebro por trás do método de perfuração craniana e injeção de mercúrio, especializado em extrair fórmulas de ligas metálicas e projetos de máquinas de forjadores falecidos.
+Soraia "A Voz de Prata" (Gnomo - Reanimadora & Mestre de Leilão): Uma gnomo expansiva, elegante e assustadora que gerencia o Bazar das Vozes de Prata em Zul-Bazar. Soraia possui uma coleção de mais de cinquenta crânios falantes de poetas, sábios e banqueiros antigos, que ela usa para entreter e extorquir príncipes-mercadores durante banquetes privados.
+
+## VII. O Mural dos Segredos Roubados (7 Ganchos de Aventura)
+Estes são exemplos de contratos e operações de necro-espionagem mantidos na rede da guilda, prontos para envolver grupos de aventureiros no submundo do continente:
+================================================================================
+                    QUADRO DE OPERAÇÕES DOS OSSOS FALANTES
+================================================================================
+[NÍVEL 1] O Roubo do Crânio do Burocrata           (Recompensa: 30 Peças de Ouro)
+[NÍVEL 2] A Fórmula do Aço do Forjador            (Recompensa: 60 Peças de Ouro)
+[NÍVEL 3] O Resgate da Jarra da Bruxa              (Recompensa: 120 Peças de Ouro)
+[NÍVEL 4] O Leilão da Patente do Reator            (Recompensa: 200 Peças de Ouro)
+[NÍVEL 5] A Invasão do Laboratório das Catacumbas  (Recompensa: 350 Peças de Ouro)
+[NÍVEL 6] O Segredo do General Morto               (Recompensa: 500 Peças de Ouro)
+[NÍVEL 7] O Golpe contra o Leiloeiro Valakor       (Recompensa: 1.200 Peças de Ouro)
+================================================================================
+
+
+1. O Roubo do Crânio do Burocrata (Nível 1)
+Solicitante: Corretor de Patentes da Guilda.
+Local: Cemitério Parque do Cinturão Alvorada (Bastion).
+Fase de Investigação: Subornar um coveiro local para descobrir em qual túmulo recente foi sepultado o chefe dos arquivos de impostos de Bastion.
+A Missão: Invadir o cemitério à noite, violar a sepultura, decepar o crânio do burocrata e entregá-lo no ateliê da guilda sem ser visto pelos guardas de Nyxara.
+A Complicação: Uma patrulha de paladinos da Irmandade da Cinza está fazendo uma ronda de emergência no cemitério.
+Objetivo Primário: Recuperar o crânio intacto e escapar sem iniciar um confronto aberto contra a Irmandade.
+Recompensa: 30 Peças de Ouro e um Manto de Pele de Defunto.
+2. A Fórmula do Aço do Forjador (Nível 2)
+Solicitante: Mestre Kaelen "Mão-de-Mercúrio" (Anão).
+Local: Veios Profundos (Krag-Mora).
+Fase de Investigação: Localizar o necrotério privado de uma oficina onde repousa o corpo de um Mestre-Forjador recém-falecido.
+A Missão: Infiltrar-se no necrotério, aplicar a agulha de perfuração com liga de mercúrio no crânio e gravar a voz do morto revelando a fórmula da liga metálica.
+A Complicação: O corpo do forjador foi protegido com um feitiço de estática pelo Sindicato do Ferro-Frio que dispara um alarme rúnico se a carne for cortada.
+Objetivo Primário: Extrair a fórmula em áudio rúnico e desativar o alarme antes da chegada dos Falangistas do Aço.
+Recompensa: 60 Peças de Ouro e um frasco de mercúrio salino.
+3. O Resgate da Jarra da Bruxa (Nível 3)
+Solicitante: Lady Morwen (Elfa Hexblade).
+Local: Banhos de Sangue e Piche (Malaxis).
+Fase de Investigação: Descobrir em qual cativeiro de mercenários da Liga dos Agenciadores foi apreendida uma jarra de pez contendo o espírito de um banqueiro de Zul-Bazar.
+A Missão: Invadir o cativeiro, recuperar a jarra de pez intacta e eliminar os guardas que tentaram extorquir a guilda.
+A Complicação: A jarra de pez sofreu uma fissura durante o tiroteio e o espírito do banqueiro está tentando escapar na forma de uma aparição enfurecida.
+Objetivo Primário: Celar a jarra com chumbo quente, recuperar o recipiente e entregar a Lady Morwen.
+Recompensa: 120 Peças de Ouro e uma Lâmina Hexblade de treino.
+4. O Leilão da Patente do Reator (Nível 4)
+Solicitante: Agente Encoberto de Ferrovale / Guilda dos Ossos.
+Local: Bazar das Vozes de Prata (Zul-Bazar).
+Fase de Investigação: Obter um convite VIP de veludo negro para participar do leilão clandestino no subsolo do Oásis dos Sete Poços.
+A Missão: Garantir a segurança do leilão onde o crânio de um engenheiro de Aethelgard revelará o projeto de um motor de pedra-pólen.
+A Complicação: Um esquadrão de Cães-Farejadores de Bastion infiltrados planeja invadir o leilão e destruir todos os crânios falantes.
+Objetivo Primário: Neutralizar os inquisidores de Bastion, manter a segurança dos compradores e garantir a venda da patente.
+Recompensa: 200 Peças de Ouro e carta de crédito do Palácio de Vidro.
+5. A Invasão do Laboratório das Catacumbas (Nível 5)
+Solicitante: Grupo de Aventureiros / Irmandade da Cinza / Coroa de Bastion.
+Local: Catacumbas dos Selos Roubados (Bastion).
+Fase de Investigação: Encontrar a passagem secreta nos esgotos do Distrito dos Selos que dá acesso ao laboratório central de Mestre Valakor.
+A Missão: Invadir o laboratório, destruir os pedestais de interrogação craniana e libertar trinta espíritos mantidos em jarras de pez.
+A Complicação: O laboratório é protegido por Sir Vane e seis Paladinos Negros armados com espadas Hexblade e por dois cadáveres reanimados de minotauros.
+Objetivo Primário: Derrotar Sir Vane, destruir o maquinário de perfuração de mercúrio e resgatar as jarras de espíritos.
+Recompensa: 350 Peças de Ouro oferecidas pela Coroa e os tesouros do cofre de Valakor.
+6. O Segredo do General Morto (Nível 6)
+Solicitante: Estado-Maior de Bastion / Liga dos Espadas-Sanguinárias.
+Local: Fortaleza de Ferrovale (Fronteira com o Norte).
+Fase de Investigação: Infiltrar-se na cidadela do General Draven para descobrir qual segredo militar a Guilda dos Ossos Falantes vendeu ao ditador após interrogar o corpo de um general de Bastion.
+A Missão: Acessar a câmara privada de Draven, destruir o crânio falante do general de Bastion para que ele não revele mais códigos de defesa e recuperar o livro de notas de Valakor.
+A Complicação: A câmara é patrulhada por uma bruxa da guilda e por quatro Hobgoblins em exotrajes a vapor.
+Objetivo Primário: Destruir o crânio, recuperar o diário de necro-espionagem e escapar da fortaleza.
+Recompensa: 500 Peças de Ouro e o título de Salvari da Pátria em Bastion.
+7. O Golpe contra o Leiloeiro Valakor (Nível 7)
+Solicitante: O Conclave dos Mármores (Irmandade da Cinza) & Círculo de Giz.
+Local: Sede Suprema da Guilda dos Ossos Falantes (Subsolo de Zul-Bazar).
+Fase de Investigação: Executar um plano tático de invasão simultânea à Grande Bensa das Memórias durante a celebração do Solstício de Sangue.
+A Missão: Confrontar Mestre Valakor, Lady Morwen e Soraia, destruir o acervo de duzentos crânios falantes e encerrar a liderança da maior rede de pirataria de patentes do continente.
+A Complicação: Valakor ativará o ritual da Grande Liberação, fundindo os duzentos espíritos interrogados em uma aberração espectral de dezenas de vozes e lâminas de sombras.
+Objetivo Primário: Derrotar os Mestres do Leilão, destruir a aberração espectral e recuperar os títulos de propriedade e patentes roubadas.
+Recompensa: 1.200 Peças de Ouro, gratidão eterna da Irmandade da Cinza e o controle do maior acervo de segredos do continente.
+
+## VIII. Elementos Sensoriais para o Mestre Narrar
+Utilize estes elementos descritivos durante as sessões envolvendo a Guilda dos Ossos Falantes para transmitir a atmosfera de necro-espionagem, crueldade elegante, ganância e profanação:
+Sons:
+O som metálico, rítmico e perturbador de mandíbulas de crânios de osso batendo em pedestais de latão enquanto vozes distorcidas ecoam por tubos de cobre.
+O tinir de agulhas de chumbo e frascos de mercúrio sendo arrumados em bandejas de prata por servos reanimados.
+O bater limpo e seco do martelo de osso do leiloeiro marcando a venda de uma patente roubada sobre mesas de mármore negro.
+O grito psíquico, agudo e estridente que emana das lâminas Hexblade quando desferem golpes no combate.
+O murmúrio sussurrado e angustiado de dezenas de espíritos aprisionados em jarras de pez acumuladas em prateleiras.
+Visões:
+Crânios humanos polidos e perfurados montados sobre pedestais de latão com fios de mercúrio brilhando azul dentro das órbitas vazias.
+Paladinos negros em armaduras de placas de ferro-negro com capas de veludo roxo e espadas que exalam fumaça violeta.
+Leilões clandestinos iluminados por luzes cianas de lanternas de mercúrio, onde nobres mascarados dão lances em papéis de prata.
+Taumaturgos e bruxas de túnicas pretas operando furadeiras de mão e agulhas de chumbo sobre corpos de sábios dispostos em mesas de basalto.
+Cheiros:
+O cheiro forte, amargo e metálico de mercúrio salino, nitrato de prata e produto de embalsamamento misturado com vapor de ácido.
+O odor doce, pesado e enjoativo de incensos de flor-de-sol e lavanda seca usados para mascarar o fedor de carne velha nos ateliês.
+O cheiro acre de piche frio e óleo vegetal queimando nas velas de gordura de cadáver.
+Tato e Sensações Térmicas:
+O frio cortante e úmido das catacumbas subterrâneas que faz o suor secar gelado na pele.
+A vibração física e formigamento nos dentes provocado pelas frequências acústicas dos crânios falantes ao responderem a perguntas.
+A textura viscosa, fria e densa do pez usado para selar as jarras de aprisionamento de espíritos.
+
+## IX. Economia Clandestina e Mercado de Patentes do Além
+A tabela abaixo reflete a economia de compra de cadáveres, extração de memórias, venda de segredos e armas profanas mantida pela Guilda dos Ossos Falantes:
+| Item / Serviço / Segredo
+|
+Custo de Produção / Aquisição
+|
+Preço no Mercado Negro (Clientes / Leilão) |
+| Crânio Falante de Sábio (Com Memória Útil)
+|
+15 Peças de Ouro (Pago a ladrões de cova)
+|
+150 Peças de Ouro (Vendido em leilão no Bazar) |
+| Patente Roubada de Engenharia / Alquimia
+|
+30 Peças de Ouro (Custo de extração)
+|
+300 Peças de Ouro (Vendida a nobres / indústrias) |
+| Lâmina Hexblade de Alma Acorrentada
+|
+50 Peças de Ouro (Forja e vinculo)
+|
+200 Peças de Ouro (Arma de paladino negro / mercenário) |
+| Jarra de Pez com Espírito de Nobre (Saber)
+|
+20 Peças de Ouro (Captura e pez)
+|
+180 Peças de Ouro (Vendida para chantagem política) |
+| Frasco de Liga de Mercúrio e Poeira de Arcanita| 8 Peças de Ouro
+|
+25 Peças de Ouro (Insumo para perfuração craniana) |
+| Agulha de Perfuração de Chumbo com Salina (Par)| 2 Peças de Ouro
+|
+8 Peças de Ouro (Arma de imobilização paralítica) |
+| Manto de Pele de Defunto (Proteção Anti-Miasma)| 5 Peças de Ouro
+|
+20 Peças de Ouro (Traje de proteção de necro-laboratório) |
+| Serviço de Interrogação Craniana de Parente (Sessão)| Inexistente na lei
+|
+80 Peças de Ouro (Cobrado de herdeiros gananciosos) |
+| Cadáver Fresco de Sábio / Magista (Matéria-Prima)| 10 Peças de Ouro
+|
+40 Peças de Ouro (Comprado na porta das catacumbas) |
+| Vela de Gordura de Cadáver com Essência de Mirra| 5 Peças de Prata
+|
+2 Peças de Ouro (Insumo para rituais de confissão) |
+| Senha de Cofre / Local de Tesouro Extraído
+|
+10 Peças de Ouro
+|
+50% do valor total encontrado no cofre |
+| Contratação de Paladino Negro para Guarda (Diária)| 25 Peças de Ouro
+|
+60 Peças de Ouro (Mercenário de elite de catacumba) |
 
 ---
 
-## [A Liga dos Agenciadores]
+Lore Expandida: A Irmandade da Cinza
+A morte não exige tributos de ouro, nem pergunta pela bolsa dos despossuídos; se o mundo nos chama de guilda dos trapos e falidos, que a nossa penúria seja a garantia de que nenhuma alma pobre queimará no abismo por falta de trocados.
 
-## Resumo
+## I. Visão Geral e a Doutrina da Necromancia Sagrada
+Em um continente apossado pela ambição das corporações, pela ganância dos bancos de Zul-Bazar e pelo horror das mutações do Ouro-Sangue, A Irmandade da Cinza ergue-se como uma ordem de paladinos e guilda de caça em profunda decadência e iminente ruína financeira. Conhecidos popularmente pela nobreza como os Cavaleiros-Mendigos, os Paladinos de Panos ou a Guilda dos Trapos, seus integrantes combinam o rigor marcial e austero dos paladinos da morte com a prática sacramental da Necromancia Paliativa — uma arte espiritual que enxerga o falecimento e o descanso da alma como um direito inalienável de qualquer ser humano, independentemente de sua classe social.
+Diferente de outras guildas comerciais que cobram pequenas fortunas em peças de ouro por escoltas e caçadas, a Irmandade da Cinza recusa-se categoricamente a voltar as costas a uma família miserável. Fiéis ao dogma sagrado da deusa Nyxara, os paladinos realizam resgates de corpos nas Profundezas Cegas de Gristal, exorcismos de aparições em vilarejos rurais e ritos de sepultamento abençoado com a moeda de chumbo sem cobrar um único centavo de camponeses, mineradores ou mendigos. Quando cobram, aceitam pagamentos simbólicos: um saco de batatas, duas broas de pão seco ou a promessa de uma prece.
+Essa caridade irrestrita — aliada à extorsão sistemática de royalties de patentes cobrada pelo Círculo de Giz — levou a guilda ao colapso econômico. Os Salões da Cinza em todo o continente estão acumulando hipotecas não pagas com o Conservatório dos Fios Dourados de Zul-Bazar, os arsenais de ferro-negro estão repletos de armaduras com soldas de emergência e amassados de batalhas antigas, o giz de prata-cinzenta precisa ser racionado e diluído em cinzas comuns, e muitos aprendizes abandonaram a guilda para se tornarem mercenários remunerados. Contudo, aqueles que permanecem na Irmandade possuem uma devoção inabalável e o amor fervoroso das classes populares de todo o continente.
 
-Rede clandestina de banqueiros e agenciadores do submundo que organiza arenas relâmpago de luta em becos de Malaxis.
++---------------------------------------+
 
-## Objetivo/Agenda
+|
+       O CONCLAVE DOS MÁRMORES        |
 
-Quebrar a hegemonia do Coliseu dos Barões e lucrar com comissões violentas cobradas em apostas descentralizadas.
+|
+  (Grão-Mestre Valerius & Dívidas)    |
 
-## Hierarquia
++-------------------
++-------------------+
+                                        |
 
-Chefiada por agenciadores e usurários de bairro. A liderança específica ainda não foi criada.
+[ Cartas de Cobrança & Ameaças de Despejo ]
+                                        |
+                                        v
 
-## Território/Base
++---------------------------------------+
 
-Bairros periféricos, telhados e fossos de Malaxis.
+|
+   HIERARQUIA E RANKS DE INSÍGNIA     |
 
-## Recursos
+|
+  (Insígnias Gastas & Mãos Calejadas) |
 
-Mobilidade sem instalações fixas, cobradores truculentos e rede de informantes de rua.
++-------------------
++-------------------+
+                                        |
 
-## Relações com outras facções
++--------------------------------
++--------------------------------+
 
-[Os Barões do Coliseu]: rival encarniçada — protagonizam conflitos territoriais contínuos.
+|
 
-## Membros notáveis
+|
+                               |
 
-Ainda não criado.
+v
+
+v
+                               v
+
++---------------+
+
++-----------------+
+
++-----------------+
+|RANK MÁRMORE-
+|
+
+|
+RANK OBSIDIANA
+|
+
+|
+RANK OSSO-PRATA |
+|    ETERNO
+|
+             |(Paladinos do
+|
+             |(Caçadores de    |
+|(Veteranos de
+|
+
+|
+Rito/Exorcistas
+|
+
+|
+Ecos de Campo / |
+|   Resistência)|
+|
+Sem Recursos)
+|
+
+|
+Trajes Velhos)  |
+
++-------
++-------+
+
++--------
++--------+
+
++--------
++--------+
+
+|
+
+|
+                               |
+
++-------------------------------
++--------------------------------+
+                                        |
+                                        v
+
++---------------------------------------+
+
+|
+    RANK CINZA-CHUMBO (INICIADOS)     |
+
+|
+  (Coveiros, Batedores & Voluntários) |
+
++-------------------
++-------------------+
+                                        |
+                                        v
+
++---------------------------------------+
+
+|
+   DIVISÕES ESPECIALIZADAS DE CAMPO    |
+
+|
+(Embalsamamento, Exorcismo, Resgate)  |
+
++---------------------------------------+
+
+
+1. As Origens no Cataclisma e os Três Pilares da Penúria
+A gênese da Irmandade remonta aos dias subsequentes à Grande Fenda. Quando o continente se partiu, milhões de vidas foram ceifadas em questão de minutos. Enquanto magos ambiciosos buscavam escravizar almas e mercenários cobravam fortunas para resgatar corpos de nobres, os primeiros servos de Nyxara fundaram os Três Pilares Sagrados:
+I. O Rito do Consentimento (A Vontade do Eco): É estritamente proibido forçar ou acorrentar o espírito de um falecido. A comunicação espiritual deve ser conduzida com compaixão, obtendo a permissão da alma para que ela encontre a paz sem sofrimento.
+
+## II. A Custódia Universal (O Peso do Chumbo Gratuito): Todo corpo humano, por mais miserável que tenha sido em vida, possui o direito sagrado à moeda de chumbo sobre os olhos e a uma sepultura protegida. A cobrança por esse rito a quem não tem como pagar é considerada simonia e sacrilégio supremo.
+
+## III. A Lança da Purificação (O Extermínio do Parasita): Qualquer culto ou necromante que profane cadáveres para extrair Ouro-Sangue ou escravize espíritos é inimigo mortal de Nyxara e deve ser destruído, mesmo que a guilda não receba recompensa alguma pela caçada.
+2. A Crise dos Livros Contábeis, a Nobreza Hostil e os Impostos de Giz
+A postura ética da Irmandade criou uma fenda profunda com a alta sociedade e com as instituições do continente:
+O Desprezo dos Nobres e Banqueiros: A nobreza de Bastion e os comerciantes de Zul-Bazar consideram os Paladinos de Cinza "desmazelados e sem prestígio". Preferem contratar sociedades fúnebres privadas e ostentosas que usam caixões banhados a ouro. A recusa da guilda em cobrar dos pobres faz com que os ricos a enxerguem como uma "instituição de mendicância", sonegando doações e cobrando impostos abusivos sobre seus templos.
+A Extorsão das Patentes pelo Círculo de Giz: O principal ralo financeiro da Irmandade é a cobrança de royalties de uso de rituais rúnicos feita pelo Círculo de Giz. Para utilizar Giz de Prata, traçar círculos de contenção ou aplicar fórmulas de purificação de miasma registrados no Distrito dos Selos, a guilda é forçada a pagar taxas escorchantes por cada lote de reagentes. O Círculo de Giz ameaça cassar a licença operacional da guilda caso as taxas entrem em atraso, empurrando a Irmandade para os braços dos cobradores de Zul-Bazar.
+A Ameaça do Conservatório: O Conservatório dos Fios Dourados de Zul-Bazar possui diversos títulos de hipoteca vencidos sobre os prédios dos Salões da Cinza em Bastion e Gristal (comprados do Círculo de Giz). A guilda precisa aceitar missões mortais de Rank alto em desespero, apenas para pagar os juros das dívidas e evitar o despejo de suas instalações.
+3. A Lenda do Códice Roubado: A Maior Fraude da História Arcana
+Corre entre os veteranos de Rank Obsidiana e Mármore-Eterno um boato sussurrado nas noites de velório, considerado por muitos um mito reconfortante, mas investigado por outros com fervor obsessivo: a Irmandade da Cinza não deveria pagar um único centavo de patente ao Círculo de Giz — na verdade, o Círculo de Giz é quem deve uma fortuna incalculável à Irmandade.
+
++---------------------------------------+
+
+|
+      A CRIAÇÃO DOS RITUAIS           |
+
+|
+  (Primeiros Exorcistas de Nyxara)    |
+
++-------------------
++-------------------+
+                                          |
+
+[ Roubo de Patentes & Registro Falso ]
+                                          |
+                                          v
+
++---------------------------------------+
+
+|
+        O CÍRCULO DE GIZ              |
+
+|
+(Apropriação, Cobrança & Apagamento)  |
+
++-------------------
++-------------------+
+                                          |
+
++----------------------------------
++----------------------------------+
+
+|
+
+|
+                                 |
+
+v
+
+v
+                                 v
+
++-----------------------+
+
++-----------------------+
+
++-----------------------+
+|   SABE O CÍRCULO?
+|
+
+|
+ EXISTE O DOCUMENTO?
+|
+
+|
+  ONDE ELE ESTÁ?      |
+|(A Alta Cúpula Sabe e
+|
+     |(O Testamento de
+|
+     |(Válvula da Torre Pura,|
+| Tenta Extinguir a
+|
+
+|
+Calcário e Prata com
+|
+
+|
+Dobras da Fenda ou    |
+| Irmandade para Abafar)|
+|
+As Assinaturas)
+|
+
+|
+Tumba do Mártir)      |
+
++-----------------------+
+
++-----------------------+
+
++-----------------------+
+
+
+A Lenda dos Primitivos
+Segundo a tradição oral dos Mármores, nos anos logo após o Cataclisma, os primeiros servos de Nyxara foram os verdadeiros pioneiros da geometria de contenção. Foram eles que desenvolveram as ranhuras de prata salina, as fórmulas de Giz de Osso, os círculos de estabilização espiritual e até os condutores básicos que mais tarde serviram de fundação para a Grade Arcana de Bastion.
+Quando o Círculo de Giz foi formalizado como instituição burocrática, os magos da Torre Pura registraram todas essas geometrias no cartório real do Distrito dos Selos sob seu próprio nome, aproveitando-se do fato de que os Paladinos de Cinza estavam ocupados resgatando cadáveres na Fenda e não se importavam com burocracia comercial. O Círculo patenteou as criações da Irmandade e passou a cobrar royalties do próprio criador dos rituais.
+Se essa lenda for comprovada, a Irmandade da Cinza não apenas estaria isenta de qualquer dívida ou imposto, mas o Círculo de Giz seria obrigado a devolver séculos de royalties retroativos — uma quantia em ouro e prata capaz de salvar a guilda da falência, quitar todas as hipotecas de Zul-Bazar e torná-la a ordem mais rica e influente do continente.
+As Três Pontas Soltas da História
+O Círculo de Giz Sabe Disso?
+A Verdade Oculta: A Arquimaga Perpétua Sohl e o alto conselho da Torre Pura sabem perfeitamente da fraude histórica. Essa é a verdadeira razão pela qual a Torre Pura cobra impostos tão agressivos e recusa-se a perdoar as dívidas da Irmandade. O Círculo de Giz deseja empurrar a Irmandade da Cinza à falência total e à extinção institucional para que o segredo seja enterrado para sempre e a farsa das patentes nunca seja exposta ao público.
+Existe um Documento Confirmando a Paternidade dos Rituais?
+O Testamento de Calcário e Prata: Sim. Existe um contrato original firmado antes da traição burocrática, conhecido nas lendas como O Testamento de Calcário. O documento é uma placa de calcário branco forrada com lâminas de prata salina contendo as assinaturas do Primeiro Grão-Mestre da Cinza e dos fundadores da Torre Pura, declarando explicitamente que toda a geometria de contenção, purificação e estabilização pertence perpetuamente aos servos de Nyxara, sendo concedida ao Círculo de Giz apenas para uso público sem direito de exploração comercial ou cobrança de tributos.
+Onde Está o Documento Perdido?
+As lendas e pistas da guilda dividem-se em três localizações possíveis para o Testamento de Calcário:
+Hipótese A (Os Cofres Proibidos da Torre Pura): O documento está trancado na câmara subterrânea de segurança máxima sob o Códice em Bastion, guardado pessoalmente pelas selagens da Arquimaga Sohl.
+Hipótese B (As Dobras Profundas da Fenda): O comboio que transportava o documento para o cartório de Gristal durante o cataclisma caiu no abismo, e a placa de calcário repousa intacta em uma cripta soterrada nas cavernas sob as profundezas da Fenda, guardada pela Doutrina do Abismo sem que eles saibam seu valor legal.
+Hipótese C (A Tumba do Primeiro Mártir): O documento foi sepultado junto ao corpo do Primeiro Grão-Mestre da Irmandade em uma catacumba esquecida sob os campos do Cinturão Alvorada em Bastion, selado com o Rito da Moeda de Chumbo.
+
+## II. A Estrutura da Guilda: Salões em Penúria e o Mural de Pro Bono
+A Irmandade da Cinza funciona abertamente como uma Guilda de Caça e Proteção Necromântica Licenciada, mas a infraestrutura de seus Salões da Cinza reflete a crise financeira que a assola. Os prédios de granito negro possuem vitrais trincados remendados com tiras de chumbo, o incenso de olíbano puro foi substituído por misturas de carvão e lavanda seca, e o pão oferecido aos visitantes é simples broa de cevada.
+
+[ O ÁTRIO DOS MÁRMORES (RECEPÇÃO E CARTAS DE COBRANÇA) ]
+      /                                                       \
+
+[ O MURAL DOS REQUAGIOS ]
+
+[ A CÂMARA DOS SUSSURROS ]
+ (Contratos Pro Bono & Recompensas em Comida)           (Consultas Espirituais Gratuitas)
+
+|
+                                                      |
+   ===================================================================
+
+\\\\\\\\    OS LEITOS DE EMBALSAMAMENTO E CRIPTAS COM MIDA     ////////
+   ===================================================================
+          |
+          v
+
+[ O ATELIÊ DAS INSÍGNIAS E DO AÇO-NEGRO (OFICINA DE REMENDOS) ]
+
+
+1. O Quadro de Contratos e a Proliferação de Missões "Pro Bono"
+O Mural dos Requagios nos Salões da guilda é dominado por pergaminhos de papel rústico afixados por camponeses desesperados:
+
+[ SOLICITANTE POBRE / CAMPONÊS ]
+-->
+[ AVALIAÇÃO DE RESGATE ]
+-->
+[ ACEITE PRO BONO ]
+                                                                           |
+                                                                           v
+
+[ PAGAMENTO EM GRATIDÃO/ALIMENTOS ]
+<--
+[ EXECUÇÃO COM RECURSOS PRÓPRIOS ]
+
+
+Contratos Pro Bono (Borda Cinzenta): Pedidos de socorro de viúvas, orfãos e mineradores. A recompensa oferecida costuma ser irrisória: um queijo artesanal, três galinhas, um saco de farinha de cevada ou apenas a promessa de orações diárias. A guilda aceita todos os que pode, gastando seus últimos suprimentos de pó de prata na missão.
+Contratos de Socorro Desesperado (Carmesim e Preto): Missões extremamente perigosas contra a Doutrina do Abismo ou monstros da Fenda que outras guildas cobram fortunas para aceitar. A Irmandade aceita esses contratos em desespero de causa para usar o ouro da recompensa no pagamento dos juros das hipotecas e das licenças de Giz.
+2. A Hierarquia das Insígnias e a Falta de Recursos
+Mesmo com a escassez de suprimentos, a ordem mantém sua estrutura rígida de Ranks, embora as insígnias sejam frequentemente repassadas de veteranos falecidos para novos recrutas sem o polimento de outrora:
+
+[ RECRUTA / VOLUNTÁRIO ]
+-->
+[ JURAMENTO DE NYXARA ]
+-->
+[ RANK CINZA-CHUMBO ]
+                                                                 |
+                                                                 v
+
+[ RANK MÁRMORE-ETERNO ]
+<--
+[ RANK OBSIDIANA ]
+    <--
+[ RANK OSSO-PRATA ]
+  (Veteranos Sem Recursos)   (Exorcistas c/ Armadura)     (Caçadores de Vanguarda)
+
+
+Rank 1: Cinza-Chumbo (Neófitos e Voluntários)
+Insígnia: Placa de chumbo bruto fosco com marcas de uso e furos de desgaste.
+Perfil: Jovens órfãos acolhidos pela guilda, coveiros voluntários de bairros pobres e aprendizes que dividem velhas ferramentas de necropsia.
+Permissão de Missão: Escoltas fúnebres de camponeses, limpeza de cemitérios comunitários e auxílio na confecção de caixões de madeira barata.
+Rank 2: Osso-Prata (Caçadores de Vanguarda)
+Insígnia: Placa de prata salina oxidada com entalhes de osso de martir.
+Perfil: A espinha dorsal de combate da guilda. Guerreiros que vestem capas de lã desbotada e cota de malha remendada com anéis de ferro comum.
+Permissão de Missão: Resgate de corpos nas Profundezas Cegas de Gristal e caça a aparições em vilarejos rurais.
+Rank 3: Obsidiana (Paladinos Exorcistas)
+Insígnia: Placa pesada de obsidiana com ranhuras de prata desbotadas.
+Perfil: Veteranos marcados por cicatrizes que utilizam espadas-censor herdadas de seus mestres. Lutam com disciplina impecável, apesar de usarem elixires e reagentes artesanais sintetizados na própria guilda.
+Permissão de Missão: Operações de purificação contra a Doutrina do Abismo e combate a necromantes profanos.
+Rank 4: Mármore-Eterno (O Conclave dos Falidos)
+Insígnia: Medalha de mármore branco-alvo com lascas nas bordas e trançados de fita de chumbo.
+Perfil: Os lendários líderes da guilda que passam mais tempo negociando prazos de hipoteca com cartórios de Bastion e banqueiros de Zul-Bazar do que descansando. Seres de integridade moral inabalável que preferem ver a guilda falir a cobrar uma moeda de uma criança órfã.
+
+## III. O Arsenal Remendado dos Paladinos da Morte
+Rejeitando quinquilharias a vapor, a Irmandade utiliza um arsenal artesanal de ferro-negro mantido com grande esforço de conservação:
+
+[ A ESPADA-CENSOR USADA ]
+
+[ A LANTERNA DE VIDRO TRINCADO ]
+     (Canal com Cinza Diluída)                (Chama Violeta Baça & Óleo Simples)
+                   \                              /
+                    \                            /
+
++------------------------------------------+
+
+|
+      ARSENAL DOS CAVALEIROS             |
+
+|
+      (Equipamentos Gastos & Eficazes)   |
+
++---------------------
++--------------------+
+                                   |
+
++----------------
++----------------+
+
+|
+                                |
+
+v
+                                v
+
+[ O GIZ DE PRATA-CINZENTA ]
+
+[ O MANTO DE PÓ DE CARVÃO ]
+   (Diluído com Cinza de Carvalho)         (Tecido Desbotado & Remendado)
+
+
+A Espada-Censor de Ferro-Negro: Espadas longas e montantes com canais centrais onde se aplica uma pasta de cinzas rituais de carvalho, mirra barata e pó de osso. Embora a lâmina incandesça com o Fogo-Alma violeta em combate contra mortos-vivos, os paladinos precisam economizar a pasta de cinzas, ativando a chama apenas em momentos de extremo perigo.
+A Lanterna de Chama-Alma de Vidro Trincado: Lanternas de ferro forjado e quartzo roxo cujos vidros frequentemente possuem trincas coladas com resina. Alimentadas por óleo vegetal simples misturado com essência de lavanda seca, emitem uma luz ciana mais fraca, mas ainda capaz de revelar aparições e acalmar espíritos.
+O Giz de Prata-Cinzenta Racionado: Barras de nitrato de prata diluídas com alta proporção de cinzas de carvalho e sal comum para render mais. Os paladinos desenham círculos rituais de contenção menores e mais finos para economizar o insumo cobrado a preço de ouro pelo Círculo de Giz.
+O Manto de Pó de Carvão e Tecido Enlutado: Capas pesadas de lã negra desbotada pelo sol e cobertas por remendos de couro simples. Apesar do aspecto desgastado, continuam oferecendo proteção eficaz contra o miasma e os ácidos da Fenda.
+Os Darts de Salina e Chumbo Artesanais: Munições de arremesso fabricadas pelos próprios iniciados na guilda usando chumbo reciclado de velhos tubos e sal salobra filtrada.
+
+## IV. Geografia dos Salões em Crise no Continente
+Os Salões da Cinza mantêm portas abertas nas metrópoles do continente, funcionando como verdadeiros santuários para a população pobre em meio à crise financeira:
+
+[ BASTION: O SAGUÃO AMEAÇADO DE PENHORA ]
+<- Sede sob Pressão de Cartórios
+      /                                         \
+
+[ GRISTAL: A CRIPTA DAS CORRENTES GASTAS ]
+
+[ MALAXIS: O TRIBUNAL DE BASALTO ]
+ (Tirolesas Velhas & Resgate Gratuito)       (Apoio dos Miseráveis da Borda)
+
+|
+                                      |
+   ====================================================
+
+\\\\\\\\    TARTUGA: O BASTIÃO DE JUNCO E MÁRMORE ////////
+<- Ritos e Velórios de Pescadores
+   ====================================================
+                        ||
+                        \/
+
+[ ZUL-BAZAAR: A TENDA DAS DÍVIDAS DE VIDRO ]
+<- Negociações de Prazos de Hipoteca
+
+
+1. O Saguão do Velório Eterno (Bastion)
+Localizado na periferia do Cinturão Alvorada.
+A Realidade: É o maior Salão da guilda, mas metade de suas alas está com luzes apagadas para economizar velas. A guilda enfrenta um processo de penhora promovido por cartórios do Distrito dos Selos e fiscais da Torre Pura. No entanto, o pátio externo fica diariamente lotado de camponeses pobres que trazem seus mortos para receberem o funeral gratuito com a moeda de chumbo.
+2. A Cripta das Correntes (Gristal)
+Escavada na rocha baixa da Fenda, próxima ao Salto do Silêncio.
+A Realidade: Opera com cabos de aço e tirolesas de segunda mão doadas pelos Ratos de Cabo. Os paladinos descem às Profundezas Cegas sob névoa ácida para resgatar os corpos de devedores empurrados no abismo pela Guarda dos Elos, garantindo-lhes um sepultamento digno sem cobrar nada de suas famílias miseráveis.
+3. O Tribunal dos Ossos (Malaxis)
+Uma fortaleza austera de basalto negro na Borda dos Desesperados.
+A Realidade: Protegida pelos próprios moradores miseráveis da Borda. Quando cartéis de mercenários ou agenciadores tentam extorquir o Salão da guilda, a população de cortiços e gladiadores aposentados pega em armas para defender os Paladinos de Cinza, que cuidam dos feridos da arena sem pedir ouro.
+4. O Bastião da Maré Negra (Tartuga)
+Instalado em uma plataforma simples de madeira e junco ancorada no casco da Tartaruga Ancestral.
+A Realidade: Mantém excelente relação comunitária com a Guarda da Carapaça e com os pescadores das Bordas da Maré, realizando ritos fúnebres marítimos em troca de peixes e refeições comunitárias.
+5. A Tenda do Descanso do Sol (Zul-Bazar)
+Uma tenda modesta de lona roxa na periferia do Bazar dos Mil Desejos.
+A Realidade: É o centro nervoso das negociações desesperadas da guilda. O local é visitado semanalmente por cobradores do Conservatório dos Fios Dourados, enquanto os paladinos tentam renegociar os juros das hipotecas dos Salões do continente.
+
+## V. Religião, Panteão e a Teologia da Compaixão
+A fé da Irmandade da Cinza é pautada na devoção absoluta a Nyxara, a Que Pesa os Ecos.
+
++-------------------------------------------------------+
+
+|
+            NYXARA, A QUE PESA OS ECOS                |
+
+|
+ (Padroeira Suprema, Mãe dos Despossuídos & Paz)      |
+
++---------------------------
++---------------------------+
+                                   |
+                                   v
+
++-------------------------------------------------------+
+
+|
+              BALDRUN, O FORJADOR                     |
+
+|
+ (Respeito ao Ferro-Negro & Criptas Simples)          |
+
++---------------------------
++---------------------------+
+                                   |
+
++----------------
++----------------+
+
+|
+                                |
+
+v
+                                v
+
++------------------------------+
+
++------------------------------+
+
+|
+  INIMIGO MORTAL SUPREMO
+|
+
+|
+   LITURGIA DOS FALTOS      |
+
+|
+(A Doutrina do Abismo /
+|
+
+|
+(Bênção da Moeda de Chumbo   |
+
+|
+ Ouro-Sangue / Escravidão)
+|
+
+|
+ & O Descanso Gratuito)      |
+
++------------------------------+
+
++------------------------------+
+
+
+1. O Dogma da Balança sem Ouro
+Para os Paladinos de Cinza, a balança de Nyxara não mede a quantidade de ouro que o indivíduo acumulou em vida, mas a paz e a dignidade do seu eco espiritual.
+A Moeda de Chumbo Abençoada: A moeda de chumbo colocada nos olhos do falecido é o selo de peso espiritual. Como o chumbo é um metal barato e abundante, a guilda ensina que a salvação de Nyxara é democrática e universal: "O chumbo pesa o mesmo nos olhos do rei e nos olhos do mendigo".
+Guerra Sacra contra a Doutrina do Abismo: Se há algo que faz os paladinos falidos encontrarem forças para lutar, é o combate à Doutrina do Abismo. A extração de Ouro-Sangue e a tortura de almas pobres são vistas como a pior abominação do universo. A guilda ataca células da Doutrina sem medir custos, libertando os espíritos aprisionados.
+
+## VI. Membros Notáveis do Comando da Guilda
+Grão-Mestre Valerius, o Paladino de Cinza (Rank Mármore-Eterno): O líder supremo da Irmandade. Um guerreiro de sessenta anos vestindo uma armadura de aço-negro repleta de cicatrizes e marcas de solda, e um manto de lã desbotado. Recusou recentemente uma oferta milionária de um Barão do Trigo para transformar a guilda em uma empresa privada de segurança fúnebre, declarando: "Preferimos morrer de fome no Salão a ver uma criança chorar na porta sem ter como enterrar a mãe".
+Mestra Vespera, a Tecelã dos Requagios (Rank Mármore-Eterno): A cega elfa avaliadora de contratos em Bastion. Passa noites em claro tentando equilibrar os livros contábeis no vermelho, distribuindo os poucos recursos de prata entre os Salões enquanto seleciona missões perigosas de Rank alto para pagar os juros das dívidas. É uma das poucas que guarda fragmentos de pistas sobre a localização do Testamento de Calcário.
+Garak, o Executor da Cripta (Rank Obsidiana): Um anão truculento que comanda a Cripta das Correntes em Gristal. Famoso por usar arneses de segunda mão para descer ao Salto do Silêncio e resgatar corpos de devedores empurrados no abismo, garantindo o funeral gratuito com a moeda de chumbo.
+Irmã Lyra, a Lanterna dos Pobres (Rank Osso-Prata): Jovem exorcista que percorre as províncias rurais de Bastion a pé, curando vilarejos assombrados e realizando exorcismos sem pedir um centavo, alimentando-se do que os camponeses oferecem.
+
+## VII. O Mural de Contratos (7 Ganchos de Aventura em Crise)
+Estes são exemplos de Contratos afixados no Mural dos Requagios nos Salões da guilda, refletindo a urgência financeira da ordem, seu compromisso com os necessitados e o mistério da grande fraude das patentes:
+================================================================================
+                    QUADRO DE CONTRATOS DA IRMANDADE
+================================================================================
+[RANK E - PRO BONO] O Caixão da Mãe do Camponês (Recompensa: 2 Broas de Pão)
+[RANK D - PRO BONO] O Eco do Poço Comunitário   (Recompensa: Um Saco de Batatas)
+[RANK C - PAGO]     O Resgate do Engenheiro     (Recompensa: 45 Peças de Ouro)
+[RANK B - PAGO]     A Limpeza do Esgoto dos Banhos (Recompensa: 90 Peças de Ouro)
+[RANK A - URGENTE]  A Purificação da Fazenda    (Recompensa: 200 Peças de Ouro)
+[RANK S - URGENTE]  A Busca pelo Testamento     (Recompensa: Salvação da Guilda)
+[RANK S+ - LENDÁRIO] O Behemoth dos Ecos        (Recompensa: 1.000 Peças de Ouro)
+================================================================================
+
+
+1. Contrato Rank E (Pro Bono): O Caixão da Mãe do Camponês
+Solicitante: Camponês idoso do Cinturão Alvorada (Bastion).
+Local: Periferia Leste de Bastion.
+Fase de Investigação: Ouvir o relato do camponês cuja mãe falava sobre o pavor de virar uma aparição.
+A Missão: Confeccionar um caixão simples de madeira e realizar o Rito da Moeda de Chumbo no cemitério parque sem cobrar taxa.
+A Complicação: Ladrões de estrada tentaram roubar os lençóis fúnebres da carroça da guilda durante o trajeto.
+Objetivo Primário: Repelir os ladrões sem ferir os cavalos e concluir o funeral com dignidade.
+Recompensa: 2 Broas de Pão de cevada e a benção da família.
+2. Contrato Rank D (Pro Bono): O Eco do Poço Comunitário
+Solicitante: Associação de Moradores do Bairro do Acolhimento.
+Local: Poço público do Cinturão Alvorada.
+Fase de Investigação: Inspecionar o poço comunitário onde o "eco" de um jovem afogado está assustando as crianças que buscam água.
+A Missão: Usar a Lanterna de Chama-Alma para acalmar o espírito e conduzir o Rito do Consentimento para que a alma descanse.
+A Complicação: O giz de prata-cinzenta da guilda está diluído e o círculo de contenção pode falhar se a oração vacilar.
+Objetivo Primário: Pacificar a aparição e purificar a água do poço.
+Recompensa: Um saco de batatas e agradecimentos da comunidade.
+3. Contrato Rank C (Pago para Pagar Hipoteca): O Resgate do Engenheiro
+Solicitante: Sindicato dos Guinchos (Gristal).
+Local: Profundezas Cegas de Gristal.
+Fase de Investigação: Usar lanternas para localizar o corpo de um engenheiro rico que caiu no abismo portando uma bolsa de moedas.
+A Missão: Descer pelas correntes com tirolesas velhas, recuperar o corpo para o funeral e entregar a bolsa ao Sindicato.
+<!-- SEGREDO -->
+A Complicação: Aranhas do Abismo fizeram ninho sobre a viga onde o corpo está preso.
+<!-- FIM SEGREDO -->
+Objetivo Primário: Eliminar as criaturas, resgatar o corpo e usar a taxa do serviço para pagar os juros da hipoteca do Salão de Gristal.
+Recompensa: 45 Peças de Ouro para as caixas da guilda.
+4. Contrato Rank B (Pago): A Limpeza do Esgoto dos Banhos
+Solicitante: Liga dos Agenciadores / Tribunal dos Ossos.
+Local: Banhos de Sangue e Piche (Malaxis).
+Fase de Investigação: Rastrear o miasma de decomposição que está subindo dos esgotos de Malaxis.
+A Missão: Destruir um laboratório clandestino onde um necromante está reanimando cadáveres de gladiadores da arena.
+A Complicação: O necromante possui dois gladiadores reanimados com marretas pesadas e o arsenal da guilda está com escassez de óleo de sepulcro.
+Objetivo Primário: Neutralizar os mortos-vivos com dards de salina e chumbo e entregar o necromante.
+Recompensa: 90 Peças de Ouro (usadas imediatamente para comprar pó de prata puro e pagar taxas de patente).
+5. Contrato Rank A (Urgente): A Purificação da Fazenda de Sangue
+Solicitante: Barão do Trigo (Bastion).
+Local: Província Agrícola Ocidental.
+Fase de Investigação: Inspecionar a propriedade contaminada por elixires da Doutrina do Abismo.
+A Missão: Eliminar cultistas dos Semeadores de Sangue e dez camponeses reanimados como executores de pele rubra.
+A Complicação: O Barão do Trigo promete pagar 200 Peças de Ouro, mas tenta negociar o valor para baixo ao ver o estado desgastado das armaduras dos paladinos.
+Objetivo Primário: Purificar a propriedade, salvar os reféns e exigir o pagamento integral assinado em contrato.
+Recompensa: 200 Peças de Ouro para amortizar a dívida com o Conservatório de Zul-Bazar.
+6. Contrato Rank S (A Grande Revelação): A Busca pelo Testamento de Calcário
+Solicitante: O Conclave dos Mármores (Grão-Mestre Valerius e Mestra Vespera).
+Local: Distrito dos Selos (Bastion) OU Dobras Profundas (Gristal) OU Tumba do Mártir.
+Fase de Investigação: Seguir o mapa cifrado descoberto no forro de uma velha Espada-Censor para localizar a tumba/cofre onde o Testamento de Calcário e Prata está escondido.
+A Missão: Infiltrar-se no local selado, superar os enigmas rúnicos e recuperar a placa original que prova a autoria dos rituais pela Irmandade.
+A Complicação: A Arquimaga Sohl descobriu a expedição e enviou inquisidores dos Cães-Farejadores para destruir o documento a qualquer custo antes que a fraude do Círculo de Giz seja exposta.
+Objetivo Primário: Recuperar a placa de calcário intacta, defender o documento contra a guarda da Torre Pura e apresentar a prova perante o cartório real e o Conservatório de Zul-Bazar.
+Recompensa: Anulação instantânea de todas as dívidas da Irmandade, indenização bilionária em ouro por séculos de patentes roubadas e a elevação da guilda ao ápice do prestígio continental.
+7. Contrato Rank S+ (Lendário): A Libertação do Behemoth dos Ecos
+Solicitante: O Conclave dos Mármores / Comunidade de Tartuga.
+Local: A Foz do Colo Branco (Grande Fenda).
+Fase de Investigação: Mapear a rota congelada na foz da Fenda até o penedo onde um Behemoth do Abismo (Descarnado) está devorando almas de marinheiros naufragados.
+A Missão: Liderar uma expedição desesperada da guilda para imobilizar e destruir o monstro com catapultas de Aço-Anil doadas por Treehold.
+A Complicação: A criatura emite pulsações de estática que cegam os guerreiros e quebram armaduras antigas.
+Objetivo Primário: Executar o Rito do Grande Exorcismo e salvar milhares de ecos marítimos.
+Recompensa: 1.000 Peças de Ouro, salvação financeira da Irmandade por um ano inteiro e concessão da Relíquia A Lanterna de Nyxara.
+
+## VIII. Elementos Sensoriais para o Mestre Narrar
+Utilize estes elementos descritivos durante as sessões envolvendo a Irmandade da Cinza para transmitir a atmosfera solene, austera, nobre, decadente e reconfortante da guilda:
+Sons:
+O ranger abafado de tiras de couro gasto e placas de ferro com soldas antigas durante a marcha dos paladinos.
+O estalo frio e suave de chamas de óleo vegetal queimando nas lanternas de quartzo roxo com vidros trincados.
+O murmúrio ritmado, calmo, humilde e solene de cânticos de despedida entoados pelos paladinos nos velórios rurais.
+O tinir metálico e limpo das moedas de chumbo sendo colocadas nos olhos de mortos-vivos imobilizados.
+O som seco de folhas de papelão de cobrança do Círculo de Giz sendo dobradas e guardadas nas gavetas da recepção da guilda.
+Visões:
+Cavaleiros imponentes de postura nobre vestindo armaduras de aço-negro com marcas de solda e capas de lã negra desbotada e remendada.
+Salões catedralescos de granito negro com vitrais roxos trincados e paredes onde faltam velas nos castiçais.
+A luz ciana e suave das lanternas ilumina a silhueta de aparições pacificadas sendo acolhidamente conduzidas para o descanso.
+Filas de camponeses e operários pobres na porta da guilda recebendo broas de cevada e bênçãos fúnebres gratuitas.
+Cheiros:
+O aroma de carvão vegetal, fumaça de lavanda seca e pequenos traços de mirra barata substituindo o olíbano puro nos altates.
+O cheiro limpo e seco de óleo de gergelim e graxa de ferro usado para manter as espadas-censor sem ferrugem.
+O ar fresco e sem miasma que se forma ao redor dos paladinos quando ativam o Giz de Prata em ambientes contaminados.
+Tato e Sensações Térmicas:
+A sensação de serenidade e fim de náusea ao entrar no raio de luz das lanternas da guilda.
+A textura áspera dos mantos de lã desbotada em contraste com a firmeza do cabo da espada-censor.
+O aperto de mão caloroso, firme e calejado dos paladinos oferecido aos camponeses enlutados.
+
+## IX. Economia e Tabela de Sobrevivência da Guilda
+A economia da Irmandade da Cinza reflete seu estado de crise, seu compromisso de caridade e a extorsão do Círculo de Giz:
+| Item / Equipamento / Licença
+|
+Custo aos Pobres / Camponeses
+|
+Custo para Ricos / Mercado Externo |
+| Rito Fúnebre Completo com Moeda de Chumbo
+|
+Gratuito (Aceita-se doação de pão/alimentos)
+|
+15 Peças de Ouro (Tabela social) |
+| Resgate de Corpo nas Profundezas de Gristal
+|
+Gratuito (Financiado pela guilda)
+|
+50 Peças de Ouro |
+| Espada-Censor de Ferro-Negro (Oficial)
+|
+Proibido para venda
+|
+35 Peças de Ouro (Apenas para recrutas) |
+| Lanterna de Chama-Alma (Quartzo Roxo)
+|
+Proibido para venda
+|
+50 Peças de Ouro (Item de iluminação e revelação) |
+| Barra de Giz de Prata-Cinzenta (Diluído)
+|
+1 Moeda de Cobre
+|
+1 Peça de Prata (Ferramenta de proteção) |
+| Manto de Pó de Carvão e Couro (Remendado)
+|
+2 Peças de Prata
+|
+10 Peças de Ouro (Capa anti-miasma) |
+| Caixa com 12 Darts de Salina e Chumbo
+|
+1 Peça de Prata
+|
+8 Peças de Ouro (Munição de imobilização) |
+| Frasco de Óleo de Sepulcro para Lâminas
+|
+5 Moedas de Cobre
+|
+4 Peças de Ouro (Consumível de Fogo-Alma) |
+| Taxa de Royalty Cobrada por Rito pelo Círculo
+|
+Impagável (Causa do colapso)
+|
+10 Peças de Ouro por ritual registrado |
+| Certidão Fúnebre Autenticada por Nyxara
+|
+Gratuito
+|
+2 Peças de Prata (Documento fúnebre) |
+| Exorcismo Comunitário de Aparição em Vilarejo| Gratuito (Acolhimento no templo)
+|
+30 Peças de Ouro |
+| Dívida Mensal de Juros da Hipoteca do Salão
+|
+Impagável (Causa de reuniões noturnas)
+|
+120 Peças de Ouro (Pagas ao Conservatório) |
 
 ---
 
-## [A Liga dos Espadas-Sanguinárias]
+Lore Expandida: A Irmandade da Fuligem
+O suor do mineiro alimenta a fornalha e a sua tosse ritma o progresso da cidade; mas é a assinatura da nossa diretoria que decide qual caldeira recebe o fogo e qual setor congelará no escuro.
 
-## Resumo
+## I. Visão Geral e a Doutrina do Sindicalismo de Escória
+Nas galerias abafadas, enfumaçadas e incandescentes dos Veios Profundos — centenas de metros abaixo das estufas, caldeiras e forjas do Sindicato do Ferro-Frio em Krag-Mora —, a vida de um trabalhador é medida em sacos de minério extraídos, na integridade de suas juntas e na resistência dos seus pulmões à Névoa de Sangue. É nesse cenário de exploração extenuante, calor abrasador e fuligem permanente que opera A Irmandade da Fuligem: a poderosa corporação laboral, sindicato minerador e cartel de distribuição de combustível que representa a massa de operários, picaretadores, carregadores de esteira e limpadores de combustão da cidade-fornalha.
+Fundada originalmente após a lendária Greve dos Três Dias — quando milhares de mineradores paralisaram os poços geotérmicos centrais e ameaçaram congelar os reatores do Grande Motor —, a Irmandade apresenta-se ao público e às galerias de mineração com uma postura abertamente populista, inflamada, demagógica e combativa. Seus líderes vestem macacões rasgados de couro queimado, mancham propositalmente os rostos com poeira de carvão antes de subirem aos pátios, ostentam cicatrizes de queimaduras e fazem discursos acalorados sobre "a dignidade da marreta", "o direito ao respirador limpo" e "a união dos despossuídos contra a aristocracia do vapor". Para o minerador comum que trabalha dezoito horas por dia sob o risco contínuo de desabamentos, soterramentos e necrose pulmonar, a Irmandade é o único escudo entre a sua família e a miséria absoluta.
+Contudo, por trás da retórica inflamada de assembleia, dos punhos erguidos, das faixas carmesins e das canções de greve entoadas ao som de marretadas nas tubulações, esconde-se uma diretoria sindicalista profundamente pragmática, gananciosa, autoritária e auto-interessada. A alta cúpula da Irmandade aprendeu rapidamente que o controle absoluto sobre a extração e o fluxo do Carvão-de-Sangue é a maior arma geopolítica, financeira e militar do Norte Congelado. Sem a cota diária de minério extraída pelos seus associados, os reatores centrais de Krag-Mora congelam em vinte e quatro horas, a pressão das tubulações de vapor despenca, a produção de armas para o exército do General Draven em Ferrovale é paralisada e a cidade vira um túmulo de ferro gelado.
+Essa posição de monopólio estratégico permitiu à diretoria estabelecer um império velado de extorsão, propinas, liquidações de fura-greves e luxos privados. Enquanto pregam o racionamento rigoroso de ração, a austeridade de recursos e o sacrifício moral para a base de milhares de mineradores, os diretores do sindicato mantêm salas secretas e abobadadas atrás dos galpões de fuligem, equipadas com depuradores de ar de alta tecnologia importados de Bastion, garrafas de vinho nobre, charutos de cacto de Malaxis, banquetes de carne de caça de Treehold e cofres cheios de lingotes de ouro recebidos em acordos secretos por debaixo da mesa com o Sindicato do Ferro-Frio e com agentes mercenários de Ferrovale.
 
-Coalizão de exércitos mercenários, orcs e desertores de guerra que vende batalhões militares para conflitos não oficiais.
++---------------------------------------+
 
-## Objetivo/Agenda
+|
+      A MESA DIRETORA DE GREVE        |
 
-Lucrar com o aluguel de força militar bruta para lordes feudais e comerciantes ricos em todo o continente.
+|
+  (Presidente Sindical & Tesouraria)  |
 
-## Hierarquia
++-------------------
++-------------------+
+                                        |
 
-Liderada pelos Capitães-Generais das Companhias. A liderança específica ainda não foi criada.
+[ Discursos Inflamados & Propinas de Luxo ]
+                                        |
+                                        v
 
-## Território/Base
++---------------------------------------+
 
-Acampamentos fortificados ao redor do desfiladeiro de Malaxis.
+|
+   HIERARQUIA E CARGOS SINDICAIS      |
 
-## Recursos
+|
+  (Carteiras, Delegados & Cobrança)   |
 
-Milhares de mercenários veteranos, armas de cerco, cavalaria pesada e táticas de guerra aberta.
++-------------------
++-------------------+
+                                        |
 
-## Relações com outras facções
++--------------------------------
++--------------------------------+
 
-[A Rede dos Dentes-de-Ouro]: aliada — prestam segurança armada para galpões de receptação de grande porte.
+|
 
-## Membros notáveis
+|
+                               |
 
-Ainda não criado.
+v
+
+v
+                               v
+
++---------------+
+
++-----------------+
+
++-----------------+
+| DELEGADO DE
+|
+
+|
+INSPETOR DE
+|
+
+|
+COMISSÁRIO DE   |
+|   GALERIA
+|
+
+|
+ CARVÃO/ESTEIRA
+|
+
+|
+    AÇÃO        |
+|(Líder de Piquete)|           |(Controle/Cota)
+|
+             |(Agitador/Agressor)|
+
++-------
++-------+
+
++--------
++--------+
+
++--------
++--------+
+
+|
+
+|
+                               |
+
++-------------------------------
++--------------------------------+
+                                        |
+                                        v
+
++---------------------------------------+
+
+|
+     SINDICALIZADOS DE BASE (MINA)    |
+
+|
+  (Mineradores, Picaretas & Fuligem)  |
+
++-------------------
++-------------------+
+                                        |
+                                        v
+
++---------------------------------------+
+
+|
+   OPERATIVOS DE CONTRABANDO E GUERRA |
+
+|
+(Esquadrão do Piquete & Carga Escura) |
+
++---------------------------------------+
+
+
+
+II. A Fachada Populista vs. O Luxo Discreto da Diretoria
+A vida e a rotina dentro da Irmandade da Fuligem são divididas por um duplo padrão ético mantido com absoluta precisão e controle de informação:
+1. A Fachada da Praça: O Piquete e a Cota Sindical
+Para a base de milhares de operários e mineradores dos Veios Profundos, a Irmandade é apresentada como uma religião civil de resistência laboral e fraternidade:
+A Carteira do Carvão (Filiação Compulsória): Nenhum minerador consegue trabalho nas galerias de Krag-Mora sem a Carteira do Carvão devidamente carimbada e em dia com as mensalidades do sindicato. A Irmandade cobra uma taxa mensal obrigatória de 10% sobre todo o pagamento do trabalhador, denominada "A Cota de Manutenção". Quem recusa filiar-se é declarado fura-greve ou traidor da classe. Esses indivíduos sofrem "acidentes" fatais com ferramentas no escuro das minas, têm suas cordas de sustentação cortadas ou têm sua ração diária de Massa-Fita sabotada com toxinas de enxofre.
+O Ritual do Piquete (O Bloqueio do Vapor): Quando as negociações com os Engenheiros-Mestres do Sindicato do Ferro-Frio emperram por valores de propina, os diretores convocam o Piquete do Martelo. Dúzias de delegados sindicais e comissários armados com correntes pesadas, marretas, tubos de piche incandescente e bastões de ferro bloqueiam as esteiras de transporte de minério, cravam cunhas de aço nas roldanas dos guinchos e travam as válvulas de escapamento das galerias. Para o minerador comum, é um ato heroico de coragem operária contra os patrões; para a diretoria, é a demonstração de força necessária para elevar o valor da propina a ser cobrada na reunião seguinte.
+A Taxa do Pulmão Limpo: Sob o pretexto de redistribuir equipamentos de segurança, a Irmandade recolhe periodicamente os respiradores de fita de chumbo dos mineradores para "inspeção e troca de filtro". Aqueles que pagam uma taxa extra por fora recebem aparelhos com filtros novos; os operários sem moedas para o suborno recebem respiradores com filtros velhos e entupidos, resultando em necrose pulmonar precoce.
+2. O Atrás do Galpão: A "Sala da Purificação"
+Escondida atrás dos compressores ruidosos e imundos do Galpão Sete — sob o pretexto de ser uma "Câmara de Descompressão de Emergência" —, fica a verdadeira sede de decisões da cúpula do sindicato:
+O Depurador de Ouro: Uma cúpula abobadada de alvenaria isolada por paredes duplas de chumbo e feltro grosso que cortam o barulho ensurdecedor dos martelos pneumáticos da cidade. A câmara conta com um sistema de filtragem de ar de quartzo importado de Bastion que remove 100% da poeira de carvão e do gás sulfuroso, permitindo que os diretores respirem ar puro perfumado com essência de tília e lavanda.
+O Contrabando da Mesa Diretora: Na Sala da Purificação, os diretores do sindicato desfrutam de luxos absolutamente inacessíveis para 99% da população de Krag-Mora: garrafas de vinho real de Bastion, cortes de carne de caça conservada trazidos por caravanas de Zul-Bazar, charutos de folha de cacto de Malaxis, tecidos de seda marinha de Tartuga e louças de cerâmica refinada. Enquanto os mineradores comem a amarga Massa-Fita, a cúpula realiza banquetes noturnos banhados a vinho e assados.
+A Taxa de Descompressão (A Propina Real): Quando o Sindicato do Ferro-Frio precisa aumentar a produção de armas para vender ao exército de Ferrovale sem que os operários exijam aumentos salariais ou redução de jornada, um oficial do Ferro-Frio visita a Sala da Purificação levando uma arca de moedas de ouro ou lingotes de Aço-Anil. O presidente do sindicato aceita o suborno, assina o Acordo de Flexibilização de Turno e discursa no dia seguinte para os mineradores no Galpão Sete, afirmando que "conseguiu uma vitória histórica para a categoria: mais dez minutos de descanso por semana e uma caneca de sopa aos domingos".
+
+[ REVOLTA DOS MINERADORES ]
+ -->
+[ AMEAÇA DE GREVE GERAL ]
+ -->
+[ REUNIÃO DA PURIFICAÇÃO ]
+                                                                             |
+                                                                             v
+
+[ DISCURSO DE "VITÓRIA HISTÓRICA" ]
+<--
+[ ACORDO DE FLEXIBILIZAÇÃO ]
+<--
+[ PROPINA EM ARCA DE OURO ]
+
+
+
+III. Estrutura e Cargos no Sindicato
+A Irmandade organiza seus membros através de uma estrutura rígida que combina títulos de representação trabalhista com funções de cobrança, vigilância e coerção violenta:
+
+[ MINERADOR / SINDICALIZADO ]
+-->
+[ DELEGADO DE GALERIA ]
+-->
+[ INSPETOR DE ESTEIRA ]
+                                                                       |
+                                                                       v
+
+[ PRESIDENTE SINDICAL ]
+     <--
+[ MESA DIRETORA DE GREVE ]
+<--
+[ COMISSÁRIO DE AÇÃO ]
+
+
+
+1. Sindicalizado de Base (A Massa de Manobra)
+Distintivo: Uma moeda de ferro fundido perfurada presa ao pulso por um cordão de fita de chumbo.
+Perfil: Mineradores de marreta, carregadores de esteira e operários de caldeira. Sofrem de tosse de fuligem, trabalham sob calor abrasador e acreditam piamente que a diretoria do sindicato luta bravamente pela sua sobrevivência. São mobilizados em massa para votações de greve e atos públicos de protesto.
+2. Delegado de Galeria (Os Agitadores de Piquete)
+Distintivo: Um broche de bronze em formato de picareta e lâmpada de óleo.
+Perfil: Operários experientes que atuam como porta-vozes do sindicato nas frentes de trabalho. São responsáveis por organizar assembleias localizadas, coletar a Cota do Carvão e identificar mineradores insubordinados ou "espiões do Ferro-Frio". Recebem rações duplas de Massa-Fita, isenção dos turnos mais perigosos em veios sulfurosos e pequenas comissões sobre as taxas arrecadadas.
+3. Comissário de Ação (A Força de Choque)
+Distintivo: Sobretudo de couro oleado com braçadeira e símbolo da chave-inglesa cruzada por uma picareta.
+Perfil: O braço armado e violento do sindicato. Encarregados de intimidar fura-greves, espancar mineradores que criticam a diretoria, quebrar maquinários de pequenos comerciantes que recusam pagar a "Taxa de Proteção Sindical" e escoltar o contrabando de Carvão-de-Sangue desviado das minas oficiais.
+4. Inspetor de Esteira e Tesoureiro (Os Contadores da Escória)
+Distintivo: Óculos de proteção de lente dupla de vidro escuro e prancheta de chumbo com caneta de nitrato de prata.
+Perfil: Burocratas do sindicato encarregados de gerenciar a contabilidade dupla do carvão extraído. São eles que alteram os relatórios oficiais de tonelagem entregues aos fiscais da cidade para criar "sobras de estoque" — toneladas de Carvão-de-Sangue puro que são vendidas secretamente no mercado negro para agenciadores de Malaxis e mercenários de Ferrovale.
+5. A Mesa Diretora de Greve (A Elite Corrupta)
+Distintivo: Um anel pesado de Aço-Anil com incrustação de rubi de Carvão-de-Sangue polido.
+Perfil: Os sete diretores supremos do sindicato. Composta por sete membros de raças diversas (incluindo três anões, dois humanos, um gnomo e uma elfa) que mantêm hábitos refinados, roupas de couro nobre velado sob aventais propositalmente sujos e contas bancárias secretas gerenciadas pelo Conservatório dos Fios Dourados em Zul-Bazar. Decidem quando declarar greves forjadas, negociam os valores de propina com o Ferro-Frio e vivem no luxo oculto da Sala da Purificação.
+
+## IV. Geografia Operacional nos Veios Profundos
+A Irmandade da Fuligem domina completamente a infraestrutura subterrânea, os trilhos de transporte e os alojamentos dos Veios Profundos em Krag-Mora:
+
+[ O GALPÃO SETE (ASSEMBLEIAS E PIQUETES) ]
+ <- Pátio de Reuniões Públicas
+      /                                           \
+
+[ A SALA DA PURIFICAÇÃO (SEDE OCULTA) ]
+
+[ O VEIO DA SOBRE-CARGA ]
+ (Luxo Privado, Vinhos & Propinas de Ouro)   (Contrabando Clandestino de Carvão)
+
+|
+                                             |
+   ============================================================
+
+\\\\\\\\   OS DORMITÓRIOS DOS SINDICALIZADOS     ////////
+<- Beliches, Mofo & Fuligem
+   ============================================================
+          |
+          v
+
+[ A ENFERMARIA DAS MÁSCARAS CEGAS ]
+ <- Racionamento de Filtros & Descarte
+
+
+
+O Galpão Sete (A Praça da Assembleia): Um pavilhão colossal de madeira-ferro e chapas de aço xadrez onde ocorrem as votações de greve e os discursos públicos. Possui um pátio elevado de onde os diretores discursam sob holofotes de acetileno, enquanto milhares de mineradores batem suas marretas nas tubulações em sinal de apoio ritmado.
+A Sala da Purificação (A Sede Privada): O complexo oculto atrás dos compressores do Galpão Sete. Protegida por portas de chumbo e guarda armada de Comissários de Ação, abriga adegas de vinhos, depuradores de ar, salas de jantar de gala e os cofres das propinas em ouro.
+O Veio da Sobre-Carga: Uma galeria de mineração desativada nos mapas oficiais do Sindicato do Ferro-Frio, mas mantida em operação clandestina pela Irmandade. É de onde o sindicato extrai quinze toneladas mensais de Carvão-de-Sangue "não registrado" para alimentar forjas clandestinas de armas em Malaxis e abastecer o mercado negro de Gristal.
+Os Dormitórios da Cota: Complexos de beliches de chapa metálica em quatro andares onde os mineradores solteiros dormem entre os turnos de trabalho. O ar é pesado e mofado, mas o sindicato mantém comissários na porta para "proteger os trabalhadores", cobrando aluguéis extorsivos sobre cada cama.
+A Enfermaria das Máscaras Cegas: Um galpão abafado onde mineradores em estágio terminal de necrose pulmonar são mantidos em leitos de lona. É aqui que o sindicato recolhe os respiradores dos doentes para recondicioná-los e vendê-los novamente para os recrutas mais jovens.
+
+## V. Panteão e a Teologia do Trabalho Sacrificado
+A religiosidade na Irmandade da Fuligem é uma mistura de devoção rústica ao deus da forja, superstição de escavador e exploração política por parte da diretoria:
+
++-------------------------------------------------------+
+
+|
+              BALDRUN, O GRANDE FORJADOR              |
+
+|
+ (Patrono do Trabalho, Marretas, Aço & Esforço)       |
+
++---------------------------
++---------------------------+
+                                   |
+                                   v
+
++-------------------------------------------------------+
+
+|
+           A CHAMA-SEM-NOME (O MEDO DA MINA)          |
+
+|
+ (Terror Geotérmico, Explosões de Gás & Respeito)      |
+
++---------------------------
++---------------------------+
+                                   |
+
++----------------
++----------------+
+
+|
+                                |
+
+v
+                                v
+
++------------------------------+
+
++------------------------------+
+
+|
+  A SANTA DA PICARETA
+|
+
+|
+ TABUS DO CARVÃO DE SANGUE   |
+
+|
+(Mártir Popular dos Minerado-|
+|
+(Proibição de Assobio no     |
+
+|
+ res / Culto Rejeitado pela
+|
+
+|
+ Escuro & Sangue no Mineral) |
+
+|
+ Diretoria)
+|
+
++------------------------------+
+
+
+
+1. Baldrun e a Liturgia da Marreta
+Baldrun é venerado pela base de mineradores não como um deus de templos refinados de Bastion, mas como o Primeiro Minerador. Antes de iniciar a jornada de trabalho, os operários batem o cabo da picareta no chão de rocha três vezes e entoam a prece coletiva: "Baldrun segure a rocha, o carvão pague a broa e a fumaça não roube o meu sopro".
+2. A Santa da Picareta (O Culto Popular de Marta)
+Uma lenda fervorosamente venerada entre os trabalhadores mais jovens: a história de Marta da Fuligem, uma mineradora anã que teria morrido segurando uma viga de sustentação de madeira-ferro com os próprios braços durante quatro horas para salvar sessenta companheiros durante um desabamento no Veio Quatro.
+A Rejeição da Diretoria: A alta cúpula do sindicato tenta desestimular e proibir o culto à Santa Marta, destruindo seus pequenos altares de pedra improvisados nas minas. A razão é simples: os trabalhadores usam a figura de Marta como símbolo de altruísmo puro, sacrifício verdadeiro e união genuína — o que contrasta perigosamente com a ganância, os subornos e o luxo privado da Mesa Diretora.
+3. Tabus e Superstições dos Veios Profundos
+O Assobio do Gás (O Assobio Proibido): É severamente proibido assobiar ou cantar em tons agudos nas galerias profundas. Acredita-se que o som agudo entra em ressonância com as bolsas de gás geotérmico, provocando explosões imprevisíveis de Névoa de Sangue. Quem assobia nas minas é espancado imediatamente pelos companheiros.
+O Sangue no Mineral (A Mutilação do Carvão): Se um minerador se corta acidentalmente e sangra sobre um bloco de Carvão-de-Sangue bruto, o bloco deve ser incinerado ou lançado nos poços de escória imediatamente. Acredita-se que o mineral "morde" o sangue humano e ganha vida, atraindo entidades da Doutrina do Abismo para as galerias.
+
+## VI. Membros Notáveis da Mesa Diretora e da Base (Os 7 Líderes e Representantes)
+A Mesa Diretora de Greve é composta oficialmente por sete membros executivos de raças e especialidades distintas. Abaixo estão detalhados os integrantes da alta cúpula e as figuras mais influentes dos Veios Profundos:
+Presidente Bram "Dente-de-Ferro" Vance (Anão): O líder supremo e inquestionável da Irmandade da Fuligem. Um anão ex-minerador de sessenta e cinco anos que perdeu metade dos dentes em um acidente de mineração e os substituiu por próteses de ferro cru. Em público e nas assembleias do Galpão Sete, veste um macacão rasgado, fala com voz rouca de poeira e cospe fumaça de tabaco barato; na Sala da Purificação, veste túnicas de seda de Bastion, bebe vinhos raros, saboreia carnes de caça e calcula propinas com precisão cirúrgica.
+Comissário-Chefe Torin Vance (Anão): Irmão mais novo de Bram e comandante absoluto dos Comissários de Ação. Um anão truculento e sádico que gerencia as operações de extorsão contra pequenos comerciantes no Bairro das Próteses, organiza os esquadrões de agressão contra fura-greves e garante que nenhum minerador insubordinado saia vivo dos Veios Profundos.
+Diretora de Logística Gorga "Marreta-Fria" Bronzeférrea (Anã): Uma anã obstinada que chefia o transporte pesado de carga. É responsável por supervisionar os guinchos e garantir que a cota oficial enviada ao Ferro-Frio seja sutilmente adulterada para alimentar os estoques clandestinos do Veio da Sobre-Carga.
+Tesoureiro-Geral Kaelen Vex (Gnomo): Um gnomo financista trazido de Zul-Bazar que gerencia a contabilidade dupla e fraudulenta do sindicato. É o único que conhece as senhas das contas bancárias secretas da diretoria no Palácio de Vidro em Zul-Bazar e quem organiza o esquema de desvio do Carvão-de-Sangue para o mercado negro.
+Diretor de Filtros e Suprimentos Valen Cinder (Humano): Um humano perito em engenharia de exaustão que gerencia a distribuição de respiradores de fita de chumbo. É o cérebro por trás da "Taxa do Pulmão Limpo", revendendo filtros recondicionados para os recrutas mais jovens enquanto estoca filtros novos de quartzo importados para a diretoria.
+Inspetora-Geral Jenna "Olho-de-Vidro" (Elfa): Uma elfa refinada e fria que atua como ponto de contato e inspetora corrupta do Sindicato do Ferro-Frio. Recebe propinas mensais em ouro de Kaelen Vex para assinar laudos falsos de tonelagem e fechar os olhos para a extração clandestina no Veio da Sobre-Carga.
+Delegada Marta "A Voz da Galeria" (Humana): Uma liderança humana genuína da base de mineradores que recusa a corrupção da cúpula. Lidera os trabalhadores do Veio Quatro, recusa-se a aceitar propinas e começou a reunir provas sobre os luxos secretos de Bram Vance e da Mesa Diretora, tornando-se o sétimo membro de relevância e uma ameaça mortal interna para o sindicato.
+
+## VII. Ganchos de Aventura e Missões Sindicais
+Estes são exemplos de missões e contratos envolvendo a Irmandade da Fuligem, construídos em fases detalhadas para destacar suas intrigas, greves forjadas, subornos e operações clandestinas:
+================================================================================
+                    QUADRO DE MISSÕES DA IRMANDADE
+================================================================================
+[NÍVEL 1] A Caça aos Fura-Greves do Veio Três  (Recompensa: 20 Peças de Ouro)
+[NÍVEL 2] O Desvio do Vagão de Sobre-Carga    (Recompensa: 45 Peças de Ouro)
+[NÍVEL 3] O Silêncio da Delegada Marta         (Recompensa: 80 Peças de Ouro)
+[NÍVEL 4] A Propina da Válvula Mestre          (Recompensa: 150 Peças de Ouro)
+[NÍVEL 5] A Invasão da Sala da Purificação     (Recompensa: Ouro & Chantagem)
+[NÍVEL 6] O Sabotador de Válvulas do Ferro     (Recompensa: 220 Peças de Ouro)
+[NÍVEL 7] A Revolta da Picareta Sangrenta      (Recompensa: Mudança na Cidade)
+================================================================================
+
+
+
+1. A Caça aos Fura-Greves do Veio Três
+Solicitante: Comissário Torin Vance (Anão).
+Local: Veio Profundo Três (Krag-Mora).
+Fase de Investigação: Identificar um grupo de doze mineradores desesperados que recusaram a ordem de greve do sindicato e continuam extraindo minério em segredo para alimentar suas famílias famintas.
+A Missão: Infiltrar-se na galeria oculta do Veio Três, sabotar as ferramentas dos fura-greves e expulsá-los da mina para demonstrar a autoridade do sindicato.
+A Complicação: Os fura-greves estão armados com picaretas pesadas e são protegidos por dois guardas subornados do Sindicato do Ferro-Frio.
+Objetivo Primário: Cumprir a missão sem matar os mineradores inocentes ou expor o acordo da diretoria com a guarda.
+Recompensa: 20 Peças de Ouro e braçadeira de livre circulação do sindicato.
+2. O Desvio do Vagão de Sobre-Carga
+Solicitante: Tesoureiro Kaelen Vex (Gnomo).
+Local: Trilhos Subterrâneos (Veios Profundos).
+Fase de Investigação: Mapear a rota do comboio ferroviário a vapor que transporta cinco toneladas de Carvão-de-Sangue refinado das minas oficiais para os reatores civis.
+A Missão: Desviar o vagão de sobre-carga para o Veio desativado usando agulhas de trilho clandestinas antes que alcance os galpões do Grande Motor.
+A Complicação: Agentes de Ferrovale também estão no local tentando roubar o mesmo vagão para abastecer suas forjas clandestinas na Fenda.
+Objetivo Primário: Garantir a carga para a diretoria do sindicato e eliminar os competidores de Ferrovale sem alertar os fiscais do Ferro-Frio.
+Recompensa: 45 Peças de Ouro e dois galões de vinho nobre de Bastion.
+3. O Silêncio da Delegada Marta
+Solicitante: Presidente Bram Vance (Anão, em segredo absoluto).
+Local: Galpão Sete (Krag-Mora).
+Fase de Investigação: Investigar os passos da Delegada Marta (Humana), que reuniu provas e recibos de liquidação das propinas recebidas pela diretoria do sindicato.
+A Missão: Silenciar a delegada antes da grande assembleia de terça-feira no Galpão Sete, seja por suborno, chantagem política ou eliminação discreta.
+A Complicação: Marta é amada por quinhentos mineradores armados com marretas que a protegem dia e noite nos dormitórios do Galpão Sete.
+Objetivo Primário: Forjar uma prova de traição ou colaboracionismo contra Marta para desacreditá-la perante a base de trabalhadores sem transformá-la em mártir.
+Recompensa: 80 Peças de Ouro e promoção ao posto de Comissário de Ação.
+4. A Propina da Válvula Mestre
+Solicitante: Engenheiro-Mestre do Sindicato do Ferro-Frio.
+Local: Reator Central do Grande Motor.
+Fase de Investigação: Descobrir o valor exato da propina exigida por Bram Vance para encerrar uma paralisação que travou a produção de armas da cidade.
+A Missão: Escortar o emissário do Ferro-Frio carregando uma arca de ouro até a Sala da Purificação durante o pico do protesto no Galpão Sete.
+A Complicação: Um grupo de mineradores radicais descobriu o trajeto do comboio e planeja embascar os negociadores para impedir o suborno e manter a greve real salarial.
+Objetivo Primário: Entregar a arca de ouro a Bram Vance e garantir a assinatura do Acordo de Flexibilização.
+Recompensa: 150 Peças de Ouro e salvo-conduto do Ferro-Frio.
+5. A Invasão da Sala da Purificação
+Solicitante: Grupo de Aventureiros / Facção Rival / Delegada Marta (Humana).
+Local: Galpão Sete (Krag-Mora).
+Fase de Investigação: Encontrar a passagem secreta atrás dos compressores de ar do Galpão Sete que dá acesso à sede oculta da diretoria.
+A Missão: Invadir a Sala da Purificação, obter o livro de contabilidade dupla de Kaelen Vex (Gnomo) e expor o luxo e os subornos da cúpula perante a assembleia de mineradores.
+A Complicação: A sala é protegida por depuradores de ar tóxico que podem ser ativados como armadilha química e por quatro comissários de elite equipados com pistolas pneumáticas.
+Objetivo Primário: Recuperar os livros contábeis intactos e escapar com vida dos Veios Profundos antes que a guarda do sindicato feche os portões.
+Recompensa: Baú de itens de luxo contrabandeados (vinhos, charutos, joias de Zul-Bazar) e chantagem definitiva contra a cúpula do sindicato.
+6. O Sabotador de Válvulas do Ferro
+Solicitante: Comissário Torin Vance (Anão).
+Local: Caldeiras de Pressão Secundárias (Veios Profundos).
+Fase de Investigação: Rastrear a origem de uma série de sabotagens técnicas nas válvulas de vapor que estão matando mineradores por queimaduras de terceiro grau.
+A Missão: Identificar e capturar o sabotador que está desequilibrando os manômetros de pressão nas frentes de mineração.
+A Complicação: O sabotador é um antigo Engenheiro-Mestre do Ferro-Frio demitido que se aliou à Horda Silenciosa para provocar uma explosão em cadeia nos reatores baixos.
+Objetivo Primário: Neutralizar o sabotador, desarmar os detonadores mecânicos e impedir a destruição do setor de caldeiras.
+Recompensa: 220 Peças de Ouro e isenção perpétua da Cota do Carvão.
+7. A Revolta da Picareta Sangrenta
+Solicitante: A Base Unida dos Mineradores / Santa Marta (Espiritualmente).
+Local: Todos os Veios Profundos de Krag-Mora.
+Fase de Investigação: Unir as frentes de trabalho dos Veios Um a Seis para derrubar simultaneamente a cúpula corrupta de Bram Vance (Anão) e os fiscais do Sindicato do Ferro-Frio.
+A Missão: Liderar a tomada do Galpão Sete, invadir a Sala da Purificação durante um banquete da diretoria e assumir o controle dos guinchos de transporte de minério.
+A Complicação: Bram Vance acionou seu esquadrão privado de comissários armados e pediu intervenção dos Falangistas do Aço em Exotrajes-Vapor para massacrar os revoltosos.
+Objetivo Primário: Derrotar as forças de Bram Vance, expor a corrupção da Mesa Diretora e estabelecer uma nova liderança comunitária nos Veios Profundos.
+Recompensa: Controle da economia de contrabando de Carvão-de-Sangue e elevação a heróis da classe operária de Krag-Mora.
+
+## VIII. Elementos Sensoriais para o Mestre Narrar
+Utilize estes elementos descritivos durante as sessões envolvendo a Irmandade da Fuligem para transmitir a atmosfera de suor, fuligem, calor, demagogia, pavor e corrupção oculta:
+Sons:
+O baque grave, ritmado e ensurdecedor de milhares de marretas batendo nas tubulações de ferro durante as votações de greve no Galpão Sete.
+O silvo agudo e contínuo de compressores pneumáticos e exaustores de ar tentando purgar a poeira de carvão das galerias baixas.
+A voz rouca, estridente, demagógica e teatral de Bram Vance ecoando pelos alto-falantes de acetileno durante os discursos na praça.
+O tilintar abafado de garrafas de cristal e moedas de ouro sendo contadas em silêncio absoluto no interior da Sala da Purificação.
+A tosse seca, pesada e coletiva dos mineradores de base descansando nos beliches dos dormitórios do sindicato.
+Visões:
+Milhares de operários de rostos cobertos por fuligem preta, aventais de couro queimado e óculos de proteção com lentes engorduradas.
+O contraste chocante entre a imundície e poeira do Galpão Sete e a opulência da Sala da Purificação (alvenaria limpa, tapetes de veludo, garrafas de vinho e depuradores de ar polidos).
+Faixas vermelhas de pano com slogans de greve penduradas sobre as esteiras industriais de Carvão-de-Sangue.
+Comissários de braçadeira vermelha circulando com cacetetes de ferro e correntes pesadas para intimidar fura-greves.
+Cheiros:
+O cheiro sufocante de poeira de carvão, enxofre, graxa de boi aquecida e suor humano acre que impregna as roupas de todos nos Veios Profundos.
+O aroma rico, adocicado e perfumado de charutos de cacto e vinho de Bastion que emana da porta aberta da Sala da Purificação.
+O odor acre de Massa-Fita queimando nos tachos comunitários de distribuição de ração.
+Tato e Sensações Térmicas:
+O calor seco e abrasador que emana dos poços de mineração, fazendo o suor secar instantaneamente na pele e cobri-la de poeira crostosa.
+O ar fresco, suave e purificado ao pisar no interior do santuário privado da diretoria na Sala da Purificação.
+A textura áspera, pesada e gordurosa dos macacões de couro e da Carteira do Carvão.
+
+## IX. Economia de Contrabando e Propinas Sindicais
+A tabela abaixo reflete a economia dupla da Irmandade da Fuligem (preços oficiais cobrados dos mineradores e valores negociados por debaixo da mesa pela diretoria):
+| Item / Serviço / Propina
+|
+Custo Oficial (Mineradores / Base)
+|
+Preço no Submundo / Propina (Diretoria) |
+| Carteira do Carvão (Taxa Mensal de Filiação)
+|
+10% do Salário (Obrigatório)
+|
+Gratuito para afilhados de comissários |
+| Saco de Carvão-de-Sangue Clandestino (50kg)
+|
+Proibido (Confisco e agressão)
+|
+4 Peças de Ouro (Desviado do Veio da Sobre-Carga) |
+| Propina para Liberação de Piquete em Mina
+|
+Não existente na base
+|
+100 Peças de Ouro (Pagas pelo Ferro-Frio) |
+| Isenção de Turno Perigoso em Veio Sulfuroso
+|
+Impossível (Sorteio)
+|
+15 Peças de Ouro (Pagas ao Delegado) |
+| Charuto de Folha de Cacto de Malaxis (Unidade)| Proibido para mineradores
+|
+2 Peças de Ouro (Consumído na Sala da Purificação) |
+| Garrafa de Vinho Real de Bastion (Safra Nobre)| Proibido para mineradores
+|
+12 Peças de Ouro (Estoque privado da cúpula) |
+| Respirador de Fita de Chumbo Recondicionado
+|
+3 Peças de Prata
+|
+1 Peça de Prata (Aparelho com filtro entupido) |
+| Taxa de Proteção Sindical para Pequeno Comércio| Proibido na legislação
+|
+8 Peças de Ouro por mês (Cobrança de comissário) |
+| Ração Extra de Bloco de Massa-Fita (Diária)
+|
+2 Moedas de Cobre
+|
+Gratuita para delegados e comissários |
+| Depurador de Ar de Quartzo de Bastion (Aparelho)| Proibido na cidade baixa
+|
+250 Peças de Ouro (Instalado na Sala Privada) |
+| Licença de Passagem em Esteira de Transporte
+|
+5 Moedas de Cobre
+|
+2 Peças de Prata (Cobrada de viajantes civis) |
+| Provas de Suborno da Diretoria (Livro Contábil)| Inestimável (Sentença de Morte)
+|
+300 Peças de Ouro (Compradas por rivais/investigadores) |
+| Ajuste de Cota de Minério no Relatório de Esteira| Proibido (Fraude de cota)
+|
+20 Peças de Ouro (Pagas ao Tesoureiro Kaelen Vex) |
+| Passe de Livre Circulação para Fura-Greve
+|
+Proibido (Espancamento público)
+|
+35 Peças de Ouro (Comprado com o Comissário Torin) |
+| Aluguel de Cama nos Dormitórios da Cota (Mês)| 1 Peça de Prata
+|
+3 Peças de Prata (Cama em andar superior ventilado) |
 
 ---
 
-## [A Rede dos Dentes-de-Ouro]
+Lore Expandida: A Liga dos Agenciadores
+Um segredo sussurrado entre os lençóis de um bordel vale mais do que dez mil peças de ouro em um cofre de Bastion; quando o desejo cega o homem, é a nossa chave que tranca a porta da sua ruína.
 
-## Resumo
+## I. Visão Geral e a Doutrina do Império dos Vícios e Segredos
+Nas sombras úmidas, abafadas e perfumadas pelos vapores sulfurosos dos Banhos de Sangue e Piche em Malaxis —, onde o ar carrega o aroma acre de poeira de cacto queimada, o cheiro de suor, licores destilados e fragrâncias adocicadas de óleos exóticos —, opera A Liga dos Agenciadores: o cartel clandestino, sindicato do prazer e teia de chantagem e espionagem que controla o submundo do entretenimento, os bordéis de luxo, os antros de dados viciados, o refinamento de toxinas raras e a corretagem de segredos em grande parte do continente.
+Surgida originalmente nos primórdios da ocupação da Garganta do Escorpião como uma associação informal de donos de tavernas, cortesãos, boticários expulsos das academias de Bastion e agenciadores de apostas do Coliseu dos Barões, a Liga transformou-se no império subterrâneo mais sofisticado e perigoso do deserto. Diferente das Lâminas Negras (que cobram por assassinatos diretos com adagas) ou dos Dentes-de-Ouro (que saqueiam caravanas com brutalidade orc), a Liga dos Agenciadores compreendeu que a verdadeira força geopolítica reside em dominar as fraquezas, os desejos e os segredos da elite, dos generais e dos mercenários.
+Para o público externo e para os aventureiros que frequentam as vielas baixas de Malaxis, a Liga apresenta-se como uma provedora indispensável de alívio e distrações: onde um gladiador vitorioso gasta seus prêmios em vinho de cacto e acompanhantes, onde um nobre visitante de Bastion busca prazeres proibidos longe dos olhos da corte e onde um mercador falido busca um empréstimo rápido para tentar a sorte nos dados de osso. Contudo, por trás dos espelhos inclinados, das cortinas de veludo carmesim e das portas de carvalho dos bordéis, a cúpula da Liga administra uma rede implacável de chantagem, agiotagem extorsiva, envenenamentos discretos e venda de informações confidenciais para os maiores compradores do continente.
+Essa posição de monopólio sobre o prazer e o vício permitiu à Liga estender tentáculos invisíveis para fora da Garganta do Escorpião. Agenciadores e madams credenciados pela Liga gerenciam bordéis e fumódromos clandestinos nas plataformas baixas de Gristal, no perímetro externo do Bazar dos Mil Desejos em Zul-Bazar e em salões nobres disfarçados no Cinturão Alvorada em Bastion. Ninguém comete um excesso ou sussurra um plano de guerra em um quarto mantido pela Liga sem que a informação seja gravada em pergaminhos de nitrato de prata, catalogada em cofres selados e vendida para o melhor comprador diplomático ou corporativo.
 
-Máfia de receptadores de luxo formada por halflings e gnomos que "lava" e revende cargas roubadas em Malaxis.
++---------------------------------------+
 
-## Objetivo/Agenda
+|
+       A MESA DOS SETE ESPELHOS       |
 
-Monopolizar a receptação de bens roubados nas estradas e extorquir os donos originais vendendo as mercadorias de volta por resgates.
+|
+  (Mãe Corvo & Alta Cúpula dos Vícios)|
 
-## Hierarquia
++-------------------
++-------------------+
+                                        |
 
-Dirigida pelos Chefes da Máfia de Receptação. A liderança específica ainda não foi criada.
+[ Chantagens, Arquivos & Propinas de Luxo ]
+                                        |
+                                        v
 
-## Território/Base
++---------------------------------------+
 
-[Os Galpões dos Dentes-de-Ouro em Malaxis].
+|
+   HIERARQUIA E CARGOS DA LIGA        |
 
-## Recursos
+|
+  (Insígnias de Veludo & Chaves)      |
 
-Depósitos maciços de itens roubados, rede de falsificação e intermediários comerciais no continente.
++-------------------
++-------------------+
+                                        |
 
-## Relações com outras facções
++--------------------------------
++--------------------------------+
 
-[O Cartel do Aço-Frio]: aliada comercial — negociam minérios contrabandeados e peças fabris desmanchadas.
+|
 
-## Membros notáveis
+|
+                               |
 
-Ainda não criado.
+v
+
+v
+                               v
+
++---------------+
+
++-----------------+
+
++-----------------+
+|   MADAM DE
+|
+
+|
+COBRADOR DE
+|
+
+|
+TOXICOLOGISTA DE|
+|   CORTESÃOS
+|
+
+|
+ DÍVIDAS/PICHE
+|
+
+|
+   ALAMBIQUE    |
+|(Espionagem/Bordel)|          |(Agio/Violência)
+|
+             |(Opio/Venenos)   |
+
++-------
++-------+
+
++--------
++--------+
+
++--------
++--------+
+
+|
+
+|
+                               |
+
++-------------------------------
++--------------------------------+
+                                        |
+                                        v
+
++---------------------------------------+
+
+|
+   AGENCIADORES E SEGURANÇAS DE BECO  |
+
+|
+ (Olheiros, Dados, Portaria & Lutas)  |
+
++-------------------
++-------------------+
+                                        |
+                                        v
+
++---------------------------------------+
+
+|
+  OPERATIVOS DE RUA E INFORMATANTES   |
+
+|
+(Prostitutas, Garçons & Batedores)    |
+
++---------------------------------------+
+
+
+1. A Guerra Fria do Submundo: Relações com Outros Cartéis
+A sobrevivência da Liga em cidades hostis como Malaxis e Gristal apoia-se em uma diplomacia criminosa fria e pragmática:
+Trégua de Informação com as Lâminas Negras: A Liga não compete com a guilda de executores; na verdade, funciona como sua maior fornecedora de inteligência. A Liga descobre a localização, a rotina e os pontos fracos dos alvos nos bordéis, vendendo os relatórios detalhados para as Lâminas Negras em troca de proteção contra atrocidades corporativas.
+Convivência Pragmática com os Dentes-de-Ouro: Os saqueadores do deserto vendem à Liga os bens de luxo pilhados em caravanas (vinhos raros, sedas de Tartuga, perfumes e especiarias de Zul-Bazar), enquanto a Liga oferece aos piratas passes de acesso livre às casas de apostas e fumódromos.
+Pressão sobre o Conservatório de Zul-Bazar: Banqueiros e juristas que tentam executar dívidas contra a Liga descobrem rapidamente que os arquivos do cartel contêm relatórios comprometedores sobre transações ilegais e fraudes de patentes cometidas por altos oficiais do Conservatório, garantindo que o cartel opere sem bloqueios bancários.
+
+## II. O Império dos Bastidores: Vícios, Informação e Agiotagem
+A vida e as finanças dentro da Liga dos Agenciadores articulam-se sobre três pilares comerciais interdependentes mantidos com rigor absoluto de sigilo e violência:
+
+[ VÍCIO / DADOS / QUARTO ]
+ -->
+[ EMPRÉSTIMO COM JUROS DE 30% ]
+ -->
+[ ATRASO DE PAGAMENTO ]
+                                                                                  |
+                                                                                  v
+
+[ EXPOSIÇÃO NA BORDA ]
+ <--
+[ TANQUE DE PICHE FERVENTE ]
+ <--
+[ CHANTAGEM OU VIOLÊNCIA ]
+
+
+1. A Rede dos Espelhos Furados (Bordéis e Espionagem)
+Os bordéis e estabelecimentos de acompanhantes mantidos pela Liga em Malaxis, Bastion, Gristal e Zul-Bazar são projetados não apenas para o lucro do entretenimento, mas como complexos de inteligência de alta escala:
+Os Quartos de Parede Dupla: As suítes de luxo dos Banhos de Sangue e Piche e do Saguão do Velório Aveludado possuem paredes de alvenaria dupla isoladas com feltro e tubos acústicos de cobre. Enquanto um diplomata, barão ou capitão de guerra consome vinho batido e desfruta da companhia dos cortesãos da Liga, informantes ocultos nas passagens secretas anotam cada confissão, gravam conversas sobre movimentação de tropas e identificam marcas corporais e segredos de estado.
+O Arquivo das Confissões: Trancado nas catacumbas profundas de Malaxis sob a guarda pessoal de Mãe Corvo, o Arquivo consiste em centenas de caixas de chumbo contendo pergaminhos autenticados com selos de cera roxa. Cada caixa carrega o nome de uma família nobre, oficial militar ou arquimago comercial.
+A Chave do Silêncio (Contratos de Extorsão): Se um cliente influente recusa-se a pagar os juros extorsivos de uma dívida de jogo ou tenta trair a Liga, uma cópia do seu arquivo confidencial é enviada anonimamente para sua família, para os Cães-Farejadores ou para seus rivais políticos. Essa ameaça constante de ruína pública garante que príncipes, juízes e oficiais militares obedeçam aos comandos velados da cúpula do cartel.
+2. Os Alambiques de Piche e a Poeira de Cacto (Química e Venenos)
+A Liga domina o refinamento, a produção e a distribuição de substâncias entorpecentes e venenos no submundo do continente:
+A Poeira de Cacto (O Néctar do Deserto): Um pó fino e alaranjado extraído da desidratação e maceração da flor do cacto-sol. Consumida em cachimbos de argila ou inalada diretamente, produz acessos de euforia, coragem temporária e insensibilidade à dor nos primeiros estágios de consumo. Contudo, o uso prolongado provoca dependência severa, erupções cutâneas e apatia crônica. É a droga mais consumida por gladiadores do Coliseu dos Barões antes dos combates e por mercenários de viela. A Liga detém a fórmula de purificação e controla o fornecimento exclusivo em Malaxis e Zul-Bazar.
+O Sangue do Escorpião (Venenos de Precisão): Boticários e toxicologistas contratados pela Liga operam laboratórios clandestinos nos cavernosos Banhos de Piche. Desenvolvem venenos paralisantes para adagas, ácidos que dissolvem couro e toxinas de dissolução lenta que provocam paradas cardíacas simulando mortes por causas naturais (Elixir de Morte Natural).
+O Sopro da Víbora e As Gotas de Veludo: Entorpecentes de uso exclusivo nos bordéis da Liga. Aplicados discretamente nos lábios dos cortesãos ou misturados em taças de vinho, induzem o cliente a um estado de sonambulismo sugestivo, no qual ele responde a perguntas confidenciais com honestidade absoluta sem se lembrar das confissões no dia seguinte.
+3. A Agiotagem e o Tanque de Piche (Cobrança de Dívidas)
+Para clientes que perdem fortunas nos cassinos de dados de osso e roletas da Liga, o cartel oferece empréstimos imediatos a juros abusivos de 30% ao dia:
+A Penhora de Sangue e Carne: Quando um devedor ultrapassa o limite de crédito, a Liga exige a penhora de escrituras de terras, relíquias de família, armas de estimativa ou contratos de servidão pessoal.
+O Manto de Piche Fervente: Devedores que atrasam o pagamento ou tentam fugir da cidade são perseguidos pelos Cobradores de Piche — mercenários truculentos armados com cacetetes de ferro, correntes pesadas e redes de captura. Se a dívida não for quitada com moedas, objetos de valor ou serviços de espionagem, o devedor é levado aos cavernosos Banhos de Piche e mergulhado até os joelhos no piche fervente, sendo posteriormente exposto na Borda dos Desesperados como aviso público para outros clientes.
+Os Marcados pelo Piche: Devedores que sobrevivem à punição do piche carregam cicatrizes espessas e enegrecidas nas pernas e braços. Essas marcas funcionam como uma condenação social: nenhum comerciante ou guilda em Malaxis concede crédito ou trabalho a um Marcado pelo Piche sem autorização prévia da Liga.
+
+## III. Estrutura e Cargos na Liga
+A Liga organiza seus membros através de uma hierarquia rígida que combina títulos de entretenimento com funções de extorsão, vigilância e eliminação secreta:
+
+[ INFORMATOR / PROSTITUTA ]
+-->
+[ AGENCIADOR DE BECO ]
+-->
+[ TOXICOLOGISTA / MADAM ]
+                                                                       |
+                                                                       v
+
+[ MÃE CORVO / MESA ]
+       <--
+[ COBRADOR DE PICHE ]
+ <--
+[ ARQUIVISTA DE ESPELHOS ]
+
+
+1. Informante de Salão (A Rede de Olhos)
+Distintivo: Um anel de prata salina com um pequeno cristal de quartzo roxo no topo.
+Perfil: Prostitutas, cortesãos de luxo, garçons de taverna, músicos e arrumadeiras de bordel.
+Função e Equipamento: São treinados para extrair segredos de clientes embriagados, clonar chaves de cofres privados, aplicar as Gotas de Veludo em taças de vinho e identificar alvos vulneráveis para chantagem. Recebem comissões proporcionais ao valor geopolítico ou financeiro da informação obtida.
+2. Agenciador de Beco (Os Gerentes do Vício)
+Distintivo: Um broche de latão polido em formato de uma chave cruzada por um dado de osso.
+Perfil: Gerentes de cassinos de dados, donos de fumódromos de poeira de cacto e encarregados das bancas de apostas secundárias.
+Função e Equipamento: São responsáveis por garantir a arrecadação diária das casas, identificar trapaceiros de roleta, conceder empréstimos com juros de 30% e selecionar nobres com alto poder aquisitivo para atendimento VIP nos quartos de parede dupla.
+3. Toxicologista de Alambique (Os Mestres dos Frascos)
+Distintivo: Um frasco minúsculo de vidro escuro preso ao pescoço por uma tira de couro oleado.
+Perfil: Alquimistas, boticários e herbalistas expulsos das academias de Bastion ou de Ferrovale.
+Função e Equipamento: Operam os laboratórios escondidos nos Banhos de Piche. Sintetizam a Poeira de Cacto purificada, refinam venenos paralisantes para as Lâminas Negras, formulam ácidos dissolventes e produzem elixires que mascaram sintomas de envenenamento em assassinatos encomendados.
+4. Madam de Cortesãos (As Donas dos Segredos)
+Distintivo: Um leque de plumas escuras reforçado com hastes de aço afiado e cabo de marfim com lâmina oculta.
+Perfil: As donas dos grandes bordéis, salões de luxo e casas de acompanhantes da Liga em Malaxis, Bastion, Gristal e Zul-Bazar.
+Função e Equipamento: Mulheres e homens de extrema sofisticação, charme e frieza que gerenciam a rede de espionagem dos quartos de parede dupla, negociam valores de chantagem diretamente com diplomatas e barões, e garantem que o tabu do sangue nos quartos seja respeitado.
+5. Cobrador de Piche (O Braço da Coerção)
+Distintivo: Um bracelete de ferro-negro com cravos de bronze e manchas de piche seco.
+Perfil: Mercenários brutais, lutadores aposentados de arena e cobradores silenciosos.
+Função e Equipamento: Encarregados do trabalho sujo da Liga. Executam torturas em devedores inadimplentes, mergulham caloteiros nos tanques de piche fervente, recuperam bens penhorados em assassinatos discretos e caçam informantes traidores.
+6. Arquivista dos Espelhos (Os Guardiões da Chantagem)
+Distintivo: Um pergaminho de nitrato de prata em miniatura preso a uma corrente de aço-negro.
+Perfil: Burocratas discretos, ex-escrivães de cartório e criptógrafos de elite.
+Função e Equipamento: Trabalham nas câmaras subterrâneas do Arquivo das Confissões. Organizam, traduzem e codificam os relatórios trazidos pelas prostitutas e cortesãos, definindo o valor de venda de cada chantagem e preparando as cópias anônimas enviadas aos devedores.
+7. A Mesa dos Sete Espelhos (A Alta Cúpula Executiva)
+Distintivo: Um anel pesado de ouro com incrustação de obsidiana polida em formato de espelho hexagonal.
+Perfil: Os sete executivos supremos da Liga dos Agenciadores. Composta por figuras influentes do submundo que mantêm identidades sociais refinadas, roupas de veludo caro e contas bancárias no Conservatório de Zul-Bazar. Decidem quais segredos vender, gerenciam a cota de venenos e controlam o fluxo de ouro do cartel no continente.
+
+## IV. Geografia Operacional do Cartel
+A Liga dos Agenciadores domina a infraestrutura do prazer, dos esgotos e dos salões privados nas principais metrópoles:
+
+[ OS BANHOS DE SANGUE E PICHE (SEDE EM MALAXIS) ]
+ <- Sede Suprema & Alambiques
+      /                                                 \
+
+[ O CASINO DOS DADOS DE OSSO ]
+
+[ O SALÃO DOS ESPELHOS FURADOS ]
+ (Apostas, Agiotagem & Dívidas)               (Bordéis de Luxo & Espionagem)
+
+|
+                                                |
+   ===============================================================
+
+\\\\\\\\   AS CÉLULAS EXTERNAS (GRISTAL, BASTION, ZUL-BAZAAR) ////////
+   ===============================================================
+          |
+          v
+
+[ OS TANQUES DE PICHE E DESCARTE ]
+ <- Tortura, Extorsão e Eliminação
+
+
+1. Os Banhos de Sangue e Piche (Malaxis - Sede Suprema)
+Um complexo subterrâneo cavernoso construído sobre fontes termais sulfurosas e poços naturais de piche mineral no fundo da Garganta do Escorpião.
+Sub-Acomodações:
+O Salão das Piscinas Termais: Onde clientes ricos relaxam em águas aquecidas enquanto consomem vinho e contratam acompanhantes de luxo.
+A Galeria do Arquivo Confidencial: A câmara selada com chumbo onde ficam os papéis de chantagem mantidos sob guarda de Mãe Corvo.
+O Pátio dos Tanques Ferventes: Poços de piche aquecido usados para a punição de devedores e execução de traidores.
+Os Alambiques de Lidia: Laboratórios selados de alquimia onde venenos e a Poeira de Cacto são sintetizados.
+2. O Saguão do Velório Aveludado (Bastion)
+Um salão de festas e bordel discreto localizado na periferia do Cinturão Alvorada, mascarado como uma sociedade cultural privada.
+Atuação Diplomática: Atende secretamente nobres do Palácio de Sol, Barões do Trigo e burocratas do Distrito dos Selos. Suas suítes de luxo possuem espelhos duplos e tubos de gravação acústica, acumulando arquivos de chantagem de inestimável valor geopolítico contra a nobreza da capital.
+3. As Gaiolas da Noite (Gristal)
+Um complexo de bordéis, casas de dados e fumódromos de poeira de cacto suspenso na Bacia Hangares de Gristal, composto por gaiolas modulares de ferro fundido.
+Agiotagem de Altitude: Especializado em extorquir Engenheiros de Elo falidos pelo jogo e oficiais da Guarda dos Elos. A Liga confisca credenciais de segurança e chaves de guincho como pagamento de dívidas de jogo.
+4. A Tenda dos Sete Desejos (Zul-Bazar)
+Uma tenda monumental de três andares de lona roxa e seda dourada instalada no perímetro do Bazar dos Mil Desejos.
+Centro de Corretagem: É o ponto de venda oficial de informações confidenciais para comerciantes, mercenários, diplomatas e espiões de todo o continente.
+
+## V. Panteão e Devoções do Submundo
+A religiosidade na Liga dos Agenciadores é transacional, cínica, secreta e focada na proteção contra traições e na maximização do lucro:
+
++-------------------------------------------------------+
+
+|
+            ZEPH, O QUE NÃO DEIXA RASTRO              |
+
+|
+ (Patrono do Silêncio, Furtividade & Segredos)        |
+
++---------------------------
++---------------------------+
+                                   |
+                                   v
+
++-------------------------------------------------------+
+
+|
+            SOLENNE, A TECELÃ DO SABER                |
+
+|
+ (Invocada de Forma Pervertida para Contratos de Dívida)|
+
++---------------------------
++---------------------------+
+                                   |
+
++----------------
++----------------+
+
+|
+                                |
+
+v
+                                v
+
++------------------------------+
+
++------------------------------+
+
+|
+  NYXARA, A QUE PESA OS ECOS
+|
+
+|
+  TABUS DA LIGA DOS VÍCIOS   |
+
+|
+(Morte Limpa por Veneno &
+|
+
+|
+(Proibição de Matar Cliente  |
+
+|
+ Proteção contra Necromantes)|
+|
+ No Quarto & Matar Informante)|
+
++------------------------------+
+
++------------------------------+
+
+
+1. Zeph, o Que Não Deixa Rastro
+Adorado pelos agenciadores, prostitutas, arquivistas e cobradores da Liga como o protetor da noite e dos segredos guardados no escuro.
+Liturgia do Incenso Roxo: Antes de abrir as portas das casas de jogos ou bordéis, os gerentes acendem varas de incenso de flor-de-sol e lavanda seca perante pequenos nichos de Zeph, orando para que os clientes bebam bastante, percam o juízo e não percebam os espelhos inclinados e tubos de escuta nas paredes.
+2. Solenne (Perversão dos Contratos)
+Invocada de forma cínica e deturpada pelos agiotas e cobradores da Liga para validar os papéis de dívidas de jogo e penhoras de carne.
+A Assinatura de Cera Azul: Quando um devedor assina um empréstimo na Liga, o papelão é queimado na ponta com a chama de uma vela azul perante uma imagem de Solenne. Os cobradores acreditam que a deusa valida a punição no tanque de piche caso o devedor tente fugir sem quitar a dívida.
+3. Nyxara e o Respeito ao Quarto
+Invocada pelas Madams quando um envenenamento encomendado precisa ser executado sem dor ou alarde nos quartos de acompanhantes.
+A Moeda do Lençol: Após um assassinato por veneno ser concluído em uma suíte da Liga, o informante coloca uma moeda de chumbo sob o travesseiro do falecido. Acredita-se que o gesto purifica o quarto do "eco de agonia", permitindo que o aposento seja alugado para outro cliente na noite seguinte sem assombrações.
+4. Tabus e Regras de Ouro do Cartel
+O Sangue no Quarto (O Tabu do Lençol): É severamente proibido assassinar um cliente pagante com lâminas dentro dos quartos de acompanhantes sem autorização prévia da Madam ou da Mesa. Matar um cliente com sangue no quarto afasta o público, estraga os veludos finos e atrai a atenção das patrulhas urbanas.
+A Inviolabilidade do Informante: Quem matar, agredir ou violentar um informante ou cortesão credenciado da Liga dentro das instalações do cartel é mergulhado imediatamente nos tanques de piche fervente.
+O Segredo Vendido Não se Comenta: Um informante ou arquivista que revender a mesma informação confidencial para dois compradores rivais sem autorização da Mesa dos Sete Espelhos é executado por envenenamento lento de Elixir de Morte Natural.
+
+## VI. Membros Notáveis da Mesa dos Sete Espelhos
+A cúpula da Liga dos Agenciadores é composta por sete figuras influentes do submundo que formam a Mesa dos Sete Espelhos:
+Mãe Corvo (Humana): A matriarca suprema e cofundadora da Liga em Malaxis. Uma mulher de cinquenta e cinco anos vestida em veludos escuros elegantes e joias de madrepérola roubadas. Governa o cartel a partir dos Banhos de Sangue e Piche com uma mistura aterrorizante de charme maternal e crueldade cirúrgica. É ela quem guarda a chave da câmara do Arquivo das Confissões.
+Gideon "Olho-de-Lótus"  Plaris (Meio-Elfo): O arquivista-chefe e mestre da rede de espionagem. Um meio-elfo refinado, frio e calculista que analisa os relatórios trazidos pelas prostitutas e cortesãos dos quatro cantos do continente, codificando os documentos e definindo o valor de venda de cada chantagem política.
+Varin "Mão-de-Piche" Bronzeférreo (Anão): O chefe implacável dos Cobradores de Piche. Um anão atarracado e assustador que perdeu o braço esquerdo em uma briga de arena e o substituiu por uma prótese pesada de ferro forjado com uma garra mecânica de aperto. Comanda as execuções, as cobranças de dívidas e os mergulhos nos tanques de piche fervente no subsolo de Malaxis.
+Lidia "Sussurro-Acre" (Anã): A toxicologista-chefe da Liga. Uma anã especialista em botânica proibida e química de venenos que gerencia os alambiques dos Banhos de Piche. É a criadora da receita purificada da Poeira de Cacto, do Sopro da Víbora e dos venenos paralisantes vendidos para as Lâminas Negras.
+Kaelen "Dados-de-Osso" (Gnomo): O rei dos cassinos e das apostas clandestinas. Um gnomo expansivo, sorridente e extremamente perigoso que gerencia os jogos de azar no Coliseu dos Barões e nos Banhos de Malaxis, utilizando roletas adulteradas, dados viciados e agiotagem com juros de 30% ao dia.
+Serafina "Véu-de-Seda" (Humana): A Madam-Chefe dos cortesãos de luxo nas filiais de Bastion e Zul-Bazar. Uma mulher influente na alta sociedade que organiza banquetes privados para nobres, Barões do Trigo e banqueiros, extraindo segredos de estado sem disparar um único golpe de lâmina.
+Barão Silas "Dente-de-Prata" (Meio-Orc): O comandante dos leões de chácara, porteiros e seguranças de rua. Um meio-orc gigante de dentes incrustados com placas de prata que garante a ordem física nas portas dos estabelecimentos da Liga e elimina gangues rivais que tentam invadir o território do cartel.
+
+## VII. Ganchos de Aventura e Missões da Liga
+Estes são exemplos de contratos e operações envolvendo a Liga dos Agenciadores, construídos em fases detalhadas para destacar suas intrigas, chantagens, venenos e punições com piche:
+================================================================================
+                    QUADRO DE CONTRATOS DA LIGA DOS AGENCIADORES
+================================================================================
+[NÍVEL 1] A Caça ao Trapaceiro dos Dados de Osso  (Recompensa: 25 Peças de Ouro)
+[NÍVEL 2] O Roubo da Fórmula da Poeira de Cacto   (Recompensa: 50 Peças de Ouro)
+[NÍVEL 3] O Resgate do Livro das Confissões       (Recompensa: 90 Peças de Ouro)
+[NÍVEL 4] A Cobrança do Barão do Trigo            (Recompensa: 160 Peças de Ouro)
+[NÍVEL 5] A Invasão do Alambique de Piche         (Recompensa: 300 Peças de Ouro)
+[NÍVEL 6] O Sabotador do Coliseu dos Barões       (Recompensa: 450 Peças de Ouro)
+[NÍVEL 7] A Chantagem da Rainha de Seda           (Recompensa: 800 Peças de Ouro)
+================================================================================
+
+
+1. A Caça ao Trapaceiro dos Dados de Osso
+Solicitante: Kaelen "Dados-de-Osso" (Gnomo).
+Local: Banhos de Sangue e Piche (Malaxis).
+Fase de Investigação: Identificar um mercenário trapaceiro que usou dados mágicos viciados com núcleo de chumbo para ganhar quinhentas peças de ouro no cassino principal da Liga e fugiu para os cortiços da Borda dos Desesperados.
+A Missão: Rastrear o trapaceiro, recuperar o saco de moedas roubadas e quebrar as mãos do indivíduo como punição exemplar do cartel.
+A Complicação: O trapaceiro contratou três seguranças armados da gangue dos Ratos de Poeira para protegê-lo no cortiço.
+Objetivo Primário: Cumprir a missão sem provocar um incêndio nos cortiços da Borda ou atrair patrulhas do Coliseu.
+Recompensa: 25 Peças de Ouro e livre acesso aos jogos das casas secundárias da Liga.
+2. O Roubo da Fórmula da Poeira de Cacto
+Solicitante: Lidia "Sussurro-Acre" (Anã).
+Local: Laboratórios dos Banhos de Piche (Malaxis).
+Fase de Investigação: Investigar o roubo de um caderno de anotações com a receita de purificação da Poeira de Cacto e a fórmula do Sopro da Víbora, levado por um aprendiz de alquimia traidor.
+A Missão: Rastrear o aprendiz antes que ele venda a fórmula secreta para um embaixador encoberto de Ferrovale nos Banhos de Piche.
+A Complicação: O aprendiz consumiu uma dose dupla da droga e entrou em estado de psicose violenta, armado com frascos de ácido concentrado e adagas envenenadas.
+Objetivo Primário: Recuperar o caderno intacto, eliminar o traidor e capturar o comprador de Ferrovale para interrogatório.
+Recompensa: 50 Peças de Ouro e dois frascos de veneno paralisante de precisão.
+3. O Resgate do Livro das Confissões
+Solicitante: Mãe Corvo (Humana).
+Local: Saguão do Velório Aveludado (Bastion).
+Fase de Investigação: Descobrir como um agente infiltrado dos Cães-Farejadores de Bastion conseguiu roubar um volume do Arquivo das Confissões contendo chantagens contra nobres do Palácio de Sol.
+A Missão: Infiltrar-se no posto de patrulha dos Cães-Farejadores no Cinturão Alvorada, recuperar o livro confiscado e silenciar o oficial responsável.
+A Complicação: O posto é fortemente patrulhado por guardas armados com bastões de ferro-dissonante e cães de caça.
+Objetivo Primário: Recuperar o livro sem deixar pistas que incriminem a Liga ou revelem a localização dos bordéis de luxo.
+Recompensa: 90 Peças de Ouro e salvo-conduto nos estabelecimentos da Liga em Bastion.
+4. A Cobrança do Barão do Trigo
+Solicitante: Varin "Mão-de-Piche" Bronzeférreo (Anão).
+Local: Província Agrícola Ocidental (Bastion).
+Fase de Investigação: Rastrear a fazenda de um Barão do Trigo que acumulou uma dívida de duas mil peças de ouro em empréstimos de jogo e barricou sua propriedade com mercenários privados para não pagar.
+A Missão: Invadir a fazenda do nobre falido, confiscar as escrituras de safras de trigo e conduzir o Barão até o subsolo de Malaxis para a punição no tanque de piche.
+A Complicação: O Barão contratou uma patrulha corrupta da Guarda Real para proteger a entrada da propriedade.
+Objetivo Primário: Cumprir a cobrança sem iniciar um confronto aberto contra a Guarda Real na província.
+Recompensa: 160 Peças de Ouro e participação de 10% nas escrituras confiscadas.
+5. A Invasão do Alambique de Piche
+Solicitante: Grupo de Aventureiros / Facção Rival / Cães-Farejadores.
+Local: Banhos de Sangue e Piche (Malaxis).
+Fase de Investigação: Encontrar a passagem secreta através dos esgotos sulfurosos da Garganta do Escorpião que dá acesso aos alambiques subterrâneos da Liga.
+A Missão: Invadir o laboratório central de Lidia "Sussurro-Acre", destruir os estoques de Poeira de Cacto e resgatar um diplomata de Bastion mantido refém por chantagem.
+A Complicação: O laboratório é protegido por vapores tóxicos de enxofre, quatro Cobradores de Piche armados com correntes e por Varin Bronzeférreo.
+Objetivo Primário: Destruir os alambiques, resgatar o diplomata vivo e escapar dos esgotos antes que o cartel sele as saídas.
+Recompensa: 300 Peças de Ouro oferecidas pelo governo de Bastion e gratidão de famílias nobres.
+6. O Sabotador do Coliseu dos Barões
+Solicitante: Barão Varek, o Mutilado / Liga dos Agenciadores.
+Local: Coliseu dos Barões (Malaxis).
+Fase de Investigação: Rastrear a origem de uma praga de envenenamento que matou seis gladiadores campeões nas celas subterrâneas da arena na véspera do grande torneio de solstício.
+A Missão: Descobrir quem adulterou a ração de carne dos gladiadores com Elixir de Morte Natural e neutralizar a célula de saboteiros rivais.
+A Complicação: A adulteração foi encomendada por um cartel pirata dos Dentes-de-Ouro para fazer o campeão do Coliseu perder a luta principal nas apostas.
+Objetivo Primário: Eliminar os saboteiros, garantir a segurança dos gladiadores remanescentes e entregar as provas a Mãe Corvo.
+Recompensa: 450 Peças de Ouro e camarote privado de luxo no Coliseu dos Barões por um ano.
+7. A Chantagem da Rainha de Seda
+Solicitante: A Mesa dos Sete Espelhos (Mãe Corvo e Gideon Vane).
+Local: Todas as grandes metrópoles (Bastion, Malaxis, Zul-Bazar).
+Fase de Investigação: Executar um plano de chantagem de grande escala para forçar o conselho de nobres de Bastion a assinar a anulação de impostos de importação sobre os licores e perfumes de Malaxis.
+A Missão: Infiltrar-se simultaneamente nos palacetes de três Barões do Trigo, implantar documentos falsificados de colaboração com a Horda Silenciosa e coletar confissões registradas nos quartos dos bordéis da Liga.
+<!-- SEGREDO -->
+A Complicação: Agentes de inteligência do General Draven descobriram a operação e tentam assassinar os alvos para causar uma guerra civil em Bastion.
+<!-- FIM SEGREDO -->
+Objetivo Primário: Concluir as chantagens, proteger os alvos contra os mercenários de Draven e forçar a assinatura do decreto de anulação.
+Recompensa: 800 Peças de Ouro e assento de honra como conselheiro velado da Liga dos Agenciadores.
+
+## VIII. Elementos Sensoriais para o Mestre Narrar
+Utilize estes elementos descritivos durante as sessões envolvendo a Liga dos Agenciadores para transmitir a atmosfera de luxo decadente, sedução, perigo velado, fumaça e corrupção:
+Sons:
+O tilintar abafado e constante de taças de cristal, moedas de ouro e dados de osso rolando sobre mesas de veludo carmesim nas casas de apostas.
+O murmúrio sussurrado, sedutor e misterioso de cortesãos e prostitutas conversando atrás de cortinas de seda nos bordéis.
+O gorgolejar contínuo e abafado de alambiques de cobre fervendo venenos e piche no subsolo dos Banhos.
+O estalo seco de chicotes de couro e o grito abafado de devedores sendo mergulhados nos tanques de piche fervente.
+O som suave de leques de plumas abrindo e raspas de lâminas ocultas sendo ajustadas sob vestidos de veludo.
+Visões:
+A penumbra acolhedora iluminada por lanternas de vidro colorido em tons de roxo, carmesim e âmbar.
+O contraste chocante entre o luxo dos salões privados (tapetes finos, espelhos inclinados, bebidas raras) e a sujeira e piche dos poços de cobrança no subsolo.
+Fumaça alaranjada e perfumada subindo de cachimbos de Poeira de Cacto nos fumódromos de Malaxis.
+Cobradores de piche com braçadeiras de ferro, aventais de couro queimado e marcas de fuligem circulando nas portas dos estabelecimentos.
+Cheiros:
+O aroma adocicado, pesado e inebriante de incensos de flor-de-sol, lavanda seca, óleos aromáticos e perfume de lótus.
+O cheiro acre, amargo e sulfuroso de piche mineral fervente, enxofre e poeira de cacto queimada que emana dos poços inferiores.
+O odor de vinho de cacto destilado, assados pimentados e óleo de gergelim servidos nas mesas de jogo.
+Tato e Sensações Térmicas:
+O calor abafado, úmido e sulfuroso ao caminhar pelas galerias subterrâneas dos Banhos de Sangue e Piche.
+A textura macia e fria dos veludos e sedas que cobrem as paredes dos quartos de espelhos.
+O toque viscoso, quente e doloroso de gotas de piche caindo das tubulações do teto nos corredores baixos.
+
+## IX. Economia de Vícios, Informações e Propinas
+A tabela abaixo reflete a economia de prazer, drogas, envenenamentos e chantagens mantida pela Liga dos Agenciadores em todo o continente:
+| Item / Serviço / Chantagem
+|
+Custo Oficial (Casas da Liga / Clientes)
+|
+Preço no Mercado Negro / Submundo |
+| Dose de Poeira de Cacto Purificada (Inalação)
+|
+6 Peças de Ouro
+|
+2 Peças de Ouro (Produto bruto/diluído com cinza) |
+| Diária de Suíte de Luxo no Velório Aveludado
+|
+20 Peças de Ouro
+|
+8 Peças de Ouro (Quarto sem espelhos ocultos) |
+| Frasco de Veneno Paralisante de Escorpião (Dose)
+|
+35 Peças de Ouro
+|
+15 Peças de Ouro (Mistura de alambique secundário) |
+| Dose de Elixir de Morte Natural (Sem Rastro)
+|
+100 Peças de Ouro
+|
+250 Peças de Ouro (Vendido apenas com autorização da Mesa) |
+| Consulta ao Arquivo de Chantagem Simples (Nobre)
+|
+150 Peças de Ouro
+|
+300 Peças de Ouro (Documento confidencial diplomático) |
+| Empréstimo de Agiotagem em Cassino (100 Ouro)
+|
+Juros de 30% ao Dia
+|
+Penhora de bens/carne no tanque de piche |
+| Serviço de Cobrador de Piche (Diária de Coerção)| 40 Peças de Ouro
+|
+15 Peças de Ouro (Mercenário de beco sem distintivo) |
+| Garrafa de Vinho de Cacto Raro de Malaxis
+|
+12 Peças de Ouro
+|
+4 Peças de Ouro (Bebida batida com água salobra) |
+| Leque de Aço de Madam com Lâmina Oculta
+|
+25 Peças de Ouro
+|
+10 Peças de Ouro (Peça artesanal de cortesão) |
+| Propina para Vista Grossa de Madam em Quarto
+|
+50 Peças de Ouro
+|
+15 Peças de Ouro (Paga a olheiros de corredor) |
+| Dados de Osso Viciados com Núcleo de Chumbo| 8 Peças de Ouro
+|
+3 Peças de Ouro (Dados usados de trapaceiro) |
+| Passe de Livre Circulação nos Banhos de Piche
+|
+15 Peças de Ouro (Mês)
+|
+5 Peças de Ouro (Comprado com segurança meio-orc) |
+| Resgate de Documento Penhorado nos Cofres
+|
+Valor da dívida + 50%
+|
+Inestimável (Sua ausência causa execução com piche) |
+| Anel de Prata com Cristal de Olho de Olheiro
+|
+10 Peças de Ouro
+|
+4 Peças de Ouro (Distintivo roubado de informante) |
+| Informação de Rota de Caravana Nobre (Segredo)
+|
+80 Peças de Ouro
+|
+200 Peças de Ouro (Vendida para os Dentes-de-Ouro) |
+| Dose de Gotas de Veludo (Sopro da Víbora)
+|
+40 Peças de Ouro
+|
+18 Peças de Ouro (Entorpecente de confissão) |
+| Frasco de Ácido Dissolvente de Couro e Carne
+|
+30 Peças de Ouro
+|
+12 Peças de Ouro (Sintetizado nos alambiques de Lidia) |
+| Contrato de Servidão Pessoal por Dívida (Ano)
+|
+200 Peças de Ouro
+|
+80 Peças de Ouro (Venda direta de devedor marcado) |
+
+---
+
+Lore Expandida: A Liga dos Espadas-Sanguinárias
+O aço não pergunta a linhagem do guerreiro, e a moeda de ouro não distingue o sangue de um rei do sangue de um porco; aqui, o seu valor é medido pelo número de crânios que você pendura no cinturão.
+
+## I. Visão Geral e a Doutrina do Aço Mercenário
+Nas arenas ensanguentadas, nas estradas poeireitas do Deserto de Sol-Crestado e nas fronteiras conturbadas da Marca da Fenda, poucas insígnias causam tanto respeito quanto o broche de ferro fundido em formato de duas cimitarras cruzadas sobre uma presa de javali: a marca da Liga dos Espadas-Sanguinárias. Fundada originalmente por clãs Orcs renegados que recusaram a servidão, a Liga transformou-se na maior, mais temida e mais respeitada Guilda Livre de Mercenários, Caçadores de Recompensa e Guardas de Choque do continente.
+Diferente de ordens militares fechadas ou guardas estatais presas a burocracias de reino, a Liga opera abertamente como uma Guilda Comercial de Combate. Qualquer indivíduo que saiba empunhar uma lâmina — seja um guerreiro Orc em busca de glória, um Meio-Orc expulso de vilarejos rurais, um humano desertor ou um anão sem clã — pode bater nas portas de um dos Salões das Presas e pedir a Iniciação do Aço. Se o candidato sobreviver à Prova de Sangue, seu nome é gravado na pedra de registro e ele recebe o direito de aceitar contratos de combate, escolta, caça a monstros e eliminação de alvos no continente.
+A cultura da Liga é profundamente impregnada pelas tradições marciais Orcs: o respeito absoluto à força física, a lealdade inabalável ao contrato assinado, a disciplina em combate de bando e o ritual de contagem de troféus. Para os Orcs da Liga, a guerra não é um ato de sadismo desordenado, mas a expressão máxima da honra e da sobrevivência. Um mercenário da Liga que quebra um contrato aceito ou foge de uma batalha abandonando seus companheiros de bando é declarado Lâmina-Sem-Honra: suas insígnias são derretidas, suas dentes são quebrados e ele passa a ser caçado por seus próprios irmãos de guilda.
+Totalmente desprovida de estéticas steampunk, engrenagens a vapor ou pistões em sua essência, a tecnologia e o fardamento básico da Liga apoiam-se no couro pesado de bestas do deserto, armaduras de placas de ferro rústico forjadas a marreta, cimitarras largas de corte profundo, lanças de arremesso com farpas e amuletos artesanais confeccionados com ossos, dentes de feras e pedras do deserto.
+
++---------------------------------------+
+
+|
+       O CONSELHO DAS PRESAS          |
+
+|
+  (Grão-Mestre Orc & 5 Senhores)      |
+
++-------------------
++-------------------+
+                                        |
+
+[ Regulamento da Guilda & Mural dos Crânios ]
+                                        |
+                                        v
+
++---------------------------------------+
+
+|
+   HIERARQUIA E RANKS DE PROGRESSÃO   |
+
+|
+  (Insígnias, Níveis & Nível de Perigo)|
+
++-------------------
++-------------------+
+                                        |
+
++--------------------------------
++--------------------------------+
+
+|
+
+|
+                               |
+
+v
+
+v
+                               v
+
++---------------+
+
++-----------------+
+
++-----------------+
+|RANK SENHOR-DO-|
+|
+RANK PRESA-DE-
+|
+
+|
+RANK LÂMINA-    |
+|   MASSACRE
+|
+
+|
+    GUERRA
+|
+
+|
+   DENTADA      |
+|(Lendas/S-Rank)|              |(Capitães/A-Rank)|              |(Veteranos/B-Rank)|
+
++-------
++-------+
+
++--------
++--------+
+
++--------
++--------+
+
+|
+
+|
+                               |
+
++-------------------------------
++--------------------------------+
+                                        |
+                                        v
+
++---------------------------------------+
+
+|
+    RANK FERRO-BRUTO (RECRUTAS)       |
+
+|
+  (Escolta Simples & Caça D-Rank)     |
+
++-------------------
++-------------------+
+                                        |
+                                        v
+
++---------------------------------------+
+
+|
+   DIVISÕES ESPECIALIZADAS DE BANDO   |
+
+|
+(Choque, Batedores, Caçadores, Guarda)|
+
++---------------------------------------+
+
+
+II. O Sistema de Guilda: O Mural dos Crânios e a Progressão
+O coração de cada guarnição da Liga é o Salão das Presas — um edifício colossal de alvenaria de basalto, troncos de madeira-ferro e crânios de bestas gigantes pendurados nas vigas. O ambiente é pulsante, barulhento e rústico: cheira a assado pimentado, cerveja forte de cevada, fumaça de fogueiras abertas, óleo de polir armas e couro curtido.
+1. O Mural dos Crânios (O Quadro de Contratos)
+Localizado no fundo do salão principal, o Mural dos Crânios é uma imensa parede de madeira-ferro reforçada por chapas de ferro xadrez onde são afixados os Contratos de Sangue trazidos por clientes de todo o continente. Cada pergaminho é fixado por um adaga ou prego de osso, acompanhado por um selo de cor que indica a dificuldade do serviço e a recompensa oferecida em moedas de ouro ou direito a espólios.
+Os contratos são categorizados por classes de perigo e recompensa:
+Contratos de Cadeira / Escolta (Selo de Bronze - Rank D): Guarda de caravanas comerciais no deserto, proteção de feiras em Malaxis ou Zul-Bazar e segurança de propriedades rurais.
+Contratos de Caça a Bando (Selo de Prata - Rank C e B): Eliminação de gangues de saqueadores nas estradas, caça a monstros selvagens na Orla Ardente ou resgate de reféns capturados por mercenários rivais.
+Contratos de Guerra de Fronteira (Selo de Ouro - Rank A): Serviço de linha de frente como forças de choque para Barões do Trigo, defesa de fortes na Marca da Fenda ou destruição de postos avançados da Horda Silenciosa.
+Contratos de Lenda e Extermínio (Selo Vermelho - Rank S): Caça a Behemoths do Abismo, extermínio de grandes formações de monstros ou contratos de assassinato de alto nível militar.
+
+[ CLIENTE / CONTRATANTE ]
+-->
+[ AVALIAÇÃO DO INSPETOR ]
+-->
+[ FIXAÇÃO NO MURAL ]
+                                                                      |
+                                                                      v
+
+[ DIVISÃO DOS ESPÓLIOS ]
+<--
+[ RETORNO COM TROFÉUS ]
+  <--
+[ ACEITE PELO BANDO ]
+
+
+2. O Registro do Mercenário e a Progressão de Nível (Ranks)
+Para aceitar missões no Mural dos Crânios, o mercenário precisa estar devidamente registrado na guilda. Ao ser aprovado no teste inicial, o mercenário recebe sua Placa das Presas — uma placa de ferro fundido presa ao pulso por uma braçadeira de couro com cravo de bronze.
+A progressão dentro da Liga exige o cumprimento de cotas de contratos concluídos, apresentação de troféus confirmados (crânios, orelhas ou dentes de inimigos) e a aprovação na Prova de Sangue realizada perante o conselho de veteranos da guilda.
+
+[ RECRUTA / CANDIDATO ]
+-->
+[ PROVA DE INICIAÇÃO ]
+-->
+[ RANK FERRO-BRUTO ]
+                                                                 |
+                                                                 v
+
+[ RANK SENHOR-DO-MASSACRE ]
+<--
+[ RANK PRESA-DE-GUERRA ]
+<--
+[ RANK LÂMINA-DENTADA ]
+  (Lendas Invicto)               (Comandantes de Bando)       (Veteranos Testados)
+
+
+Rank 1: Ferro-Bruto (Recrutas e Novatos)
+Insígnia: Placa de ferro cru rústico sem polimento.
+Perfil: Recrutas recém-aprovados, jovens Orcs em busca do primeiro nome, guerreiros humanos desertores e lutadores de rua sem experiência em grande escala.
+Permissão de Missão: Podem aceitar apenas contratos de Selo de Bronze (Rank D) e atuar como linha de apoio em bandos liderados por veteranos.
+Rank 2: Lâmina-Dentada (Mercenários Veteranos)
+Insígnia: Placa de ferro polido com ranhuras laterais em formato de dentes de tubarão-do-deserto.
+Perfil: A espinha dorsal da guilda. Guerreiros testados em dezenas de combates, hábeis no manejo de cimitarras pesadas, machados e escudos de espinhos.
+Permissão de Missão: Autorização para liderar pequenos bandos em contratos de Selo de Prata (Rank C e B).
+Rank 3: Presa-de-Guerra (Capitães de Bando e Campeões)
+Insígnia: Placa de bronze pesado incrustada com uma presa real de besta de guerra matada pelo próprio mercenário.
+Perfil: Táticos experientes, capitães de companhias de choque e veteranos de combates de fronteira. Comandam formações de até cinquenta mercenários em campanhas longas.
+Permissão de Missão: Acesso a contratos de Selo de Ouro (Rank A) e comando de operações táticas de larga escala.
+Rank 4: Senhor-do-Massacre (Lendas Vivas da Guilda)
+Insígnia: Um bracelete pesado de Aço-Anil e ouro roubado com incrustações de obsidiana e marcas de duelos de arena.
+Perfil: Os lendários mestres da guilda que ocupam os assentos do Conselho das Presas. Guerreiros de força colossal cuja presença no campo de batalha faz exércitos inimigos recuarem.
+Permissão de Missão: Lideram cruzadas de guerra de Rank S e decidem a política externa da guilda perante os reis e cartéis do continente.
+3. A Prova de Sangue (O Avanço de Rank)
+Subir de nível na Liga não é uma mera questão de tempo de serviço. Para avançar de Rank, o mercenário deve solicitar a Prova de Sangue ao Mestre de Armas do Salão. O teste envolve duas etapas públicas conduzidas na Pista de Sangue (a arena interna do Salão):
+I. A Acreditação do Troféu: O candidato deve apresentar a cota de troféus exigida para o Rank desejado (ex: dez crânios de guerreiros da Horda Silenciosa ou as presas de um leviatã da Fenda), provando a veracidade de suas vitórias em combate real.
+
+## II. O Duelo da Insígnia: O candidato enfrenta um veterano do Rank superior em um combate corporal na Pista de Sangue. O duelo é travado com armas de corte real até que um dos combatentes renda-se, seja desarmado ou caia desacordado na areia. Se o candidato demonstrar coragem, técnica e ferocidade, ele recebe a nova insígnia e o respeito de toda a guilda.
+
+## III. O Arsenal dos Guerreiros da Liga
+Rejeitando delicadezas arcanas e mecanismos frágeis, a Liga utiliza um arsenal brutal, pesado e focado no corte profundo, impacto direto e quebra de armaduras:
+
+[ A CIMITARRA SERRILHADA ]
+
+[ O ESCUDO DE ESPINHOS DE FERRO ]
+     (Lâmina Larga de Aço Cru)               (Proteção & Arma de Empurrão)
+                   \                              /
+                    \                            /
+
++------------------------------------------+
+
+|
+      ARSENAL DOS MERCENÁRIOS            |
+
+|
+      (Força, Troféus & Impacto)         |
+
++---------------------
++--------------------+
+                                   |
+
++----------------
++----------------+
+
+|
+                                |
+
+v
+                                v
+
+[ A LANÇA DE FARPAS DUPLAS ]
+
+[ A ARMADURA DE COURO E PLACAS ]
+   (Arma de Arremesso & Trava)             (Couro de Besta & Abotoaduras)
+
+
+A Cimitarra Serrilhada de Aço Cru: A arma icônica dos Orcs da guilda. Uma lâmina curva, larga e pesada de ferro fundido com dentes rústicos no dorso. O peso da lâmina permite realizar golpes de decepamento de membros com extrema facilidade, enquanto o dorso serrilhado é usado para travar e quebrar espadas e lanças inimigas.
+O Escudo de Espinhos de Ferro: Escudos circulares de madeira de acácia revestidos por chapas de ferro xadrez com um espinho central de dez centímetros. O escudo não é apenas uma peça defensiva; os mercenários usam a borda de ferro e o espinho central como arma de empurrão para esmagar rostos e caixas torácicas em combates de proximidade.
+A Lança de Farpas Duplas: Lanças de arremesso pesadas com pontas de ferro em formato de anzol. Quando cravadas no peito de um oponente ou no escudo inimigo, as farpas impedem que a arma seja removida facilmente, inutilizando a defesa do adversário e permitindo a investida dos guerreiros de cimitarra.
+A Armadura de Couro de Besta e Placas: Peitorais e braçadeiras confeccionados em couro triplo de besouro-da-fenda ou camelo do deserto, reforçados com placas de ferro rebitadas nos ombros e peito. Oferece excelente proteção contra cortes e permite alta mobilidade em climas quentes.
+
+## IV. Geografia dos Salões da Liga no Continente
+A Liga dos Espadas-Sanguinárias mantém Salões de Contratação estratégicos nas principais cidades e zonas de conflito do continente, cada um adaptado às peculiaridades locais:
+
+[ MALAXIS: O SALÃO DAS PRESAS DA BORDA ]
+<- Sede Suprema & Arena da Pista
+      /                                       \
+
+[ KRAG-MORA: O BASTIÃO DO AÇO NEGRO ]
+
+[ BASTION: O GUINCHO DA FRONTEIRA ]
+ (Tecnologia Geotérmica & Maquinário)    (Acampamento do Cinturão Alvorada)
+
+|
+                                    |
+   ===================================================
+
+\\\\\\\\    ZUL-BAZAAR: A TENDA DO SANGUE DOURADO  ////////
+<- Mantos Finos & Escolta Nobre
+   ===================================================
+                        ||
+                        \/
+
+[ MARCA DA FENDA: O POSTO DOS VETERANOS ]
+<- Posto Semi-Abandonado / Pouca Atividade
+
+
+
+
+1. O Salão das Presas da Borda (Malaxis)
+Localizado na Borda dos Desesperados, sobre uma projeção de basalto que se estende sobre a Garganta do Escorpião.
+Estrutura: É a maior e mais influente guarnição da guilda. Abriga o Mural dos Crânios Principal, a Pista de Sangue oficial para Provas de Sangue, adegas de cerveja forte e alojamentos para quinhentos mercenários. É a sede principal do Conselho das Presas.
+2. O Bastião do Aço Negro (Krag-Mora)
+Instalado no Cinturão de Cinzas, na periferia da cidade-fornalha.
+Operação e Adaptação: Diferente de outros Salões, os Orcs e Meio-Orcs lotados em Krag-Mora aprenderam a dominar e utilizar os maquinários pesados, martelos pneumáticos, forjas de alta pressão e artefatos geotérmicos locais. Eles integram chapas de ferro fundido pesado e peças biónicas rústicas às suas armaduras e forjam cimitarras serrilhadas de densidade impressionante. Especialistas em proteger comboios de Carvão-de-Sangue.
+3. O Posto dos Veteranos (Marca da Fenda)
+Uma fortificação rústica de troncos e basalto erguida na linha de frente da cicatriz.
+Decadência Atual: O posto encontra-se meio abandonado, desgastado pelas intempéries e com guarnição reduzida. Como há muitos anos nenhuma criatura relevante ou behemoth emergiu da cicatriz da Fenda naquela região, a atividade caiu drasticamente. O posto é mantido por poucos veteranos nostálgicos que cuidam da estrutura enquanto esperam por guerras que parecem não voltar.
+4. A Tenda do Sangue Dourado (Zul-Bazar)
+Uma tenda monumental de couro de camelo e lonas roxas na periferia do Bazar dos Mil Desejos.
+Escolta Elegante: Especializada em contratos de escolta de caravanas de alto valor. Para não aterrorizar os contratantes "engomadinhos", nobres e comerciantes ricos do Bazar, os mercenários orcs deste posto costumam se vestir melhor: cobrem suas armaduras pesadas e cicatrizes sob mantos elegantes de seda-do-mar e tecidos finos de Zul-Bazar, mantendo uma aparência imponente, porém visualmente aceitável para a elite.
+5. O Guincho da Fronteira (Bastion)
+Um acampamento permanente de madeira-ferro instalado no Cinturão Alvorada.
+Contratação Agrícola: Fornece tropas de guarda para Barões do Trigo que necessitam de proteção privada contra ataques de Semeadores de Sangue e assaltantes de estrada.
+
+## V. Religião, Panteão e a Teologia da Força
+A espiritualidade na Liga dos Espadas-Sanguinárias é prática, guerreira e focada no culto aos deuses da batalha e na veneração dos ancestrais dos clãs.
+
++-------------------------------------------------------+
+
+|
+           VORTHAIN, O PUNHO QUE NÃO DESCANSA         |
+
+|
+ (Padroeiro Supremo, Sangue, Arenas & Vitória em Luta)|
+
++---------------------------
++---------------------------+
+                                   |
+                                   v
+
++-------------------------------------------------------+
+
+|
+              BALDRUN, O FORJADOR                     |
+
+|
+ (Respeito às Lâminas de Aço Cru & Bigornas)          |
+
++---------------------------
++---------------------------+
+                                   |
+
++----------------
++----------------+
+
+|
+                                |
+
+v
+                                v
+
++------------------------------+
+
++------------------------------+
+
+|
+  O CULTO DOS ANCESTRES
+|
+
+|
+   LITURGIA DA PRESA        |
+
+|
+(Contagem de Crânios & Honor
+|
+
+|
+(Bênção da Lâmina no Sangue  |
+
+|
+ de Sangue de Bando)
+|
+
+|
+ & Duelo da Pista de Sangue) |
+
++------------------------------+
+
++------------------------------+
+
+
+1. Vorthain e o Ritual da Lâmina Sangrada
+Venerado como o patrono supremo dos guerreiros da Liga. Para os Orcs e mercenários, Vorthain é o deus que concede vigor aos músculos e acuidade aos cortes de cimitarra.
+O Ritual do Corte do Contrato: Sempre que um bando de mercenários aceita um contrato de Selo de Ouro ou Vermelho no Mural dos Crânios, o capitão do bando faz um pequeno corte na palma da mão e pressiona o sangue contra o papelão do contrato, declarando a liturgia: "Pelo aço que empunho, pelo sangue que ofereço, o contrato será cumprido ou o meu crânio ornará este mural".
+2. O Respeito ao Inimigo Caído
+Apesar de sua ferocidade em batalha, os Orcs da Liga ensinam que o inimigo que lutou com bravura deve ser respeitado na morte.
+O Rito do Crânio de Honra: Quando um oponente digno é derrotado em duelo justo, o mercenário limpa o crânio do adversário e grava nele a marca da guilda antes de pendurá-lo no armário de troféus. Acredita-se que guardar o crânio de um inimigo bravo concede ao mercenário a coragem e a força que o falecido possuía em vida.
+
+## VI. Membros Notáveis da Liga (Liderança e Lendas Solitárias)
+A cúpula tática e política da Liga é gerida pelo Conselho das Presas, composto por cinco guerreiros lendários. Além do conselho, a guilda abriga figuras lendárias de atuação independente:
+Os Cinco do Conselho das Presas
+Grão-Mestre Karkag "O Cortador-de-Montanhas" (Orc - Rank Senhor-do-Massacre): O líder supremo da guilda no continente. Um Orc gigante de dois metros e vinte de altura, coberto de cicatrizes de batalhas de arena e portador da lendária cimitarra de duas mãos A Quebradora de Escudos. Governa a Liga a partir de Malaxis com autoridade absoluta e justiça rústica.
+Capitão Varek "Dente-de-Aço" (Meio-Orc - Rank Senhor-do-Massacre): O mestre de contratos do Salão de Malaxis. Um veterano caçador de recompensas especializado em estratégia de emboscadas no deserto. É ele quem avalia o perigo dos pergaminhos trazidos pelos clientes e define as recompensas em ouro.
+Mestra Gorga "Mão-de-Ferro" (Anã - Rank Presa-de-Guerra): A instrutora-chefe da Pista de Sangue de Malaxis. Uma anã atarracada e terrivelmente forte que perdeu o braço esquerdo contra uma besta da Fenda e o substituiu por uma prótese pesada de ferro com espinhos.
+Capitão Throk "Olho-de-Fogo" (Orc - Rank Presa-de-Guerra): O comandante do Bastião do Aço Negro em Krag-Mora. Um veterano especializado em táticas de combate pesado e operação de maquinários pneumáticos adaptados ao combate.
+Mestra Zana "A Sombra da Duna" (Meio-Elfa - Rank Presa-de-Guerra): A comandante da Tenda do Sangue Dourado em Zul-Bazar. Especialista em rastreamento de caravanas, diplomacia com os nômades e em garantir que seus guerreiros usem mantos finos ao negociar com a nobreza local.
+A Lenda Solitária
+Maza "A Sombra Imóvel" (Orc - Rank Senhor-do-Massacre):
+Uma fêmea Orc de porte físico monumental, surpreendentemente alta e musculosa mesmo para os padrões masculinos de sua raça, com presas inferiores proeminentes e espessas que despontam do maxilar. Maza alcançou o Rank 4 (Senhor-do-Massacre) há muitos anos, mas recusa categoricamente qualquer assento no Conselho das Presas, títulos de comando ou envolvimento nas políticas da guilda.
+Maza opera exclusivamente sozinha. Apesar de sua estatura de bárbara lendária, ela possui uma capacidade de deslocamento e discrição quase sobrenatural. Pouquíssimas pessoas nos Salões já viram seu rosto ou a viram chegar: ela costuma surgir nos Salões nas primeiras horas antes da alvorada, quando a taverna está vazia. Em silêncio absoluto, deposita sobre a mesa do Mestre de Contratos os troféus pavorosos da missão anterior (cabeças de behemoths, estandartes de comandantes inimigos ou presas de monstros de elite), recolhe a recompensa em ouro, pega do Mural dos Crânios o contrato mais difícil e perigoso do dia — tipicamente missões de Selo Vermelho (Rank S) que exigiriam um pelotão inteiro de trinta veteranos — e desaparece na névoa antes que o Salão desperte.
+Maza circula por todos os Salões do continente (Malaxis, Zul-Bazar, Krag-Mora, etc.), surgindo inexplicavelmente no posto que acabou de receber a missão de maior recompensa e perigo. Ninguém sabe como ela se desloca tão rapidamente entre as cidades ou como descobre antecipadamente onde estará o contrato mais mortal do dia.
+
+## VII. O Mural dos Crânios (7 Ganchos de Aventura e Contratos)
+Estes são exemplos de Contratos Oficiais afixados no Mural dos Crânios nos Salões da guilda, prontos para serem aceitos por bandos de mercenários registrados:
+================================================================================
+                    QUADRO DE CONTRATOS DAS ESPADAS
+================================================================================
+[RANK D - BRONZE] Escolta da Caravana de Tâmaras  (Recompensa: 25 Peças de Ouro)
+[RANK C - PRATA]  A Caça ao Bando do Deserto     (Recompensa: 60 Peças de Ouro)
+[RANK B - PRATA]  O Resgate dos Mineradores      (Recompensa: 120 Peças de Ouro)
+[RANK A - OURO]   A Defesa do Fortim de Pedra    (Recompensa: 250 Peças de Ouro)
+[RANK A - OURO]   O Extermínio dos Semeadores    (Recompensa: 350 Peças de Ouro)
+[RANK S - VERMELHO] A Caça ao Behemoth das Dunas  (Recompensa: 800 Peças de Ouro)
+[RANK S - VERMELHO] O Resgate do General Cativo   (Recompensa: 1.500 Peças de Ouro)
+================================================================================
+
+
+1. Contrato Rank D (Selo de Bronze): Escolta da Caravana de Tâmaras
+Solicitante: Associação de Mercadores do Deserto.
+Local: Rota entre Malaxis e Zul-Bazar.
+Fase de Investigação: Entrevistar o chefe da caravana no Salão das Presas para mapear o trajeto e checar o peso das cargas.
+A Missão: Escortar doze camelos carregados de frutas secas e tecidos pelo deserto, protegendo o comboio contra saquetes de pequenas gangues.
+A Complicação: Uma tempestade de areia forçou a caravana a fazer uma parada de emergência perto do território dos Ratos de Poeira.
+Objetivo Primário: Repelir o ataque dos saqueadores, proteger os animais de carga e entregar a mercadoria intacta em Zul-Bazar.
+Recompensa: 25 Peças de Ouro e avanço na cota de missões para Rank Lâmina-Dentada.
+2. Contrato Rank C (Selo de Prata): A Caça ao Bando do Deserto
+Solicitante: Fiscais da Balsa de Pedágio de Gristal.
+Local: Orla Ardente (Fronteira com a Fenda).
+Fase de Investigação: Rastrear as pegadas de uma gangue de doze desertores armados que assaltaram um posto de combustível e fugiram para as cavernas.
+A Missão: Invadir o esconderijo da gangue nas cavernas da Orla Ardente, eliminar os líderes e recuperar os caixotes de combustível roubados.
+A Complicação: A gangue está usando Frutos-Granada como armadilhas de arremesso nas entradas das cavernas.
+Objetivo Primário: Neutralizar os desertores, recuperar a carga e trazer as orelhas do capitão da gangue como confirmação de troféu.
+Recompensa: 60 Peças de Ouro e autorização para uso de escudos de espinhos.
+3. Contrato Rank B (Selo de Prata): O Resgate dos Mineradores
+Solicitante: Sindicato do Ferro-Frio (Krag-Mora).
+Local: Presas de Krag (Moinhos Baixos).
+Fase de Investigação: Inspecionar a entrada da mina de Carvão-de-Sangue onde oito mineradores ficaram encurralados após um desabamento.
+A Missão: Abrir caminho através dos escombros de basalto, enfrentar monstros geotérmicos que subiram das fendas e resgatar os mineradores vivos.
+A Complicação: Uma Salamandra de Escória de carapaça de ferro está nidificando no único corredor de saída do poço.
+Objetivo Primário: Eliminar a besta com lanças de farpas duplas, desobstruir a passagem e escoltar os mineradores em segurança.
+Recompensa: 120 Peças de Ouro e convite para o teste de Prova de Sangue de Rank Presa-de-Guerra.
+4. Contrato Rank A (Selo de Ouro): A Defesa do Fortim de Pedra
+Solicitante: Comandantes da Marca da Fenda.
+Local: Fortim Sul (Fronteira da Cicatriz).
+Fase de Investigação: Analisar o mapa de defesa do fortim e coordenar o posicionamento de escudos pesados e arqueiros nas ameias.
+A Missão: Manter a posição de defesa do fortim contra três ondas de ataque de um batalhão de Hobgoblins da Horda Silenciosa por doze horas.
+A Complicação: O comandante do fortim foi ferido na primeira onda e o grupo precisa assumir a liderança tática das tropas de guarnição.
+Objetivo Primário: Repelir as ondas de ataque, manter a muralha intacta e trazer a cabeça do oficial hobgoblin como troféu.
+Recompensa: 250 Peças de Ouro e direito de escolha de espólios de guerra.
+5. Contrato Rank A (Selo de Ouro): O Extermínio dos Semeadores
+Solicitante: Barão do Trigo e Cães-Farejadores.
+Local: Província Agrícola Ocidental (Bastion).
+Fase de Investigação: Investigar os rastros de sangue e elixires tóxicos deixados em uma fazenda atacada por cultistas da Doutrina do Abismo.
+A Missão: Infiltrar-se no acampamento florestal dos Semeadores de Sangue, destruir seus tanques de alquimia e eliminar a liderança dos cultistas.
+A Complicação: Os cultistas estão acompanhados por quatro camponeses transfigurados em executores de pele rubra e garras de quitina.
+Objetivo Primário: Eliminar os cultistas, incinerar os tanques de veneno e libertar os reféns mantidos no celeiro.
+Recompensa: 350 Peças de Ouro e salvo-conduto militar nas estradas de Bastion.
+6. Contrato Rank S (Selo Vermelho): A Caça ao Behemoth das Dunas
+Solicitante: Conselho dos Príncipes-Mercadores de Zul-Bazar.
+Local: Salinas do Espelho (Deserto de Sol-Crestado).
+Fase de Investigação: Contratar guias dos Cantores da Areia para rastrear os tremores de terra provocados por uma besta gigante do abismo.
+A Missão: Liderar um bando de trinta mercenários veteranos para cercar, imobilizar e destruir um Descarnado das Dunas que está destruindo caravanas comerciais.
+A Complicação: A besta emite pulsações de estática que cegam os guerreiros e atrai tempestades de vidro no meio do combate.
+Objetivo Primário: Imobilizar o monstro com lanças pesadas e correntes de Aço-Anil, matar o behemoth e trazer o crânio do monstro para o Mural de Malaxis.
+Recompensa: 800 Peças de Ouro, promoção para Rank Senhor-do-Massacre e lugar de honra no Conselho das Presas.
+7. Contrato Rank S (Selo Vermelho): O Resgate do General Cativo
+Solicitante: Estado-Maior de Bastion / Liga dos Espadas-Sanguinárias.
+Local: Fortaleza de Cativeiro em Ferrovale.
+Fase de Investigação: Obter os mapas da prisão de Ferrovale com informantes da Liga dos Agenciadores e planejar a rota de infiltração.
+A Missão: Invadir a fortaleza de alta segurança, resgatar um general de Bastion mantido refém por mercenários de Draven e trazê-lo vivo para o Cinturão Alvorada.
+A Complicação: A prisão é protegida por dois exotrajes-vapor pesados e cinquenta guardas mercenários armados com canhões pneumáticos.
+Objetivo Primário: Executar a infiltração de choque, resgatar o general e destruir os galpões de munição da fortaleza durante a fuga.
+Recompensa: 1.500 Peças de Ouro e o título lendário de Campeão Invicto da Liga.
+
+## VIII. Elementos Sensoriais para o Mestre Narrar
+Utilize estes elementos descritivos durante as sessões envolvendo a Liga dos Espadas-Sanguinárias para transmitir a atmosfera brutal, rústica, vibrante e marcial da guilda:
+Sons:
+O choque grave, limpo e retumbante de cimitarras serrilhadas e machados pesados batendo em escudos de espinhos.
+O rosnado ritmado, profundo e intimidador de cânticos de guerra Orcs ecoando pelas paredes de basalto do Salão.
+O baque seco e surdo de crânios e troféus de caça sendo contados e atirados sobre mesas de madeira pesada.
+O soar estridente de trompas de chifre de besta convocando os bandos para o pátio de armas.
+O ruidoso estalo de ossos sendo quebrados durante os duelos de avanço de Rank na Pista de Sangue.
+Visões:
+Guerreiros Orcs e Meio-Orcs gigantescos vestindo armaduras de couro de besta e placas de ferro rústico rebitadas, cobertos por cicatrizes de batalha.
+O espetáculo intimidador do Mural dos Crânios, repleto de pergaminhos selados fixados por pregos de osso ao lado de centenas de crânios de inimigos derrotados.
+O brilho fosco das cimitarras serrilhadas e das lanças de farpas duplas polidas com graxa de carneiro.
+Mercenários reunidos em fogueiras abertas rindo, bebendo cerveja forte de cevada e dividindo assados de caça.
+Cheiros:
+O cheiro forte, pungente e característico de suor humano e Orc, couro curtido, fumaça de fogueiras e pimenta-do-deserto.
+O aroma rico e gorduroso de assados pimentados e cerveja preta de cevada servidos nos grandes tachos do Salão.
+O cheiro amargo e seco de poeira de ferro, graxa de armas e sangue seco acumulado na areia da Pista de Sangue.
+Tato e Sensações Térmicas:
+O calor abrasador das fogueiras abertas e das arenas de combate fazendo o suor secar crostoso na pele dos guerreiros.
+A textura áspera, pesada e firme do couro de besta e das placas de ferro das armaduras.
+O impacto físico e a vibração no peito causados pelo choque de escudos pesados em formações de combate.
+
+## IX. Economia, Soldos e Tabela de Recompensas da Guilda
+A economia na Liga dos Espadas-Sanguinárias é regulada pelo valor do aço, pela dificuldade dos contratos e pelo respeito aos direitos de pilhagem do bando:
+| Item / Serviço / Recompensa
+|
+Custo Oficial (Salão das Presas / Membros)
+|
+Preço para Estrangeiros / Mercado Externo |
+| Cimitarra Serrilhada de Aço Cru (Oficial)
+|
+20 Peças de Ouro
+|
+45 Peças de Ouro (Arma de corte pesado) |
+| Escudo de Espinhos de Ferro xadrez
+|
+15 Peças de Ouro
+|
+35 Peças de Ouro (Escudo defensivo e de impacto) |
+| Lança de Farpas Duplas de Arremesso
+|
+6 Peças de Ouro
+|
+15 Peças de Ouro (Munição pesada de arremesso) |
+| Armadura de Couro de Besta e Placas Rebitadas| 40 Peças de Ouro
+|
+90 Peças de Ouro (Proteção pesada de mercenário) |
+| Placa de Registro de Mercenário (Ferro-Bruto)| 5 Peças de Ouro (Taxa de teste)
+|
+Proibido (Concedida apenas por aprovação) |
+| Caneca de Cerveja Preta de Cevada e Tacho de Carne| 3 Moedas de Cobre
+|
+1 Peça de Prata (Ração de taverna de guilda) |
+| Contratação de Bando Rank Ferro-Bruto (Dia)| 10 Peças de Ouro
+|
+25 Peças de Ouro (Guarda de escolta simples) |
+| Contratação de Bando Rank Lâmina-Dentada (Dia)| 30 Peças de Ouro
+|
+70 Peças de Ouro (Guerreiros veteranos de combate) |
+| Contratação de Capitão Rank Presa-de-Guerra (Dia)| 80 Peças de Ouro
+|
+200 Peças de Ouro (Comando tático de bando) |
+| Duelo de Aposta na Pista de Sangue (Inscrição)| 5 Peças de Ouro
+|
+15 Peças de Ouro (Aposta livre de combate) |
+| Kit de Manutenção de Armas com Graxa e Pedra| 1 Peça de Prata
+|
+5 Peças de Prata (Insumo de polimento de aço) |
+| Amuleto de Dente de Fera (Proteção de Batalha)| 8 Peças de Ouro
+|
+20 Peças de Ouro (Relíquia rústica de combate) |
+
+---
+
+Lore Expandida: A Rede dos Dentes-de-Ouro
+A areia engole os guardas incompetentes, o sol derrete a cera dos selos reais, mas a seda nobre reembalada e o vinho derramado em taça de cristal valem dez vezes mais no nosso galpão de Malaxis do que na carroça de um Barão do Trigo.
+
+## I. Visão Geral e a Máfia da Receptação de Luxo
+Nas vastidões escaldantes do Deserto de Sol-Crestado, ao longo das rotas comerciais que conectam a fartura de Bastion, a riqueza de Zul-Bazar e a anarquia de Malaxis, a insígnia discreta marcada por uma presa de ouro entalhada em um dado de marfim causa pavor velado em qualquer capitão de caravana: a marca da Rede dos Dentes-de-Ouro.
+A Rede dos Dentes-de-Ouro não é uma guilda pública de aventureiros, nem um bando bizarro de saqueadores brutais, nem uma ordem militar com registros abertos ou quadros de contratos. Trata-se da mais sofisticada, lucrativa e implacável Máfia de Receptadores de Luxo, Lavadores de Carga e Contrabandistas de Elite de todo o continente. Fundada e controlada quase exclusivamente por uma cúpula de Halflings e Gnomos, a Rede compreendeu uma regra econômica sagrada que escapa aos brutamontes do deserto: assaltar uma caravana é apenas o trabalho braçal primário; a verdadeira fortuna reside na Cadeia de Lavagem e Rotulagem de Luxo.
+A máfia opera de forma cirúrgica. Halflings e gnomos possuem a estatura perfeita para passar despercebidos em oásis e tavernas, a acuidade visual necessária para avaliar o valor real de gemas, vinhos e tapeçarias, e a habilidade manual impecável para falsificar selos nobres, raspar brasões de armas, derreter joias reais sem perder a pureza do metal e transferir especiarias e sedas para caixas neutras de fibra. A carga roubada que entra nos galpões clandestinos de Malaxis com as marcas do Palácio de Bastion sai no dia seguinte "lavada", reembalada e com certificados de origem falsificados, sendo vendida de volta para comerciantes desonestos de Zul-Bazar e Bastion por 30% a 50% do valor de mercado.
+Totalmente desprovida de estéticas steampunk, engrenagens a vapor ou pistões, a tecnologia da Rede é artesanal, discreta e focada na espionagem, falsificação e ataques cirúrgicos: ácidos de neutralização de selos, ferramentas de joalheria de precisão, venenos paralisantes, bestas leves com dardos ocultos e a contratação pragmática de mercenários e pistoleiros de aluguel quando uma caravana exige força de choque antes da confecção da lavagem.
+
++---------------------------------------+
+
+|
+       O DON SUPREMO DO CARTEL        |
+
+|
+   (Don Milo "Dente-de-Ouro" - Halfling)|
+
++-------------------
++-------------------+
+                                        |
+
+[ Ordens Diretas, Finanças & Ordens de Execução ]
+                                        |
+                                        v
+
++---------------------------------------+
+
+|
+   MESTRES DE ROTUAGEM E RECEPTAÇÃO   |
+
+|
+   (Halflings & Gnomes Avaliadores)   |
+
++-------------------
++-------------------+
+                                        |
+
++--------------------------------
++--------------------------------+
+
+|
+
+|
+                               |
+
+v
+
+v
+                               v
+
++---------------+
+
++-----------------+
+
++-----------------+
+| CAPOS DE
+|
+
+|
+MESTRES DA
+|
+
+|
+MESTRES DE      |
+| ESPIONAGEM
+|
+
+|
+FORJARIA E LAVA-|
+|
+VENDAS DE LUXO  |
+|(Olheiros Gnomes)|            |(Falsificadores)|              |(Contatos Zul)   |
+
++-------
++-------+
+
++--------
++--------+
+
++--------
++--------+
+
+|
+
+|
+                               |
+
++-------------------------------
++--------------------------------+
+                                        |
+                                        v
+
++---------------------------------------+
+
+|
+ OPERATIVOS DE CAMPO E MERCENÁRIOS    |
+
+|
+(Emboscadores, Batedores & Ladrões)   |
+
++-------------------
++-------------------+
+
+
+
+II. A Estrutura da Máfia: A Teia de Lavagem (Não-Guilda)
+Na Rede dos Dentes-de-Ouro não existem "níveis de aventureiro", "quadros de missões" ou "murais públicos". Ninguém bate na porta de um galpão para "se filiar". Quem trabalha para a Máfia é recrutado por famílias de halflings e gnomos do submundo, contratado como segurança sob rígidos acordos de confidencialidade ou subordinado aos capos territoriais nomeados por Don Milo.
+
+[ ESPIONAGEM EM TAVERNAS (GNOMES) ]
+-->
+[ EMBOSCADA NA ESTRADA ]
+-->
+[ CONFISCO DA CARGA ]
+                                                                                |
+                                                                                v
+
+[ REVENDA EM ZUL-BAZAR / BASTION ]
+ <--
+[ ROTUAGEM E FALSO SELO ]
+<--
+[ GALPÃO EM MALAXIS ]
+
+
+
+1. O Sistema de Lavagem e a "Rotuagem de Luxo"
+A Rede opera através de uma teia de depósitos ocultos e laboratórios de avaliação mantidos nas galerias baixas de Malaxis:
+Os Olheiros das Estalagens (Espionagem de Gnomos): Gnomos e halflings disfarçados de garçons, músicos, arrumadeiros e mercadores de pequenas bugigangas nos oásis e tavernas nobres de Zul-Bazar e Bastion. Mapeiam o conteúdo exato dos caixotes: identificam se a carga transporta vinhos reais de Bastion, seda-do-mar de Tartuga ou especiarias de Zul-Bazar, contando o número de guardas e a rota exata da caravana.
+O Confisco Cirúrgico (Emboscada Contratada): A Máfia não usa seus avaliadores halflings no confronto direto. Eles contratam gangues de mercenários e pistoleiros locais para atacar a caravana em pontos cegos do deserto (como a Garganta do Urubu ou as Salinas do Espelho), imobilizando os guardas com venenos paralisantes e Frutos-Granada para confiscar as caixas intactas.
+A Lavagem das Mercadorias (Oficinas de Rotuagem): As cargas capturadas entram nos galpões secretos de Malaxis. Joalheiros e gravadores gnomos trabalham sob luz de lanternas: raspam brasões nobres de caixas de acácia, derretem joias de ouro para apagar selos reais, re-engarrafam vinhos em frascos neutros, limpam marcas corporativas de lingotes e aplicam selos e certificados de origem falsificados que atestam que a mercadoria pertence a "comerciantes independentes de Zul-Bazar".
+
+## III. O Líder Único: Don Milo "Dente-de-Ouro"
+Diferente de organizações com conselhos divididos, a Rede dos Dentes-de-Ouro possui um único e absoluto Don:
+
++---------------------------------------------+
+
+|
+         DON MILO "DENTE-DE-OURO"           |
+
+|
+(Halfling - Don Supremo da Máfia de Luxo)   |
+
++----------------------
++----------------------+
+                                        |
+
++--------------------------
++--------------------------+
+
+|
+                                                    |
+
+v
+                                                    v
+
+[ MENTE FINANCEIRA & ELEGÂNCIA ]
+
+[ CORDAS DE PIANO & LÂMINAS ]
+(Gerencia o Império da Receptação)                    (Elimina Traidores sem Barulho)
+
+
+
+Don Milo "Dente-de-Ouro" (Halfling - Don Supremo):
+Um halfling de um metro e dez de altura, impecavelmente vestido em coletes de veludo carmesim, lenços de seda-do-mar e anéis de platina. Seu canino superior esquerdo foi substituído por uma prótese de ouro puro incrustada com um diamante minúsculo que brilha a cada sorriso frio. Don Milo é o retrato da elegância corrupta: fala em tom baixo e cortês, bebe apenas vinhos de safras reais confiscadas e nunca altera a voz ao ordenar a execução de um traidor.
+Don Milo governa a Máfia a partir de seus escritórios privados escondidos atrás de uma loja de antiguidades de fachada no setor comercial de Malaxis. Ele conhece o valor exato de cada saca de especiaria de Zul-Bazar, cada garrafa de vinho de Bastion e cada contrato do Palácio de Vidro. Don Milo não tolera amadorismo: qualquer subordinado ou mercenário contratado que tente desviar um único frasco de perfume ou pechinchar por fora da cota devida de 30% é enforcado com garrote de fita de chumbo e lançado nos poços de piche do subsolo.
+Nenhum assalto a caravanas de alto valor ocorre no deserto sem a aprovação pessoal e a análise de risco conduzida por Don Milo. É ele quem decide quais Barões do Trigo devem ter suas safras pilhadas e quais comerciantes de Zul-Bazar receberão prioridade de revenda.
+
+## IV. Táticas de Campo e Arsenal do Cartel
+A Rede rejeita a brutalidade desordenada e o uso de armas pesadas que possam danificar as caixas de mercadorias nobres. O arsenal da Máfia é focado na imobilização, furtividade e preservação do espólio:
+
+[ O FRUTO-GRANADA DE FUMAÇA ]
+
+[ O DARDO DE VENENO PARALISANTE ]
+     (Fogo-Vetor & Pânico na Escolha)           (Paralisia de Guardas de Caravana)
+                   \                              /
+                    \                            /
+
++------------------------------------------+
+
+|
+        ARSENAL DOS RECEPTADORES         |
+
+|
+      (Furtividade, AVALIAÇÃO & Confisco)|
+
++---------------------
++--------------------+
+                                   |
+
++----------------
++----------------+
+
+|
+                                |
+
+v
+                                v
+
+[ O ÁCIDO DE DISSOLUÇÃO DE SELO ]
+
+[ A SARABATANA DE EMBOSCADA ]
+   (Remoção de Brasões & Marcadores)            (Disparo Silencioso de Canto)
+
+
+
+Frutos-Granada de Arremesso (Fogo-Vetor): Utilizados pelos mercenários contratados pela Rede para fechar rotas de fuga com fogo e fumaça esverdeada, assustando os camelos de escolta sem incendiar os caixotes cobertos por lonas antiácidas.
+Ácido de Dissolução de Selo: Soluções químicas refinadas por boticários gnomos nos alambiques de Malaxis. Aplicadas sobre caixas e joias para corroer brasões de famílias de Bastion e marcas de cartório em poucos minutos sem danificar o metal ou a madeira.
+Dardos de Veneno de Escorpião-Rei: Munições leves disparadas por zarabatanas de bambu ou bestas leves de pulso usadas por batedores halflings. O veneno causa paralisia muscular rápida, permitindo que a equipe renda a guarda da caravana sem disparar um único golpe de espada que estrague os tecidos e tapeçarias da carga.
+Ferramentas de Joalheiro e Ferros de Remarcação: Alicates de precisão, cinzéis de ponta de diamante e ferros quentes falsificados usados nas oficinas de rotuagem para alterar as marcas de gado, reengravar joias reais e raspar símbolos de caixotes.
+
+## V. Geografia Operacional e Depósitos Secretos
+A Rede dos Dentes-de-Ouro domina a infraestrutura clandestina de estocagem e distribuição entre o deserto e as metrópoles:
+
+[ OS GALPÕES DE RECEPTAÇÃO (SEDE EM MALAXIS) ]
+ <- Lavagem de Cargas & Avaliação
+      /                                               \
+
+[ A GARGANTA DO URUBU (PONTO DE CONFISCO) ]
+
+[ AS SALINAS DO ESPELHO ]
+ (Emboscadas & Cavernas de Estocagem)            (Rotas Clandestinas de Contrabando)
+
+|
+                                              |
+   =============================================================
+
+\\\\\\\\    OS DEPOSITOS SUBTERRÂNEOS DE ZUL-BAZAR   ////////
+<- Revenda Clandestina
+   =============================================================
+
+
+
+1. Os Galpões de Malaxis (Sede da Máfia)
+Instalados no setor comercial de Malaxis, disfarçados como uma loja de antiguidades. Por trás de paredes duplas de madeira e passagens secretas, situam-se as luxuosas salas de avaliação de Don Milo e os pátios onde halflings e gnomos remarcam caixas, garrafas de vinho e joias.
+2. A Garganta do Urubu (O Posto de Confisco)
+Um desfiladeiro estreito de arenito vermelho localizado na rota entre Bastion e Zul-Bazar.
+Estrutura: As paredes da garganta possuem cavernas artificiais onde mercenários contratados por Don Milo aguardam o sinal do olheiro gnomo. Os bandidos rolam rochas para trancar a caravana e rendem a guarda com dardos envenenados, transferindo os caixotes para mulas leves da Máfia.
+3. As Salinas do Espelho (Rotas Fantasma)
+Uma vastidão de crosta de sal que reflete o sol como um espelho.
+Operação: A Rede utiliza rotas não mapeadas nas salinas para mover carruagens e gado roubado sem deixar pegadas. A refração do sol cega patrulhas de Bastion e guardas que tentam seguir os rastros das cargas confiscadas.
+4. Os Depósitos do Bazar (Zul-Bazar)
+Câmaras subterrâneas mantidas sob o piso de lojas de especiarias no Bazar dos Mil Desejos em Zul-Bazar, onde os receptadores da Máfia entregam as cargas já "lavadas" para comerciantes corruptos.
+
+## VI. Relações Geopolíticas e Sinalização Secreta
+A Rede dos Dentes-de-Ouro mantém uma teia cínica e pragmática de alianças no submundo e na política do continente:
+
++-------------------------------------------------------+
+
+|
+            A REDE DOS DENTES-DE-OURO                 |
+
+|
+            (Don Milo "Dente-de-Ouro")                |
+
++---------------------------
++---------------------------+
+                                   |
+
++--------------------------
++--------------------------+
+
+|
+                                                    |
+
+v
+                                                    v
+
++---------------+
+
++---------------+
+| LIGA DOS
+|
+
+|
+BARÕES DO     |
+| AGENCIADORES
+|
+
+|
+TRIGO         |
+|(Vinhos/Vícios/|                                     |(Propinas &    |
+| Informação)
+|
+
+|
+Monopólios)   |
+
++---------------+
+
++---------------+
+
+
+
+Parceria com a Liga dos Agenciadores: Don Milo vende à Liga do vício os itens de luxo pilhados (vinhos raros, tecidos de seda, perfumes), enquanto a Liga oferece à Máfia informações extraídas de nobres e diplomatas embriagados nos quartos dos bordéis.
+Aversão à Liga dos Espadas-Sanguinárias: Os mercenários orcs das Espadas-Sanguinárias consideram a Máfia de Halflings "ladrões de casaco fino sem honra". Don Milo prefere subornar capitães da Liga dos Espadas para fazerem vista grossa durante assaltos no deserto a entrar em combate direto.
+Acordos Velados com Barões do Trigo Corruptos: Barões de Bastion pagam propinas mensais em ouro diretamente a Don Milo para que a Máfia confisque as caravanas de seus concorrentes agrícolas, garantindo o monopólio de preços na capital.
+O Código das Presas (Sinalização Secreta)
+Para comunicar o valor de alvos, riscos de patrulha e rotas limpas, a Máfia entalha pequenos glifos discretos de uma presa e um dado nas pedras de oásis e paredes de tavernas:
+
+[ ⋁ ]
+= Caravana com carga de luxo / Alvo fácil.
+
+[ ⋁⋁⋁ ]
+= Caravana fortemente armada / Exige reforços mercenários.
+
+[ ✖ ]
+= Área sob proteção de propina de Don Milo / Proibido atacar.
+
+[ 🕱 ]
+= Presença de inquisidores do Círculo de Giz ou Cães-Farejadores.
+
+## VII. Ganchos de Aventura e Operações de Campo (7 Ganchos)
+Estes são exemplos de operações e contratos envolvendo a Máfia dos Dentes-de-Ouro, construídos em fases detalhadas para destacar sua lavagem de cargas, falsificação e receptação de luxo:
+================================================================================
+                    QUADRO DE OPERAÇÕES DOS DENTES-DE-OURO
+================================================================================
+[NÍVEL 1] A Caça ao Olheiro Gnome da Taverna   (Recompensa: 30 Peças de Ouro)
+[NÍVEL 2] O Resgate da Carga de Vinho Real     (Recompensa: 60 Peças de Ouro)
+[NÍVEL 3] A Invasão da Oficina de Rotuagem     (Recompensa: 120 Peças de Ouro)
+[NÍVEL 4] O Pátio dos Caixotes                 (Recompensa: 180 Peças de Ouro)
+[NÍVEL 5] A Emboscada na Garganta do Urubu     (Recompensa: 280 Peças de Ouro)
+[NÍVEL 6] O Roubo do Selo de Prata do Barão    (Recompensa: 450 Peças de Ouro)
+[NÍVEL 7] O Golpe contra Don Milo "Dente-de-Ouro" (Recompensa: 1.500 Peças de Ouro)
+================================================================================
+
+
+
+1. A Caça ao Olheiro Gnome da Taverna
+Solicitante: Associação de Mercadores de Zul-Bazar.
+Local: Oásis do Sol (Fronteira do Deserto).
+Fase de Investigação: Identificar um garçom gnome infiltrado na estalagem do oásis que está usando espelhos para sinalizar a partida de caravanas de especiarias para os batedores da Máfia.
+A Missão: Capturar o olheiro antes que ele envie o sinal sobre o próximo comboio nobre.
+A Complicação: O olheiro percebeu a aproximação e tentou incendiar o estábulo da estalagem para fugir no caos.
+Objetivo Primário: Interceptar o traidor, apagar o fogo e extrair a localização do depósito de recepção.
+Recompensa: 30 Peças de Ouro e salvo-conduto dos mercadores.
+2. O Resgate da Carga de Vinho Real
+Solicitante: Guarda de Seda e Ouro (Bastion).
+Local: Salinas do Espelho.
+Fase de Investigação: Rastrear o trajeto de uma carroça roubada que transportava cinquenta caixas de vinho real de Bastion destinadas a um banquete.
+A Missão: Alcançar o comboio da Máfia nas salinas antes que as garrafas cheguem aos galpões de Malaxis e tenham seus rótulos trocados.
+A Complicação: A miragem do sol nas salinas dificulta calcular a posição real da carroça dos receptadores.
+Objetivo Primário: Neutralizar a escolta de mercenários, recuperar as caixas de vinho intactas e escoltá-las de volta.
+Recompensa: 60 Peças de Ouro e gratidão da família nobre.
+3. A Invasão da Oficina de Rotuagem
+Solicitante: Fiscais do Distrito dos Selos / Cães-Farejadores.
+Local: Setor Comercial de Malaxis.
+Fase de Investigação: Localizar a passagem secreta nas adegas de uma loja de antiguidades que dá acesso ao armazém onde halflings e gnomes alteram marcas de gado, joias e caixas.
+A Missão: Invadir a oficina durante a noite, confiscar as prensas de falsificação de selos e libertar os artesãos mantidos em servidão.
+A Complicação: A oficina é protegida por quatro mercenários armados com cimitarras serrilhadas e dois cães do deserto.
+Objetivo Primário: Destruir os ferros de remarcação, recuperar os livros de contabilidade e escapar antes da chegada dos reforços da Máfia.
+Recompensa: 120 Peças de Ouro e participação de 15% nos bens recuperados.
+4. O Pátio dos Caixotes
+Solicitante: Emissário da Liga dos Agenciadores.
+Local: Periferia de Malaxis.
+Fase de Investigação: Localizar um depósito secundário dos Dentes-de-Ouro onde cem rolos de seda-do-mar de Tartuga roubados estão estocados antes da remarcação.
+A Missão: Infiltrar-se no depósito, neutralizar os olheiros e garantir que a seda seja transferida para os bordéis da Liga dos Agenciadores.
+A Complicação: Uma patrulha de mercenários rivais também atacou o galpão para roubar a mesma carga.
+Objetivo Primário: Eliminar os invasores, segurar a posição e entregar a seda para o contato da Liga.
+Recompensa: 180 Peças de Ouro e desconto nos estabelecimentos da Liga.
+5. A Emboscada na Garganta do Urubu
+Solicitante: Liga dos Espadas-Sanguinárias / Contrato Privado.
+Local: Garganta do Urubu (Deserto de Sol-Crestado).
+Fase de Investigação: Mapear as cavernas das paredes do desfiladeiro onde os mercenários contratados por Don Milo se escondem.
+A Missão: Liderar uma força de choque para romper o bloqueio dos receptadores e garantir a passagem de uma caravana médica.
+A Complicação: Os mercenários usam Frutos-Granada para provocar desabamentos de pedra sobre a estrada.
+Objetivo Primário: Escalar as paredes do desfiladeiro, neutralizar os atiradores de frutos-granada e abrir caminho para o comboio.
+Recompensa: 280 Peças de Ouro e promoção na guilda dos Espadas-Sanguinárias.
+6. O Roubo do Selo de Prata do Barão
+Solicitante: Emissário do Palácio de Vidro (Zul-Bazar).
+Local: Galpão de Avaliação em Malaxis.
+Fase de Investigação: Descobrir em qual cofre de segurança de Malaxis um capo halfling guardou a matriz de imprensa de prata roubada de um Barão do Trigo.
+A Missão: Infiltrar-se no depósito protegido, roubar o selo de prata sem disparar os alarmes de sinos e substituir a matriz por uma réplica de chumbo.
+A Complicação: O cofre é protegido por um alambique de gás paralisante e por um guarda meio-orc sob efeito de Poeira de Cacto.
+Objetivo Primário: Recuperar a matriz intacta e sair do galpão sem alertar os olheiros gnomes.
+Recompensa: 450 Peças de Ouro e carta de crédito de Zul-Bazar.
+7. O Golpe contra Don Milo "Dente-de-Ouro"
+Solicitante: Estado-Maior de Bastion / Conservatório de Zul-Bazar.
+Local: Escritórios Privados em Malaxis.
+Fase de Investigação: Executar uma operação coordenada para invadir a loja de antiguidades de Don Milo e confiscar o livro de contabilidade de propinas dos Barões.
+A Missão: Enfrentar Don Milo "Dente-de-Ouro" em seu bunker privado, neutralizar sua guarda de elite de meio-orcs e encerrar a liderança do cartel.
+A Complicação: Don Milo veste um colete reforçado com fita de chumbo, utiliza um garrote de arame afiado e possui dois frascos de ácido concentrado para uso suicida em caso de captura.
+Objetivo Primário: Derrotar Don Milo, recuperar o livro de registros de lavagem de carga e fragmentar a teia de receptação da Máfia.
+Recompensa: 1.500 Peças de Ouro, título de Campeão do Deserto e eliminação da maior rede de receptação do continente.
+
+## VIII. Elementos Sensoriais para o Mestre Narrar
+Utilize estes elementos descritivos durante as sessões envolvendo a Rede dos Dentes-de-Ouro para transmitir a atmosfera de luxo decadente, poeira de sal, ganância mercantil e corrupção refinada:
+Sons:
+O tilintar abafado e constante de joias de ouro, moedas e taças de cristal sendo avaliadas nas salas dos galpões de Malaxis.
+O riso baixo, cortês e contido de halflings e gnomes negociando cargas roubadas em mesas de madeira de acácia.
+O som estridente e seco de ferramentas de joalheiro e cinzéis raspando brasões nobres de caixas.
+O estalo sibilante de sarabatanas disparando dardos de veneno de escorpião do alto das paredes do desfiladeiro.
+O chiar contínuo do ferro quente gravando marcas falsificadas em caixotes e gado roubado.
+Visões:
+Halflings e gnomes impecavelmente vestidos em coletes de veludo e lenços de seda avaliando pérolas, metal nobre e tapeçarias sob a luz de lanternas de óleo.
+O contraste chocante entre o luxo das mercadorias roubadas (sedas, vinhos reais, perfumes) e a imundície dos galpões de madeira e chão de terra em Malaxis.
+Don Milo sentado em uma cadeira de couro roubada, ostentando o dente de ouro incrustado com diamante e um sorriso frio.
+Caixas de madeira nobre de Bastion sendo abertas com pés-de-cabra e seus conteúdos transferidos para sacos neutros de cânhamo.
+Cheiros:
+O aroma adocicado, pesado e luxuoso de perfumes de flor-de-sol e vinhos reais abertos se misturando ao cheiro de poeira de sal e suor de camelo.
+O cheiro acre e sulfuroso do ácido de dissolução de selos reagindo nas placas de bronze.
+O odor amargo e químico de veneno de escorpião-rei cozinhando em pequenos recipientes de porcelana.
+Tato e Sensações Térmicas:
+A textura macia e fria dos veludos e sedas nobres empilhados nos galpões de receptação.
+O calor abrasador e sufocante do sol refletindo nas salinas durante a travessia das cargas roubadas.
+A sensação incômoda de um dardo envenenado cravado no pescoço, seguida pela paralisia muscular fria e rápida.
+
+## IX. Economia de Contrabando e Tabela de Mercado Negro
+A tabela abaixo reflete a economia de receptação de luxo, produtos roubados, rotuagem falsificada e serviços mantida pela Rede dos Dentes-de-Ouro:
+| Item / Serviço / Mercadoria
+|
+Preço no Mercado Legal (Zul-Bazar / Bastion)
+|
+Preço de Receptação (Galpões dos Dentes-de-Ouro) |
+| Garrafa de Vinho Real de Bastion (Lavada)
+|
+12 Peças de Ouro
+|
+3 Peças de Ouro (Garrafa com rótulo falsificado) |
+| Rolo de Seda-do-Mar de Tartuga (Sem marca)
+|
+40 Peças de Ouro
+|
+10 Peças de Ouro (Tecido desprovido de etiqueta) |
+| Saca de Especiaria Solar de Zul-Bazar (50kg)
+|
+25 Peças de Ouro
+|
+6 Peças de Ouro (Carga de caravana reembalada) |
+| Fruto-Granada de Arremesso (Fogo-Vetor)
+|
+Proibido no mercado livre
+|
+10 Peças de Ouro (Vendido nos galpões aos mercenários) |
+| Gema de Rubi Real sem Selo de Cartório
+|
+80 Peças de Ouro
+|
+20 Peças de Ouro (Pedra lapidada de joia derretida) |
+| Dardo com Veneno de Escorpião-Rei (Dúzia)| Proibido na capital
+|
+8 Peças de Ouro (Munição de emboscada) |
+| Propina para Isenção de Ataque no Deserto
+|
+Inexistente na lei
+|
+100 Peças de Ouro por mês (Pago a Don Milo) |
+| Informação de Rota de Caravana Nobre (Gnome)| Inestimável
+|
+30 Peças de Ouro (Paga a olheiros de taverna) |
+| Frasco de Ácido de Dissolução de Selo
+|
+Proibido na legislação
+|
+15 Peças de Ouro (Ferramenta de rotuagem e limpeza) |
+| Atestado de Origem Falsificado com Selo
+|
+Proibido na legislação
+|
+20 Peças de Ouro (Documento de lavagem de carga) |
+| Camelo de Carga com Marca Remarcada
+|
+25 Peças de Ouro
+|
+7 Peças de Ouro (Animal com marca adulterada) |
+| Serviço de Avaliador Gnome para Carga (Dia)
+|
+15 Peças de Ouro
+|
+5 Peças de Ouro (Avaliação de valor no galpão) |
 
 ---
 
@@ -3892,35 +8462,377 @@ Ainda não criado.
 
 ---
 
-## [O Cartel da Pólvora-de-Sol]
+Lore Expandida: O Cartel da Pólvora-de-Sol
+O ouro do solo compra o ferro, mas o pólen do cacto compra a mente dos reis. Quem controla a noite no deserto dita o preço do luxo na alvorada, e queimar um cacto é queimar a própria fortuna do continente.
 
-## Resumo
+## I. Visão Geral e a Doutrina do Monopólio da Especiaria
+Erguendo-se sobre as dunas douradas e fendas termais do Deserto de Sol-Crestado, nos arredores da opulência de Zul-Bazar, opera O Cartel da Pólvora-de-Sol: o mais rico, influente, implacável e protegido conglomerado comercial e agroindustrial do continente.
+Diferente de guildas de aventureiros (que mantêm murais abertos e registros públicos de membros) ou de ordens militares que juram lealdade a coroas, o Cartel opera como uma Sociedade Corporativa de Monopólio Fechado. Seu objetivo primordial não é a aventura ou a glória marcial, mas o controle absoluto da colheita, do refino, da estocagem e da precificação da mais cobiçada e cara substância do mundo conhecido: a Pólvora-de-Sol (também conhecida como Ouro-Seco ou Poeira-de-Fogo).
+A filosofia dos Barões do Cacto repousa sobre a Doutrina da Escassez Planejada: a colheita do pólen cristalizado dos cactos-solares não é maximizada para baratear o produto; ela é rigorosamente racionada, estocada em cofres herméticos de chumbo e liberada em lotes controlados para os mercados de luxo de Bastion, Zul-Bazar e Aethelgard. Essa política mantém o valor da especiaria artificialmente estratosférico. Uma única onça do pólen refinado paga o soldo de um regimento militar inteiro por um mês.
+Para sustentar esse império bilionário, o Cartel opera com mão de ferro:
+Monopólio das Lavouras Selvagens: Proibição armada e severa de qualquer colheita independente no Mar de Cactos-Solares.
+Segurança Química e Industrial: Refinarias seladas com placas de chumbo contra a luz solar direta, com turnos noturnos monitorados por supervisores armados.
+Rede de Distribuição Exclusiva: Entrega direta para palacetes da nobreza e academias arcanas através de caravanas blindadas.
+Guerra Fria contra o Contrabando: Destruição imediata de alambiques clandestinos que tentam processar Poeira Bruta no mercado negro.
+Totalmente desprovida de estéticas steampunk, engrenagens a vapor ou pistões mecânicos, a tecnologia do Cartel é artesanal, química, mineralógica e agrícola: tesouras de osso polido para corte de brotos, lonas de feltro úmido tratadas com óleo de linhaça para proteção solar, cilindros herméticos de chumbo fundido, almofarizes de basalto para micronização do pólen e balanças de precisão de cristal de quartzo.
 
-Sindicato de mercadores e refinadores que controla a colheita, refino e venda da valiosa especiaria alucinógena Pólvora-de-Sol.
++---------------------------------------+
+| A MESA DOS BARÕES DO CACTO
+|
+| (Diretoria Executiva & Acionistas)
+|
 
-## Objetivo/Agenda
++-------------------
++-------------------+
+|
+[ Cotas de Produção & Fixação de Preços ]
+|
+v
 
-Manter o preço da especiaria elevado no mercado de luxo do continente e controlar as áreas de colheita dos cactos-solares.
++---------------------------------------+
+| ADMINISTRAÇÃO DE REFINO E CAMPO
+|
+| (Química, Logística & Auditoria)
+|
 
-## Hierarquia
++-------------------
++-------------------+
+|
++--------------------------------
++--------------------------------+
+|
+|
+|
+v
+v
+v
 
-Dirigido pelos Barões do Cacto. A liderança específica ainda não foi criada.
++---------------+
 
-## Território/Base
++-----------------+
 
-[O Mar de Cactos-Solares em Zul-Bazar].
++-----------------+
+| MESTRES DE
+|
+| FISCAIS DE
+|
+| MILÍCIA DAS
+|
+| REFINARIA
+|
+| LAVOURA
+|
+| SAFIRAS
+|
+|(Alquimia/Lead)| |(Colheita/Turnos)| |(Segurança Priva)|
++-------
++-------+
 
-## Recursos
++--------
++--------+
 
-Fortunas acumuladas, refinarias exóticas, milícias de proteção de lavouras e rede de distribuição comercial.
++--------
++--------+
+|
+|
+|
++-------------------------------
++--------------------------------+
+|
+v
 
-## Relações com outras facções
++---------------------------------------+
+| COLHEDORES E PEÕES DE ESTEIRA
+|
+| (Mão de Obra Noturna & Transportes)
+|
 
-[Os Cantores da Areia]: aliada comercial — contrata os guias para navegar em zonas de tempestade mana-solar.
++-------------------
++-------------------+
+|
+v
 
-## Membros notáveis
++---------------------------------------+
+| DISTRIBUIÇÃO CONTINENTAL
+|
+| (Caravanas Nobres & Palácio de Vidro)
+|
 
-Ainda não criado.
++---------------------------------------+
+
+---
+
+## II. O Ciclo da Especiaria: Da Flor Noturna ao Selo de Chumbo A Pólvora-de-Sol não é uma substância comum; trata-se do pólen cristalizado emitido pelas flores gigantescas dos *Cactos-Solares* que crescem exclusivamente nas fendas termais de Zul-Bazar.
+
+[ COLHEITA NOTURNA (PINÇAS DE OSSO) ]
+-->
+[ TRANSPORTE EM FELTRO ÚMIDO ]
+-->
+[ REFINARIA DE CHUMBO ]
+|
+v
+
+[ EMBALAGEM SELADA EM OURO ]
+<--
+[ CLASSIFICAÇÃO DE PUREZA ]
+<--
+[ MICRONIZAÇÃO EM BASALTO ]
+
+
+### 1. O Ritual da Colheita Noturna Os cactos-solares possuem uma biologia volátil: absorvem o calor e a radiação mana-solar durante o dia e abrem suas flores coroadas de espinhos apenas durante a calada da noite, quando as temperaturas do deserto despencam.
+ * **O Perigo da Luz:** Se o pólen fresco for exposto à luz solar direta ou a fagulhas de fogo aberto, entra em combustão química instantânea e violenta, gerando uma explosão de chamas esverdeadas. Por essa razão, a colheita é estritamente **noturna**.
+* **Equipes de Colheita:** Turmas de dezenas de colhedores operam sob a supervisão dos *Fiscais de Lavoura*. Utilizam pinças longas de osso de besta e tesouras de latão forradas com feltro para recolher as cápsulas de pólen sem chacoalhar as hastes.
+ * **Acondicionamento de Campo:** As cápsulas são depositadas em caixas de madeira de acácia forradas com placas de chumbo e mantas embebidas em água salina fria, sendo transportadas antes do amanhecer para as refinarias do Cartel.
+
+
+### 2. O Refino e a Gradação de Pureza Dentro das refinarias herméticas, os boticários do Cartel realizam o processamento técnico em ambientes iluminados apenas por fracas lanternas de óleo de peixe filtrado:
+* **Secagem em Câmaras de Vácuo:** As cápsulas são desidratadas sobre esteiras de basalto aquecidas indiretamente por dutos de água termal.
+* **Micronização em Almofarizes de Basalto:** O pólen seco é triturado até se transformar em um pó impalpável, de cor amarelo-dourada brilhante, que cintila levemente no escuro.
+ * **Gradação Comercial:** * *Pólen Real (Grau 1 - 99% Pureza):* Destinado aos palácios de Bastion e banquetes de Zul-Bazar. Efeito euforizante limpo, foco mental supremo e aroma doce de canela do deserto. * *Pólen Ritual (Grau 2 - 85% Pureza):* Adquirido por academias e círculos de conjuração para potencializar a concentração em rituais prolongados. * *Poeira de Mercado (Grau 3 - 60% Pureza):* Diluída com pó de arroz e ervas secas, vendida em tabacarias licenciadas para a classe média urbana. * *Poeira Bruta (Resíduo de Fundo):* Restos voláteis e instáveis, teoricamente destinados à queima controlada, mas frequentemente desviados por contrabandistas para a fabricação de bombas alquímicas.
+ ---
+
+## III. Estrutura Corporativa e Hierarquia Empresarial O Cartel da Pólvora-de-Sol rejeita o jargão de guildas tradicionais. Sua organização segue o organograma de uma grande corporação mercantil de acionistas:
+
+[ COLHEDOR / TRABALHADOR ]
+-->
+[ FEITOR DE CAMPO ]
+-->
+[ CHEFE DE REFINARIA ]
+|
+v
+
+[ DIRETOR EXECUTIVO ]
+<--
+[ A MESA DOS BARÕES ]
+<--
+[ AUDITOR GERAL ]
+
+
+
+### 1. A Mesa dos Barões do Cacto (Diretoria Executiva) O conselho deliberativo supremo da empresa, composto pelos cinco maiores proprietários de terras e refinarias do deserto. Decidem as cotas de exportação, estabelecem o preço por onça no Palácio de Vidro de Zul-Bazar e autorizam operações militares contra invasores.
+
+
+### 2. Mestres de Refinaria e Alquimistas de Chumbo (Corpo Técnico) Boticários e químicos diplomados que gerenciam os galpões de processamento. São responsáveis pelo controle de pureza do produto, pela segurança contra incêndios e pela selagem das embalagens oficiais com carimbos de cera dourada.
+
+
+### 3. Fiscais de Lavoura e Agrônomos do Deserto (Gerência Operacional) Supervisores de campo encarregados de monitorar o crescimento dos cactos-solares, mapear novas fendas termais no deserto e coordenar as turmas de colheita noturna com os guias dos *Cantores da Areia*.
+
+
+### 4. A Milícia das Safiras (Segurança Privada Corporativa) O exército privado do Cartel. Mercenários disciplinados e bem pagos, trajando uniformes de linho azul-marinho com peitorais de bronze polido e turbantes de seda. Patrulham os perímetros do Mar de Cactos montados em camelos velozes, armados com cimitarras leves, lanças de arremesso e bestas com dardos de ponta de chumbo.
+
+
+### 5. Colhedores Noturnos e Peões de Esteira (Base Operacional) Trabalhadores braçais recrutados nos bairros pobres de Zul-Bazar e Malaxis. Cumprem jornadas extenuantes no escuro do deserto sob o risco contínuo de picadas de escorpiões e explosões químicas acidentais.
+ ---
+
+## IV. Geografia Operacional: Plantações e Instalações O Cartel controla instalações estratégicas no Deserto de Sol-Crestado e postos comerciais nas grandes metrópoles:
+
+[ O MAR DE CACTOS-SOLARES (ZUL-BAZAR) ]
+<- Lavouras Nativas & Segurança /
+
+[ AS REFINARIAS DE CHUMBO (SUBMUNDO) ]
+
+[ O EDIFÍCIO DAS BALANÇAS DOURADAS ]
+(Processamento Hermético & Alquimia) (Sede Corporativa no Barranco dos Oásis)
+|
+|
+\\\\ OS ENTREPOSTOS DE EXPORTAÇÃO ////////
+<- Bastion, Aethelgard, Malaxis
+
+
+
+### 1. O Mar de Cactos-Solares (Zul-Bazar - Plantação Principal) Uma vasta depressão geográfica no deserto, cercada por dunas móveis e irrigada por dutos geotérmicos subterrâneos. * **Características:** Milhares de cactos gigantescos que atingem até dez metros de altura, cujos espinhos brilham com reflexos dourados sob o calor. O perímetro é cercado por estacas de madeira tratada e torres de vigilância da *Milícia das Safiras* a cada quinhentos metros. * **Acesso Restrito:** A entrada é proibida para qualquer pessoa sem a *Credencial de Chumbo* do Cartel. Invasores apanhados nas lavouras são executados no local sem julgamento.
+
+
+### 2. O Edifício das Balanças Douradas (Sede Corporativa) Um palacete majestoso de calcário amarelo e vitrais translúcidos no Barranco dos Oásis em Zul-Bazar. * **Administração:** Onde a Mesa dos Barões se reúne quinzenalmente para fechar contratos de exportação com embaixadores de Bastion e representantes do Palácio de Sol. O subsolo abriga cofres blindados onde o estoque regulador de Pólvora-de-Sol é guardado.
+
+
+### 3. As Refinarias de Chumbo do Subsolo Galpões subterrâneos escavados sob a rocha fresca do Oásis dos Sete Poços. * **Instalações:** Câmaras isoladas por paredes duplas de calcário e forradas com placas de chumbo fundido. O ar é mantido frio por circulação de água subterrânea, impedindo que o calor do meio-dia provoque acidentes químicos durante a moagem.
+
+
+### 4. O Depósito Central de Bastion Um armazém seguro localizado no Distrito dos Selos, disfarçado como entreposto de especiarias culinárias nobres. * **Função:** Abastece diretamente os nobres do Palácio de Sol, os Barões do Trigo e as casas de acompanhantes de luxo da capital.
+---
+
+## V. Relações Geopolíticas e Diplomacia Corporativa
+
++-------------------------------------------------------+
+| O CARTEL DA PÓLVORA-DE-SOL
+|
+
++---------------------------
++---------------------------+
+|
++--------------------------
++--------------------------+
+|
+|
+|
+v
+v
+v
+
+
++---------------+
+
++---------------+
+
++---------------+
+| CANTORES DA
+|
+| CONSERVATÓRIO
+|
+| DENTES-DE-
+|
+| AREIA
+|
+| DOS FIOS
+|
+| OURO
+|
+|(Guias/Navega-
+|
+| (Parceiro
+|
+|(Inimigo /
+|
+| ção Mana)
+|
+| Financeiro)
+|
+| Saqueadores)
+|
+
++---------------+
+
++---------------+
+
++---------------+
+
+* **Aliança Estratégica com os Cantores da Areia:** O Cartel não possui conhecimento empírico suficiente para prever as tempestades mana-solares do deserto. Por isso, contrata permanentemente guias e batedores dos Cantores da Areia para orientar as turmas de colheita noturna e resgatar comboios pegos em tempestades de areia.
+ * **Parceria Bancária com o Conservatório dos Fios Dourados:** Todo o capital e faturamento do Cartel é custodiado e movimentado através dos bancos do Palácio de Vidro em Zul-Bazar. O Conservatório garante a autenticidade dos contratos de fornecimento através de selos mágicos inquebráveis.
+ * **Guerra contra a Rede dos Dentes-de-Ouro:** A máfia de contrabandistas tenta constantemente emboscar as caravanas de Pólvora-de-Sol para lavar e revender a especiaria a preços reduzidos. O Cartel mantém recompensas permanentes pela cabeça de capos e olheiros dos Dentes-de-Ouro.
+ * **Complicidade com a Nobreza de Bastion:** Embora o governo da Rainha Ysolde controle formalmente a entrada de entorpecentes, nobres influentes e burocratas compram lotes regulares de *Pólen Real* para consumo privado através de isenções fiscais fraudulentas.
+ ---
+
+## VI. A Diretoria dos Barões do Cacto (5 Líderes Notáveis) A cúpula executiva do Cartel é composta por cinco magnatas que controlam diferentes etapas do império comercial:
+
+
+### 1. Magnata Darius Al-Maktum (Humano - Presidente da Mesa Diretora) Um homem de cinquenta e dois anos, porte nobre e gestos polidos, trajando túnicas de seda dourada de Zul-Bazar e anéis de âmbar com pedras de quartzo. Darius é o arquiteto da política de preços do Cartel e quem conduz as negociações diretas com a nobreza de Bastion e banqueiros do Palácio de Vidro. Frio e pragmático, nunca se descontrola em assembleias e calcula o valor da vida humana estritamente em sacas de especiaria.
+
+
+### 2. Alquimista-Chefe Sarek "Pó-de-Ouro" (Elfo - Diretor Técnico de Refino) Um elfo erudito e perfeccionista de cento e oitenta anos que gerencia as refinarias subterrâneas. Sarek desenvolveu o processo de secagem em câmaras de vácuo e os métodos de micronização em almofarizes de basalto. É obcecado pela pureza do *Pólen Real* e executa qualquer funcionário que tente adulterar lotes de exportação com pós comuns.
+
+
+### 3. Diretora Tarsila "Do Balanço" (Gnomo - Diretora Financeira e de Contratos) Uma gnomo astuta e incansável que gerencia a contabilidade, a cobrança de royalties e as exportações do Cartel no Palácio de Vidro. Tarsila conhece cada nota promissória e contrato comercial registrado em Zul-Bazar, utilizando auditores para garantir que nenhum distribuidor retenha mais do que a margem de lucro autorizada de 12%.
+
+
+### 4. Comandante Orun (Meio-Orc - Diretor de Segurança e Chefe da Milícia das Safiras) Um meio-orc veterano de armadura de bronze polido com capa azul-marinho, portador de uma cimitarra de duelo de Aço-Anil. Orun comanda os oitocentos soldados da Milícia das Safiras, organiza as rondas noturnas nas plantações e lidera pessoalmente as forças de choque enviadas para destruir esconderijos de contrabandistas no deserto.
+
+
+### 5. Mestre Kazir "Das Fendas" (Anão - Diretor Agronômico e de Exploração) Um anão de barba trançada com fios de cobre, especialista em geologia e botânica do deserto. Kazir passa semanas acampado nas dunas mapeando fendas termais onde brotam novas mudas de cactos-solares, coordenando as turmas de colheita com os nômades e garantindo que o solo mantenha o teor ideal de minerais e enxofre.
+ ---
+
+## VII. Quadro de Operações Corporativas (7 Ganchos de Campanha) O Cartel contrata empresas de segurança, mercenários independentes e especialistas para missões táticas e auditorias confidenciais: ================================================================================ PAINEL DE OPERAÇÕES DO CARTEL DO CACTO
+[NÍVEL 1] A Escolta da Turma da Meia-Noite (Pagamento: 45 Peças de Ouro) [NÍVEL 2] A Caça ao Alambique Clandestino (Pagamento: 95 Peças de Ouro) [NÍVEL 3] O Resgate do Comboio das Dunas (Pagamento: 190 Peças de Ouro) [NÍVEL 4] A Auditoria da Refinaria Três (Pagamento: 320 Peças de Ouro) [NÍVEL 5] A Defesa da Lavoura das Fendas (Pagamento: 550 Peças de Ouro) [NÍVEL 6] A Intercepção da Caravana Falsa (Pagamento: 850 Peças de Ouro) [NÍVEL 7] O Golpe contra o Barão Renegado (Pagamento: 1.800 Peças de Ouro)
+
+
+
+### 1. A Escolta da Turma da Meia-Noite (Nível 1) * **Contratante:** Mestre Kazir (Anão). * **Local:** Setor Sul do Mar de Cactos-Solares (Zul-Bazar). * **Fase de Investigação:** Reunir-se com o feitor de campo no posto de vigilância do perímetro para receber as lanternas de óleo filtrado e os recipientes de chumbo. * **A Missão:** Escoltar uma equipe de vinte colhedores noturnos durante a coleta de cápsulas de pólen em uma zona próxima a tocas de escorpiões gigantes. * **A Complicação:** Uma matilha de cães do deserto atraída pelo cheiro doce do pólen cercou o canteiro de colheita. * **Objetivo Primário:** Repelir as bestas sem quebrar as caixas de transporte e garantir a entrega das cápsulas intactas antes da alvorada. * **Recompensa:** 45 Peças de Ouro e credencial temporária de circulação nas lavouras.
+
+### 2. A Caça ao Alambique Clandestino (Nível 2) * **Contratante:** Comandante Orun (Meio-Orc). * **Local:** Borda dos Desesperados (Malaxis). * **Fase de Investigação:** Interrogar um comerciante de rua em Malaxis para localizar uma oficina onde resíduos de *Poeira Bruta* roubada estão sendo transformados em bombas alquímicas. * **A Missão:** Invadir o laboratório clandestino, confiscar os sacos de especiaria roubada e prender o boticário responsável. * **A Complicação:** O químico barricou a porta e ameaça acender uma vela sobre uma cuba cheia de pólen volátil. * **Objetivo Primário:** Neutralizar o sabotador antes da explosão e recuperar a carga para o Cartel. * **Recompensa:** 95 Peças de Ouro e um frasco de *Pólen Ritual* (Grau 2).
+
+### 3. O Resgate do Comboio das Dunas (Nível 3) * **Contratante:** Diretora Tarsila (Gnomo). * **Local:** Salinas do Espelho (Deserto de Sol-Crestado). * **Fase de Investigação:** Contratar um rastreador dos Cantores da Areia para localizar os rastros de uma caravana de seis camelos que desapareceu durante uma tempestade de areia. * **A Missão:** Localizar os sobreviventes, recuperar as arcas de chumbo lacradas com *Pólen Real* e escoltar o transporte até Zul-Bazar. * **A Complicação:** Um bando de saqueadores dos Dentes-de-Ouro encontrou a caravana primeiro e está tentando quebrar os lacres de chumbo. * **Objetivo Primário:** Derrotar os saqueadores, proteger os caixotes de especiaria contra danos e levar a carga ao destino. * **Recompensa:** 190 Peças de Ouro e carta de crédito do Palácio de Vidro.
+
+### 4. A Auditoria da Refinaria Três (Nível 4) * **Contratante:** Alquimista-Chefe Sarek (Elfo). * **Local:** Refinarias Subterrâneas (Zul-Bazar). * **Fase de Investigação:** Infiltrar-se como assistentes de moagem na Refinaria Três para descobrir como vinte quilos de especiaria pura estão desaparecendo mensalmente dos relatórios oficiais. * **A Missão:** Identificar o esquema de desvio interno, obter as provas documentais e prender o químico traidor. * **A Complicação:** O supervisor da refinaria armou uma emboscada dentro de uma câmara de secagem hermética para sufocar os investigadores. * **Objetivo Primário:** Escapar da câmara, desarticular a quadrilha de desvio e entregar o livro contábil adulterado a Sarek. * **Recompensa:** 320 Peças de Ouro e anel de prata com o selo do Cartel.
+
+### 5. A Defesa da Lavoura das Fendas (Nível 5) * **Contratante:** Comandante Orun e Mestre Kazir. * **Local:** Fendas Termais de Leste (Perímetro do Mar de Cactos). * **Fase de Investigação:** Analisar os pontos de entrada de uma nova ravina aberta por tremores de terra que expôs trezentos cactos-solares nativos. * **A Missão:** Liderar um destacamento da Milícia das Safiras para defender a lavoura recém-descoberta contra um ataque em massa de mercenários rivais. * **A Complicação:** O combate ocorre sob o fenômeno da *Tempestade Mana-Solar*, com descargas estáticas que podem detonar o pólen no ar a qualquer momento. * **Objetivo Primário:** Repelir os invasores sem utilizar armas de fogo ou chamas que incendeiem a plantação. * **Recompensa:** 550 Peças de Ouro e um lote lacrado de *Pólen Real* (Grau 1).
+
+### 6. A Intercepção da Caravana Falsa (Nível 6) * **Contratante:** Magnata Darius Al-Maktum (Humano). * **Local:** Estrada de Fronteira com Bastion. * **Fase de Investigação:** Obter a rota secreta de um comboio mercenário que transporta três toneladas de Pólvora-de-Sol adulterada para vender em Bastion com o selo falso do Cartel. * **A Missão:** Interceptar o comboio na fronteira, queimar toda a mercadoria adulterada para proteger a reputação do Cartel e executar o chefe da expedição. * **A Complicação:** A caravana está sob escolta de um esquadrão corrupto da guarda com blindagem pesada. * **Objetivo Primário:** Destruir a carga falsa, recuperar as matrizes de selo roubadas e capturar os livros de clientes. * **Recompensa:** 850 Peças de Ouro e título honorífico de Parceiro Comercial do Cartel.
+
+### 7. O Golpe contra o Barão Renegado (Nível 7) * **Contratante:** A Mesa dos Barões (Darius, Sarek e Tarsila). * **Local:** Fortaleza do Oásis Perdido (Extremo Sul do Deserto). * **Fase de Investigação:** Mapear a fortaleza privada de um ex-membro da Mesa que desertou levando fórmulas de refino e mudas raras de cactos para iniciar um monopólio concorrente. * **A Missão:** Invadir a fortaleza blindada, queimar os viveiros clandestinos de cacto, recuperar os tomos de fórmulas de Sarek e eliminar o magnata renegado. * **A Complicação:** A cidadela é protegida por duzentos mercenários armados com arcos de Aço-Anil e catapultas carregadas com bombas de pólen volátil. * **Objetivo Primário:** Destruir a infraestrutura concorrente e trazer o anel de sinete do renegado para a Mesa Diretora. * **Recompensa:** 1.800 Peças de Ouro, assento de observador corporativo e isenção perpétua de tributos comerciais em Zul-Bazar. ---
+
+## VIII. Elementos Sensoriais para o Mestre Narrar Utilize estes elementos descritivos durante as sessões envolvendo o Cartel da Pólvora-de-Sol para transmitir a opulência, o calor do deserto, a disciplina empresarial e o perigo químico: * **Sons:** * O som suave e seco de tesouras de osso cortando hastes de cacto na escuridão do deserto. * O tinir contínuo de moedas de ouro sendo contadas em balanças de latão nos escritórios corporativos. * O sibilo abafado de exaustores e esteiras de moagem funcionando no interior das refinarias subterrâneas de chumbo. * O bater firme de passos de montarias de camelo da Milícia das Safiras marchando sobre o calçamento de calcário. * O estalo seco de cilindros de chumbo sendo lacrados com cera quente e sinetes de bronze. * **Visões:** * O mar de cactos gigantescos refletindo a luz das estrelas com flores douradas abertas sob o céu limpo da noite. * Barões e diretores trajando túnicas impecáveis de seda azul e ouro, contrastando com colhedores cobertos por feltro e poeira salina. * O brilho cintilante e dourado do pólen refinado reluzindo sob lanternas de óleo filtrado como poeira de estrelas. * As barricadas de bronze e os estandartes azul-marinho da Milícia das Safiras guardando as entradas das plantações. * **Cheiros:** * O perfume exótico, intenso e adocicado de canela, açúcar queimado e pólen floral que impregna as roupas de todos na refinaria. * O cheiro seco, quente e mineral da poeira do deserto misturado com a umidade fresca das mantas de linho molhado. * O aroma rico de café com cardamomo e charutos finos servidos nas salas de reunião da Mesa dos Barões. * **Tato e Sensações Térmicas:** * O frio cortante da madrugada no deserto durante a colheita, contrastando com o calor sufocante das fendas termais. * A textura sedosa, extremamente fina e impalpável da Pólvora-de-Sol Grau 1 ao ser esfregada entre os dedos. * O peso sólido, frio e maciço dos cilindros de chumbo fundido usados para transportar a especiaria. ---
+
+## IX. Economia da Especiaria e Tabela de Mercado A comercialização da Pólvora-de-Sol segue uma tabela rigorosamente controlada pelo Cartel em parceria com o Conservatório dos Fios Dourados:
+|
+**Produto / Serviço / Lote**
+|
+**Preço Oficial (Palácio de Vidro / Cartel)**
+|
+**Preço no Mercado Negro (Malaxis / Submundo)**
+|
+| :---
+|
+:---
+|
+:---
+|
+| **Frasco de Pólen Real Grau 1 (10g - Pureza 99%)**
+|
+30 Peças de Ouro
+|
+12 Peças de Ouro (Produto roubado sem certificado)
+|
+| **Frasco de Pólen Ritual Grau 2 (10g - Pureza 85%)**
+|
+18 Peças de Ouro
+|
+8 Peças de Ouro (Lote desviado de refinaria)
+|
+| **Saco de Poeira de Mercado Grau 3 (50g - Diluída)**
+|
+8 Peças de Ouro
+|
+3 Peças de Ouro (Mistura adulterada de rua)
+|
+| **Quilo de Poeira Bruta (Uso Alquímico / Volátil)**
+|
+Proibido (Confisco e Morte)
+|
+45 Peças de Ouro (Insumo para bombas)
+|
+| **Cilindro de Chumbo Selado para Transporte (Vazio)**
+|
+5 Peças de Ouro
+|
+2 Peças de Ouro (Recipiente recondicionado)
+|
+| **Credencial de Acesso às Lavouras (Mensal)**
+|
+100 Peças de Ouro (Taxa corporativa)
+|
+Proibido (Falsificação punida com morte)
+|
+| **Kit de Colheita Noturna (Pinças de Osso e Feltro)**| 6 Peças de Ouro
+|
+2 Peças de Ouro (Ferramentas de colhedor)
+|
+| **Contrato de Fornecimento Nobre de Safra (Lote 1kg)**| 2.500 Peças de Ouro
+|
+Inexistente (Exclusivo da Mesa dos Barões)
+|
+| **Diária de Guarda da Milícia das Safiras (Homem/Dia)**| 15 Peças de Ouro
+|
+Proibido (Milícia exclusiva do Cartel)
+|
+| **Consultoria de Agrônomo de Cactos (Sessão)**
+|
+25 Peças de Ouro
+|
+10 Peças de Ouro (Dicas de boticários demitidos)
+|
+| **Frasco de Essência Floral de Cacto (Perfume 50ml)**
+|
+10 Peças de Ouro
+|
+4 Peças de Ouro (Extrato secundário de banquete)
+|
+| **Muda Selecionada de Cacto-Solar (Para Estufa)**
+|
+Proibido (Crime de Alta Traição)
+|
+300 Peças de Ouro (Contrabando de raiz viva)
+|
+
 
 ---
 
@@ -4021,6 +8933,543 @@ Imensas reservas de ouro em depósitos bancários, juristas renomados e acesso �
 ## Membros notáveis
 
 Ainda não criado.
+
+---
+
+Lore Expandida: O Sindicato das Lâminas Negras
+O aço comum faz barulho e pede vingança; a lâmina negra não sussurra, não hesita e não deixa testemunhas. Quem paga primeiro sela o destino, e nem o rei mais rico do mundo pode recomprar a vida depois que a cera preta tocou o pergaminho.
+
+## I. Visão Geral e o Dogma do Aço Silencioso
+Erguendo-se sobre uma projeção pontiaguda de basalto negro na Garganta do Escorpião, sob a poeira sufocante e as sombras cortadas de Malaxis, a Fortaleza das Lâminas Negras projeta uma presença aterradora sobre todo o continente. Ali opera O Sindicato das Lâminas Negras: a mais antiga, temida, disciplinada e respeitada guilda de assassinos de elite, envenenadores, infiltradores e cirurgiões da morte do mundo conhecido.
+Diferente de mercenários brutais como as Espadas-Sanguinárias (que vendem exércitos e força de choque em campo aberto) ou de agenciadores de bordel que improvisam facadas em becos, o Sindicato opera como uma Ordem Corporativa e Acadêmica da Letalidade. Para as Lâminas Negras, tirar uma vida não é um ato de sadismo caótico, mas uma transação comercial cirúrgica, inflexível e elevada ao ápice da perfeição técnica. Seus membros não aceitam contratos por rixas pessoais, ideologia ou fanatismo religioso; eles operam sob o mandamento sagrado do Primeiro Selo: quem paga primeiro garante o contrato, e uma vez que o ouro é aceito e a cera preta toca o papel de chumbo, o contrato é irreversível até a morte do alvo ou a extinção do contratante.
+Apesar da execução direta ser a assinatura pública da facção, a guilda mantém divisões operacionais para missões clandestinas de alta complexidade:
+Infiltração Nobre e Diplomática: Substituição ou inserção de servos em palácios reais para colher rotinas de segurança, hábitos e códigos de acesso.
+Sabotagens Estruturais Silenciosas: Enfraquecimento químico de eixos de guinchos, contaminação seletiva de tonéis e queima discreta de arquivos estratégicos.
+Extração Crítica de Alvos: Resgate de informantes, desertores e alquimistas encurralados em territórios hostis.
+Refinamento de Farmacopeia Proibida: Síntese e venda de venenos inodoros, paralisantes e toxinas de simulação de morte natural.
+Totalmente desprovida de estéticas steampunk, engrenagens a vapor ou pistões, a tecnologia do Sindicato é artesanal, química, óptica e mineral: adagas com canais de capilaridade para venenos viscosos, garrotes de arame de aço temperado trançados com seda de aranha-do-abismo, zarabatanas de bambu com dardos de osso oco, máscaras de cera mortuária para disfarce e pós químicos que apagam passos e odores.
+
++---------------------------------------+
+| O CONSELHO DOS TRÊS NÓS
+|
+| (Comando Supremo, Juízes & Venenos)
+|
+
++-------------------
++-------------------+
+|
+[ Regulamento do Selo & Livro das Máscaras ]
+|
+v
+
++---------------------------------------+
+| SISTEMA DE 8 GRAUS (40 NÍVEIS)
+|
+| (Progressão, Testes & Especialidade)|
++-------------------
++-------------------+
+|
++--------------------------------
++--------------------------------+
+|
+|
+|
+v
+v
+v
+
++---------------+
+
++-----------------+
+
++-----------------+
+| GRAUS VII-VIII|
+|
+GRAUS IV-VI
+|
+| GRAUS I-III
+|
+| (Nó-Supremo &
+|
+| (Mestres, Fitas
+|
+| (Iniciados,
+|
+| Comandantes)
+|
+| & Executores)
+|
+| Batedores/Ébano|
++-------
++-------+
+
++--------
++--------+
+
++--------
++--------+
+|
+|
+|
++-------------------------------
++--------------------------------+
+|
+v
+
++---------------------------------------+
+| DIVISÕES OPERACIONAIS DE CAMPO
+|
+| (Execução, Venenos, Infiltração, Caça)|
++---------------------------------------+
+
+
+---
+
+## II. A Estrutura de Guilda: Os 8 Graus e 40 Subníveis de Progressão O Sindicato adota uma hierarquia minuciosa dividida em **oito Graus principais**, cada qual ramificado em **cinco subníveis de especialização técnica**. A progressão exige a conclusão de cotas de contratos sem deixar testemunhas, aprovação em testes de sobrevivência no deserto e a entrega de máscaras mortuárias de cera dos alvos eliminados.
+
+[ GRAU I: NÓ DE CHUMBO ]
+-->
+[ GRAU II: NÓ DE BRONZE ]
+-->
+[ GRAU III: NÓ DE FERRO ]
+|
+|
+v
+v
+
+[ GRAU IV: NÓ DE PRATA ]
+-->
+[ GRAU V: NÓ DE MERCÚRIO ]
+-->
+[ GRAU VI: NÓ DE OBSIDIANA ]
+|
+v
+
+[ GRAU VIII: NÓ-SUPREMO ]
+<--
+[ GRAU VII: NÓ DE BASALTO ]
+---
+
+
+
+### Grau I: O Nó de Chumbo (Iniciados e Vigilância de Base) * **Insígnia:** Um anel de ferro cru sem polimento com uma ranhura circular na face interna. * **Perfil:** Recrutas recém-admitidos, órfãos de Malaxis treinados desde a infância, batedores de beco e fugitivos acolhidos. * **Permissão de Missão:** Reconhecimento preliminar, vigilância de alvos secundários, entrega de avisos de execução e pequenas eliminações em vielas. * **Subnível 1.1 — Espreitador de Telhado:** Especialista em escalada em paredes verticais e mapeamento de rotas de fuga, hábitos e janelas de vulnerabilidade de alvos nas cidades. * **Subnível 1.2 — Servente de Adaga:** Treinado para se infiltrar em cozinhas, estalagens e adegas disfarçado de serviçal para colher informações e rotinas de segurança. * **Subnível 1.3 — Ceifador de Beco:** Focado em emboscadas rápidas em vielas escuras usando adagas curtas contra alvos desprotegidos. * **Subnível 1.4 — Portador de Frasco:** Responsável pelo transporte seguro e preparação de reagentes básicos nos depósitos e laboratórios periféricos. * **Subnível 1.5 — Vigia do Crepúsculo:** Encarregado da vigilância perimetral dos esconderijos e da cobertura de fuga para operativos em missão. ---
+
+
+
+### Grau II: O Nó de Bronze (Executores de Apoio e Sabotadores) * **Insígnia:** Uma fivela de bronze escurecido gravada com duas adagas cruzadas sobre uma gota de óleo. * **Perfil:** Operativos testados em emboscadas urbanas, com noções sólidas de anatomia e química de sabotagem. * **Permissão de Missão:** Eliminações discretas de oficiais menores, sabotagens de carruagens e queima de arquivos. * **Subnível 2.1 — Especialista em Quedas:** Perito em provocar mortes que parecem acidentes mecânicos (quebra de eixos de carruagens, desabamentos de sacadas e quedas de escadarias). * **Subnível 2.2 — Sabotador de Eixos:** Treinado no enfraquecimento químico de eixos de guinchos, trincamento de vigas e contaminação de tonéis industriais. * **Subnível 2.3 — Garroteador de Sombra:** Mestre no uso do garrote de seda e arame, especializado em capturas silenciosas e ocultação de corpos em espaços confinados. * **Subnível 2.4 — Batedor de Dardo:** Atirador com zarabatanas de pulso e dardos de osso oco embebidos em toxinas paralisantes leves. * **Subnível 2.5 — Extrator de Viela:** Operador de resgate tático encarregado de extrair membros da guilda feridos ou cercados por milícias urbanas. ---
+
+
+
+### Grau III: O Nó de Ferro (Lâminas-de-Ébano e Assassinos de Campo) * **Insígnia:** Uma braçadeira de couro de besouro-da-fenda com uma lâmina de aço-negro em miniatura cravada em rebite de ferro. * **Perfil:** A espinha dorsal operativa da guilda. Combatentes letais em combate corpo a corpo e mestres no uso de adagas envenenadas. * **Permissão de Missão:** Execuções de mercadores influentes, capitães de milícia, sabotagens em caravanas nobres e resgates de ativos. * **Subnível 3.1 — Duelista da Penumbra:** Combatente corporal com adagas duplas serrilhadas, especializado em neutralizar oponentes armados em espaços fechados. * **Subnível 3.2 — Fantasma de Salão:** Infiltrador treinado em etiqueta social e vestimentas nobres, capaz de se misturar em festas para alcançar alvos de média nobreza. * **Subnível 3.3 — Caçador de Escolta:** Especialista em neutralizar guarda-costas e sentinelas de caravanas com ataques coordenados sem alertar o comboio. * **Subnível 3.4 — Cirurgião de Artéria:** Mestre em cortes capilares de precisão em jugulares e artérias femorais que provocam choque hemorrágico instantâneo. * **Subnível 3.5 — Silenciador de Caravanas:** Batedor do deserto perito em emboscar comboios nas gargantas de Malaxis e desfiladeiros sem deixar sobreviventes. ---
+
+
+
+### Grau IV: O Nó de Prata (Mestres de Infiltração e Inteligência) * **Insígnia:** Um broche de prata salina oxidada moldado em formato de uma máscara de feições vazias. * **Perfil:** Espiões refinados e criptógrafos com capacidade de manter disfarces prolongados na alta sociedade. * **Permissão de Missão:** Roubo de cifras diplomáticas, infiltrações em tribunais de Bastion e substituição de serviçais palacianos. * **Subnível 4.1 — Mímico de Cera:** Artista de disfarces faciais que utiliza máscaras de cera mortuária para alterar feições, idade e sotaques com perfeição. * **Subnível 4.2 — Furtador de Cifras:** Especialista em gazuas de precisão, clonagem de matrizes de cera e furto de correspondências seladas em cartórios. * **Subnível 4.3 — Infiltrador Palaciano:** Operativo treinado para residir meses em palácios nobres sob identidades falsas sem levantar qualquer suspeita. * **Subnível 4.4 — Corretor de Rotinas:** Analista comportamental encarregado de documentar minuto a minuto os hábitos e fraquezas de generais e governantes. * **Subnível 4.5 — Arquivista das Máscaras:** Guardião dos registros fisionômicos e segredos genealógicos mantidos na galeria secreta da Fortaleza. ---
+
+
+
+### Grau V: O Nó de Mercúrio (Mestres-Venefício e Toxicologistas) * **Insígnia:** Um frasco de vidro escuro revestido com filamentos de latão e selado com chumbo, preso a uma corrente de pescoço. * **Perfil:** Alquimistas, cirurgiões e herbalistas de elite dedicados à formulação de toxinas indetectáveis. * **Permissão de Missão:** Mortes por simulação de causas naturais, contaminação de reservatórios privados e fornecimento de venenos para a guilda. * **Subnível 5.1 — Alquimista da Peste Silenciosa:** Síntese de toxinas de ação retardada que destroem órgãos vitais dias após a ingestão sem alterar o sabor de alimentos. * **Subnível 5.2 — Manipulador de Morte Natural:** Formulação de compostos químicos que simulam paradas cardíacas, derrames e asfixia do sono sem deixar vestígios em autópsias. * **Subnível 5.3 — Dispersor de Vapores:** Especialista em gases comatosos e pós voláteis ativados pelo calor de lareiras e velas para adormecer cômodos inteiros. * **Subnível 5.4 — Sintetizador de Antídotos:** Pesquisa e desenvolvimento de imunizantes e antídotos universais para proteger os membros do Sindicato contra envenenamentos. * **Subnível 5.5 — Boticário de Fenda:** Coletor e refinador de toxinas orgânicas e minerais extraídas de monstros e fungos das profundezas da Grande Fenda. ---
+
+
+
+### Grau VI: O Nó de Obsidiana (Ceifadores Fantasma e Alta Periculosidade) * **Insígnia:** Uma adaga curta talhada em bloco único de obsidiana vulcanizada com fio de corte molecular. * **Perfil:** Executores veteranos encarregados de missões em fortalezas de segurança máxima e contratos de alto risco político. * **Permissão de Missão:** Eliminação de arquimagos, comandantes militares em quarteis blindados e aniquilação de linhagens nobres rivais. * **Subnível 6.1 — Executor de Fortalezas:** Perito em penetrar cidadelas impenetráveis (como a prisão de Libertaris ou fortins de Ferrovale) superando grades e fossos. * **Subnível 6.2 — Caçador de Conjuradores:** Especialista em neutralizar magos e ritualistas antes que consigam desenhar círculos geométricos ou pronunciar encantamentos. * **Subnível 6.3 — Arquiteto de Execução em Massa:** Planejador de ataques múltiplos coordenados para eliminar simultaneamente vários alvos em locais distintos. * **Subnível 6.4 — Aniquilador de Testemunhas:** Operativo encarregado de "limpezas completas" sob Selo de Chumbo, garantindo que nenhum espectador permaneça vivo. * **Subnível 6.5 — A Lâmina Correcional:** O temido executor interno da guilda, responsável por rastrear e sentenciar traidores e violadores do Primeiro Selo. ---
+
+
+
+### Grau VII: O Nó de Basalto (Prebostes e Grão-Comandantes de Célula) * **Insígnia:** Um medalhão de basalto negro gravado com três ranhuras banhadas a prata salina. * **Perfil:** Os comandantes regionais, juízes de contratos e instrutores de campo que gerenciam a infraestrutura da guilda no continente. * **Permissão de Missão:** Comando das células territoriais de Bastion, Zul-Bazar e Gristal, e gestão do Salão dos Espelhos Quebrados. * **Subnível 7.1 — Preboste dos Espelhos:** Oficial que recebe emissários e nobres nas câmaras secretas, fixa valores em ouro e sela os contratos de morte. * **Subnível 7.2 — Marechal de Célula Externa:** Administrador supremo dos postos clandestinos fora de Malaxis (Ateliê das Sombras, Bazar dos Silêncios, Ninho de Gristal). * **Subnível 7.3 — Inspetor do Primeiro Selo:** Auditor que averigua a validade dos pagamentos e garante a irrevogabilidade do contrato contra tentativas de suborno. * **Subnível 7.4 — Mestre dos Arsenais Negros:** Encarregado da fabricação, estoque e distribuição de armas de aço-negro e compostos químicos para a irmandade. * **Subnível 7.5 — Instrutor da Câmara Escura:** Mestre sênior responsável pelos testes de provação e ritos de ascensão de novos membros para os Graus superiores. ---
+
+
+
+### Grau VIII: O Nó-Supremo (A Elite Lendária e o Conselho) * **Insígnia:** Um anel pesado de ouro-negro com três incrustações de diamante negro lapidado em formato de nós entrelaçados. * **Perfil:** As lendas vivas do Sindicato. Suas identidades mortais foram apagadas dos arquivos e sua palavra possui autoridade absoluta. * **Permissão de Missão:** Regicídios de escala continental, aniquilação de facções inteiras e governança da ordem. * **Subnível 8.1 — O Executor Sem Rosto:** O assassino individual supremo enviado apenas para missões onde o fracasso causaria uma guerra continental. * **Subnível 8.2 — Guardião dos Espelhos Quebrados:** O magistrado supremo dos contratos diplomáticos que lida diretamente com reis e grandes cartéis. * **Subnível 8.3 — Mestre dos Alambiques Sagrados:** O detentor dos segredos e fórmulas de venenos primordiais da Matriarca Arwen. * **Subnível 8.4 — Marechal da Fortaleza:** O comandante geral das forças de defesa e das pontes levadiças sob as ordens de Lorde Vorag. * **Subnível 8.5 — O Primeiro Nó:** O juiz supremo do triunvirato, cargo exercido pelo porta-voz do Conselho dos Três Nós (Mestre Kaelan). ---
+
+## III. O Conselho dos Três Nós (A Liderança Suprema) A governança do Sindicato das Lâminas Negras recai sobre um triunvirato conhecido como **O Conselho dos Três Nós**:
+
+
++---------------------------------------------+
+| O CONSELHO DOS TRÊS NÓS
+|
+| (A Cúpula Suprema das Lâminas)
+|
+
++----------------------
++----------------------+
+|
++-------------------------------
++-------------------------------+
+|
+|
+|
+v
+v
+v
+
+
+
++---------------+
+
++-----------------+
+
++-----------------+
+| MESTRE KAELAN
+|
+| MATRIARCA Arwen
+|
+| LORDE VORAG
+|
+| "NÓ DE CHUMBO"|
+|
+"DOS ALAMBIQUES"|
+|
+"A LÂMINA CEGA"
+|
+|(Humano - Cifras| |(Elfa - Toxinas &| |(Meio-Orc - Guerra|
+|
+& Contratos)
+|
+| Alquimia Rara)
+|
+| & Fortaleza)
+|
+
++---------------+
+
++-----------------+
+
++-----------------+
+
+
+
+
+### 1. Mestre Kaelan "O Nó de Chumbo" (Humano - Grão-Estrategista & Juiz de Contratos) Um homem de cinquenta e oito anos, postura austera, olhar clínico e mãos frias que nunca tocam armas em público. Kaelan é um ex-magistrado do Distrito dos Selos de Bastion que abandonou as leis da capital após testemunhar a corrupção do governo. * **Função no Conselho:** Cérebro burocrático e diplomático da guilda. Gerencia as finanças, avalia os contratos trazidos por embaixadores e nobres no Salão dos Espelhos e decide quais contratos aceitar. Kaelan aplica a regra do Primeiro Selo com rigidez matemática: se um rei tenta pagar o dobro para anular a ordem de morte contra seu filho, Kaelan recusa o ouro e manda entregar a cabeça do príncipe no prazo estipulado.
+
+
+### 2. Matriarca Arwen "A Dama dos Alambiques" (Elfa - Mestra de Venenos e Toxicologia) Uma elfa de duzentos anos, elegante e impiedosa, cujos dedos longos apresentam pontas manchadas de negro pela manipulação contínua de ácidos e extratos de veneno. * **Função no Conselho:** Governa os laboratórios subterrâneos e a produção da farmacopeia letal da guilda. Arwen pesquisa venenos de monstros da Fenda, toxinas de cacto de Malaxis e odores que causam asfixia sem deixar traços em necropsias. Ela é a responsável por testar novos antídotos e garantir que nenhum membro do Sindicato possa ser envenenado por armas comuns.
+
+
+### 3. Lorde Vorag "A Lâmina Cega" (Meio-Orc - Mestre de Armas e Defesa da Fortaleza) Um meio-orc colossal de quase dois metros de altura, coberto por cicatrizes de combate corporal, com um olho cego coberto por couro negro e presas inferiores polidas. * **Função no Conselho:** O comandante militar da fortaleza e instrutor supremo de combate silencioso. Vorag supervisiona o treinamento dos Graus I a III, comanda as sentinelas de balesta nas ameias e coordena as operações táticas que exigem combate corpo a corpo violento. Vorag ensina que a força física de um meio-orc só atinge a perfeição quando combinada com a precisão milimétrica de uma adaga no escuro.
+ ---
+
+## IV. O Salão dos Espelhos Quebrados e os Tipos de Contrato A contratação dos serviços do Sindicato ocorre no **Salão dos Espelhos Quebrados**, uma câmara subterrânea no coração da Fortaleza onde paredes de espelhos inclinados e cortinas de veludo negro mantêm o cliente e os avaliadores no anonimato absoluto.
+
+
+[ CLIENTE NO SALÃO DOS ESPELHOS ]
+-->
+[ DEPÓSITO DO OURO EM GAVETA DE CHUMBO ]
+|
+v
+
+[ ENTREGA DA MÁSCARA MORTUÁRIA ]
+<--
+[ EXECUÇÃO DO CONTRATO PELO GRAU ]
+
+As missões aceitas pelo Sindicato dividem-se em seis naturezas operacionais:
+
+[ SELO PRETO ]
+--> Execução Direta / Assassínio Cirúrgico de Alvo.
+[ SELO PRATEADO ]
+--> Morte Simulada por Causas Naturais / Veneno Indetectável.
+[ SELO VIOLETA ]
+--> Infiltração Nobre, Espionagem e Roubo de Cifras Militares.
+[ SELO CARMESIM ]
+--> Sabotagem Estrutural (Armazéns, Eixos, Forjas).
+[ SELO CINZENTO ]
+--> Extração e Resgate Crítico de VIPs e Desertores.
+[ SELO DE CHUMBO]--> Silenciamento Preventivo de Testemunhas e Inquisidores.
+1. **Contratos de Execução Pura (Selo Preto):** O alvo deve ser eliminado de forma inequívoca. O contratante pode exigir que o corpo seja deixado visível como aviso público ou que desapareça sem deixar rastros.
+2. **Contratos de Morte Natural (Selo Prateado):** A morte do alvo deve parecer uma fatalidade biológica ou acidente doméstico (ataque cardíaco durante o sono, asfixia por alimento, queda de cavalo) para não gerar investigações policiais ou comoção sucessória.
+3. **Contratos de Infiltração e Cifras (Selo Violeta):** Obtenção de livros de notas, senhas de cofres, mapas de defesas de fronteira ou cópias de testamentos antes que sejam registrados nos cartórios.
+4. **Contratos de Sabotagem Estrutural (Selo Carmesim):** Destruição silenciosa de instalações industriais, quebra de condutores de água ou contaminação de estoques de mantimentos sem disparar alarmes.
+5. **Contratos de Extração e Resgate (Selo Cinzento):** Resgatar um prisioneiro de alto valor de calabouços inimigos ou escoltar um desertor através do deserto antes que seja interceptado por patrulhas.
+ 6. **Contratos de Silenciamento Preventivo (Selo de Chumbo):** Eliminação coordenada de um grupo inteiro de testemunhas ou esquadrões de Cães-Farejadores que se aproximaram demais dos segredos de um cliente.
+ ---
+
+## V. Arsenal dos Executores e a Farmacopeia Letal Rejeitando maquinários pesados ou armas ruidosas que entreguem posições, o arsenal do Sindicato é focado na ocultação, na letalidade instantânea e no manuseio de toxinas:
+
+[ A ADAGA DE RANHURA CAPILAR ]
+
+[ O GARROTE DE SEDA-DE-ARANHA ]
+(Lâmina Negra & Conduto de Veneno) (Fio Invisível & Trava de Latão) \ / \ /
++------------------------------------------+
+| ARSENAL DAS LÂMINAS NEGRAS
+|
+| (Furtividade, Venenos & Silêncio)
+|
+
++---------------------
++--------------------+
+|
++----------------
++----------------+
+|
+|
+v
+v
+
+[ A ZARABATANA DE PULSO ]
+
+[ A MÁSCARA DE CERA MORTUÁRIA ]
+
+(Disparo Oculto de Dardo de Osso) (Disfarce Facial & Mudança de Face)
+* **A Adaga de Ranhura Capilar:** Lâminas estreitas de aço-negro forjado com três ranhuras microscópicas ao longo do gume. As ranhuras são preenchidas com venenos viscosos que não secam ao contato com o ar; quando a lâmina perfura a pele, a pressão dos tecidos força o veneno para dentro da corrente sanguínea em frações de segundo.
+ * **O Garrote de Seda-de-Aranha e Aço:** Um fio fino de arame de aço temperado trançado com seda de aranha-do-abismo, com cabos de madeira de ébano. Corta a circulação traqueal e jugular sem estalar, suportando a resistência de guerreiros pesados.
+* **A Zarabatana de Pulso Oculta:** Um tubo curto de bambu tratado escondido sob a manga da túnica, acionado por compressão manual. Dispara dardos leves de osso de peixe impregnados com toxina de paralisia muscular a até dez metros com ruído imperceptível.
+ * **A Máscara de Cera Mortuária:** Placas finas de cera moldável tratadas com essências de camuflagem que os operativos aplicam sobre o rosto para alterar traços fisionômicos, linhas de expressão e formato do nariz durante infiltrações.
+* **Pó de Cinza-Cega:** Mistura de cinza de carvalho, sal de bismuto e pimenta moída levada em pequenas bolsas de papel de arroz. Arremessada contra o rosto de oponentes em perseguições, causa cegueira temporária e espasmos de tosse.
+
+
+### Farmacopeia de Toxinas Oficiais:
+* **O Beijo de Nyxara:** Veneno líquido incolor e inodoro extraído de orquídeas das profundezas. Adicionado a taças de vinho, paralisa o sistema cardiorrespiratório em quatro horas durante o sono do alvo, simulando morte por causas naturais sem deixar marcas na pele.
+* **O Sangue de Escorpião-Rei:** Toxina viscosa de ação imediata aplicada em adagas. Provoca convulsões violentas e parada cardíaca em menos de trinta segundos após entrar no fluxo sanguíneo.
+* **O Suspiro de Galena:** Pó fino que evapora quando aquecido na brasa de uma lareira ou vela. O gás resultante induz sono comatoso em todos os ocupantes de um quarto fechado sem que percebam o perigo.
+ ---
+
+## VI. Geografia e Estrutura da Fortaleza das Lâminas Negras A sede central da guilda domina o paredão norte da Garganta do Escorpião em Malaxis, estendendo postos secretos em outras metrópoles:
+
+[ A FORTALEZA DAS LÂMINAS NEGRAS (SEDE EM MALAXIS) ]
+<- Cúpula, Salão dos Espelhos /
+
+[ BASTION: O ATELIÊ DAS SOMBRAS ]
+
+[ ZUL-BAZAAR: O BAZAR DOS SILÊNCIOS ]
+(Infiltração Nobre & Alfaiataria Clandestina) (Contratos de Príncipes & Venenos Raros)
+|
+|
+\\\\ GRISTAL: O NINHO DAS TIROLESAS NEGRAS ////////
+<- Espionagem Industrial
+
+
+
+### 1. A Fortaleza das Lâminas Negras (Malaxis - Sede Suprema) Uma cidadela de basalto negro construída sobre pilares naturais que se projetam sobre o vazio da garganta.
+ * **O Pátio das Pontes Levadiças:** A única entrada terrestre é protegida por duas pontes levadiças de ferro fundido e frestas de balestas pesadas patrulhadas por meio-orcs leais a Lorde Vorag.
+ * **O Salão dos Espelhos Quebrados:** Onde os clientes negociam contratos sob sigilo de gavetas seladas com chumbo.
+ * **A Galeria das Máscaras Mortuárias:** Um corredor abobadado subterrâneo onde ficam expostos os moldes de cera e gesso dos rostos de todas as vítimas executadas pela guilda nos últimos três séculos.
+ * **Os Laboratórios dos Alambiques Pretos:** As oficinas subterrâneas de Matriarca Arwen, onde alquimistas sintetizam venenos sob exaustores de carvão ativado.
+
+
+### 2. O Ateliê das Sombras (Bastion) Um elegante ateliê de costura e alfaiataria localizado discretamente no Distrito dos Selos.
+* **Operação:** Disfarçado como um estabelecimento de vestidos finos para nobres, atua como o posto de recepção de contratos da capital e base de apoio para os operativos de Grau IV (Fantasmas e Mímicos).
+
+
+### 3. O Bazar dos Silêncios (Zul-Bazar) Câmaras escondidas atrás de uma loja de incensos e perfumes raros no perímetro do Bazar dos Mil Desejos.
+ * **Operação:** Ponto de contato comercial com príncipes-mercadores e banqueiros do Conservatório que desejam eliminar rivais de comércio.
+
+
+### 4. O Ninho das Tirolesas Negras (Gristal) Um conjunto de barracos suspensos na rocha vertical abaixo da Bacia Hangares.
+* **Operação:** Especializado em espionagem industrial, contratos de sabotagem contra o Sindicato dos Guinchos e mortes por empurrão no Salto do Silêncio.
+ ---
+
+## VII. Relações Geopolíticas e o Código de Honra
+
++-------------------------------------------------------+
+| SINDICATO DAS LÂMINAS NEGRAS
+|
+
++---------------------------
++---------------------------+
+|
++--------------------------
++--------------------------+
+|
+|
+|
+v
+v
+v
+
+
++---------------+
+
++---------------+
+
++---------------+
+| ESPADAS-
+|
+| LIGA DOS
+|
+| NOBREZA DE
+|
+| SANGUINÁRIAS
+|
+| AGENCIADORES
+|
+| BASTION
+|
+|(Respeito/Nicho| |(Troca de Info
+|
+|(Clientes VIP
+|
+| Distinto)
+|
+| & Chantagens)
+|
+| & Alvos)
+|
+
++---------------+
+
++---------------+
+
++---------------+
+* **Neutralidade com a Liga dos Espadas-Sanguinárias:** Ambas as corporações respeitam seus territórios e nichos de atuação. As Espadas-Sanguinárias não aceitam contratos de envenenamento silencioso, e as Lâminas Negras não marcham como exércitos abertos em batalhas campais.
+* **Parceria Comercial com a Liga dos Agenciadores:** As Lâminas Negras compram relatórios de rotinas de clientes e pontos fracos de alvos identificados nos quartos dos bordéis de Mãe Corvo, vendendo proteção pontual em troca.
+* **Relação Pragmática com Bastion e Ferrovale:** Reis, barões e o General Kastel Draven condenam publicamente as Lâminas Negras em seus discursos oficiais, mas todos mantêm emissários secretos que frequentam o Salão dos Espelhos para eliminar inimigos políticos incômodos.
+---
+
+## VIII. O Quadro das Máscaras Mortuárias (8 Ganchos de Campanha) Estes são exemplos de contratos e operações de campo registrados na guilda, correspondentes à escala dos 8 Graus de progressão:
+================================================================================ QUADRO DE CONTRATOS DAS LÂMINAS NEGRAS
+[GRAU I] O Silenciamento do Informante (Recompensa: 40 Peças de Ouro) [GRAU II] A Sabotagem do Guincho de Minério (Recompensa: 90 Peças de Ouro) [GRAU III] A Emboscada no Passo do Escorpião (Recompensa: 180 Peças de Ouro) [GRAU IV] O Furto das Cifras do Palácio (Recompensa: 320 Peças de Ouro) [GRAU V] O Banquete da Taça Sonífera (Recompensa: 550 Peças de Ouro) [GRAU VI] A Invasão da Fortaleza Blindada (Recompensa: 850 Peças de Ouro) [GRAU VII] O Extermínio da Célula Concorrente (Recompensa: 1.400 Peças de Ouro) [GRAU VIII] O Fim do Duque de Calcário (Recompensa: 3.000 Peças de Ouro)
+
+
+### 1. O Silenciamento do Informante (Grau I) * **Solicitante:** Agenciador de Malaxis / Sindicato. * **Local:** Borda dos Desesperados (Malaxis). * **Fase de Investigação:** Localizar um ex-batedor da guilda que começou a vender descrições dos corredores da Fortaleza para mercenários locais. * **A Missão:** Rastrear o traidor até um cortiço de palafitas, eliminar o alvo com adaga em silêncio e queimar suas anotações. * **A Complicação:** O traidor contratou dois capangas armados da gangue dos Ratos de Poeira para vigiar a porta. * **Objetivo Primário:** Executar o traidor e escapar sem alertar patrulhas da borda. * **Recompensa:** 40 Peças de Ouro e avanço para Subnível 1.3.
+
+### 2. A Sabotagem do Guincho de Minério (Grau II) * **Solicitante:** Minerador Independente de Krag-Mora. * **Local:** Veios Profundos (Krag-Mora). * **Fase de Investigação:** Inspecionar as roldanas de içamento do guincho operado por uma forja rival desonesta. * **A Missão:** Aplicar ácido de corrosão lenta nas engrenagens de ferro para que a corda de tração se rompa durante o transporte de carga noturno. * **A Complicação:** A oficina possui cães de guarda farejadores treinados para detectar óleo mineral. * **Objetivo Primário:** Realizar a aplicação química sem disparar alarmes e fazer o rompimento parecer fadiga do metal. * **Recompensa:** 90 Peças de Ouro e promoção para Subnível 2.3.
+
+### 3. A Emboscada no Passo do Escorpião (Grau III) * **Solicitante:** Emissário de Zul-Bazar. * **Local:** Desfiladeiro de Arenito (Deserto de Sol-Crestado). * **Fase de Investigação:** Mapear os horários de travessia da carruagem de um mercador protegido por cinco mercenários experientes. * **A Missão:** Eliminar a escolta com zarabatanas de pulso e adagas de ranhura capilar, executando o alvo principal sem ferir os animais de carga. * **A Complicação:** A caravana foi surpreendida por uma tempestade de areia que reduziu a visibilidade a dois passos. * **Objetivo Primário:** Neutralizar todos os alvos antes que a tempestade disperse os rastros e recuperar a pasta de contratos. * **Recompensa:** 180 Peças de Ouro e braçadeira de Grau III (Lâmina-de-Ébano).
+
+### 4. O Furto das Cifras do Palácio (Grau IV) * **Solicitante:** Gabinete Diplomático / Cliente Anônimo. * **Local:** Distrito dos Selos (Bastion). * **Fase de Investigação:** Criar uma máscara de cera mortuária com os traços de um escrivão sênior da Torre Pura. * **A Missão:** Infiltrar-se nos arquivos centrais durante a troca de turno, abrir o cofre de chumbo e copiar as cifras de movimentação de tropas. * **A Complicação:** Um arquimago ativou uma ronda com diapasões de detecção de peso nas portas da biblioteca. * **Objetivo Primário:** Copiar os documentos, selar novamente o cofre e sair da câmara sem deixar indícios de arrombamento. * **Recompensa:** 320 Peças de Ouro e avanço para Grau IV (Subnível 4.3).
+
+### 5. O Banquete da Taça Sonífera (Grau V) * **Solicitante:** Banqueiro do Conservatório de Zul-Bazar. * **Local:** Palacete do Barranco dos Oásis (Zul-Bazar). * **Fase de Investigação:** Mapear a escala de garçons de um banquete nobre onde um juiz corrupto celebrará seu aniversário. * **A Missão:** Disfarçar-se de mestre de taças, introduzir uma dose de *Beijo de Nyxara* na jarra pessoal do juiz e garantir que a morte ocorra durante o sono horas após o jantar. * **A Complicação:** O juiz trouxe um provador particular que exige beber uma colher de cada bebida servida. * **Objetivo Primário:** Aplicar o veneno na borda interna da taça específica do alvo sem contaminar o restante da jarra. * **Recompensa:** 550 Peças de Ouro e um frasco de veneno *Suspiro de Galena*.
+
+<!-- SEGREDO -->
+### 6. A Invasão da Fortaleza Blindada (Grau VI) * **Solicitante:** Conselho dos Barões do Trigo / Emissário Anônimo. * **Local:** Bastião da Guarda de Ferrovale. * **Fase de Investigação:** Identificar os dutos de exaustão e os pontos cegos dos guardas em exotrajes na cidadela do General Draven. * **A Missão:** Penetrar na cidadela de alta segurança, eliminar um coronel de artilharia dentro de sua câmara blindada e recuperar os diagramas de cerco. * **A Complicação:** As portas do corredor usam fechos de liga dissonante que anulam qualquer ferramenta comum. * **Objetivo Primário:** Executar o oficial com estocada arterial de obsidiana e escapar antes que a sirene de alarme tranque os portões. * **Recompensa:** 850 Peças de Ouro e concessão de Adaga de Obsidiana de Grau
+<!-- FIM SEGREDO -->
+
+## VI.
+
+### 7. O Extermínio da Célula Concorrente (Grau VII) * **Solicitante:** O Conselho dos Três Nós (Mestre Kaelan). * **Local:** Galerias Subterrâneas dos Banhos (Malaxis). * **Fase de Investigação:** Mapear o esconderijo de um sindicato pirata de assassinos que começou a violar o Primeiro Selo aceitando subornos de alvos. * **A Missão:** Liderar uma equipe de operativos para cercar a célula clandestina e exterminar os doze membros da quadrilha em silêncio absoluto. * **A Complicação:** A célula barricou o refúgio com armadilhas de piche fervente e dois gladiadores de arena renegados. * **Objetivo Primário:** Eliminar todos os traidores, confiscar seus livros de registros e recuperar as insígnias roubadas da guilda. * **Recompensa:** 1.400 Peças de Ouro e promoção para Grau VII (Nó de Basalto).
+
+### 8. O Fim do Duque de Calcário (Grau VIII) * **Solicitante:** O Conselho dos Três Nós (Kaelan, Arwen e Vorag). * **Local:** Cidadela do Alto-Passo (Fronteira Norte). * **Fase de Investigação:** Mapear as três linhas concêntricas de muralhas, os cinquenta guardas de elite e a rotina do Duque em seus aposentos selados com chumbo. * **A Missão:** Penetrar no coração da fortaleza impenetrável, executar o Duque e afixar o selo das Lâminas Negras sobre o peito do falecido. * **A Complicação:** O Duque contratou um sósia perfeito que circula pelos aposentos e dorme na mesma câmara. * **Objetivo Primário:** Identificar o verdadeiro soberano, eliminar ambos se necessário para garantir o cumprimento do contrato e escapar sem disparar os sinos de cerco. * **Recompensa:** 3.000 Peças de Ouro, o título lendário de *Nó-Supremo* e gravação do nome na Galeria das Máscaras Mortuárias.
+ ---
+
+## IX. Elementos Sensoriais para o Mestre Narrar Utilize estes elementos descritivos durante as sessões envolvendo o Sindicato das Lâminas Negras para transmitir a atmosfera de silêncio absoluto, perigo iminente, frieza técnica e sofisticação mortal: * **Sons:** * O som quase imperceptível de uma lâmina de aço-negro deslizando para fora de uma bainha de couro macio untada em óleo vegetal. * O sussurro sibilante e seco de um dardo de zarabatana cortando o ar na escuridão de uma galeria. * O estalo abafado de ossos cervicais sendo travados pelo arame de um garrote antes de qualquer grito de socorro. * O gotejar compassado de soluções químicas em frascos de vidro escuro nos laboratórios subterrâneos. * O ruído leve e seco de passos descalços ou botas de sola de feltro deslizando sobre telhados e vigas de madeira. * **Visões:** * Silhuetas esguias cobertas por mantos de tecido preto fosco que não refletem a luz das tochas, camuflando-se perfeitamente nas sombras. * O brilho roxo-azulado sutil da seiva de veneno concentrado sobre as ranhuras de adagas polidas. * O reflexo desorientador e multiplicador das dezenas de espelhos inclinados no Salão dos Espelhos Quebrados. * A fileira macabra de centenas de máscaras mortuárias de cera pálida encarando o vazio na galeria subterrânea da Fortaleza. * **Cheiros:** * O aroma adocicado, pesado e enjoativo de extrato de orquídea-negra misturado a vinagre alquímico e óleos de preservação. * O cheiro acre e metálico de adagas recém-afiadas em pedra-sabão e lubrificadas com banho de galena. * A ausência quase total de odor corporal nos assassinos, mascarada propositalmente com pós de carvão e fumo de lavanda seca. * **Tato e Sensações Térmicas:** * A dormência fria, repentina e paralisante que se espalha pelos músculos segundos após uma picada de dardo envenenado. * A textura macia e espessa dos veludos negros que cobrem as mesas de conferência e as bainhas de adaga. * O ar abafado, seco e sem vento ao cruzar as portas pesadas de madeira de acácia da Fortaleza em Malaxis. ---
+
+## X. Economia da Morte e Tabela de Preços do Sindicato A contratação de serviços, compra de venenos e aquisição de equipamentos no Sindicato das Lâminas Negras segue uma tabela rigorosa de preços em ouro refinado:
+|
+**Item / Serviço / Contrato**
+|
+**Custo Oficial (Salão dos Espelhos / Membros)**
+|
+**Preço no Submundo / Mercado Externo**
+|
+| :---
+|
+:---
+|
+:---
+|
+| **Contrato de Execução Simples (Grau I / Viela)**
+|
+40 Peças de Ouro
+|
+Proibido para civis (Apenas sob contrato selado)
+|
+| **Contrato de Sabotagem Mecânica (Grau II)**
+|
+100 Peças de Ouro
+|
+Proibido (Operação de apoio técnico)
+|
+| **Contrato de Morte Natural de Comerciante (Grau III)**
+|
+200 Peças de Ouro
+|
+Proibido (Exige aprovação do Conselho)
+|
+| **Contrato de Infiltração e Roubo de Cifras (Grau IV)**
+|
+350 Peças de Ouro
+|
+Proibido (Operação de inteligência nobre)
+|
+| **Contrato de Envenenamento de Magistrado (Grau V)**
+|
+600 Peças de Ouro
+|
+Proibido (Uso de toxinas indetectáveis)
+|
+| **Contrato de Execução de General / Fortaleza (Grau VI)**
+|
+1.000 Peças de Ouro
+|
+Proibido (Operação militar de alta escala)
+|
+| **Contrato de Limpeza Total de Linhagem (Grau VII)**
+|
+1.800 Peças de Ouro
+|
+Proibido (Comando direto de preboste)
+|
+| **Contrato de Regicídio Continental (Grau VIII)**
+|
+3.500 Peças de Ouro
+|
+Proibido (Exclusivo do Executor Sem Rosto)
+|
+| **Adaga de Aço-Negro com Ranhura Capilar**
+|
+35 Peças de Ouro
+|
+80 Peças de Ouro (Arma de contrabandista sem insígnia)
+|
+| **Garrote de Seda-de-Aranha e Aço Temperado**
+|
+15 Peças de Ouro
+|
+40 Peças de Ouro (Ferramenta restrita de executor)
+|
+| **Zarabatana de Pulso com 12 Dardos de Osso**
+|
+20 Peças de Ouro
+|
+50 Peças de Ouro (Munição oculta de proximidade)
+|
+| **Dose de Veneno Beijo de Nyxara (Morte Natural)**
+|
+50 Peças de Ouro
+|
+120 Peças de Ouro (Toxina inodora de alambique)
+|
+| **Dose de Sangue de Escorpião-Rei (Parada Imediata)**
+|
+35 Peças de Ouro
+|
+85 Peças de Ouro (Veneno viscoso para lâminas)
+|
+| **Frasco de Suspiro de Galena (Gás Comatoso)**
+|
+40 Peças de Ouro
+|
+95 Peças de Ouro (Composto para lareiras e velas)
+|
+| **Máscara de Cera Mortuária de Disfarce (Kit com 3)**| 12 Peças de Ouro
+|
+30 Peças de Ouro (Insumo de infiltração facial)
+|
+| **Bolsa de Pó de Cinza-Cega (Kit com 4 unidades)**
+|
+5 Peças de Ouro
+|
+15 Peças de Ouro (Munição defensiva de fuga)
+|
+| **Manto de Camuflagem de Tecido de Ébano**
+|
+25 Peças de Ouro
+|
+65 Peças de Ouro (Capa que absorve reflexos de luz)
+|
+| **Contrato de Extração Crítica de Refém / Ativo**
+|
+150 Peças de Ouro
+|
+350 Peças de Ouro (Operação tática de resgate)
+|
+| **Serviço de Silenciamento Preventivo (Esquadrão)**
+|
+300 Peças de Ouro
+|
+700 Peças de Ouro (Limpeza total de testemunhas)
+|
+
 
 ---
 
@@ -4247,6 +9696,406 @@ Rituais de ressonância acústica para achar água, conhecimento impecável das 
 ## Membros notáveis
 
 Ainda não criado.
+
+---
+
+Lore Expandida: Os Cartógrafos do Submundo
+Um mapa em branco não é uma incerteza geográfica; é um insulto à razão e uma fresta por onde a escuridão avança. Mapear o abismo é a única forma de acorrentá-lo na razão humana.
+
+## I. Visão Geral e a Doutrina do Mapeamento Absoluto
+Nas galerias abafadas, pátios suspensos e bibliotecas de pergaminhos do Ateliê dos Sete Ventos em Gristal —, onde o ar carrega o cheiro de tinta de nitrato de prata, couro de encadernação, cera de abelha e a névoa fria que sobe da Grande Fenda —, opera Os Cartógrafos do Submundo: a mais prestigiada, audaciosa e obcecada sociedade de eruditos, topógrafos, geógrafos e exploradores do continente.
+Fundada nos primórdios da ocupação da Cicatriz por eruditos que perceberam que mais homens morriam por ignorância de terreno do que pelas garras de monstros, a sociedade ergueu-se sobre um dogma sagrado e inquebrável: O Mapeamento Absoluto. Para os Cartógrafos do Submundo, o mundo subterrâneo, os salões esquecidos de Vaeth-Kar e as profundezas insondáveis da Fenda não são mistérios a serem temidos, mas sim um vasto mosaico geográfico esperando para ser medido, desenhado, catalogado e eternizado em pergaminho.
+Diferente do Círculo de Giz (que busca patentear rituais e cobrar royalties sobre a geometria), os Cartógrafos do Submundo não se importam com o monopólio comercial da magia; sua paixão é a Verdade Topográfica. Eles contratam levas diárias de aventureiros, mercenários, mercadores e mergulhadores para adentrarem as ruínas mais sombrias, entregando-lhes cadernetas de campo, réguas de marfim e agulhas de ressonância. A meta final da sociedade é colossal e beira a loucura acadêmica: mapear 100% dos níveis inferiores da Grande Fenda e catalogar cada ruína soterrada do continente.
+Totalmente desprovida de estéticas steampunk, engrenagens a vapor ou pistões, a tecnologia da sociedade é artesanal, óptica, acústica e arcano-mineral: teodolitos de cristal de quartzo, diapasões de ressonância de basalto, papéis-torno que reagem à altitude e umidade, tintas de nitrato de prata salina e bússolas de inclinação geotérmica.
+
++---------------------------------------+
+
+|
+   A JUNTA DOS CARTÓGRAFOS-CHEFES     |
+
+|
+  (Diretoria Executiva & Arquivos)    |
+
++-------------------
++-------------------+
+                                        |
+
+[ Diretrizes de Campo & Verbas de Contrato ]
+                                        |
+                                        v
+
++---------------------------------------+
+
+|
+   DEPARTAMENTOS DE TOPOGRAFIA        |
+
+|
+  (Análise, Validação & Cadernetas)   |
+
++-------------------
++-------------------+
+                                        |
+
++--------------------------------
++--------------------------------+
+
+|
+
+|
+                               |
+
+v
+
+v
+                               v
+
++---------------+
+
++-----------------+
+
++-----------------+
+| CARTÓRIO DOS
+|
+
+|
+ATELIÊ DOS SETE
+|
+
+|
+POSTO DOS       |
+| SELOS
+|
+
+|
+VENTOS (SEDE)
+|
+
+|
+RASCUNHOS       |
+|(Bastion/Ruínas|              |(Gristal/Fenda)
+|
+             |(Malaxis/Mercado |
+| Registradas)
+|
+
+|
+
+|
+
+|
+Negro de Mapas) |
+
++-------
++-------+
+
++--------
++--------+
+
++--------
++--------+
+
+|
+
+|
+                               |
+
++-------------------------------
++--------------------------------+
+                                        |
+                                        v
+
++---------------------------------------+
+
+|
+    AVENTUREIROS E EXPEDIÇÕES         |
+
+|
+  (Cartógrafos de Campo / Mapeadores) |
+
++---------------------------------------+
+
+
+
+II. O Sistema de Cadernetas e o Método de Validação
+A sociedade não compra "desenhos amadores feitos a carvão em panos velhos". Para que um mapa seja aceito nos arquivos e o contrato seja pago em peças de ouro, o grupo de exploradores precisa seguir o Protocolo Tridimensional de Validação:
+
+[ ACEITE DO CONTRATO ]
+-->
+[ RECEBIMENTO DA CADERNETA ]
+-->
+[ EXPEDIÇÃO DE CAMPO ]
+                                                                      |
+                                                                      v
+
+[ PAGAMENTO EM OURO ]
+ <--
+[ ANÁLISE NO ATELIÊ ]
+       <--
+[ APLICAÇÃO DE GIZ-RÚNICO ]
+
+
+
+A Caderneta de Topografia de Campo: Uma caderneta encadernada em couro de besouro-da-fenda contendo folhas de Papel-Torno (um papel especial impregnado com sais minerais que altera levemente de cor conforme a profundidade, umidade e presença de miasma). O cartógrafo de campo deve registrar distâncias em passos, ângulos de curvatura, alturas de teto e a localização de nascentes de água, poços de gás e saídas de emergência.
+O Giz de Ressonância (Giz-Rúnico): Durante a exploração de um nível de masmorra ou caverna, o grupo deve aplicar traços de Giz-Rúnico nas paredes principais a cada cinquenta metros. Quando a caderneta é entregue no Salão do Ateliê em Gristal, os analistas colocam a caderneta sobre um bloco de quartzo e ativam um diapasão: se as anotações do papel vibraram na mesma Frequência Geométrica das paredes registradas pelo Giz-Rúnico, o mapa é declarado Autêntico.
+Gradação de Mapas:
+Rascunho de Beco (Grau D): Croqui simples de corredores sem medição de altitude. Recompensa baixa.
+Carta de Superfície (Grau C): Mapeamento de ruínas rasas com ângulos e entradas identificadas.
+Planta Mestra (Grau B e A): Mapeamento tridimensional completo de galerias com indicação de armadilhas, poços e veios minerais.
+Carta Abissal de Primeira Matriz (Grau S): Registro de níveis profundos inéditos da Grande Fenda, com identificação de dobras gravidade e correntes de ar.
+
+## III. Instrumental e Equipamento Topográfico
+Rejeitando máquinas ruidosas que atraem monstros, a sociedade utiliza instrumentos de alta precisão óptica, mineralógica e acústica:
+
+[ O TEODOLITO DE QUARTZO ]
+
+[ O PÊNDULO DE RESSONÂNCIA ]
+     (Lentes Ópticas e Ângulos de Rocha)      (Mapeamento Acústico por Eco)
+                   \                              /
+                    \                            /
+
++------------------------------------------+
+
+|
+      INSTRUMENTAL DE CAMPO              |
+
+|
+      (Precisão, Silêncio & Ciência)     |
+
++---------------------
++--------------------+
+                                   |
+
++----------------
++----------------+
+
+|
+                                |
+
+v
+                                v
+
+[ O LÁPIS DE PRATA-SALINA ]
+
+[ A BÚSSOLA GEOTÉRMICA ]
+   (Tinta Reativa Indelevel)               (Navegação por Gradiente Térmico)
+
+
+
+O Teodolito de Cristal de Quartzo: Um instrumento ajustável de bronze e lentes de cristal de quartzo polido. Permite medir ângulos verticais e horizontais em salões subterrâneos gigantescos, projetando um ponto de luz fraco na rocha para cálculo de distâncias.
+O Pêndulo de Eco-Ressonância: Um bastão de madeira-ferro com uma esfera de chumbo suspenso por um fio de seda marinha. Ao ser batido no chão de uma caverna, o pulso sonoro ecoa pelas paredes; o cartógrafo analisa a vibração do fio para calcular a largura e a altura do salão, mesmo no escuro absoluto.
+O Lápis de Prata-Salina: Lápis de liga de prata, chumbo e grafite salina. A escrita realizada com este lápis não apaga com água, umidade de esgoto ou ácidos leves, tornando as anotações da caderneta permanentes.
+A Bússola de Inclinação Geotérmica: Uma bússola selada com fluido denso e agulha de arcanita bruta. A agulha não aponta para o norte magnético, mas sim para o gradiente de calor do núcleo da terra, permitindo saber se a expedição está descendo ou subindo em galerias contorcidas.
+
+## IV. Geografia Operacional e Escritórios no Continente
+A sociedade mantém escritórios estratégicos nas principais metrópoles, adaptados à realidade de cada região:
+
+[ O ATELIÊ DOS SETE VENTOS (SEDE EM GRISTAL) ]
+ <- Arquivo Central & Análise Abissal
+      /                                               \
+
+[ O CARTÓRIO DOS SELOS (BASTION) ]
+
+[ O POSTO DOS RASCUNHOS (MALAXIS) ]
+ (Registro Legal de Ruínas & Patentes)          (Compra de Mapas do Mercado Negro)
+
+|
+                                              |
+   =============================================================
+
+\\\\\\\\    OS POSTOS DE CAMPO DA MARCA DA FENDA     ////////
+<- Suprimentos & Troca
+   =============================================================
+
+
+
+1. O Ateliê dos Sete Ventos (Gristal - Sede Central)
+Uma estrutura majestosa de madeira-ferro e pedra suspensa diretamente sobre as passarelas do Cume em Gristal.
+Arquitetura e Acervo: Abriga a Grande Mapoteca Abissal — uma biblioteca circular de cinco andares onde milhares de mapas da Fenda e de ruínas continentais estão organizados em cilindros de chumbo selados contra umidade. É aqui que funciona a mesa de deliberação da Junta dos Cartógrafos-Chefes.
+2. O Cartório dos Selos (Bastion)
+Um escritório elegante e silencioso no Distrito dos Selos em Bastion.
+Função Legal: Atua no registro de descobertas de ruínas históricas para a nobreza e para o governo da Rainha Ysolde. É onde diplomatas, Barões do Trigo e pesquisadores da Torre Pura compram cartas geográficas autenticadas.
+3. O Posto dos Rascunhos de Sangue (Malaxis)
+Um estabelecimento discreto na Borda dos Desesperados, disfarçado como uma oficina de encadernação de livros velhos.
+Comércio do Submundo: Compras rascunhos de masmorras roubados por mercenários, mapas de rotas de contrabando trazidos pelos Dentes-de-Ouro e croquis de fossas do Coliseu dos Barões, pagando em peças de ouro sem fazer perguntas sobre a origem do sangue no papel.
+
+## V. Relações Geopolíticas da Sociedade
+Aliança Comercial com Os Mergulhadores da Névoa: A aliança mais sólida dos Cartógrafos. A sociedade financia os equipamentos de imersão dos Mergulhadores e compra seus relatórios de profundidade, transformando os dados brutos de mergulho em cartas topográficas navegáveis.
+Tensão com o Círculo de Giz: O Círculo de Giz tenta constantemente forçar os Cartógrafos a pagarem royalties sobre a "geometria dos mapas" ou a entregarem o controle dos arquivos da Fenda. A Junta dos Cartógrafos recusa-se categoricamente, defendendo que o conhecimento geográfico pertence a toda a humanidade.
+Relação Pragmática com a Guarda dos Elos e Sindicato dos Guinchos: A sociedade paga pontualmente as taxas de transporte e pedágios da Balsa dos Portões em Gristal para garantir o envio constante de equipes de mapeamento para as profundezas.
+Conflito Mortal com a Doutrina do Abismo: Os cultistas da Doutrina odeiam os Cartógrafos, pois o mapeamento detalhado das cavernas expõe seus altares secretos de extração de Ouro-Sangue. A Doutrina frequentemente planta mapas falsos no mercado negro para atrair equipes de cartógrafos para armadilhas mortais nos poços de piche.
+
+## VI. A Junta dos Cartógrafos-Chefes e Membros Notáveis (5 Líderes)
+A sociedade é administrada por um conselho executivo de cinco mestres da geografia, conhecidos como a Junta dos Cartógrafos-Chefes:
+Mestre-Cartógrafo Vaelen (Elfo - Presidente da Junta): Um elfo de duzentos anos, olhar sereno e mãos calejadas de segurar réguas de marfim. Vaelen é o idealizador do plano de mapeamento 100% da Grande Fenda. Governa a sociedade a partir do Ateliê em Gristal com erudição e frieza analítica.
+Doutora Livia "Olho-de-Quartzo" (Gnomo - Chefe de Instrumentação): Uma gnomo genial e expansiva que projeta os teodolitos, bússolas geotérmicas e papéis-torno da sociedade. Passa dias em seu laboratório em Gristal testando tintas de prata que resistam aos ácidos do abismo.
+Inspecionador Morgran Barbafrio (Anão - Chefe de Validação de Campo): Um anão atarracado e inflexível que lidera a equipe de analistas que testam a autenticidade das cadernetas trazidas pelos aventureiros. Se um mapa tem uma margem de erro superior ao aceito, Morgran recusa o pagamento sem qualquer hesitação.
+Arquivista Silas "Pena-de-Chumbo" (Humano - Chefe de Registros em Bastion): Um humano austero que gerencia o escritório do Cartório dos Selos na capital. É ele quem lida com os Barões do Trigo, negocia verbas com a Coroa e protege os direitos autorais das plantas da guilda contra os fiscais do Círculo de Giz.
+Batedor Thorne "Passo-Silencioso" (Halfling - Chefe de Aquisição em Malaxis): Um halfling astuto e corajoso que gerencia o posto de Malaxis. Thorne é especialista em avaliar rascunhos roubados trazidos por mercenários e identificar rotas de contrabando escondidas no deserto.
+
+## VII. O Mural de Expedições (7 Ganchos de Aventura)
+Estes são exemplos de Contratos de Mapeamento afixados no Mural do Ateliê em Gristal, prontos para serem aceitos por grupos de exploradores e aventureiros:
+================================================================================
+                    QUADRO DE EXPEDIÇÕES CARTOGRÁFICAS
+================================================================================
+[NÍVEL 1 - GRAU D] O Rascunho da Cripta Rensa      (Recompensa: 30 Peças de Ouro)
+[NÍVEL 2 - GRAU C] As Galerias da Colina Branca    (Recompensa: 65 Peças de Ouro)
+[NÍVEL 3 - GRAU B] O Mapeamento do Veio Quatro     (Recompensa: 120 Peças de Ouro)
+[NÍVEL 4 - GRAU B] A Planta do Esgoto dos Banhos   (Recompensa: 180 Peças de Ouro)
+[NÍVEL 5 - GRAU A] A Carta do Gargalo do Berço     (Recompensa: 300 Peças de Ouro)
+[NÍVEL 6 - GRAU A] O Mapeamento de Vaeth-Kar       (Recompensa: 500 Peças de Ouro)
+[NÍVEL 7 - GRAU S] A Matriz da Dobra Profunda      (Recompensa: 1.200 Peças de Ouro)
+================================================================================
+
+
+
+1. O Rascunho da Cripta Rensa (Nível 1 - Grau D)
+Solicitante: Arquivista Silas (Bastion).
+Local: Periferia Leste do Cinturão Alvorada (Bastion).
+Fase de Investigação: Obter a caderneta de campo no escritório de Bastion e localizar a entrada de uma tumba camponesa abandonada.
+A Missão: Explorar as três galerias da tumba, registrar a largura dos corredores e marcar a localização do sarcófago central usando Giz-Rúnico.
+A Complicação: A tumba foi tomada por uma matilha de cães selvagens que fizeram ninho nos corredores.
+Objetivo Primário: Concluir as anotações do Papel-Torno sem perder a caderneta de campo e entregar o rascunho.
+Recompensa: 30 Peças de Ouro e um Lápis de Prata-Salina.
+2. As Galerias da Colina Branca (Nível 2 - Grau C)
+Solicitante: Doutora Livia (Gristal).
+Local: Encosta Norte das Presas de Krag.
+Fase de Investigação: Utilizar a Bússola Geotérmica para encontrar a abertura de uma caverna natural de calcário.
+A Missão: Mapear os dois níveis da caverna, registrando pontos de gotejamento de água potável e veios de ferro comum.
+A Complicação: A cavernosa abriga bolsões de gás sulfuroso que alteram a cor do Papel-Torno se as lanternas ficarem acesas por tempo demais.
+Objetivo Primário: Mapear os salões com precisão usando o Teodolito de Quartzo e retornar sem sofrer intoxicação.
+Recompensa: 65 Peças de Ouro e dois frascos de reagente de purificação de ar.
+3. O Mapeamento do Veio Quatro (Nível 3 - Grau B)
+Solicitante: Inspecionador Morgran (Gristal).
+Local: Galerias Baixas de Krag-Mora (Veios Profundos).
+Fase de Investigação: Obter autorização da Irmandade da Fuligem para acessar uma galeria de mineração desativada.
+A Missão: Mapear quatro quilômetros de túneis escavados, identificando falhas estruturais na rocha e poços de exaustão.
+A Complicação: Comissários da Irmandade da Fuligem tentam impedir o mapeamento de uma seção secreta onde opera o Veio da Sobre-Carga.
+Objetivo Primário: Registrar toda a extensão da galeria e escapar dos comissários com a caderneta intacta.
+Recompensa: 120 Peças de Ouro e um Pêndulo de Eco-Ressonância.
+4. A Planta do Esgoto dos Banhos (Nível 4 - Grau B)
+Solicitante: Batedor Thorne (Malaxis).
+Local: Banhos de Sangue e Piche (Malaxis).
+Fase de Investigação: Infiltrar-se nos canais inferiores de esgoto através da Borda dos Desesperados.
+A Missão: Desenhar a planta tridimensional dos tubos de escoamento de piche e identificar os laboratórios clandestinos da zona lupanar.
+A Complicação: Cobradores de Piche da Liga dos Agenciadores patrulham as galerias e atacam qualquer pessoa portando instrumentos de medição.
+Objetivo Primário: Concluir a planta dos canais e entregar os croquis ao posto de Thorne.
+Recompensa: 180 Peças de Ouro e salvo-conduto nos estabelecimentos secundários de Malaxis.
+5. A Carta do Gargalo do Berço (Nível 5 - Grau A)
+Solicitante: Mestre-Cartógrafo Vaelen Vane (Gristal).
+Local: Gargalo do Berço (Fronteira com Treehold).
+Fase de Investigação: Coordenar com a Falange de Raiz-e-Aço para obter um guia de travessia do perímetro.
+A Missão: Mapear uma extensão de cinco léguas do desfiladeiro onde a hiper-selva do Berço se encontra com as paredes de basalto da Fenda.
+A Complicação: A vegetação mutante cresce tão rápido que as galerias mapeadas de manhã mudam de formato ao entardecer.
+Objetivo Primário: Utilizar o Teodolito de Quartzo e o Giz-Rúnico para estabelecer marcos fixos na rocha e concluir a Carta Abissal.
+Recompensa: 300 Peças de Ouro e uma Caderneta de Couro de Besouro de alta durabilidade.
+6. O Mapeamento de Vaeth-Kar (Nível 6 - Grau A)
+Solicitante: Junta dos Cartógrafos-Chefes.
+Local: Ruínas de Vaeth-Kar (Deserto de Sol-Crestado).
+Fase de Investigação: Contratar guias dos Cantores da Areia em Zul-Bazar para localizar a entrada de um setor subterrâneo recém-descoberto pelas tempestades.
+A Missão: Mapear os salões pré-cataclisma, registrando monumentos rúnicos, câmaras de irrigação e poços de Pólvora-de-Sol.
+<!-- SEGREDO -->
+A Complicação: A Doutrina do Abismo enviou um esquadrão de acólitos demonizados para destruir a expedição e profanar o local.
+<!-- FIM SEGREDO -->
+Objetivo Primário: Eliminar os cultistas, concluir o mapa tridimensional do complexo e entregar a Planta Mestra no Ateliê de Gristal.
+Recompensa: 500 Peças de Ouro e o título honorífico de Cartógrafo de Vanguarda.
+7. A Matriz da Dobra Profunda (Nível 7 - Grau S)
+Solicitante: Mestre-Cartógrafo Vaelen Vane.
+Local: Dobras Profundas (Abaixo de Gristal / Fenda).
+Fase de Investigação: Unir forças com os Mergulhadores da Névoa para descer ao fundo do abismo usando trajes de imersão e tirolesas pesadas.
+A Missão: Executar o primeiro mapeamento completo de uma câmara de Dobra Gravitacional inédita nas profundezas do abismo.
+<!-- SEGREDO -->
+A Complicação: A gravidade flutua no local, a Névoa Ácida é densa e um Behemoth do Abismo (Descarnado) habita o setor de medição.
+<!-- FIM SEGREDO -->
+Objetivo Primário: Utilizar o Pêndulo de Eco e a Bússola Geotérmica para registrar a geometria do ambiente, sobreviver ao Behemoth e retornar à superfície com a Carta de Primeira Matriz.
+Recompensa: 1.200 Peças de Ouro, assento de observador na Junta dos Cartógrafos e a condecoração da Bússola de Ouro de Vaelen.
+
+## VIII. Elementos Sensoriais para o Mestre Narrar
+Utilize estes elementos descritivos durante as sessões envolvendo os Cartógrafos do Submundo para transmitir a atmosfera acadêmica, científica, corajosa e detalhista da sociedade:
+Sons:
+O som suave e ritmado de penas de ganso e lápis de prata-salina deslizando sobre o papel-torno de cadernetas de campo.
+O clique limpo e metálico de lentes de cristal de quartzo sendo ajustadas nos teodolitos de medição.
+O zumbido grave, puro e ressonante dos diapasões de eco ressoando pelas paredes de cavernas e salões escuros.
+O ranger suave de rolos de pergaminho sendo abertos e desdobrados sobre grandes mesas de madeira de carvalho.
+O eco distante de passos medidos ritmadamente por exploradores contando a extensão de corredores.
+Visões:
+Eruditos e aventureiros debruçados sobre grandes mesas no Ateliê dos Sete Ventos, iluminados pela luz ciana de lanternas de quartzo.
+O brilho prateado e iridescente da tinta de nitrato de prata secando em mapas recentemente desenhados.
+O contraste entre a roupa de campo surrada e cheia de lama dos exploradores e a precisão limpa e elegante das réguas e compassos de marfim.
+Paredes de masmorras marcadas a cada cinquenta metros por traços brilhantes de Giz-Rúnico.
+Cheiros:
+O aroma denso, seco e característico de tinta de nitrato de prata, cera de abelha, papel de boa qualidade e couro de encadernação.
+O cheiro limpo e levemente ácido dos reagentes alquímicos usados para testar a umidade e profundidade do Papel-Torno.
+O cheiro de chá de lavanda e fumo de cachimbo consumido pelos analistas na Mapoteca de Gristal.
+Tato e Sensações Térmicas:
+A textura firme, espessa e resistente das cadernetas de campo de couro de besouro.
+O frio agradável do cristal de quartzo e do latão polido dos teodolitos ao serem manuseados em ambientes aquecidos.
+A vibração física e sutil no cabo do Pêndulo de Eco ao captar o retorno sonoro de uma grande câmara subterrânea.
+
+## IX. Economia Cartográfica e Tabela de Venda de Mapas
+A tabela abaixo reflete a economia de compra de instrumentos, pagamento de contratos de mapeamento e venda de cartas geográficas pela sociedade:
+| Item / Serviço / Carta Geográfica
+|
+Custo de Compra (Membros / Clientes)
+|
+Recompensa por Mapeamento (Aventureiros) |
+| Caderneta de Topografia de Campo (Papel-Torno)
+|
+5 Peças de Ouro
+|
+Concedida gratuitamente com o contrato |
+| Lápis de Prata-Salina (Kit com 3 unidades)
+|
+3 Peças de Ouro
+|
+1 Peça de Ouro (Munição de escrita de campo) |
+| Teodolito de Cristal de Quartzo (Instrumento)
+|
+80 Peças de Ouro
+|
+Proibido para venda (Empréstimo sob caução) |
+| Pêndulo de Eco-Ressonância de Basalto
+|
+25 Peças de Ouro
+|
+10 Peças de Ouro (Ferramenta de medição sonórica) |
+| Bússola de Inclinação Geotérmica
+|
+45 Peças de Ouro
+|
+18 Peças de Ouro (Bússola de profundidade) |
+| Carta de Superfície Autenticada (Nível Raso)
+|
+20 Peças de Ouro
+|
+40 Peças de Ouro (Pagamento por entrega Grau C) |
+| Planta Mestra de Masmorra Média (Grau B)
+|
+60 Peças de Ouro
+|
+120 Peças de Ouro (Pagamento por entrega Grau B) |
+| Carta Abissal de Primeira Matriz (Grau S)
+|
+500 Peças de Ouro
+|
+1.200 Peças de Ouro (Pagamento por setor inédito da Fenda) |
+| Avaliação e Autenticação de Mapa por Morgran
+|
+5 Peças de Ouro
+|
+Serviço de validação de campo da guilda |
+| Barra de Giz-Rúnico de Ressonância (Dúzia)
+|
+4 Peças de Ouro
+|
+Concedida gratuitamente com o contrato |
+| Consulta à Mapoteca Abissal em Gristal (Dia)
+|
+2 Peças de Ouro
+|
+Gratuita para Cartógrafos credenciados |
+| Cilindro de Chumbo Impermeável para Guardar Mapas| 8 Peças de Ouro
+|
+3 Peças de Ouro (Proteção contra chuva e ácido) |
 
 ---
 

@@ -1,0 +1,533 @@
+Lore Expandida: O Sindicato das Lâminas Negras
+O aço comum faz barulho e pede vingança; a lâmina negra não sussurra, não hesita e não deixa testemunhas. Quem paga primeiro sela o destino, e nem o rei mais rico do mundo pode recomprar a vida depois que a cera preta tocou o pergaminho.
+
+## I. Visão Geral e o Dogma do Aço Silencioso
+Erguendo-se sobre uma projeção pontiaguda de basalto negro na Garganta do Escorpião, sob a poeira sufocante e as sombras cortadas de Malaxis, a Fortaleza das Lâminas Negras projeta uma presença aterradora sobre todo o continente. Ali opera O Sindicato das Lâminas Negras: a mais antiga, temida, disciplinada e respeitada guilda de assassinos de elite, envenenadores, infiltradores e cirurgiões da morte do mundo conhecido.
+Diferente de mercenários brutais como as Espadas-Sanguinárias (que vendem exércitos e força de choque em campo aberto) ou de agenciadores de bordel que improvisam facadas em becos, o Sindicato opera como uma Ordem Corporativa e Acadêmica da Letalidade. Para as Lâminas Negras, tirar uma vida não é um ato de sadismo caótico, mas uma transação comercial cirúrgica, inflexível e elevada ao ápice da perfeição técnica. Seus membros não aceitam contratos por rixas pessoais, ideologia ou fanatismo religioso; eles operam sob o mandamento sagrado do Primeiro Selo: quem paga primeiro garante o contrato, e uma vez que o ouro é aceito e a cera preta toca o papel de chumbo, o contrato é irreversível até a morte do alvo ou a extinção do contratante.
+Apesar da execução direta ser a assinatura pública da facção, a guilda mantém divisões operacionais para missões clandestinas de alta complexidade:
+Infiltração Nobre e Diplomática: Substituição ou inserção de servos em palácios reais para colher rotinas de segurança, hábitos e códigos de acesso.
+Sabotagens Estruturais Silenciosas: Enfraquecimento químico de eixos de guinchos, contaminação seletiva de tonéis e queima discreta de arquivos estratégicos.
+Extração Crítica de Alvos: Resgate de informantes, desertores e alquimistas encurralados em territórios hostis.
+Refinamento de Farmacopeia Proibida: Síntese e venda de venenos inodoros, paralisantes e toxinas de simulação de morte natural.
+Totalmente desprovida de estéticas steampunk, engrenagens a vapor ou pistões, a tecnologia do Sindicato é artesanal, química, óptica e mineral: adagas com canais de capilaridade para venenos viscosos, garrotes de arame de aço temperado trançados com seda de aranha-do-abismo, zarabatanas de bambu com dardos de osso oco, máscaras de cera mortuária para disfarce e pós químicos que apagam passos e odores.
+
++---------------------------------------+
+| O CONSELHO DOS TRÊS NÓS
+|
+| (Comando Supremo, Juízes & Venenos)
+|
+
++-------------------
++-------------------+
+|
+[ Regulamento do Selo & Livro das Máscaras ]
+|
+v
+
++---------------------------------------+
+| SISTEMA DE 8 GRAUS (40 NÍVEIS)
+|
+| (Progressão, Testes & Especialidade)|
++-------------------
++-------------------+
+|
++--------------------------------
++--------------------------------+
+|
+|
+|
+v
+v
+v
+
++---------------+
+
++-----------------+
+
++-----------------+
+| GRAUS VII-VIII|
+|
+GRAUS IV-VI
+|
+| GRAUS I-III
+|
+| (Nó-Supremo &
+|
+| (Mestres, Fitas
+|
+| (Iniciados,
+|
+| Comandantes)
+|
+| & Executores)
+|
+| Batedores/Ébano|
++-------
++-------+
+
++--------
++--------+
+
++--------
++--------+
+|
+|
+|
++-------------------------------
++--------------------------------+
+|
+v
+
++---------------------------------------+
+| DIVISÕES OPERACIONAIS DE CAMPO
+|
+| (Execução, Venenos, Infiltração, Caça)|
++---------------------------------------+
+
+
+---
+
+## II. A Estrutura de Guilda: Os 8 Graus e 40 Subníveis de Progressão O Sindicato adota uma hierarquia minuciosa dividida em **oito Graus principais**, cada qual ramificado em **cinco subníveis de especialização técnica**. A progressão exige a conclusão de cotas de contratos sem deixar testemunhas, aprovação em testes de sobrevivência no deserto e a entrega de máscaras mortuárias de cera dos alvos eliminados.
+
+[ GRAU I: NÓ DE CHUMBO ]
+-->
+[ GRAU II: NÓ DE BRONZE ]
+-->
+[ GRAU III: NÓ DE FERRO ]
+|
+|
+v
+v
+
+[ GRAU IV: NÓ DE PRATA ]
+-->
+[ GRAU V: NÓ DE MERCÚRIO ]
+-->
+[ GRAU VI: NÓ DE OBSIDIANA ]
+|
+v
+
+[ GRAU VIII: NÓ-SUPREMO ]
+<--
+[ GRAU VII: NÓ DE BASALTO ]
+---
+
+
+
+### Grau I: O Nó de Chumbo (Iniciados e Vigilância de Base) * **Insígnia:** Um anel de ferro cru sem polimento com uma ranhura circular na face interna. * **Perfil:** Recrutas recém-admitidos, órfãos de Malaxis treinados desde a infância, batedores de beco e fugitivos acolhidos. * **Permissão de Missão:** Reconhecimento preliminar, vigilância de alvos secundários, entrega de avisos de execução e pequenas eliminações em vielas. * **Subnível 1.1 — Espreitador de Telhado:** Especialista em escalada em paredes verticais e mapeamento de rotas de fuga, hábitos e janelas de vulnerabilidade de alvos nas cidades. * **Subnível 1.2 — Servente de Adaga:** Treinado para se infiltrar em cozinhas, estalagens e adegas disfarçado de serviçal para colher informações e rotinas de segurança. * **Subnível 1.3 — Ceifador de Beco:** Focado em emboscadas rápidas em vielas escuras usando adagas curtas contra alvos desprotegidos. * **Subnível 1.4 — Portador de Frasco:** Responsável pelo transporte seguro e preparação de reagentes básicos nos depósitos e laboratórios periféricos. * **Subnível 1.5 — Vigia do Crepúsculo:** Encarregado da vigilância perimetral dos esconderijos e da cobertura de fuga para operativos em missão. ---
+
+
+
+### Grau II: O Nó de Bronze (Executores de Apoio e Sabotadores) * **Insígnia:** Uma fivela de bronze escurecido gravada com duas adagas cruzadas sobre uma gota de óleo. * **Perfil:** Operativos testados em emboscadas urbanas, com noções sólidas de anatomia e química de sabotagem. * **Permissão de Missão:** Eliminações discretas de oficiais menores, sabotagens de carruagens e queima de arquivos. * **Subnível 2.1 — Especialista em Quedas:** Perito em provocar mortes que parecem acidentes mecânicos (quebra de eixos de carruagens, desabamentos de sacadas e quedas de escadarias). * **Subnível 2.2 — Sabotador de Eixos:** Treinado no enfraquecimento químico de eixos de guinchos, trincamento de vigas e contaminação de tonéis industriais. * **Subnível 2.3 — Garroteador de Sombra:** Mestre no uso do garrote de seda e arame, especializado em capturas silenciosas e ocultação de corpos em espaços confinados. * **Subnível 2.4 — Batedor de Dardo:** Atirador com zarabatanas de pulso e dardos de osso oco embebidos em toxinas paralisantes leves. * **Subnível 2.5 — Extrator de Viela:** Operador de resgate tático encarregado de extrair membros da guilda feridos ou cercados por milícias urbanas. ---
+
+
+
+### Grau III: O Nó de Ferro (Lâminas-de-Ébano e Assassinos de Campo) * **Insígnia:** Uma braçadeira de couro de besouro-da-fenda com uma lâmina de aço-negro em miniatura cravada em rebite de ferro. * **Perfil:** A espinha dorsal operativa da guilda. Combatentes letais em combate corpo a corpo e mestres no uso de adagas envenenadas. * **Permissão de Missão:** Execuções de mercadores influentes, capitães de milícia, sabotagens em caravanas nobres e resgates de ativos. * **Subnível 3.1 — Duelista da Penumbra:** Combatente corporal com adagas duplas serrilhadas, especializado em neutralizar oponentes armados em espaços fechados. * **Subnível 3.2 — Fantasma de Salão:** Infiltrador treinado em etiqueta social e vestimentas nobres, capaz de se misturar em festas para alcançar alvos de média nobreza. * **Subnível 3.3 — Caçador de Escolta:** Especialista em neutralizar guarda-costas e sentinelas de caravanas com ataques coordenados sem alertar o comboio. * **Subnível 3.4 — Cirurgião de Artéria:** Mestre em cortes capilares de precisão em jugulares e artérias femorais que provocam choque hemorrágico instantâneo. * **Subnível 3.5 — Silenciador de Caravanas:** Batedor do deserto perito em emboscar comboios nas gargantas de Malaxis e desfiladeiros sem deixar sobreviventes. ---
+
+
+
+### Grau IV: O Nó de Prata (Mestres de Infiltração e Inteligência) * **Insígnia:** Um broche de prata salina oxidada moldado em formato de uma máscara de feições vazias. * **Perfil:** Espiões refinados e criptógrafos com capacidade de manter disfarces prolongados na alta sociedade. * **Permissão de Missão:** Roubo de cifras diplomáticas, infiltrações em tribunais de Bastion e substituição de serviçais palacianos. * **Subnível 4.1 — Mímico de Cera:** Artista de disfarces faciais que utiliza máscaras de cera mortuária para alterar feições, idade e sotaques com perfeição. * **Subnível 4.2 — Furtador de Cifras:** Especialista em gazuas de precisão, clonagem de matrizes de cera e furto de correspondências seladas em cartórios. * **Subnível 4.3 — Infiltrador Palaciano:** Operativo treinado para residir meses em palácios nobres sob identidades falsas sem levantar qualquer suspeita. * **Subnível 4.4 — Corretor de Rotinas:** Analista comportamental encarregado de documentar minuto a minuto os hábitos e fraquezas de generais e governantes. * **Subnível 4.5 — Arquivista das Máscaras:** Guardião dos registros fisionômicos e segredos genealógicos mantidos na galeria secreta da Fortaleza. ---
+
+
+
+### Grau V: O Nó de Mercúrio (Mestres-Venefício e Toxicologistas) * **Insígnia:** Um frasco de vidro escuro revestido com filamentos de latão e selado com chumbo, preso a uma corrente de pescoço. * **Perfil:** Alquimistas, cirurgiões e herbalistas de elite dedicados à formulação de toxinas indetectáveis. * **Permissão de Missão:** Mortes por simulação de causas naturais, contaminação de reservatórios privados e fornecimento de venenos para a guilda. * **Subnível 5.1 — Alquimista da Peste Silenciosa:** Síntese de toxinas de ação retardada que destroem órgãos vitais dias após a ingestão sem alterar o sabor de alimentos. * **Subnível 5.2 — Manipulador de Morte Natural:** Formulação de compostos químicos que simulam paradas cardíacas, derrames e asfixia do sono sem deixar vestígios em autópsias. * **Subnível 5.3 — Dispersor de Vapores:** Especialista em gases comatosos e pós voláteis ativados pelo calor de lareiras e velas para adormecer cômodos inteiros. * **Subnível 5.4 — Sintetizador de Antídotos:** Pesquisa e desenvolvimento de imunizantes e antídotos universais para proteger os membros do Sindicato contra envenenamentos. * **Subnível 5.5 — Boticário de Fenda:** Coletor e refinador de toxinas orgânicas e minerais extraídas de monstros e fungos das profundezas da Grande Fenda. ---
+
+
+
+### Grau VI: O Nó de Obsidiana (Ceifadores Fantasma e Alta Periculosidade) * **Insígnia:** Uma adaga curta talhada em bloco único de obsidiana vulcanizada com fio de corte molecular. * **Perfil:** Executores veteranos encarregados de missões em fortalezas de segurança máxima e contratos de alto risco político. * **Permissão de Missão:** Eliminação de arquimagos, comandantes militares em quarteis blindados e aniquilação de linhagens nobres rivais. * **Subnível 6.1 — Executor de Fortalezas:** Perito em penetrar cidadelas impenetráveis (como a prisão de Libertaris ou fortins de Ferrovale) superando grades e fossos. * **Subnível 6.2 — Caçador de Conjuradores:** Especialista em neutralizar magos e ritualistas antes que consigam desenhar círculos geométricos ou pronunciar encantamentos. * **Subnível 6.3 — Arquiteto de Execução em Massa:** Planejador de ataques múltiplos coordenados para eliminar simultaneamente vários alvos em locais distintos. * **Subnível 6.4 — Aniquilador de Testemunhas:** Operativo encarregado de "limpezas completas" sob Selo de Chumbo, garantindo que nenhum espectador permaneça vivo. * **Subnível 6.5 — A Lâmina Correcional:** O temido executor interno da guilda, responsável por rastrear e sentenciar traidores e violadores do Primeiro Selo. ---
+
+
+
+### Grau VII: O Nó de Basalto (Prebostes e Grão-Comandantes de Célula) * **Insígnia:** Um medalhão de basalto negro gravado com três ranhuras banhadas a prata salina. * **Perfil:** Os comandantes regionais, juízes de contratos e instrutores de campo que gerenciam a infraestrutura da guilda no continente. * **Permissão de Missão:** Comando das células territoriais de Bastion, Zul-Bazar e Gristal, e gestão do Salão dos Espelhos Quebrados. * **Subnível 7.1 — Preboste dos Espelhos:** Oficial que recebe emissários e nobres nas câmaras secretas, fixa valores em ouro e sela os contratos de morte. * **Subnível 7.2 — Marechal de Célula Externa:** Administrador supremo dos postos clandestinos fora de Malaxis (Ateliê das Sombras, Bazar dos Silêncios, Ninho de Gristal). * **Subnível 7.3 — Inspetor do Primeiro Selo:** Auditor que averigua a validade dos pagamentos e garante a irrevogabilidade do contrato contra tentativas de suborno. * **Subnível 7.4 — Mestre dos Arsenais Negros:** Encarregado da fabricação, estoque e distribuição de armas de aço-negro e compostos químicos para a irmandade. * **Subnível 7.5 — Instrutor da Câmara Escura:** Mestre sênior responsável pelos testes de provação e ritos de ascensão de novos membros para os Graus superiores. ---
+
+
+
+### Grau VIII: O Nó-Supremo (A Elite Lendária e o Conselho) * **Insígnia:** Um anel pesado de ouro-negro com três incrustações de diamante negro lapidado em formato de nós entrelaçados. * **Perfil:** As lendas vivas do Sindicato. Suas identidades mortais foram apagadas dos arquivos e sua palavra possui autoridade absoluta. * **Permissão de Missão:** Regicídios de escala continental, aniquilação de facções inteiras e governança da ordem. * **Subnível 8.1 — O Executor Sem Rosto:** O assassino individual supremo enviado apenas para missões onde o fracasso causaria uma guerra continental. * **Subnível 8.2 — Guardião dos Espelhos Quebrados:** O magistrado supremo dos contratos diplomáticos que lida diretamente com reis e grandes cartéis. * **Subnível 8.3 — Mestre dos Alambiques Sagrados:** O detentor dos segredos e fórmulas de venenos primordiais da Matriarca Arwen. * **Subnível 8.4 — Marechal da Fortaleza:** O comandante geral das forças de defesa e das pontes levadiças sob as ordens de Lorde Vorag. * **Subnível 8.5 — O Primeiro Nó:** O juiz supremo do triunvirato, cargo exercido pelo porta-voz do Conselho dos Três Nós (Mestre Kaelan). ---
+
+## III. O Conselho dos Três Nós (A Liderança Suprema) A governança do Sindicato das Lâminas Negras recai sobre um triunvirato conhecido como **O Conselho dos Três Nós**:
+
+
++---------------------------------------------+
+| O CONSELHO DOS TRÊS NÓS
+|
+| (A Cúpula Suprema das Lâminas)
+|
+
++----------------------
++----------------------+
+|
++-------------------------------
++-------------------------------+
+|
+|
+|
+v
+v
+v
+
+
+
++---------------+
+
++-----------------+
+
++-----------------+
+| MESTRE KAELAN
+|
+| MATRIARCA Arwen
+|
+| LORDE VORAG
+|
+| "NÓ DE CHUMBO"|
+|
+"DOS ALAMBIQUES"|
+|
+"A LÂMINA CEGA"
+|
+|(Humano - Cifras| |(Elfa - Toxinas &| |(Meio-Orc - Guerra|
+|
+& Contratos)
+|
+| Alquimia Rara)
+|
+| & Fortaleza)
+|
+
++---------------+
+
++-----------------+
+
++-----------------+
+
+
+
+
+### 1. Mestre Kaelan "O Nó de Chumbo" (Humano - Grão-Estrategista & Juiz de Contratos) Um homem de cinquenta e oito anos, postura austera, olhar clínico e mãos frias que nunca tocam armas em público. Kaelan é um ex-magistrado do Distrito dos Selos de Bastion que abandonou as leis da capital após testemunhar a corrupção do governo. * **Função no Conselho:** Cérebro burocrático e diplomático da guilda. Gerencia as finanças, avalia os contratos trazidos por embaixadores e nobres no Salão dos Espelhos e decide quais contratos aceitar. Kaelan aplica a regra do Primeiro Selo com rigidez matemática: se um rei tenta pagar o dobro para anular a ordem de morte contra seu filho, Kaelan recusa o ouro e manda entregar a cabeça do príncipe no prazo estipulado.
+
+
+### 2. Matriarca Arwen "A Dama dos Alambiques" (Elfa - Mestra de Venenos e Toxicologia) Uma elfa de duzentos anos, elegante e impiedosa, cujos dedos longos apresentam pontas manchadas de negro pela manipulação contínua de ácidos e extratos de veneno. * **Função no Conselho:** Governa os laboratórios subterrâneos e a produção da farmacopeia letal da guilda. Arwen pesquisa venenos de monstros da Fenda, toxinas de cacto de Malaxis e odores que causam asfixia sem deixar traços em necropsias. Ela é a responsável por testar novos antídotos e garantir que nenhum membro do Sindicato possa ser envenenado por armas comuns.
+
+
+### 3. Lorde Vorag "A Lâmina Cega" (Meio-Orc - Mestre de Armas e Defesa da Fortaleza) Um meio-orc colossal de quase dois metros de altura, coberto por cicatrizes de combate corporal, com um olho cego coberto por couro negro e presas inferiores polidas. * **Função no Conselho:** O comandante militar da fortaleza e instrutor supremo de combate silencioso. Vorag supervisiona o treinamento dos Graus I a III, comanda as sentinelas de balesta nas ameias e coordena as operações táticas que exigem combate corpo a corpo violento. Vorag ensina que a força física de um meio-orc só atinge a perfeição quando combinada com a precisão milimétrica de uma adaga no escuro.
+ ---
+
+## IV. O Salão dos Espelhos Quebrados e os Tipos de Contrato A contratação dos serviços do Sindicato ocorre no **Salão dos Espelhos Quebrados**, uma câmara subterrânea no coração da Fortaleza onde paredes de espelhos inclinados e cortinas de veludo negro mantêm o cliente e os avaliadores no anonimato absoluto.
+
+
+[ CLIENTE NO SALÃO DOS ESPELHOS ]
+-->
+[ DEPÓSITO DO OURO EM GAVETA DE CHUMBO ]
+|
+v
+
+[ ENTREGA DA MÁSCARA MORTUÁRIA ]
+<--
+[ EXECUÇÃO DO CONTRATO PELO GRAU ]
+
+As missões aceitas pelo Sindicato dividem-se em seis naturezas operacionais:
+
+[ SELO PRETO ]
+--> Execução Direta / Assassínio Cirúrgico de Alvo.
+[ SELO PRATEADO ]
+--> Morte Simulada por Causas Naturais / Veneno Indetectável.
+[ SELO VIOLETA ]
+--> Infiltração Nobre, Espionagem e Roubo de Cifras Militares.
+[ SELO CARMESIM ]
+--> Sabotagem Estrutural (Armazéns, Eixos, Forjas).
+[ SELO CINZENTO ]
+--> Extração e Resgate Crítico de VIPs e Desertores.
+[ SELO DE CHUMBO]--> Silenciamento Preventivo de Testemunhas e Inquisidores.
+1. **Contratos de Execução Pura (Selo Preto):** O alvo deve ser eliminado de forma inequívoca. O contratante pode exigir que o corpo seja deixado visível como aviso público ou que desapareça sem deixar rastros.
+2. **Contratos de Morte Natural (Selo Prateado):** A morte do alvo deve parecer uma fatalidade biológica ou acidente doméstico (ataque cardíaco durante o sono, asfixia por alimento, queda de cavalo) para não gerar investigações policiais ou comoção sucessória.
+3. **Contratos de Infiltração e Cifras (Selo Violeta):** Obtenção de livros de notas, senhas de cofres, mapas de defesas de fronteira ou cópias de testamentos antes que sejam registrados nos cartórios.
+4. **Contratos de Sabotagem Estrutural (Selo Carmesim):** Destruição silenciosa de instalações industriais, quebra de condutores de água ou contaminação de estoques de mantimentos sem disparar alarmes.
+5. **Contratos de Extração e Resgate (Selo Cinzento):** Resgatar um prisioneiro de alto valor de calabouços inimigos ou escoltar um desertor através do deserto antes que seja interceptado por patrulhas.
+ 6. **Contratos de Silenciamento Preventivo (Selo de Chumbo):** Eliminação coordenada de um grupo inteiro de testemunhas ou esquadrões de Cães-Farejadores que se aproximaram demais dos segredos de um cliente.
+ ---
+
+## V. Arsenal dos Executores e a Farmacopeia Letal Rejeitando maquinários pesados ou armas ruidosas que entreguem posições, o arsenal do Sindicato é focado na ocultação, na letalidade instantânea e no manuseio de toxinas:
+
+[ A ADAGA DE RANHURA CAPILAR ]
+
+[ O GARROTE DE SEDA-DE-ARANHA ]
+(Lâmina Negra & Conduto de Veneno) (Fio Invisível & Trava de Latão) \ / \ /
++------------------------------------------+
+| ARSENAL DAS LÂMINAS NEGRAS
+|
+| (Furtividade, Venenos & Silêncio)
+|
+
++---------------------
++--------------------+
+|
++----------------
++----------------+
+|
+|
+v
+v
+
+[ A ZARABATANA DE PULSO ]
+
+[ A MÁSCARA DE CERA MORTUÁRIA ]
+
+(Disparo Oculto de Dardo de Osso) (Disfarce Facial & Mudança de Face)
+* **A Adaga de Ranhura Capilar:** Lâminas estreitas de aço-negro forjado com três ranhuras microscópicas ao longo do gume. As ranhuras são preenchidas com venenos viscosos que não secam ao contato com o ar; quando a lâmina perfura a pele, a pressão dos tecidos força o veneno para dentro da corrente sanguínea em frações de segundo.
+ * **O Garrote de Seda-de-Aranha e Aço:** Um fio fino de arame de aço temperado trançado com seda de aranha-do-abismo, com cabos de madeira de ébano. Corta a circulação traqueal e jugular sem estalar, suportando a resistência de guerreiros pesados.
+* **A Zarabatana de Pulso Oculta:** Um tubo curto de bambu tratado escondido sob a manga da túnica, acionado por compressão manual. Dispara dardos leves de osso de peixe impregnados com toxina de paralisia muscular a até dez metros com ruído imperceptível.
+ * **A Máscara de Cera Mortuária:** Placas finas de cera moldável tratadas com essências de camuflagem que os operativos aplicam sobre o rosto para alterar traços fisionômicos, linhas de expressão e formato do nariz durante infiltrações.
+* **Pó de Cinza-Cega:** Mistura de cinza de carvalho, sal de bismuto e pimenta moída levada em pequenas bolsas de papel de arroz. Arremessada contra o rosto de oponentes em perseguições, causa cegueira temporária e espasmos de tosse.
+
+
+### Farmacopeia de Toxinas Oficiais:
+* **O Beijo de Nyxara:** Veneno líquido incolor e inodoro extraído de orquídeas das profundezas. Adicionado a taças de vinho, paralisa o sistema cardiorrespiratório em quatro horas durante o sono do alvo, simulando morte por causas naturais sem deixar marcas na pele.
+* **O Sangue de Escorpião-Rei:** Toxina viscosa de ação imediata aplicada em adagas. Provoca convulsões violentas e parada cardíaca em menos de trinta segundos após entrar no fluxo sanguíneo.
+* **O Suspiro de Galena:** Pó fino que evapora quando aquecido na brasa de uma lareira ou vela. O gás resultante induz sono comatoso em todos os ocupantes de um quarto fechado sem que percebam o perigo.
+ ---
+
+## VI. Geografia e Estrutura da Fortaleza das Lâminas Negras A sede central da guilda domina o paredão norte da Garganta do Escorpião em Malaxis, estendendo postos secretos em outras metrópoles:
+
+[ A FORTALEZA DAS LÂMINAS NEGRAS (SEDE EM MALAXIS) ]
+<- Cúpula, Salão dos Espelhos /
+
+[ BASTION: O ATELIÊ DAS SOMBRAS ]
+
+[ ZUL-BAZAAR: O BAZAR DOS SILÊNCIOS ]
+(Infiltração Nobre & Alfaiataria Clandestina) (Contratos de Príncipes & Venenos Raros)
+|
+|
+\\\\ GRISTAL: O NINHO DAS TIROLESAS NEGRAS ////////
+<- Espionagem Industrial
+
+
+
+### 1. A Fortaleza das Lâminas Negras (Malaxis - Sede Suprema) Uma cidadela de basalto negro construída sobre pilares naturais que se projetam sobre o vazio da garganta.
+ * **O Pátio das Pontes Levadiças:** A única entrada terrestre é protegida por duas pontes levadiças de ferro fundido e frestas de balestas pesadas patrulhadas por meio-orcs leais a Lorde Vorag.
+ * **O Salão dos Espelhos Quebrados:** Onde os clientes negociam contratos sob sigilo de gavetas seladas com chumbo.
+ * **A Galeria das Máscaras Mortuárias:** Um corredor abobadado subterrâneo onde ficam expostos os moldes de cera e gesso dos rostos de todas as vítimas executadas pela guilda nos últimos três séculos.
+ * **Os Laboratórios dos Alambiques Pretos:** As oficinas subterrâneas de Matriarca Arwen, onde alquimistas sintetizam venenos sob exaustores de carvão ativado.
+
+
+### 2. O Ateliê das Sombras (Bastion) Um elegante ateliê de costura e alfaiataria localizado discretamente no Distrito dos Selos.
+* **Operação:** Disfarçado como um estabelecimento de vestidos finos para nobres, atua como o posto de recepção de contratos da capital e base de apoio para os operativos de Grau IV (Fantasmas e Mímicos).
+
+
+### 3. O Bazar dos Silêncios (Zul-Bazar) Câmaras escondidas atrás de uma loja de incensos e perfumes raros no perímetro do Bazar dos Mil Desejos.
+ * **Operação:** Ponto de contato comercial com príncipes-mercadores e banqueiros do Conservatório que desejam eliminar rivais de comércio.
+
+
+### 4. O Ninho das Tirolesas Negras (Gristal) Um conjunto de barracos suspensos na rocha vertical abaixo da Bacia Hangares.
+* **Operação:** Especializado em espionagem industrial, contratos de sabotagem contra o Sindicato dos Guinchos e mortes por empurrão no Salto do Silêncio.
+ ---
+
+## VII. Relações Geopolíticas e o Código de Honra
+
++-------------------------------------------------------+
+| SINDICATO DAS LÂMINAS NEGRAS
+|
+
++---------------------------
++---------------------------+
+|
++--------------------------
++--------------------------+
+|
+|
+|
+v
+v
+v
+
+
++---------------+
+
++---------------+
+
++---------------+
+| ESPADAS-
+|
+| LIGA DOS
+|
+| NOBREZA DE
+|
+| SANGUINÁRIAS
+|
+| AGENCIADORES
+|
+| BASTION
+|
+|(Respeito/Nicho| |(Troca de Info
+|
+|(Clientes VIP
+|
+| Distinto)
+|
+| & Chantagens)
+|
+| & Alvos)
+|
+
++---------------+
+
++---------------+
+
++---------------+
+* **Neutralidade com a Liga dos Espadas-Sanguinárias:** Ambas as corporações respeitam seus territórios e nichos de atuação. As Espadas-Sanguinárias não aceitam contratos de envenenamento silencioso, e as Lâminas Negras não marcham como exércitos abertos em batalhas campais.
+* **Parceria Comercial com a Liga dos Agenciadores:** As Lâminas Negras compram relatórios de rotinas de clientes e pontos fracos de alvos identificados nos quartos dos bordéis de Mãe Corvo, vendendo proteção pontual em troca.
+* **Relação Pragmática com Bastion e Ferrovale:** Reis, barões e o General Kastel Draven condenam publicamente as Lâminas Negras em seus discursos oficiais, mas todos mantêm emissários secretos que frequentam o Salão dos Espelhos para eliminar inimigos políticos incômodos.
+---
+
+## VIII. O Quadro das Máscaras Mortuárias (8 Ganchos de Campanha) Estes são exemplos de contratos e operações de campo registrados na guilda, correspondentes à escala dos 8 Graus de progressão:
+================================================================================ QUADRO DE CONTRATOS DAS LÂMINAS NEGRAS
+[GRAU I] O Silenciamento do Informante (Recompensa: 40 Peças de Ouro) [GRAU II] A Sabotagem do Guincho de Minério (Recompensa: 90 Peças de Ouro) [GRAU III] A Emboscada no Passo do Escorpião (Recompensa: 180 Peças de Ouro) [GRAU IV] O Furto das Cifras do Palácio (Recompensa: 320 Peças de Ouro) [GRAU V] O Banquete da Taça Sonífera (Recompensa: 550 Peças de Ouro) [GRAU VI] A Invasão da Fortaleza Blindada (Recompensa: 850 Peças de Ouro) [GRAU VII] O Extermínio da Célula Concorrente (Recompensa: 1.400 Peças de Ouro) [GRAU VIII] O Fim do Duque de Calcário (Recompensa: 3.000 Peças de Ouro)
+
+
+### 1. O Silenciamento do Informante (Grau I) * **Solicitante:** Agenciador de Malaxis / Sindicato. * **Local:** Borda dos Desesperados (Malaxis). * **Fase de Investigação:** Localizar um ex-batedor da guilda que começou a vender descrições dos corredores da Fortaleza para mercenários locais. * **A Missão:** Rastrear o traidor até um cortiço de palafitas, eliminar o alvo com adaga em silêncio e queimar suas anotações. * **A Complicação:** O traidor contratou dois capangas armados da gangue dos Ratos de Poeira para vigiar a porta. * **Objetivo Primário:** Executar o traidor e escapar sem alertar patrulhas da borda. * **Recompensa:** 40 Peças de Ouro e avanço para Subnível 1.3.
+
+### 2. A Sabotagem do Guincho de Minério (Grau II) * **Solicitante:** Minerador Independente de Krag-Mora. * **Local:** Veios Profundos (Krag-Mora). * **Fase de Investigação:** Inspecionar as roldanas de içamento do guincho operado por uma forja rival desonesta. * **A Missão:** Aplicar ácido de corrosão lenta nas engrenagens de ferro para que a corda de tração se rompa durante o transporte de carga noturno. * **A Complicação:** A oficina possui cães de guarda farejadores treinados para detectar óleo mineral. * **Objetivo Primário:** Realizar a aplicação química sem disparar alarmes e fazer o rompimento parecer fadiga do metal. * **Recompensa:** 90 Peças de Ouro e promoção para Subnível 2.3.
+
+### 3. A Emboscada no Passo do Escorpião (Grau III) * **Solicitante:** Emissário de Zul-Bazar. * **Local:** Desfiladeiro de Arenito (Deserto de Sol-Crestado). * **Fase de Investigação:** Mapear os horários de travessia da carruagem de um mercador protegido por cinco mercenários experientes. * **A Missão:** Eliminar a escolta com zarabatanas de pulso e adagas de ranhura capilar, executando o alvo principal sem ferir os animais de carga. * **A Complicação:** A caravana foi surpreendida por uma tempestade de areia que reduziu a visibilidade a dois passos. * **Objetivo Primário:** Neutralizar todos os alvos antes que a tempestade disperse os rastros e recuperar a pasta de contratos. * **Recompensa:** 180 Peças de Ouro e braçadeira de Grau III (Lâmina-de-Ébano).
+
+### 4. O Furto das Cifras do Palácio (Grau IV) * **Solicitante:** Gabinete Diplomático / Cliente Anônimo. * **Local:** Distrito dos Selos (Bastion). * **Fase de Investigação:** Criar uma máscara de cera mortuária com os traços de um escrivão sênior da Torre Pura. * **A Missão:** Infiltrar-se nos arquivos centrais durante a troca de turno, abrir o cofre de chumbo e copiar as cifras de movimentação de tropas. * **A Complicação:** Um arquimago ativou uma ronda com diapasões de detecção de peso nas portas da biblioteca. * **Objetivo Primário:** Copiar os documentos, selar novamente o cofre e sair da câmara sem deixar indícios de arrombamento. * **Recompensa:** 320 Peças de Ouro e avanço para Grau IV (Subnível 4.3).
+
+### 5. O Banquete da Taça Sonífera (Grau V) * **Solicitante:** Banqueiro do Conservatório de Zul-Bazar. * **Local:** Palacete do Barranco dos Oásis (Zul-Bazar). * **Fase de Investigação:** Mapear a escala de garçons de um banquete nobre onde um juiz corrupto celebrará seu aniversário. * **A Missão:** Disfarçar-se de mestre de taças, introduzir uma dose de *Beijo de Nyxara* na jarra pessoal do juiz e garantir que a morte ocorra durante o sono horas após o jantar. * **A Complicação:** O juiz trouxe um provador particular que exige beber uma colher de cada bebida servida. * **Objetivo Primário:** Aplicar o veneno na borda interna da taça específica do alvo sem contaminar o restante da jarra. * **Recompensa:** 550 Peças de Ouro e um frasco de veneno *Suspiro de Galena*.
+
+<!-- SEGREDO -->
+### 6. A Invasão da Fortaleza Blindada (Grau VI) * **Solicitante:** Conselho dos Barões do Trigo / Emissário Anônimo. * **Local:** Bastião da Guarda de Ferrovale. * **Fase de Investigação:** Identificar os dutos de exaustão e os pontos cegos dos guardas em exotrajes na cidadela do General Draven. * **A Missão:** Penetrar na cidadela de alta segurança, eliminar um coronel de artilharia dentro de sua câmara blindada e recuperar os diagramas de cerco. * **A Complicação:** As portas do corredor usam fechos de liga dissonante que anulam qualquer ferramenta comum. * **Objetivo Primário:** Executar o oficial com estocada arterial de obsidiana e escapar antes que a sirene de alarme tranque os portões. * **Recompensa:** 850 Peças de Ouro e concessão de Adaga de Obsidiana de Grau
+<!-- FIM SEGREDO -->
+
+## VI.
+
+### 7. O Extermínio da Célula Concorrente (Grau VII) * **Solicitante:** O Conselho dos Três Nós (Mestre Kaelan). * **Local:** Galerias Subterrâneas dos Banhos (Malaxis). * **Fase de Investigação:** Mapear o esconderijo de um sindicato pirata de assassinos que começou a violar o Primeiro Selo aceitando subornos de alvos. * **A Missão:** Liderar uma equipe de operativos para cercar a célula clandestina e exterminar os doze membros da quadrilha em silêncio absoluto. * **A Complicação:** A célula barricou o refúgio com armadilhas de piche fervente e dois gladiadores de arena renegados. * **Objetivo Primário:** Eliminar todos os traidores, confiscar seus livros de registros e recuperar as insígnias roubadas da guilda. * **Recompensa:** 1.400 Peças de Ouro e promoção para Grau VII (Nó de Basalto).
+
+### 8. O Fim do Duque de Calcário (Grau VIII) * **Solicitante:** O Conselho dos Três Nós (Kaelan, Arwen e Vorag). * **Local:** Cidadela do Alto-Passo (Fronteira Norte). * **Fase de Investigação:** Mapear as três linhas concêntricas de muralhas, os cinquenta guardas de elite e a rotina do Duque em seus aposentos selados com chumbo. * **A Missão:** Penetrar no coração da fortaleza impenetrável, executar o Duque e afixar o selo das Lâminas Negras sobre o peito do falecido. * **A Complicação:** O Duque contratou um sósia perfeito que circula pelos aposentos e dorme na mesma câmara. * **Objetivo Primário:** Identificar o verdadeiro soberano, eliminar ambos se necessário para garantir o cumprimento do contrato e escapar sem disparar os sinos de cerco. * **Recompensa:** 3.000 Peças de Ouro, o título lendário de *Nó-Supremo* e gravação do nome na Galeria das Máscaras Mortuárias.
+ ---
+
+## IX. Elementos Sensoriais para o Mestre Narrar Utilize estes elementos descritivos durante as sessões envolvendo o Sindicato das Lâminas Negras para transmitir a atmosfera de silêncio absoluto, perigo iminente, frieza técnica e sofisticação mortal: * **Sons:** * O som quase imperceptível de uma lâmina de aço-negro deslizando para fora de uma bainha de couro macio untada em óleo vegetal. * O sussurro sibilante e seco de um dardo de zarabatana cortando o ar na escuridão de uma galeria. * O estalo abafado de ossos cervicais sendo travados pelo arame de um garrote antes de qualquer grito de socorro. * O gotejar compassado de soluções químicas em frascos de vidro escuro nos laboratórios subterrâneos. * O ruído leve e seco de passos descalços ou botas de sola de feltro deslizando sobre telhados e vigas de madeira. * **Visões:** * Silhuetas esguias cobertas por mantos de tecido preto fosco que não refletem a luz das tochas, camuflando-se perfeitamente nas sombras. * O brilho roxo-azulado sutil da seiva de veneno concentrado sobre as ranhuras de adagas polidas. * O reflexo desorientador e multiplicador das dezenas de espelhos inclinados no Salão dos Espelhos Quebrados. * A fileira macabra de centenas de máscaras mortuárias de cera pálida encarando o vazio na galeria subterrânea da Fortaleza. * **Cheiros:** * O aroma adocicado, pesado e enjoativo de extrato de orquídea-negra misturado a vinagre alquímico e óleos de preservação. * O cheiro acre e metálico de adagas recém-afiadas em pedra-sabão e lubrificadas com banho de galena. * A ausência quase total de odor corporal nos assassinos, mascarada propositalmente com pós de carvão e fumo de lavanda seca. * **Tato e Sensações Térmicas:** * A dormência fria, repentina e paralisante que se espalha pelos músculos segundos após uma picada de dardo envenenado. * A textura macia e espessa dos veludos negros que cobrem as mesas de conferência e as bainhas de adaga. * O ar abafado, seco e sem vento ao cruzar as portas pesadas de madeira de acácia da Fortaleza em Malaxis. ---
+
+## X. Economia da Morte e Tabela de Preços do Sindicato A contratação de serviços, compra de venenos e aquisição de equipamentos no Sindicato das Lâminas Negras segue uma tabela rigorosa de preços em ouro refinado:
+|
+**Item / Serviço / Contrato**
+|
+**Custo Oficial (Salão dos Espelhos / Membros)**
+|
+**Preço no Submundo / Mercado Externo**
+|
+| :---
+|
+:---
+|
+:---
+|
+| **Contrato de Execução Simples (Grau I / Viela)**
+|
+40 Peças de Ouro
+|
+Proibido para civis (Apenas sob contrato selado)
+|
+| **Contrato de Sabotagem Mecânica (Grau II)**
+|
+100 Peças de Ouro
+|
+Proibido (Operação de apoio técnico)
+|
+| **Contrato de Morte Natural de Comerciante (Grau III)**
+|
+200 Peças de Ouro
+|
+Proibido (Exige aprovação do Conselho)
+|
+| **Contrato de Infiltração e Roubo de Cifras (Grau IV)**
+|
+350 Peças de Ouro
+|
+Proibido (Operação de inteligência nobre)
+|
+| **Contrato de Envenenamento de Magistrado (Grau V)**
+|
+600 Peças de Ouro
+|
+Proibido (Uso de toxinas indetectáveis)
+|
+| **Contrato de Execução de General / Fortaleza (Grau VI)**
+|
+1.000 Peças de Ouro
+|
+Proibido (Operação militar de alta escala)
+|
+| **Contrato de Limpeza Total de Linhagem (Grau VII)**
+|
+1.800 Peças de Ouro
+|
+Proibido (Comando direto de preboste)
+|
+| **Contrato de Regicídio Continental (Grau VIII)**
+|
+3.500 Peças de Ouro
+|
+Proibido (Exclusivo do Executor Sem Rosto)
+|
+| **Adaga de Aço-Negro com Ranhura Capilar**
+|
+35 Peças de Ouro
+|
+80 Peças de Ouro (Arma de contrabandista sem insígnia)
+|
+| **Garrote de Seda-de-Aranha e Aço Temperado**
+|
+15 Peças de Ouro
+|
+40 Peças de Ouro (Ferramenta restrita de executor)
+|
+| **Zarabatana de Pulso com 12 Dardos de Osso**
+|
+20 Peças de Ouro
+|
+50 Peças de Ouro (Munição oculta de proximidade)
+|
+| **Dose de Veneno Beijo de Nyxara (Morte Natural)**
+|
+50 Peças de Ouro
+|
+120 Peças de Ouro (Toxina inodora de alambique)
+|
+| **Dose de Sangue de Escorpião-Rei (Parada Imediata)**
+|
+35 Peças de Ouro
+|
+85 Peças de Ouro (Veneno viscoso para lâminas)
+|
+| **Frasco de Suspiro de Galena (Gás Comatoso)**
+|
+40 Peças de Ouro
+|
+95 Peças de Ouro (Composto para lareiras e velas)
+|
+| **Máscara de Cera Mortuária de Disfarce (Kit com 3)**| 12 Peças de Ouro
+|
+30 Peças de Ouro (Insumo de infiltração facial)
+|
+| **Bolsa de Pó de Cinza-Cega (Kit com 4 unidades)**
+|
+5 Peças de Ouro
+|
+15 Peças de Ouro (Munição defensiva de fuga)
+|
+| **Manto de Camuflagem de Tecido de Ébano**
+|
+25 Peças de Ouro
+|
+65 Peças de Ouro (Capa que absorve reflexos de luz)
+|
+| **Contrato de Extração Crítica de Refém / Ativo**
+|
+150 Peças de Ouro
+|
+350 Peças de Ouro (Operação tática de resgate)
+|
+| **Serviço de Silenciamento Preventivo (Esquadrão)**
+|
+300 Peças de Ouro
+|
+700 Peças de Ouro (Limpeza total de testemunhas)
+|
