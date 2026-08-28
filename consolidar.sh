@@ -120,3 +120,16 @@ echo "" >> $OUT
 echo "# 9. Mitos da Engenharia Divina" >> $OUT
 cat lore/engenharia_divina_e_mitos.md >> $OUT
 echo "" >> $OUT
+
+echo "<div style='page-break-after: always;'></div>" >> $OUT
+echo "" >> $OUT
+
+echo "# 10. Facções e Sociedades Secretas" >> $OUT
+for file in faccoes/*.md; do
+    if [ "$file" != "faccoes/template.md" ] && [ "$file" != "faccoes/faccao1.md" ] && [ "$file" != "faccoes/O-Circulo-De-Giz.md" ] && [ "$file" != "faccoes/A-Horda-Silenciosa.md" ] && [ "$file" != "faccoes/O-Sindicato-Do-Ferro-Frio.md" ] && [ "$file" != "faccoes/Os-Patrulheiros-do-Dossel-Verde.md" ]; then
+        cat "$file" >> $OUT
+        echo "" >> $OUT
+        echo "---" >> $OUT
+        echo "" >> $OUT
+    fi
+done

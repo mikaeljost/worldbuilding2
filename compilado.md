@@ -3498,3 +3498,1334 @@ O terror é que Draven usa as toxinas biológicas de obediência desta mesma flo
 ## 8. As Montarias de Aço-Nervoso (A Telemetria Antiga)
 *Fragmentos de Vaeth-Kar.*
 As raças pré-cataclisma não cavalgavam bestas vivas, mas veículos de osso e metal. A pilotagem exigia telemetria ativa: o cavaleiro lia a pressão e temperatura através de cristais transmissores no chassi diretamente com a ponta dos dedos. Cavalgar era calibrar fisicamente a tração de uma máquina em terrenos brutais, algo que hoje é apenas uma lenda esquecida no deserto.
+
+<div style='page-break-after: always;'></div>
+
+# 10. Facções e Sociedades Secretas
+## [A Doutrina do Abismo]
+
+## Resumo
+
+Uma escola secreta e proibida de demonologia e magia de sangue que utiliza Ouro-Sangue para invocar e barganhar com entidades das profundezas.
+
+## Objetivo/Agenda
+
+Obter poder absoluto através do sacrifício de vidas humanas, romper os selos da Fenda e subjugar os reinos do continente.
+
+## Hierarquia
+
+Organizada em células clandestinas independentes sob a autoridade dos Invocadores Primordiais. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+[Cavernas Insondáveis sob Gristal], com cultos ocultos infiltrados em várias capitais.
+
+## Recursos
+
+Invocação de entidades abissais, manipulação de Ouro-Sangue, segredos arcanos proibidos e devotos leais até a morte.
+
+## Relações com outras facções
+
+[O Círculo de Giz]: inimiga fatal — caçada ativamente em todo o continente sem trégua.
+
+[A Horda Silenciosa]: aliada oculta — suspeita de fornecer rituais e suporte sombrio à expansão goblin.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [A Falange de Raiz-E-Aço]
+
+## Resumo
+
+Batalhão de elite formado por anões de armadura pesada de Aço-Anil e patrulheiros elfos que defendem as entradas das raízes de Treehold.
+
+## Objetivo/Agenda
+
+Defender as raízes da árvore contra monstros da selva equatorial do Berço Primordial e repelir invasores.
+
+## Hierarquia
+
+Comandada conjuntamente por um General Anão e uma Capitã Élfica. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+[A Fortificação das Raízes em Treehold].
+
+## Recursos
+
+Armaduras maciças de Aço-Anil, escudos intransponíveis e posições fortificadas nas raízes da árvore.
+
+## Relações com outras facções
+
+[Os Sangradores Sagrados]: aliada — defendem os postos de extração contra ataques externos.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [A Guarda da Carapaça]
+
+## Resumo
+
+Força de defesa instalada em torres nas extremidades de Tartuga para proteger a cidade contra piratas e feras marinhas.
+
+## Objetivo/Agenda
+
+Guarnecer a cidade flutuante, controlar quem sobe a bordo e repelir ataques de monstros marinhos ou piratas.
+
+## Hierarquia
+
+Comandada pelo Capitão da Carapaça. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+[As Torres de Balista das Extremidades em Tartuga].
+
+## Recursos
+
+Balistas marítimas pesadas, ganchos de escalada, projéteis incendíarios e frota de barcos de patrulha.
+
+## Relações com outras facções
+
+[Os Astrólogos do Fluxo]: aliada — utilizam as previsões náuticas dos astrólogos para preparar interceptações.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [A Guarda dos Elos]
+
+## Resumo
+
+Força de segurança militar armada com bestas e ganchos de atracação que patrulha as plataformas suspensas de Gristal.
+
+## Objetivo/Agenda
+
+Manter a lei nas pontes e arremessar criminosos graves diretamente no precipício sem fim durante as execuções.
+
+## Hierarquia
+
+Comandada pelo Capitão das Pontes. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+Postos de segurança nas correntes e elevadores centrais de Gristal.
+
+## Recursos
+
+Bestas pesadas, ganchos de contenção, redes de captura e jurisdição de execução sumária no Salto do Silêncio.
+
+## Relações com outras facções
+
+[Os Engenheiros de Elo]: aliada — garantem a proteção do maquinário em troca de financiamento.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [A Irmandade da Cinza]
+
+## Resumo
+
+Uma tradição mágica decadente e marginalizada dedicada à necromancia paliativa e à consolação de espíritos vagantes.
+
+## Objetivo/Agenda
+
+Preservar os ensinamentos ancestrais sobre a passagem da alma, realizar rituais fúnebres dignos para os pobres e sobreviver ao preconceito generalizado.
+
+## Hierarquia
+
+Orientada por um Conselho de Anciãos Necromantes. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+[O Claustro do Pó na Borda da Fenda].
+
+## Recursos
+
+Vasto conhecimento fúnebre e espiritual, rituais de comunicação pós-morte e bibliotecas ancestrais sobre a Fenda.
+
+## Relações com outras facções
+
+[Guilda dos Ossos Falantes]: inimiga — repudia ex-membros que profanam e comercializam cadáveres de sabedoria ancestral.
+
+[A Doutrina do Abismo]: inimiga — combate ativamente os rituais de sacrifício da magia do abismo.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [A Irmandade da Fuligem]
+
+## Resumo
+
+Sindicato trabalhista dos mineradores de Carvão-de-Sangue das veias profundas de Krag-Mora.
+
+## Objetivo/Agenda
+
+Garantir melhores salários, cotas de alimentação purificada e segurança contra o mofo negro e desabamentos nas minas.
+
+## Hierarquia
+
+Liderada por representantes eleitos das galerias de mineração. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+Distrito Mineiro e Veios Profundos em Krag-Mora.
+
+## Recursos
+
+Poder de paralisação total da economia do Norte (se a guilda cruzar os braços, as caldeiras da cidade apagam).
+
+## Relações com outras facções
+
+[O Sindicato do Ferro-Frio]: tensa/adversária — negocia constantes reajustes sob a ameaça de paralisações operacionais.
+
+[Os Druidas Cegos]: aliada — adquire rações de cogumelos purificados a custos reduzidos para os operários.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [A Liga dos Agenciadores]
+
+## Resumo
+
+Rede clandestina de banqueiros e agenciadores do submundo que organiza arenas relâmpago de luta em becos de Malaxis.
+
+## Objetivo/Agenda
+
+Quebrar a hegemonia do Coliseu dos Barões e lucrar com comissões violentas cobradas em apostas descentralizadas.
+
+## Hierarquia
+
+Chefiada por agenciadores e usurários de bairro. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+Bairros periféricos, telhados e fossos de Malaxis.
+
+## Recursos
+
+Mobilidade sem instalações fixas, cobradores truculentos e rede de informantes de rua.
+
+## Relações com outras facções
+
+[Os Barões do Coliseu]: rival encarniçada — protagonizam conflitos territoriais contínuos.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [A Liga dos Espadas-Sanguinárias]
+
+## Resumo
+
+Coalizão de exércitos mercenários, orcs e desertores de guerra que vende batalhões militares para conflitos não oficiais.
+
+## Objetivo/Agenda
+
+Lucrar com o aluguel de força militar bruta para lordes feudais e comerciantes ricos em todo o continente.
+
+## Hierarquia
+
+Liderada pelos Capitães-Generais das Companhias. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+Acampamentos fortificados ao redor do desfiladeiro de Malaxis.
+
+## Recursos
+
+Milhares de mercenários veteranos, armas de cerco, cavalaria pesada e táticas de guerra aberta.
+
+## Relações com outras facções
+
+[A Rede dos Dentes-de-Ouro]: aliada — prestam segurança armada para galpões de receptação de grande porte.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [A Rede dos Dentes-de-Ouro]
+
+## Resumo
+
+Máfia de receptadores de luxo formada por halflings e gnomos que "lava" e revende cargas roubadas em Malaxis.
+
+## Objetivo/Agenda
+
+Monopolizar a receptação de bens roubados nas estradas e extorquir os donos originais vendendo as mercadorias de volta por resgates.
+
+## Hierarquia
+
+Dirigida pelos Chefes da Máfia de Receptação. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+[Os Galpões dos Dentes-de-Ouro em Malaxis].
+
+## Recursos
+
+Depósitos maciços de itens roubados, rede de falsificação e intermediários comerciais no continente.
+
+## Relações com outras facções
+
+[O Cartel do Aço-Frio]: aliada comercial — negociam minérios contrabandeados e peças fabris desmanchadas.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Cartógrafos do Submundo]
+
+## Resumo
+
+Uma sociedade de eruditos e exploradores apaixonados por mapas, que contratam aventureiros para mapear masmorras e os níveis da Grande Fenda.
+
+## Objetivo/Agenda
+
+Mapear 100% dos níveis inferiores da Grande Fenda e registrar todas as ruínas soterradas do continente.
+
+## Hierarquia
+
+Administrada pela Junta dos Cartógrafos-Chefes. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+Sede central em Gristal, com escritórios de contrato em Bastion e Malaxis.
+
+## Recursos
+
+Vasto acervo de mapas geográficos e de masmorras, verbas para contratos de exploração e suprimentos de topografia arcana.
+
+## Relações com outras facções
+
+[Os Mergulhadores da Névoa]: aliada comercial — adquire dados de exploração e relatórios de rotas do abismo.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Guilda dos Ossos Falantes]
+
+## Resumo
+
+Grupo de necromantes renegados da Irmandade da Cinza que compra cadáveres de sábios para extrair seus conhecimentos e patentes esquecidas.
+
+## Objetivo/Agenda
+
+Comercializar segredos industriais, fórmulas alquímicas e patentes antigas obtidas através da interrogação de mortos.
+
+## Hierarquia
+
+Rede descentralizada gerenciada por Mestres do Leilão de Cadáveres. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+Operações clandestinas nos subsolos de Bastion, Krag-Mora e Zul-Bazar.
+
+## Recursos
+
+Acervo de crânios falantes, conhecimento de rituais necromânticos de memória e conexões com o mercado negro.
+
+## Relações com outras facções
+
+[A Irmandade da Cinza]: inimiga — vista como gananciosa e profanadora por seus antigos irmãos de tradição.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [O Sindicato das Lâminas Negras]
+
+## Resumo
+
+A mais respeitada e temida guilda de assassinos de elite e envenenadores do continente, sediada em Malaxis.
+
+## Objetivo/Agenda
+
+Executar contratos de morte com precisão cirúrgica, mantendo seu código de honra inquebrável (quem paga primeiro garante o contrato).
+
+## Hierarquia
+
+Comandada pelo Mestre das Lâminas. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+[A Fortaleza das Lâminas Negras em Malaxis].
+
+## Recursos
+
+Assassinos letais indetectáveis, fórmulas de venenos raros, fortaleza inexpugnável e reputação que amedronta até governantes.
+
+## Relações com outras facções
+
+[A Liga dos Espadas-Sanguinárias]: neutralidade respeitosa — operam em nichos diferentes de violência (assassinato vs guerra aberta).
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [O Cartel da Pólvora-de-Sol]
+
+## Resumo
+
+Sindicato de mercadores e refinadores que controla a colheita, refino e venda da valiosa especiaria alucinógena Pólvora-de-Sol.
+
+## Objetivo/Agenda
+
+Manter o preço da especiaria elevado no mercado de luxo do continente e controlar as áreas de colheita dos cactos-solares.
+
+## Hierarquia
+
+Dirigido pelos Barões do Cacto. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+[O Mar de Cactos-Solares em Zul-Bazar].
+
+## Recursos
+
+Fortunas acumuladas, refinarias exóticas, milícias de proteção de lavouras e rede de distribuição comercial.
+
+## Relações com outras facções
+
+[Os Cantores da Areia]: aliada comercial — contrata os guias para navegar em zonas de tempestade mana-solar.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [O Cartel do Aço-Frio]
+
+## Resumo
+
+Uma poderosa rede de contrabandistas que opera minas clandestinas de Ferro Dissonante (Aço-Mudo) e Arcanita Bruta.
+
+## Objetivo/Agenda
+
+Monopolizar o mercado negro de minérios mágicos e supressores de magia, abastecendo criminosos, rebeldes e cartéis.
+
+## Hierarquia
+
+Liderada pelos Barões do Contrabando. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+Minas ocultas na Grande Fenda e galpões de distribuição em Malaxis.
+
+## Recursos
+
+Rotas clandestinas de transporte, estoques ilegais de Aço-Mudo e Arcanita Bruta, e guardas mercenários bem equipados.
+
+## Relações com outras facções
+
+[Os Ratos da Fenda]: aliada — utiliza a guilda para escoar minério roubado das galerias de Libertaris.
+
+[A Rede dos Dentes-de-Ouro]: aliada comercial — negocia ligas metálicas contrabandeadas em Malaxis.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [O Conclave das Flores-Luz]
+
+## Resumo
+
+Guilda requintada de botânicos e alquimistas de Aethelgard que possui uma Divisão de Coleta Profunda focada no chão da selva.
+
+## Objetivo/Agenda
+
+Cultivar plantas medicinais e extrair dejetos de animais exóticos no chão da selva para sintetizar os remédios e venenos mais caros do continente.
+
+## Hierarquia
+
+Governado pelo Grande Conselho de Botânicos. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+[As Estufas Suspensas das Flores-Luz em Aethelgard].
+
+## Recursos
+
+Estufas flutuantes de ponta, fórmulas alquímicas únicas e expedições equipadas para incursões no solo perigoso.
+
+## Relações com outras facções
+
+[Os Caçadores do Abismo Verde]: contratante — financiam rastreadores para proteger suas expedições de coleta no solo.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [O Conservatório dos Fios Dourados]
+
+## Resumo
+
+Uma influente facção de juristas e advogados arcanos famosa por redigir contratos mágicos invioláveis selados com punições rituais automáticas.
+
+## Objetivo/Agenda
+
+Dominar o sistema financeiro, acordos comerciais, dívidas e empréstimos em todo o continente através do rigor jurídico arcano.
+
+## Hierarquia
+
+Liderado pelo Tribunal dos Altos Auditores de Vidro. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+[O Palácio de Vidro em Zul-Bazar].
+
+## Recursos
+
+Imensas reservas de ouro em depósitos bancários, juristas renomados e acesso à magia de vinculação contratual de sangue.
+
+## Relações com outras facções
+
+[As Balanças de Vidro]: aliada — utiliza a guilda de agiotas para a execução direta de cobranças em devedores.
+
+[Os Quebradores de Selos]: contratante — contrata a guilda para invadir cofres e reaver bens dados em garantia.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Patrulheiros do Dossel Verde]
+
+## Resumo
+
+Corpo de combatentes de elite que patrulha as correntes gigantes de ancoragem de Aethelgard para eliminar monstros que tentam subir da selva.
+
+## Objetivo/Agenda
+
+Impedir que bestas voadoras e predadores do chão da selva usem as correntes como ponte para invadir as ilhas flutuantes.
+
+## Hierarquia
+
+Liderados pelos Capitães da Corrente. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+[As Correntes de Ancoragem em Aethelgard].
+
+## Recursos
+
+Técnicas de combate em queda livre e em correntes verticais, arqueiros de elite e ganchos de manobra rápida.
+
+## Relações com outras facções
+
+[Os Ancoradores do Céu]: aliada — protegem as estruturas manipuladas pelos engenheiros.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Alfaiates de Seda-Férrea]
+
+## Resumo
+
+Guilda ultra-secreta e lendária de alfaiates que costuram fios invisíveis de Raiz-de-Eco nas golas de Roupas nobres para espionar a elite continental.
+
+## Objetivo/Agenda
+
+Gravador segredos políticos, chantagens e negociações de estado para manipular nos bastidores as decisões dos monarcas e nobres.
+
+## Hierarquia
+
+Liderança oculta em absoluto sigilo; a maioria da população acredita ser apenas um mito urbano.
+
+## Território/Base
+
+[O Ateliê dos Alfaiates de Seda-Férrea em Bastion].
+
+## Recursos
+
+Rede de escuta arcana continental, arquivos de chantagem contra os homens mais poderosos do continente e trajes defensivos de seda-férrea.
+
+## Relações com outras facções
+
+[Nobreza de Bastion]: parasitária — veste e atende a nobreza enquanto extrai todos os seus segredos.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Ancoradores do Céu]
+
+## Resumo
+
+Guilda de engenheiros e acrobatas das alturas responsável por regular os contrapesos arcanos de Pedra-Pólen que mantêm Aethelgard flutuando.
+
+## Objetivo/Agenda
+
+Garantir o equilíbrio físico das ilhas flutuantes da cidade e extorquir taxas de manutenção dos distritos ricos.
+
+## Hierarquia
+
+Comandados pelo Mestre da Ancoragem. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+[Os Balancins dos Ancoradores do Céu em Aethelgard].
+
+## Recursos
+
+Domínio técnico do ajuste gravitaional da Pedra-Pólen, engenharia de cabos e posição vital de infraestrutura na metrópole.
+
+## Relações com outras facções
+
+[Os Patrulheiros do Dossel Verde]: aliada — trabalham em conjunto na manutenção da segurança das estruturas suspensas.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Aranhas do Abismo]
+
+## Resumo
+
+Guilda de alpinistas destemidos de Gristal especializada em colher Obsidiana Rastejante nas paredes verticais da Grande Fenda.
+
+## Objetivo/Agenda
+
+Manter a dominância absoluta sobre a colheita de Obsidiana Rastejante bruta sem despencar no abismo sem fim.
+
+## Hierarquia
+
+Estruturada por Mestres das Cordas. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+Plataformas inferiores de Gristal e paredões rochosos da Fenda.
+
+## Recursos
+
+Equipamentos de escalada avançados, arnês de segurança reforçados e o monopólio da colheita de obsidiana virgem.
+
+## Relações com outras facções
+
+[Os Lapidadores de Obsidiana]: aliada — fornece a matéria-prima bruta para o refino e forja de armas.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Astrólogos do Fluxo]
+
+## Resumo
+
+Sociedade de navegadores e astrônomos que estuda o movimento dos oceanos e prevê tempestades para guiar Tartuga.
+
+## Objetivo/Agenda
+
+Mapear as rotas oceânicas mais seguras para a Tartaruga Ancestral e proteger a cidade nômade de cataclismos marítimos.
+
+## Hierarquia
+
+Liderados pelo Grão-Navegador e pelo Círculo Marítimo. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+Torres de Observação no casco superior de Tartuga.
+
+## Recursos
+
+Instrumentos de navegação estelar, acervo de mapas náuticos e prestígio junto aos moradores do casco.
+
+## Relações com outras facções
+
+[A Guarda da Carapaça]: aliada — repassa coordenadas geográficas para posicionamento de defesas.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Barões do Coliseu]
+
+## Resumo
+
+Cartel de ex-gladiadores que comanda o grande anfiteatro subterrâneo de Malaxis, movimentando fortuna em lutas de morte e apostas.
+
+## Objetivo/Agenda
+
+Manter o monopólio do entretenimento sangrento e combates de arena, controlando os maiores volumes de apostas em Malaxis.
+
+## Hierarquia
+
+Dirigido pelo Conselho dos Barões. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+[O Coliseu dos Barões em Malaxis].
+
+## Recursos
+
+Anfiteatro monumental fortificado, exército de gladiadores, feras exóticas e capital financeiro enorme.
+
+## Relações com outras facções
+
+[A Liga dos Agenciadores]: rival violenta — disputam o controle de apostas ilegais na cidade.
+
+[Os Traficantes de Grilhões]: compradora — adquire escravos vindos clandestinamente de Libertaris.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Cantores da Areia]
+
+## Resumo
+
+Guilda de guias e nômades do deserto que usam rituais acústicos para mapear lençóis freáticos e prever tempestades no Deserto de Sol-Crestado.
+
+## Objetivo/Agenda
+
+Garantir a navegação segura pelo deserto escaldante e manter o monopólio da localização dos aquíferos secretos.
+
+## Hierarquia
+
+Guiados pelos Velhos Cantores das Dunas. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+Rotas caravaneiras e oásis do Deserto de Sol-Crestado, com entrepostos em Zul-Bazar.
+
+## Recursos
+
+Rituais de ressonância acústica para achar água, conhecimento impecável das dunas e respeito de todos os mercadores do deserto.
+
+## Relações com outras facções
+
+[O Cartel da Pólvora-de-Sol]: contratante — prestam serviços de navegação para escoltar caravanas de especiarias.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Cirurgiões-Engrenagem]
+
+## Resumo
+
+Guilda de médicos de beco e mecânicos clandestinos que fabricam, instalam e vendem próteses mecânicas para a população trabalhadora.
+
+## Objetivo/Agenda
+
+Lucrar com o mercado de próteses mecânicas populares e cobrar dívidas através do recolhimento forçado de peças atrasadas.
+
+## Hierarquia
+
+Organização informal chefiada pelos mestres da cirurgia de sucata. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+[O Bairro das Próteses em Krag-Mora].
+
+## Recursos
+
+Equipamentos cirúrgicos improvisados, próteses funcionais de baixo custo e cobradores musculosos para reaver peças em atraso.
+
+## Relações com outras facções
+
+[O Sindicato do Ferro-Frio]: rival — operam sem pagar licenças de patentes industriais oficiais.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Colhedores de Casco]
+
+## Resumo
+
+Guilda de botânicos e herbologistas que cultiva recursos medicinais e cuida da saúde da carapaça de Tartuga.
+
+## Objetivo/Agenda
+
+Extrair plantas e minerais raras formados nas placas da carapaça sem ferir a tartaruga ancestral.
+
+## Hierarquia
+
+Comandados pelos Mestres do Cultivo de Casco. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+Placas e hortas orgânicas do casco de Tartuga.
+
+## Recursos
+
+Elixires exclusivos derivados da biologia da tartaruga, conhecimento de parasitologia marinha e plantas medicinais.
+
+## Relações com outras facções
+
+[Os Engenheiros das Cavidades]: aliada — atuam juntos na preservação da integridade do casco da criatura.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Cães-Farejadores]
+
+## Resumo
+
+Guilda legalizada de caçadores de recompensas que atua como força policial arcana na caça a ritualistas não autorizados em Bastion.
+
+## Objetivo/Agenda
+
+Erradicar a feitiçaria clandestina em Bastion e lucrar com a retenção de porcentagens das multas cobradas de infratores.
+
+## Hierarquia
+
+Comandados por Inspetores Arcanos; utilizam familiares mágicos cada vez mais raros à medida que sobem na hierarquia.
+
+## Território/Base
+
+Quartéis do distrito policial e burocrático de Bastion.
+
+## Recursos
+
+Grilhões de Aço-Mudo, cassetetes supressores de energia, mandados judiciais e matilhas de familiares místicos.
+
+## Relações com outras facções
+
+[O Círculo de Giz]: aliada — atuam como o braço ostensivo e executor das leis do Círculo.
+
+[Os Semeadores de Sangue]: inimiga em potencial — perseguem rituais não autorizados no campo.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Druidas Cegos]
+
+## Resumo
+
+Culto de botânicos subterrâneos adaptados à escuridão que cultivam fungos venenosos purificados nas profundezas de Krag-Mora.
+
+## Objetivo/Agenda
+
+Prover a base alimentar de toda a classe trabalhadora de Krag-Mora purificando cogumelos que seriam fatais para outros povos.
+
+## Hierarquia
+
+Liderados pelos Anciãos da Penumbra. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+[As Cavernas dos Druidas Cegos em Krag-Mora].
+
+## Recursos
+
+Técnicas exclusivas de purificação botânica, imunidade biológica a toxinas e monopólio da produção de alimentos no Norte.
+
+## Relações com outras facções
+
+[A Irmandade da Fuligem]: aliada — principal fornecedor da alimentação diária dos mineradores.
+
+## Membros notáveis
+
+Todos os membros principais não têm o nome criado ainda.
+
+---
+
+## [Os Engenheiros das Cavidades]
+
+## Resumo
+
+Corporação técnica responsável por gerenciar os reservatórios de água e habitações escavadas no casco fossilizado de Tartuga.
+
+## Objetivo/Agenda
+
+Garantir o suprimento contínuo de água doce e manter a estabilidade das moradias internas do casco.
+
+## Hierarquia
+
+Liderados pelo Engenheiro-Chefe das Cavidades. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+[As Câmaras Fossilizadas do Casco em Tartuga].
+
+## Recursos
+
+Controle das bombas de filtragem e reservatórios de água doce potável da cidade.
+
+## Relações com outras facções
+
+[Os Colhedores de Casco]: aliada — cooperam na manutenção interna da cidade.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Engenheiros de Elo]
+
+## Resumo
+
+Corporação de inventores e magos-mecanóides que controla os guinchos e elevadores oficiais de Gristal, cobrando pedágios pesados.
+
+## Objetivo/Agenda
+
+Monopolizar todo o transporte vertical na Fenda e esmagar o transporte pirata e ilegal de cargas.
+
+## Hierarquia
+
+Governados pelo Conselho dos Sete Engenheiros. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+[Os Elevadores Centrais de Guincho em Gristal].
+
+## Recursos
+
+Guinchos a vapor de grande porte, cabos reforçados, licenças operacionais exclusivas e privilégios comerciais.
+
+## Relações com outras facções
+
+[Os Ratos de Cabo]: inimiga — combatem ferozmente a rede clandestina que rouba seus clientes.
+
+[A Guarda dos Elos]: aliada — financiam a guarda para proteger as engrenagens dos elevadores.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Lapidadores de Obsidiana]
+
+## Resumo
+
+Guilda de artesãos que trabalha pendurada em andaimes no vazio lapidando e forjando lâminas de Obsidiana Rastejante.
+
+## Objetivo/Agenda
+
+Forjar lâminas, bisturis e projéteis letais que causam sangramento contínuo que recusa cicatrizar.
+
+## Hierarquia
+
+Liderados pelos Mestres-Lapidadores. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+Oficinas suspensas em Gristal.
+
+## Recursos
+
+Técnicas exclusivas de lapidação de obsidiana vulcânica e forjas adaptadas para estruturas suspensas.
+
+## Relações com outras facções
+
+[Os Aranhas do Abismo]: aliada comercial — adquirem a pedra bruta colhida nas paredes da Fenda.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Leões de Bronze]
+
+## Resumo
+
+Uma guild corporativa ostentosa de caçadores de monstros que aceita apenas contratos contra feras colossais e recusa missões contra goblins.
+
+## Objetivo/Agenda
+
+Caçar bestas lendárias para obter prestígio, títulos nobiliárquicos, patrocínios aristocráticos e recompensas milionárias.
+
+## Hierarquia
+
+Comandada pelo Grão-Caçador e pelo Conselho dos Campeões. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+Sede monumental em Bastion, com filiais operacionais em Aethelgard.
+
+## Recursos
+
+Arsenais de caça de porte pesado, cavaleiros altamente treinados, grande influência política e privilégios feudais.
+
+## Relações com outras facções
+
+[A Horda Silenciosa]: neutra/ignorante — recusa contratos contra goblins por falta de prestígio, permitindo que a Horda cresça sem ameaças da elite.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Mantenedores da Corrente]
+
+## Resumo
+
+Corporação de carcereiros e administradores oficiais de Libertaris que governa a Cidade-Prisão com punhos de ferro e subornos.
+
+## Objetivo/Agenda
+
+Garantir o suprimento de Ferro Dissonante para o continente, conter rebeliões e enriquecer com extorsão interna.
+
+## Hierarquia
+
+Liderados pelo Diretor-Geral de Libertaris. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+Portão de Entrada e Setor Administrativo Superior de Libertaris.
+
+## Recursos
+
+Controle dos elevadores centrais de água e comida, monopólio de armas de fogo supressoras e autoridade estatal sobre os detentos.
+
+## Relações com outras facções
+
+[Os Traficantes de Grilhões]: aliada/corrupta — operam esquemas ilegais de venda de prisioneiros para o exterior.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Mergulhadores da Névoa]
+
+## Resumo
+
+Caçadores de relíquias veteranos que descem de guincho com trajes reforçados até as profundezas escuras da Grande Fenda.
+
+## Objetivo/Agenda
+
+Explorar as ruínas soterradas e resgatar artefatos e minérios raros do fundo abissal onde a luz solar nunca chega.
+
+## Hierarquia
+
+Organizados em expedições chefiadas por Capitães do Cabo. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+Plataformas de descida inferior em Gristal.
+
+## Recursos
+
+lanternas de Seiva-Estrela, trajes de mergulho contra pressão e venenos, e relíquias resgatadas do abismo.
+
+## Relações com outras facções
+
+[Cartógrafos do Submundo]: aliada comercial — vendem relatórios detalhados de expedições em troca de mapas atualizados.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Quebradores de Selos]
+
+## Resumo
+
+Guilda de caçadores de penhoras especializada em invadir cofres mágicos e reaver bens de devedores falidos a serviço dos bancos.
+
+## Objetivo/Agenda
+
+Executar ordens de apreensão judicial ou financeira, recuperando artefatos, propriedades e cofres trancados por magia.
+
+## Hierarquia
+
+Liderada por Mestres-Quebradores de Selos. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+[Os Cofres dos Quebradores de Selos em Zul-Bazar].
+
+## Recursos
+
+Ferramentas de arrombamento mágico, dispositivos supressores de runas, especialistas em invasão e força tática.
+
+## Relações com outras facções
+
+[O Conservatório dos Fios Dourados]: aliada/contratante — braço operacional para execução de cláusulas de inadimplência.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Ratos da Fenda]
+
+## Resumo
+
+Rede clandestina de contrabandistas de Libertaris que utiliza passagens secretas nos penhascos da Fenda para retirar Ferro Dissonante ilegal.
+
+## Objetivo/Agenda
+
+Escoar Ferro Dissonante não registrado das minas da prisão para vender no mercado negro por fortunas.
+
+## Hierarquia
+
+Células autônomas lideradas pelos Mestres do Pique. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+[Os Túneis Secretos dos Ratos da Fenda em Libertaris].
+
+## Recursos
+
+Passagens ocultas nas escarpas verticais da Fenda, rotas de fuga e compradores clandestinos no continente.
+
+## Relações com outras facções
+
+[O Cartel do Aço-Frio]: aliada comercial — vende o minério supressor roubado para distribuição continental.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Ratos de Cabo]
+
+## Resumo
+
+Guilda acrobática de transporte ilegal que opera redes clandestinas de tirolesas e cestos no vazio de Gristal.
+
+## Objetivo/Agenda
+
+Oferecer transporte vertical barato e sem fiscalização para contrabandistas e aventureiros por metade do preço oficial.
+
+## Hierarquia
+
+Chefiados pelos Mestres da Roldana. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+[A Rede Clandestina de Ratos de Cabo em Gristal].
+
+## Recursos
+
+Emaranhado clandestino de cabos e tirolesas, roldanas modificadas e conhecimento das correntes de vento da Fenda.
+
+## Relações com outras facções
+
+[Os Engenheiros de Elo]: inimiga — sabotam os monopólios e fogem dos fiscais corporativos.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Sangradores Sagrados]
+
+## Resumo
+
+Ordem de sacerdotes elfos e mestres-forjadores anões que realiza a drenagem ritual e sustentável do Aço-Anil de Treehold.
+
+## Objetivo/Agenda
+
+Extrair a seiva metálica azul sem prejudicar a vida ou a estrutura biológica da grande Árvore-Mãe.
+
+## Hierarquia
+
+Gerenciados pelo Conselho Misto dos Prateados. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+[Os Veios de Aço-Anil em Treehold].
+
+## Recursos
+
+Punções rituais de prata purificada, fórmulas de pomadas medicinais para plantas e monopólio da seiva de Aço-Anil.
+
+## Relações com outras facções
+
+[A Falange de Raiz-E-Aço]: aliada — fornece a seiva purificada para forjar os equipamentos militares da cidade.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Semeadores de Sangue]
+
+## Resumo
+
+Máfia agrícola secreta que realiza rituais de sacrifício com Ouro-Sangue para acelerar as colheitas das grandes propriedades feudais em Bastion.
+
+## Objetivo/Agenda
+
+Monopolizar a produção de cereais do continente, extorquir camponeses independentes e enriquecer com o comércio de grãos perfeitos.
+
+## Hierarquia
+
+Dirigida por Senhores de Engenho e Ritualistas do Solo. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+[Os Campos de Ouro-Sangue em Bastion].
+
+## Recursos
+
+Vastas propriedades rurais, milícia armada de campo, controle de 6 rituais agrícolas de sangue e grande fortuna.
+
+## Relações com outras facções
+
+[O Círculo de Giz]: inimiga oculta — esconde seus rituais de sangue para não ser exterminada pelos fiscais arcanos.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Tecelões de Raízes]
+
+## Resumo
+
+Guilda de druidas e arquitetos que moldam a madeira viva do tronco de Treehold através de cantos e rituais acústicos.
+
+## Objetivo/Agenda
+
+Expandir os salões, passarelas e moradias no interior de Treehold sem cortar ou danificar a madeira da árvore.
+
+## Hierarquia
+
+Liderados pelos Mestres da Harmonia. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+[Os Salões Esculpidos do Tronco em Treehold].
+
+## Recursos
+
+Rituais de crescimento vegetal guiado, arquitetura orgânica viva e manutenção das galerias internas.
+
+## Relações com outras facções
+
+[Os Sangradores Sagrados]: aliada — preservam a integridade física do tronco durante as sangrias.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Traficantes de Grilhões]
+
+## Resumo
+
+Sindicato clandestino de guardas corruptos de Libertaris especializado em forjar mortes de prisioneiros para vendê-los no mercado escravagista.
+
+## Objetivo/Agenda
+
+Lucrar com o tráfego velado de detentos para arenas de combate em Malaxis ou minas privadas.
+
+## Hierarquia
+
+Rede secreta de carcereiros e negociantes. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+Postos ocultos na Zona de Mercado e blocos inferiores de Libertaris.
+
+## Recursos
+
+Acesso livre aos registros de presidiários, falsificação de documentos e contatos com compradores de escravos.
+
+## Relações com outras facções
+
+[Os Barões do Coliseu]: parceira comercial — vende gladiadores clandestinos para o coliseu de Malaxis.
+
+## Membros notáveis
+
+Ainda não criado.
+
+---
+
+## [Os Trajes-de-Chumbo]
+
+## Resumo
+
+Irmandade secreta de técnicos de manutenção que vestem trajes herméticos de chumbo para operar caldeiras de alta pressão sem revelar o rosto.
+
+## Objetivo/Agenda
+
+Manter o controle absoluto das tubulações e reatores de Krag-Mora e proteger o segredo de suas identidades.
+
+## Hierarquia
+
+Ordem hermética comandada pelo Grão-Isolador. A liderança específica ainda não foi criada.
+
+## Território/Base
+
+Tubulações Centrais e Reatores de Krag-Mora.
+
+## Recursos
+
+Equipamentos de proteção térmica e radioativa, controle do fluxo de vapor da cidade e capacidade de provocar o colapso do reator central.
+
+## Relações com outras facções
+
+[O Sindicato do Ferro-Frio]: dependência mútua — a facção oficial depende inteiramente dos Trajes para evitar acidentes industriais.
+
+## Membros notáveis
+
+Nenhum membro jamais revelou o rosto; nomes ainda não criados.
+
+---
