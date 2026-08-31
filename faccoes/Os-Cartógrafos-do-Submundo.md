@@ -1,7 +1,7 @@
-Lore Expandida: Os Cartógrafos do Submundo
+# Lore Expandida: Os Cartógrafos do Submundo
 Um mapa em branco não é uma incerteza geográfica; é um insulto à razão e uma fresta por onde a escuridão avança. Mapear o abismo é a única forma de acorrentá-lo na razão humana.
 
-## I. Visão Geral e a Doutrina do Mapeamento Absoluto
+## Identidade e Motivação (Visão Geral) e a Doutrina do Mapeamento Absoluto
 Nas galerias abafadas, pátios suspensos e bibliotecas de pergaminhos do Ateliê dos Sete Ventos em Gristal —, onde o ar carrega o cheiro de tinta de nitrato de prata, couro de encadernação, cera de abelha e a névoa fria que sobe da Grande Fenda —, opera Os Cartógrafos do Submundo: a mais prestigiada, audaciosa e obcecada sociedade de eruditos, topógrafos, geógrafos e exploradores do continente.
 Fundada nos primórdios da ocupação da Cicatriz por eruditos que perceberam que mais homens morriam por ignorância de terreno do que pelas garras de monstros, a sociedade ergueu-se sobre um dogma sagrado e inquebrável: O Mapeamento Absoluto. Para os Cartógrafos do Submundo, o mundo subterrâneo, os salões esquecidos de Vaeth-Kar e as profundezas insondáveis da Fenda não são mistérios a serem temidos, mas sim um vasto mosaico geográfico esperando para ser medido, desenhado, catalogado e eternizado em pergaminho.
 Diferente do Círculo de Giz (que busca patentear rituais e cobrar royalties sobre a geometria), os Cartógrafos do Submundo não se importam com o monopólio comercial da magia; sua paixão é a Verdade Topográfica. Eles contratam levas diárias de aventureiros, mercenários, mercadores e mergulhadores para adentrarem as ruínas mais sombrias, entregando-lhes cadernetas de campo, réguas de marfim e agulhas de ressonância. A meta final da sociedade é colossal e beira a loucura acadêmica: mapear 100% dos níveis inferiores da Grande Fenda e catalogar cada ruína soterrada do continente.

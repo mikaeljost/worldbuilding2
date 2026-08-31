@@ -1,29 +1,195 @@
-## [O Conclave das Flores-Luz]
+# Lore Expandida: O Conclave das Flores-Luz
+A flor que desabrocha mais perto do sol cura a mente dos reis; o veneno que escorre das entranhas do chão apodrece o trono antes que o herdeiro perceba o aroma da taça. A natureza não tem moral, apenas fórmulas.
+— Grão-Curador Alden Sterling, Discurso de Abertura do Ano Botânico
 
-## Resumo
+## Identidade e Motivação (Visão Geral) e a Doutrina da Alta Botânica Equatorial
+Flutuando nas altitudes límpidas e ensolaradas de Aethelgard, onde as cúpulas de cristal polido reluzem contra o azul do firmamento e o ar carrega o aroma doce de orquídeas e ozônio puro, opera O Conclave das Flores-Luz: a mais requintada, aristocrática, hermética e lucrativa corporação de botânicos, herbalistas de precisão, mestres de estufa e alquimistas do continente.
+Longe de funcionar como uma guilda de aventureiros com murais públicos de taverna ou um culto druídico rústico, o Conclave é uma Sociedade Científica e Empresa de Monopólio Bio-Alquímico. Seu objetivo primordial não é a exploração desordenada do mundo, mas o cultivo estéril de espécies botânicas raras sob luz solar desimpedida e a extração sistemática de secreções, glândulas, seivas ácidas e dejetos de animais exóticos no chão da selva do Berço Primordial para sintetizar os remédios restauradores, elixires de longevidade e neurotoxinas mais caros do mundo conhecido.
+A filosofia dos mestres do Conclave repousa sobre o Princípio da Destilação de Extremos: a tese de que os maiores prodígios medicinais nascem da fusão entre a flora mais pura cultivada no topo das nuvens (onde a luz solar e os ventos térmicos aceleram a fotossíntese mística) e os componentes mais grotescos, pútridos e venenosos rastejantes no fundo do Dossel Verde.
+Para a nobreza de Bastion, os Barões de Zul-Bazar e a corte alada dos Aeris, o Conclave apresenta-se com a mais pura elegância de luvas de linho branco e aventais de seda impermeável; contudo, para sustentar o abastecimento de suas retortas de cristal, a instituição financia e opera a temida e insalubre Divisão de Coleta Profunda, arriscando vidas de mergulhadores e batedores nas profundezas lamacentas da floresta primordial.
+Totalmente desprovida de estéticas steampunk, engrenagens a vapor ou pistões mecânicos, a tecnologia do Conclave é artesanal, biológica, óptica e química: cúpulas de vidro soprado de quartzo, alambiques de cerâmica esmaltada, tesouras de osso polido, balões de seda escura para transporte de pólen, serpentinas de condensação em latão polido e trajes de couro impermeabilizados com óleos vegetais.
++---------------------------------------+ | GRANDE CONSELHO DE BOTÂNICOS | | (Diretoria Executiva & Curadoria) | +-------------------+-------------------+ |
+[ Diretrizes de Cultivo & Patentes de Elixir ]
+|
+v
++---------------------------------------+ | MESTRES DE ESTUFA E RETORTA | | (Alquimia, Destilação & Ensaio) | +-------------------+-------------------+ | +--------------------------------+--------------------------------+ | |
+v v
++---------------+ +-----------------+ | DIVISÃO DE | | DEPARTAMENTO DE | | COLETA PROFUND| | EXPORTAÇÃO NOBRE| |(Descida/Solos)| |(Balanças & Luxo)| +-------+-------+ +--------+--------+ | | +-------------------------------+--------------------------------+ |
+v
++---------------------------------------+ | CAÇADORES DO ABISMO VERDE | | (Escolta Armada, Rastreadores & Solo) | +-------------------+-------------------+
 
-Guilda requintada de botânicos e alquimistas de Aethelgard que possui uma Divisão de Coleta Profunda focada no chão da selva.
+---
 
-## Objetivo/Agenda
+## II. A Ciência das Flores-Luz e a Divisão de Coleta Profunda O Conclave opera através de uma cadeia biológica e química estritamente compartimentada, unindo a agricultura de altitude ao perigo absoluto do solo selvagem.
 
-Cultivar plantas medicinais e extrair dejetos de animais exóticos no chão da selva para sintetizar os remédios e venenos mais caros do continente.
+[ CULTIVO SOLAR EM CÚPULA ] + [ SECREÇÃO DE BESTA DO SOLO ] --> [ DESTILAÇÃO EM LATÃO ]
+|
+v
+[ FRASCO DE CRISTAL SELADO ] <-- [ ENSAIO DE PURIFICADORES ] <-- [ CONDENSAÇÃO TÉRMICA ]
+### 1. As Três Essências Maiores de Aethelgard O catálogo de prestígio internacional do Conclave repousa sobre três espécies botânicas exclusivas, cultivadas sob as cúpulas translúcidas das ilhas flutuantes:
 
-## Hierarquia
+* **A Flor-Luz Purificada:** Uma flor perene de pétalas espessas e translúcidas que absorve a radiação mana-solar de altitude. Quando destilada com óleos essenciais, produz o *Elixir da Aurora*: um tônico capaz de regenerar queimaduras de ácido, restaurar a vitalidade de tecidos gangrenados e dissipar a exaustão física em questão de minutos. É o medicamento mais disputado pelas cortes reais.
 
-Governado pelo Grande Conselho de Botânicos. A liderança específica ainda não foi criada.
+* **A Seiva-Estrela:** Um exsudato viscoso e luminescente extraído de trepadeiras cultivadas em solo enriquecido com bismuto. Utilizada como estabilizador arcano de altíssimo nível, permite a conjuradores prolongar a duração de rituais sem sofrer colapso mental.
 
-## Território/Base
+* **A Orquídea-Véu:** Uma flor rara de cor lilás profunda que só floresce sob a névoa das noites sem lua. Seu pólen é o narcótico e anestésico mais refinado do continente: em doses mínimas, elimina qualquer dor física em cirurgias delicadas; em doses concentradas, induz submissão psicológica e esquecimento temporário.
 
-[As Estufas Suspensas das Flores-Luz em Aethelgard].
 
-## Recursos
+### 2. A Divisão de Coleta Profunda (Os Mergulhadores de Raiz) Embora as flores cresçam no ar puro de Aethelgard, os reagentes catalisadores e os fixadores de aroma não existem no céu. Eles precisam ser arrancados do chão tenebroso do **Berço Primordial**, quatrocentos metros abaixo das plataformas suspensas.
+* **Os Cestos de Imersão do Dossel:** São gaiolas cilíndricas de madeira-ferro e lona impermeável, suspensas por cabos de fibra vegetal trançada e guinchos manuais operados a partir das bordas inferiores das ilhas. As equipes de coleta descem no escuro da madrugada, atravessando a copa sufocante da floresta para alcançar o solo lodoso.
 
-Estufas flutuantes de ponta, fórmulas alquímicas únicas e expedições equipadas para incursões no solo perigoso.
+* **A Caça aos Dejetos e Glândulas:** No solo úmido e infestado de predadores, os coletores não buscam plantas comuns: recolhem o excremento fermentado da *Píton-Musgo* (usado como catalisador de crescimento rápido), glândulas de veneno da *Vespa-Titan*, bile de sapos carnívoros e fungos que só brotam sobre carcaças de behemoths em decomposição.
 
-## Relações com outras facções
+* **A Escolta dos Caçadores do Abismo Verde:** Como os botânicos e boticários não possuem treinamento marcial para enfrentar a fauna do solo ou as patrulhas de orcs selvagens, o Conclave contrata permanentemente companhias de mercenários conhecidas como
+**Os Caçadores do Abismo Verde** — batedores que usam armaduras de couro de besta e lanças com pontas de pedra tratada para formar um perímetro defensivo ao redor dos coletores durante as incursões de extração.
+ ---
 
-[Os Caçadores do Abismo Verde]: contratante — financiam rastreadores para proteger suas expedições de coleta no solo.
+## III. Estrutura Corporativa e Carreira Botânica O Conclave das Flores-Luz rejeita patentes militares ou títulos de guilda aberta. Sua organização reflete o rigor acadêmico de uma faculdade de ciências aliada ao pragmatismo de um cartel de luxo:
 
-## Membros notáveis
+[ APRENDIZ DE ESTUFA ] --> [ DESTILADOR REGISTRADO ] --> [ BOTÂNICO DE IMERSÃO ]
+|
+v
+[ GRÃO-CURADOR ] <-- [ O GRANDE CONSELHO ] <-- [ MESTRE DE CÚPULA ]
+### 1. O Grande Conselho de Botânicos (Diretoria Executiva) A mesa diretora suprema, composta por cinco cientistas-acionistas que controlam as estufas flutuantes, aprovam novas fórmulas de medicamentos e definem as cotas de exportação para as capitais estrangeiras.
+### 2. Mestres de Cúpula e Alquimistas de Retorta Os diretores de laboratório responsáveis pelo controle de temperatura, umidade e pureza do ar no interior dos domos de vidro. São eles que operam os grandes alambiques de latão e assinam os certificados de pureza das essências reais.
 
-Ainda não criado.
+
+### 3. Botânicos de Imersão e Inspetores de Solo Cientistas de campo corajosos que lideram as expedições da Divisão de Coleta Profunda. Vestem trajes herméticos de couro encerado, máscaras com filtros de carvão e transportam cilindros de cerâmica selados com gordura salina para proteger as amostras biológicas colhidas na selva.
+
+
+### 4. Jardineiros de Folha e Peões de Vidro A base de trabalhadores responsáveis pela rega manual, poda de brotos espinhosos, controle de pragas de insetos nas estufas e limpeza de resíduos químicos. Trabalham sob rígidos acordos de confidencialidade e são inspecionados diariamente para evitar o furto de pétalas.
+---
+
+## IV. Geografia Operacional: Domos e Postos de Coleta O Conclave opera instalações suntuosas nas alturas e postos avançados de extração no abismo verde:
+
+[ OS DOMOS DE CRISTAL (SEDE EM AETHELGARD) ] <- Estufas Suspensas & Cúpulas /
+[ A PLATAFORMA DO CABO PENDENTE ] [ O PAVILHÃO DAS ESSÊNCIAS ] (Estação de Guinchos para o Dossel) (Showroom e Vendas em Zul-Bazar) | |
+\\\\ O POSTO DA RAIZ ÚMIDA (CHÃO DA SELVA) //////// <- Banhos de Lodo e Feras
+
+### 1. Os Domos de Cristal (Aethelgard - Sede Suprema) Sete cúpulas circulares gigantescas de vidro de quartzo e esquadrias de bronze polido suspensas sobre duas das treze placas flutuantes de Aethelgard.
+
+* **O Domo da Aurora:** Onde são cultivadas as Flores-Luz originais sob filtros de seda amarela que intensificam a absorção solar.
+
+* **O Laboratório dos Mil Alambiques:** O complexo subterrâneo escavado na Pedra-Pólen da ilha, onde as essências são destiladas e engarrafadas em frascos de cristal com rolhas banhadas a cera dourada.
+* **O Jardim das Sombras Fechadas:** Uma estufa selada com paredes de basalto negro e iluminação por fungos bioluminescentes, dedicada exclusivamente ao cultivo sigiloso da Orquídea-Véu.
+
+
+### 2. A Plataforma do Cabo Pendente Uma estrutura de madeira-ferro e tirantes de aço ancorada na borda inferior da ilha flutuante, projetando-se diretamente sobre o vazio do precipício.
+* **Operação:** É o ponto de partida dos *Cestos de Imersão*. Abriga dez tambores de cabo de tração manual, depósitos de roupas impermeáveis antiácidas e a sala de repouso dos Caçadores do Abismo Verde.
+
+
+### 3. O Posto da Raiz Úmida (Chão da Selva) Um acampamento fortificado suspenso a dez metros do chão, construído sobre as raízes tabulares gigantescas de uma árvore milenar no coração do Berço Primordial.
+* **Função Tática:** Serve de base temporária de descompressão e triagem para os coletores. O perímetro é protegido por estacas de madeira pontiaguda, armadilhas de laço e archotes de resina que mantêm serpentes gigantes e predadores noturnos afastados das amostras.
+
+
+### 4. O Pavilhão das Essências (Zul-Bazar) Um palacete requintado de calcário branco e fontes perfumadas no Barranco dos Oásis em Zul-Bazar, onde embaixadores e nobres compram lotes de elixires por pequenas fortunas em ouro.
+---
+
+## V. Relações Geopolíticas e Diplomacia das Essências
++-------------------------------------------------------+ | O CONCLAVE DAS FLORES-LUZ | +---------------------------+---------------------------+ | +--------------------------+--------------------------+ | | |
+v v v
++---------------+ +---------------+ +---------------+ | OS CAÇADORES | | O CÍRCULO | | CARTEL DA | | DO ABISMO | | AERIS | | PÓLVORA-DE-SOL| |(Escolta Armada| |(Acionistas & | |(Rivalidade de | | no Solo) | | Consumidores) | | Mercado/Luxo) | +---------------+ +---------------+ +---------------+
+
+* **Parceria com os Caçadores do Abismo Verde:** O Conclave é o maior contratante individual dessa guilda de batedores da selva. Paga salários generosos em peças de ouro e fornece elixires de estanque de sangue para garantir que os mercenários lutem até a morte para defender os botânicos durante os ataques de monstros no solo.
+
+* **Relação Umbilical com o Círculo Aeris:** A nobreza alada de Aethelgard é a principal acionista e consumidora dos elixires do Conclave. Em troca de acesso exclusivo a tônicos de rejuvenescimento e cosméticos de pólen puro, os nobres garantem que o Conclave pague taxas mínimas de ancoragem e mantenha o monopólio legal sobre as estufas da cidade.
+
+* **Concorrência Diplomática com o Cartel da Pólvora-de-Sol:** Ambas as facções disputam a atenção e o ouro dos príncipes-mercadores de Zul-Bazar e da corte de Bastion. Enquanto o Cartel vende a euforia e o foco da especiaria do cacto, o Conclave comercializa a cura milagrosa, a longevidade e a sedação aristocrática.
+
+* **Guerra Fria contra o Tráfico de Ferrovale:** O Conclave proíbe rigorosamente a venda da *Orquídea-Véu* para agentes militares estrangeiros. No entanto, contrabandistas infiltrados tentam constantemente roubar mudas e frascos da flor para abastecer os laboratórios de controle mental da Horda Silenciosa.
+ ---
+
+## VI. O Grande Conselho de Botânicos (5 Líderes Notáveis) A administração suprema do Conclave é gerida por cinco especialistas de raças e competências complementares:
++---------------------------------------------+ | GRANDE CONSELHO DE BOTÂNICOS | | (Cúpula Diretiva do Conclave) | +----------------------+----------------------+ | +-------------------------------+-------------------------------+ | | |
+v v v
++---------------+ +-----------------+ +-----------------+ | ALDEN | | JESSAMINE | | BRONN | | STERLING | | FAYE | | KARSTEN | |(Aeris - Grão- | |(Humana - Venenos| |(Anão - Engenhar.| | Curador) | | e Destilação) | | & Guinchos) | +---------------+ +-----------------+ +-----------------+ | | +-------------------------------+-------------------------------+ | +---------------+---------------+ | |
+v v
++---------------+ +---------------+ | NISSA | | CEDRIC | | KEL | | BLANCHE | | (Gnomo - Chefe| | (Humano - | | da Imersão) | | Exportação) | +---------------+ +---------------+
+
+### 1. Grão-Curador Alden Sterling (Aeris - Presidente do Grande Conselho) Um nobre alado de cento e quarenta anos, penas prateadas impecavelmente aparadas nas asas e olhar penetrante. Veste túnicas de seda branca com bordados em fio de ouro e porta um anel com uma gota de seiva-estrela petrificada. Alden é o estrategista político que mantém o Conclave intocável perante as leis de Bastion e os caprichos dos nobres de Aethelgard. Frio e impecável, enxerga os perigos do chão da selva como "um mero custo contábil de extração".
+
+
+### 2. Mestra Jessamine Faye (Humana - Diretora de Alquimia e Toxicologia) Uma mulher de quarenta e cinco anos, postura austera e dedos manchados por resinas aromáticas. Jessamine é a mente brilhante por trás da síntese dos antídotos universais e dos refinamentos da *Orquídea-Véu*. Passa semanas trancada em seus laboratórios selados, analisando a composição molecular de venenos de serpentes e criando elixires que curam ferimentos letais em minutos.
+
+
+### 3. Diretor Bronn Karsten (Anão - Chefe de Engenharia e Estruturas Suspensas) Um anão atarracado de barba curta trançada com aros de bronze, especialista em arquitetura de vidro e sistemas de contra-peso. Bronn é quem projeta os domos que suportam as tempestades de altitude, os sistemas de irrigação por vapor condensado e os gigantescos tambores de cabo que baixam os coletores até o chão da floresta.
+
+
+### 4. Bióloga Nissa Kel (Gnomo - Comandante da Divisão de Coleta Profunda) Uma gnomo destemida e obsessiva, com óculos de proteção de lentes múltiplas na testa e cicatrizes de mordidas de insetos nos braços. Nissa recusa-se a ficar nos escritórios confortáveis de Aethelgard; ela lidera pessoalmente as descidas nos cestos de imersão, guiando as equipes pela lama do Berço Primordial para colher glândulas de predadores gigantescos.
+### 5. Lordling Cedric Blanche (Humano - Diretor Comercial e de Relações Exteriores) Um aristocrata refinado de trinta anos que gerencia o fluxo de vendas no Pavilhão de Zul-Bazar e as entregas diplomáticas no Palácio de Sol em Bastion. Cedric é especialista em inflacionar o valor dos lotes de elixires nos leilões nobres, criando listas de espera de até dois anos para a compra de um único frasco de *Elixir da Aurora*.
+
+---
+
+## VII. Quadro de Operações e Expedições (7 Ganchos de Campanha) O Conclave contrata equipes especializadas, caçadores e aventureiros para missões de extração crítica, auditoria e defesa de instalações:
+================================================================================ PAINEL DE EXPEDIÇÕES DAS FLORES-LUZ
+[NÍVEL 1] A Colheita no Cesto da Manhã (Honorários: 45 Peças de Ouro) [NÍVEL 2] O Resgate do Coletor na Raiz Úmida (Honorários: 90 Peças de Ouro) [NÍVEL 3] A Caça à Glândula da Píton-Musgo (Honorários: 180 Peças de Ouro) [NÍVEL 4] A Sabotagem no Domo das Sombras (Honorários: 340 Peças de Ouro) [NÍVEL 5] A Defesa do Guindaste Central (Honorários: 560 Peças de Ouro) [NÍVEL 6] A Intercepção da Caravana de Véu (Honorários: 880 Peças de Ouro) [NÍVEL 7] A Incursão à Árvore-Mãe da Fenda (Honorários: 1.900 Peças de Ouro)
+### 1. A Colheita no Cesto da Manhã (Nível 1)
+* **Contratante:** Diretor Bronn Karsten (Anão).
+* **Local:** Plataforma do Cabo Pendente (Aethelgard).
+* **Fase de Investigação:** Inspecionar as travas de segurança e os cabos de um cesto de descida antes de uma missão de coleta rápida na copa alta das árvores.
+* **A Missão:** Descer no cesto até a camada superior da floresta e escoltar dois aprendizes enquanto colhem cinquenta flores de orquídea medicinal.
+* **A Complicação:** Um bando de macacos-espinhosos territoriais ataca a gaiola suspensa tentando cortar as cordas de sustentação.
+* **Objetivo Primário:** Repelir as criaturas sem deixar os cestos de amostras caírem no abismo e sinalizar para o içamento de volta.
+* **Recompensa:** 45 Peças de Ouro e um frasco de óleo cicatrizante simples.
+
+### 2. O Resgate do Coletor na Raiz Úmida (Nível 2)
+* **Contratante:** Bióloga Nissa Kel (Gnomo).
+* **Local:** Chão do Berço Primordial (Abaixo de Aethelgard).
+* **Fase de Investigação:** Localizar o sinal de fumaça de resina acendido por uma equipe de coleta que ficou encurralada perto do Posto da Raiz Úmida.
+* **A Missão:** Descer pelo cabo mestre, abrir caminho pela vegetação rasteira e resgatar três botânicos sobreviventes.
+* **A Complicação:** Uma matilha de javalis-da-selva com carapaças cobertas de musgo ácido cercou o abrigo dos cientistas.
+* **Objetivo Primário:** Eliminar as feras, garantir a integridade dos cilindros de amostras colhidas e escoltar o grupo até o guincho de subida.
+* **Recompensa:** 90 Peças de Ouro e uma máscara de couro com filtro de pólen.
+
+### 3. A Caça à Glândula da Píton-Musgo (Nível 3)
+* **Contratante:** Mestra Jessamine Faye (Humana).
+* **Local:** Pântano das Bromélias (Solo da Selva).
+* **Fase de Investigação:** Rastrear a trilha de lodo bioluminescente deixada por uma serpente gigante de doze metros que habita as lagoas ácidas do solo.
+* **A Missão:** Neutralizar a besta sem detonar suas glândulas internas de veneno e extrair três litros de bile pura para a produção de antídotos.
+* **A Complicação:** O pântano exala vapores anestésicos que provocam sonolência e perda de equilíbrio durante o combate.
+* **Objetivo Primário:** Abater a serpente com estocadas precisas, realizar a extração cirúrgica com bisturis de osso e selar o recipiente térmico.
+* **Recompensa:** 180 Peças de Ouro e um frasco de essência de *Seiva-Estrela*.
+
+### 4. A Sabotagem no Domo das Sombras (Nível 4)
+* **Contratante:** Grão-Curador Alden Sterling (Aeris).
+* **Local:** Os Domos de Cristal (Aethelgard).
+* **Fase de Investigação:** Infiltrar-se como inspetores de pragas no Domo das Sombras para descobrir quem está injetando toxinas alcalinas nos canteiros de *Orquídea-Véu*.
+* **A Missão:** Identificar o sabotador entre os jardineiros de confiança, obter as provas e capturar o mandante.
+* **A Complicação:** O traidor ativou o sistema de aspersão de pólen narcótico concentrado dentro da cúpula fechada para fugir.
+* **Objetivo Primário:** Reter a respiração, conter o sabotador antes que ele salte pelas passarelas e fechar as válvulas de gás.
+* **Recompensa:** 340 Peças de Ouro e carta de trânsito livre nos domos do Conclave.
+
+### 5. A Defesa do Guindaste Central (Nível 5)
+* **Contratante:** Diretor Bronn Karsten e Nissa Kel.
+* **Local:** Plataforma do Cabo Pendente.
+* **Fase de Investigação:** Avaliar os danos causados por arpões disparados da copa das árvores contra os tambores de cabo do guincho central.
+* **A Missão:** Defender a estação de descida durante a noite contra uma incursão de guerreiros orcs da selva que escalaram os troncos para queimar as instalações.
+* **A Complicação:** O combate ocorre nas bordas estreitas de madeira sobre uma queda livre de quatrocentos metros sob ventos cortantes.
+* **Objetivo Primário:** Repelir os invasores sem permitir que os cabos mestres dos cestos sejam cortados.
+* **Recompensa:** 560 Peças de Ouro e um broche de prata com o selo da Flor-Luz.
+
+### 6. A Intercepção da Caravana de Véu (Nível 6)
+* **Contratante:** Lordling Cedric Blanche (Humano).
+* **Local:** Fronteira Sul do Deserto com Bastion.
+* **Fase de Investigação:** Obter a rota de um comboio de contrabandistas que roubou dez caixas de extrato puro de *Orquídea-Véu* para vender a agentes de Ferrovale.
+* **A Missão:** Rastrear o comboio nas dunas, interceptar as carruagens e queimar toda a carga antes que os frascos alcancem os criadouros da Horda.
+* **A Complicação:** O comboio é escoltado por mercenários desertores equipados com armaduras pesadas e bestas com dardos paralisantes.
+* **Objetivo Primário:** Destruir o carregamento roubado, capturar o líder do contrabando e recuperar os selos originais do Conclave.
+* **Recompensa:** 880 Peças de Ouro e um frasco de *Elixir da Aurora* (Grau Máximo).
+
+### 7. A Incursão à Árvore-Mãe da Fenda (Nível 7)
+* **Contratante:** O Grande Conselho de Botânicos (Alden, Jessamine e Nissa).
+* **Local:** Gargalo do Berço (Encontro da Selva com a Grande Fenda).
+* **Fase de Investigação:** Mapear a localização de uma flor primordial mítica que só desabrocha a cada cinquenta anos no topo de uma árvore fóssil no limite do abismo.
+* **A Missão:** Liderar uma expedição conjunta com os Caçadores do Abismo Verde, descer até o ponto mais hostil do continente e colher as sementes intactas.
+* **A Complicação:** O local é o ninho de um Behemoth alado da Fenda que ataca com rajadas de estática e veneno corrosivo.
+* **Objetivo Primário:** Derrotar a criatura, colher as sementes antes que murchem com o amanhecer e retornar a Aethelgard.
+* **Recompensa:** 1.900 Peças de Ouro, assento honorífico no Conselho e fornecimento vitalício de tônicos restauradores. ---
+
+## VIII. Elementos Sensoriais para o Mestre Narrar Utilize estes elementos descritivos durante as sessões envolvendo o Conclave das Flores-Luz para transmitir a sofisticação aristocrática, o aroma inebriante e o perigo abafado da selva:
+* **Sons:** * O zumbido suave e contínuo de insetos polinizadores selecionados voando sob as abóbadas de cristal das estufas. * O marulhar limpo e ritmado de água destilada correndo através de canaletas de cerâmica esmaltada e serpentinas de latão. * O estalo estridente e o ranger pesado das engrenagens de bronze dos guinchos manuais baixando os cestos no vazio. * O estalar úmido e ameaçador de galhos e cipós quebrando sob o peso de predadores invisíveis no chão lamacento da selva. * O tilintar cristalino de frascos de vidro e pipetas sendo organizados em bandejas de prata por aprendizes silenciosos.
+* **Visões:** * Cúpulas monumentais de vidro translúcido brilhando sob o sol de altitude, repletas de flores tropicais de cores radiantes e folhagens gigantescas. * Botânicos trajando túnicas de linho azul-celeste e aventais de seda impermeável, examinando pétalas com lupas de quartzo polido. * O contraste estarrecedor entre o piso limpo de mosaico das estufas no céu e a lama preta, podridão vegetal e nevoeiro esverdeado do chão da floresta. * O brilho fosforescente lilás e ciano emitido por flores e frascos de essência na escuridão dos laboratórios subterrâneos.
+* **Cheiros:** * O aroma inebriante, adocicado e perfumado de orquídeas, pólen de canela e flor-de-sol flutuando no ar aquecido das estufas. * O cheiro acre, amargo e penetrante de seiva corrosiva, enxofre vegetal e terra estagnada que sobe dos cestos que retornam do solo. * O aroma limpo e medicinal de álcool de cereais, cânfora e lavanda seca usado para desinfetar os instrumentos de vidro.
+* **Tato e Sensações Térmicas:** * O calor morno, úmido e aconchegante ao entrar no interior de um domo de cristal em contraste com a brisa gelada de altitude. * A sensação aveludada e fresca ao tocar nas pétalas espessas de uma Flor-Luz recém-aberta. * O peso sólido e a textura oleosa dos trajes impermeáveis de couro usados nas expedições ao solo da selva. ---
+
+## IX. Economia Botânica e Tabela de Preços do Luxo e da Cura A comercialização das essências, flores e serviços do Conclave das Flores-Luz segue a tabela oficial registrada nos cartórios de Aethelgard e Zul-Bazar: | **Item / Serviço / Essência** | **Preço Oficial (Domos do Conclave / Salões de Luxo)** | **Preço no Mercado Negro (Submundo / Contrabando)** | | :--- | :--- | :--- | | **Frasco de Elixir da Aurora (Cura e Regeneração 50ml)** | 50 Peças de Ouro | 20 Peças de Ouro (Produto diluído com água termal) | | **Dose de Seiva-Estrela Concentrada (Foco Arcano 30ml)** | 35 Peças de Ouro | 15 Peças de Ouro (Amostra bruta sem destilação) | | **Frasco de Extrato de Orquídea-Véu (Sedativo/Narcótico)**| 40 Peças de Ouro | 18 Peças de Ouro (Toxina de contrabando sem selo) | | **Muda Selecionada de Flor-Luz (Para Cultivo Nobre)** | 120 Peças de Ouro | Proibido (Furto de muda punido com banimento) | | **Quilo de Dejeto Fermentado de Píton-Musgo (Catalisador)**| 15 Peças de Ouro | 6 Peças de Ouro (Insumo bruto do solo) | | **Glândula de Veneno de Vespa-Titan (Preservada)** | 25 Peças de Ouro | 10 Peças de Ouro (Extração perigosa de batedor) | | **Aluguel de Cesto de Descida ao Dossel (Diária)** | 30 Peças de Ouro | 12 Peças de Ouro (Guincho pirata de corda gasta) | | **Contratação de Escolta dos Caçadores do Abismo (Dia)**| 20 Peças de Ouro | 8 Peças de Ouro (Mercenário de selva sem contrato) | | **Traje Hermético de Couro Encerado para Imersão** | 18 Peças de Ouro | 7 Peças de Ouro (Peça usada com pequenos remendos) | | **Máscara de Filtro de Carvão e Resina contra Pólen**| 8 Peças de Ouro | 3 Peças de Ouro (Filtro usado recondicionado) | | **Certificado de Pureza Alquímica com Selo de Ouro** | 10 Peças de Ouro | 2 Peças de Ouro (Documento falsificado) | | **Frasco de Perfume de Pólen Real de Aethelgard (100ml)**| 25 Peças de Ouro | 8 Peças de Ouro (Essência secundária de toalete) |

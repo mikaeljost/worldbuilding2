@@ -1,7 +1,7 @@
-Lore Expandida: A Rede dos Dentes-de-Ouro
+# Lore Expandida: A Rede dos Dentes-de-Ouro
 A areia engole os guardas incompetentes, o sol derrete a cera dos selos reais, mas a seda nobre reembalada e o vinho derramado em taça de cristal valem dez vezes mais no nosso galpão de Malaxis do que na carroça de um Barão do Trigo.
 
-## I. Visão Geral e a Máfia da Receptação de Luxo
+## Identidade e Motivação (Visão Geral) e a Máfia da Receptação de Luxo
 Nas vastidões escaldantes do Deserto de Sol-Crestado, ao longo das rotas comerciais que conectam a fartura de Bastion, a riqueza de Zul-Bazar e a anarquia de Malaxis, a insígnia discreta marcada por uma presa de ouro entalhada em um dado de marfim causa pavor velado em qualquer capitão de caravana: a marca da Rede dos Dentes-de-Ouro.
 A Rede dos Dentes-de-Ouro não é uma guilda pública de aventureiros, nem um bando bizarro de saqueadores brutais, nem uma ordem militar com registros abertos ou quadros de contratos. Trata-se da mais sofisticada, lucrativa e implacável Máfia de Receptadores de Luxo, Lavadores de Carga e Contrabandistas de Elite de todo o continente. Fundada e controlada quase exclusivamente por uma cúpula de Halflings e Gnomos, a Rede compreendeu uma regra econômica sagrada que escapa aos brutamontes do deserto: assaltar uma caravana é apenas o trabalho braçal primário; a verdadeira fortuna reside na Cadeia de Lavagem e Rotulagem de Luxo.
 A máfia opera de forma cirúrgica. Halflings e gnomos possuem a estatura perfeita para passar despercebidos em oásis e tavernas, a acuidade visual necessária para avaliar o valor real de gemas, vinhos e tapeçarias, e a habilidade manual impecável para falsificar selos nobres, raspar brasões de armas, derreter joias reais sem perder a pureza do metal e transferir especiarias e sedas para caixas neutras de fibra. A carga roubada que entra nos galpões clandestinos de Malaxis com as marcas do Palácio de Bastion sai no dia seguinte "lavada", reembalada e com certificados de origem falsificados, sendo vendida de volta para comerciantes desonestos de Zul-Bazar e Bastion por 30% a 50% do valor de mercado.
@@ -120,9 +120,7 @@ Na Rede dos Dentes-de-Ouro não existem "níveis de aventureiro", "quadros de mi
 <--
 [ GALPÃO EM MALAXIS ]
 
-
-
-1. O Sistema de Lavagem e a "Rotuagem de Luxo"
+### 1. O Sistema de Lavagem e a "Rotuagem de Luxo"
 A Rede opera através de uma teia de depósitos ocultos e laboratórios de avaliação mantidos nas galerias baixas de Malaxis:
 Os Olheiros das Estalagens (Espionagem de Gnomos): Gnomos e halflings disfarçados de garçons, músicos, arrumadeiros e mercadores de pequenas bugigangas nos oásis e tavernas nobres de Zul-Bazar e Bastion. Mapeiam o conteúdo exato dos caixotes: identificam se a carga transporta vinhos reais de Bastion, seda-do-mar de Tartuga ou especiarias de Zul-Bazar, contando o número de guardas e a rota exata da caravana.
 O Confisco Cirúrgico (Emboscada Contratada): A Máfia não usa seus avaliadores halflings no confronto direto. Eles contratam gangues de mercenários e pistoleiros locais para atacar a caravana em pontos cegos do deserto (como a Garganta do Urubu ou as Salinas do Espelho), imobilizando os guardas com venenos paralisantes e Frutos-Granada para confiscar as caixas intactas.

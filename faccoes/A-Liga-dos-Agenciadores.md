@@ -1,7 +1,7 @@
-Lore Expandida: A Liga dos Agenciadores
+# Lore Expandida: A Liga dos Agenciadores
 Um segredo sussurrado entre os lençóis de um bordel vale mais do que dez mil peças de ouro em um cofre de Bastion; quando o desejo cega o homem, é a nossa chave que tranca a porta da sua ruína.
 
-## I. Visão Geral e a Doutrina do Império dos Vícios e Segredos
+## Identidade e Motivação (Visão Geral) e a Doutrina do Império dos Vícios e Segredos
 Nas sombras úmidas, abafadas e perfumadas pelos vapores sulfurosos dos Banhos de Sangue e Piche em Malaxis —, onde o ar carrega o aroma acre de poeira de cacto queimada, o cheiro de suor, licores destilados e fragrâncias adocicadas de óleos exóticos —, opera A Liga dos Agenciadores: o cartel clandestino, sindicato do prazer e teia de chantagem e espionagem que controla o submundo do entretenimento, os bordéis de luxo, os antros de dados viciados, o refinamento de toxinas raras e a corretagem de segredos em grande parte do continente.
 Surgida originalmente nos primórdios da ocupação da Garganta do Escorpião como uma associação informal de donos de tavernas, cortesãos, boticários expulsos das academias de Bastion e agenciadores de apostas do Coliseu dos Barões, a Liga transformou-se no império subterrâneo mais sofisticado e perigoso do deserto. Diferente das Lâminas Negras (que cobram por assassinatos diretos com adagas) ou dos Dentes-de-Ouro (que saqueiam caravanas com brutalidade orc), a Liga dos Agenciadores compreendeu que a verdadeira força geopolítica reside em dominar as fraquezas, os desejos e os segredos da elite, dos generais e dos mercenários.
 Para o público externo e para os aventureiros que frequentam as vielas baixas de Malaxis, a Liga apresenta-se como uma provedora indispensável de alívio e distrações: onde um gladiador vitorioso gasta seus prêmios em vinho de cacto e acompanhantes, onde um nobre visitante de Bastion busca prazeres proibidos longe dos olhos da corte e onde um mercador falido busca um empréstimo rápido para tentar a sorte nos dados de osso. Contudo, por trás dos espelhos inclinados, das cortinas de veludo carmesim e das portas de carvalho dos bordéis, a cúpula da Liga administra uma rede implacável de chantagem, agiotagem extorsiva, envenenamentos discretos e venda de informações confidenciais para os maiores compradores do continente.
@@ -141,8 +141,7 @@ A vida e as finanças dentro da Liga dos Agenciadores articulam-se sobre três p
  <--
 [ CHANTAGEM OU VIOLÊNCIA ]
 
-
-1. A Rede dos Espelhos Furados (Bordéis e Espionagem)
+### 1. A Rede dos Espelhos Furados (Bordéis e Espionagem)
 Os bordéis e estabelecimentos de acompanhantes mantidos pela Liga em Malaxis, Bastion, Gristal e Zul-Bazar são projetados não apenas para o lucro do entretenimento, mas como complexos de inteligência de alta escala:
 Os Quartos de Parede Dupla: As suítes de luxo dos Banhos de Sangue e Piche e do Saguão do Velório Aveludado possuem paredes de alvenaria dupla isoladas com feltro e tubos acústicos de cobre. Enquanto um diplomata, barão ou capitão de guerra consome vinho batido e desfruta da companhia dos cortesãos da Liga, informantes ocultos nas passagens secretas anotam cada confissão, gravam conversas sobre movimentação de tropas e identificam marcas corporais e segredos de estado.
 O Arquivo das Confissões: Trancado nas catacumbas profundas de Malaxis sob a guarda pessoal de Mãe Corvo, o Arquivo consiste em centenas de caixas de chumbo contendo pergaminhos autenticados com selos de cera roxa. Cada caixa carrega o nome de uma família nobre, oficial militar ou arquimago comercial.
@@ -175,8 +174,7 @@ A Liga organiza seus membros através de uma hierarquia rígida que combina tít
  <--
 [ ARQUIVISTA DE ESPELHOS ]
 
-
-1. Informante de Salão (A Rede de Olhos)
+### 1. Informante de Salão (A Rede de Olhos)
 Distintivo: Um anel de prata salina com um pequeno cristal de quartzo roxo no topo.
 Perfil: Prostitutas, cortesãos de luxo, garçons de taverna, músicos e arrumadeiras de bordel.
 Função e Equipamento: São treinados para extrair segredos de clientes embriagados, clonar chaves de cofres privados, aplicar as Gotas de Veludo em taças de vinho e identificar alvos vulneráveis para chantagem. Recebem comissões proporcionais ao valor geopolítico ou financeiro da informação obtida.
@@ -228,8 +226,7 @@ A Liga dos Agenciadores domina a infraestrutura do prazer, dos esgotos e dos sal
 [ OS TANQUES DE PICHE E DESCARTE ]
  <- Tortura, Extorsão e Eliminação
 
-
-1. Os Banhos de Sangue e Piche (Malaxis - Sede Suprema)
+### 1. Os Banhos de Sangue e Piche (Malaxis - Sede Suprema)
 Um complexo subterrâneo cavernoso construído sobre fontes termais sulfurosas e poços naturais de piche mineral no fundo da Garganta do Escorpião.
 Sub-Acomodações:
 O Salão das Piscinas Termais: Onde clientes ricos relaxam em águas aquecidas enquanto consomem vinho e contratam acompanhantes de luxo.

@@ -1,7 +1,7 @@
-Lore Expandida: A Guarda dos Elos
+# Lore Expandida: A Guarda dos Elos
 O metal não perdoa o erro, a balança não aceita mentiras e a dívida que não se paga em ouro é quitada na queda livre do abismo.
 
-## I. Visão Geral e a Doutrina do Metal sob Tensão
+## Identidade e Motivação (Visão Geral) e a Doutrina do Metal sob Tensão
 Se nos reinos terrestres as forças da ordem marcham em nome de reis, coroas ou deuses da justiça, em Gristal a lei é ditada por duas forças implacáveis e matemáticas: o peso do ouro e a tensão das Correntes Mestre. A Guarda dos Elos é a corporação militar, policial e fiscal mantida e financiada pela oligarquia dos Barões da Arcanita e pelo Sindicato dos Guinchos. Sua missão primordial não é prover caridade comunitária, mas garantir a estabilidade física das plataformas flutuantes, cobrar pedágios e impostos de entrada na Balsa dos Portões, proteger o monopólio da Arcanita Bruta e suprimir implacavelmente qualquer tentativa de sabotagem ou contrabando.
 A Guarda dos Elos opera com uma mentalidade fria, corporativa, calculista e profundamente pragmática. Seus integrantes não são cavaleiros idealistas, mas mercenários disciplinados, fiscais alfandegários, veteranos de combate urbano e caçadores acrobatas treinados para lutar a centenas de metros de altura sob vento cortante. A pesagem de mercadorias é um processo rigorosamente concentrado no portal de entrada da cidade: quem chega a Gristal pela Balsa dos Portões deve submeter suas caixas e volumes à balança oficial para que a taxa de ancoragem e o imposto de frete sejam calculados; quem tenta burlar essa fiscalização inicial ou danificar um tirante de aço é considerado um risco estrutural e financeiro, sendo descartado sem julgamento no Salto do Silêncio.
 Totalmente desprovida de máquinas a vapor ou quinquilharias, a tecnologia e o fardamento da Guarda dos Elos apoiam-se na engenharia mecânica pesada medieval, na proteção contra agentes químicos e na feitiçaria geométrica de contrapeso. Seus patrulheiros vestem capotes pesados de couro oleado com antiácido, peitorais leves de chumbo que absorvem a radiação de Arcanita, elmos abertos com visores de malha metálica contra a poeira e carregam um arsenal especializado em contenção tridimensional: lançadores manuais de arpão com cabos de aço flexível, bestas pesadas de repetição e cacetetes de ferro ponderado.
@@ -143,9 +143,7 @@ A progressão dentro da Guarda dos Elos é rigidamente regulada pelo tempo de se
 <--
 [ INSPETOR DE BALANÇA ]
 
-
-
-1. Patente 1: Recruta da Borda (Sentinelas do Cume)
+### 1. Patente 1: Recruta da Borda (Sentinelas do Cume)
 Emblema: Uma placa circular de chumbo bruto presa ao ombro do capote, com a gravação de uma roldana simples.
 Função militar: Soldados novatos encarregados da vigilância perimetral dos penhascos no Cume, controle de filas de mercadores na Balsa dos Pedágios, checagem de documentos simples e escolta de comboios de alimentos.
 Funções de Rotina:
