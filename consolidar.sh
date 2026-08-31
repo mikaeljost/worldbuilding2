@@ -133,3 +133,10 @@ for file in faccoes/*.md; do
         echo "" >> $OUT
     fi
 done
+
+echo "<div style='page-break-after: always;'></div>" >> $OUT
+echo "" >> $OUT
+
+echo "# 11. Anexo: Glossário do Mundo" >> $OUT
+cat GLOSSÁRIO.md >> $OUT
+echo "" >> $OUT
