@@ -1,7 +1,7 @@
-# Lore Expandida: A Irmandade da Cinza
+Lore Expandida: A Irmandade da Cinza
 A morte não exige tributos de ouro, nem pergunta pela bolsa dos despossuídos; se o mundo nos chama de guilda dos trapos e falidos, que a nossa penúria seja a garantia de que nenhuma alma pobre queimará no abismo por falta de trocados.
 
-## Identidade e Motivação (Visão Geral) e a Doutrina da Necromancia Sagrada
+## I. Visão Geral e a Doutrina da Necromancia Sagrada
 Em um continente apossado pela ambição das corporações, pela ganância dos bancos de Zul-Bazar e pelo horror das mutações do Ouro-Sangue, A Irmandade da Cinza ergue-se como uma ordem de paladinos e guilda de caça em profunda decadência e iminente ruína financeira. Conhecidos popularmente pela nobreza como os Cavaleiros-Mendigos, os Paladinos de Panos ou a Guilda dos Trapos, seus integrantes combinam o rigor marcial e austero dos paladinos da morte com a prática sacramental da Necromancia Paliativa — uma arte espiritual que enxerga o falecimento e o descanso da alma como um direito inalienável de qualquer ser humano, independentemente de sua classe social.
 Diferente de outras guildas comerciais que cobram pequenas fortunas em peças de ouro por escoltas e caçadas, a Irmandade da Cinza recusa-se categoricamente a voltar as costas a uma família miserável. Fiéis ao dogma sagrado da deusa Nyxara, os paladinos realizam resgates de corpos nas Profundezas Cegas de Gristal, exorcismos de aparições em vilarejos rurais e ritos de sepultamento abençoado com a moeda de chumbo sem cobrar um único centavo de camponeses, mineradores ou mendigos. Quando cobram, aceitam pagamentos simbólicos: um saco de batatas, duas broas de pão seco ou a promessa de uma prece.
 Essa caridade irrestrita — aliada à extorsão sistemática de royalties de patentes cobrada pelo Círculo de Giz — levou a guilda ao colapso econômico. Os Salões da Cinza em todo o continente estão acumulando hipotecas não pagas com o Conservatório dos Fios Dourados de Zul-Bazar, os arsenais de ferro-negro estão repletos de armaduras com soldas de emergência e amassados de batalhas antigas, o giz de prata-cinzenta precisa ser racionado e diluído em cinzas comuns, e muitos aprendizes abandonaram a guilda para se tornarem mercenários remunerados. Contudo, aqueles que permanecem na Irmandade possuem uma devoção inabalável e o amor fervoroso das classes populares de todo o continente.
@@ -262,7 +262,8 @@ A Irmandade da Cinza funciona abertamente como uma Guilda de Caça e Proteção 
 
 [ O ATELIÊ DAS INSÍGNIAS E DO AÇO-NEGRO (OFICINA DE REMENDOS) ]
 
-### 1. O Quadro de Contratos e a Proliferação de Missões "Pro Bono"
+
+1. O Quadro de Contratos e a Proliferação de Missões "Pro Bono"
 O Mural dos Requagios nos Salões da guilda é dominado por pergaminhos de papel rústico afixados por camponeses desesperados:
 
 [ SOLICITANTE POBRE / CAMPONÊS ]
@@ -383,7 +384,8 @@ Os Salões da Cinza mantêm portas abertas nas metrópoles do continente, funcio
 [ ZUL-BAZAAR: A TENDA DAS DÍVIDAS DE VIDRO ]
 <- Negociações de Prazos de Hipoteca
 
-### 1. O Saguão do Velório Eterno (Bastion)
+
+1. O Saguão do Velório Eterno (Bastion)
 Localizado na periferia do Cinturão Alvorada.
 A Realidade: É o maior Salão da guilda, mas metade de suas alas está com luzes apagadas para economizar velas. A guilda enfrenta um processo de penhora promovido por cartórios do Distrito dos Selos e fiscais da Torre Pura. No entanto, o pátio externo fica diariamente lotado de camponeses pobres que trazem seus mortos para receberem o funeral gratuito com a moeda de chumbo.
 2. A Cripta das Correntes (Gristal)

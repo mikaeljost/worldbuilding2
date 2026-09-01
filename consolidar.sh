@@ -90,7 +90,7 @@ echo "" >> $OUT
 
 echo "# 10. Facções e Sociedades Secretas" >> $OUT
 for file in faccoes/*.md; do
-    if [ "$file" != "faccoes/template.md" ] && [ "$file" != "faccoes/faccao1.md" ] && [ "$file" != "faccoes/O-Circulo-De-Giz.md" ] && [ "$file" != "faccoes/A-Horda-Silenciosa.md" ]; then
+    if [ "$file" != "faccoes/template.md" ] && [ "$file" != "faccoes/faccao1.md" ]; then
         cat "$file" >> $OUT
         echo "" >> $OUT
         echo "---" >> $OUT

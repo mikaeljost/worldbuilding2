@@ -1,7 +1,7 @@
-# Lore Expandida: A Doutrina do Abismo
+Lore Expandida: A Doutrina do Abismo
 A carne mortal é apenas barro bruto à espera do molde profano; nas profundezas das Trevas, o sangue incandesce, a pele se avermelha, e a verdadeira forma do homem renasce em chifres, garras e cinzas.
 
-## Identidade e Motivação (Visão Geral) e a Filosofia da Ruptura
+## I. Visão Geral e a Filosofia da Ruptura
 Se o continente visível é mantido pelo equilíbrio frágil da geometria rúnica, pelo calculismo da Torre Pura e pelo suor dos mortais, A Doutrina do Abismo representa a força oposta, metodológica, demonológica e inexorável que deseja ver cada engrenagem, corrente, monumento e selo reduzido a cinzas, ferrugem e pó. Ela não é uma mera seita de fanáticos lunáticos ou uma turba de loucos desorganizados; trata-se de uma escola secular, matemática, sombria e terrivelmente rigorosa de demonologia, magia de sangue, manipulação do Ouro-Sangue e canalização do Arkanum.
 Surgida nas profundezas insondáveis da Grande Fenda durante os anos traumáticos que se seguiram à abertura da Cicatriz, a Doutrina prega uma verdade teológica aterrorizante: a Fenda não foi um acidente tectônico ou uma catástrofe imprevisível, mas a boca sagrada do mundo tentando expurgar a "praga da criação". Para os devotos da Doutrina, os deuses (ou Arquitetos) falharam miseravelmente ao tentar prender a energia primária e fluida do universo em leis rígidas de matéria, biologia e alma. A verdadeira iluminação só é alcançada quando as soldas arcanas que prendem o espírito ao corpo são rompidas através da dor calculada, permitindo que a vitalidade seja extraída, convertida em energia abissal pura e remodelada no Arkanum Demoníaco.
 A Doutrina rejeita veementemente qualquer tecnologia a vapor, pistões ou engrenagens refinadas. Sua "ciência" é orgânica, mineralógica, acústica, sanguinária e demonológica. Suas ferramentas são agulhas de chumbo purificado, diapasões de ressonância abissal, frascos de ouro líquido contaminado, nitrato de mercúrio, círculos rituais traçados com poeira de ossos de mártires e grimórios selados em pele de entidades infernais.
@@ -141,7 +141,9 @@ Apesar de possuir células clandestinas operando nos becos de Bastion, nos armaz
 [ OS NÚCLEOS DE EXTRAÇÃO E DEMONOLOGIA ]
 <- Altares, Poços de Imps e Rituais
 
-### 1. A Catedral do Piche Negro (Profundezas Cegas de Gristal)
+
+
+1. A Catedral do Piche Negro (Profundezas Cegas de Gristal)
 Localizada centenas de metros abaixo da plataforma mais inferior de Gristal, em uma câmara natural de basalto calcinado onde a Névoa Ácida é tão densa que queima a pele desprotegida em poucos minutos.
 Arquitetura Sacra: A catedral não possui paredes de pedra lavrada, mas sim estruturas moldadas na própria rocha corroída pelo exsudato da Fenda, decoradas com milhares de crânios de condenados que despencaram do Salto do Silêncio. No centro do salão principal, ergue-se o Tanque dos Ecos Roubados — uma piscina de dez metros de diâmetro preenchida por Ouro-Sangue, mercúrio salino e piche negro, onde os Invocadores Primordiais escutam os murmúrios de Ombrae, A Voz sem Boca.
 O Salão das Agulhas e das Mutações: Uma galeria lateral abafada contendo quarenta altares de basalto equipados com calhas de recepção metálica. É onde as vítimas capturadas na superfície são mantidas suspensas em arneses de couro enquanto mestres anatomistas conduzem o processo de extração vital e rituais de mutação demoníaca em acólitos voluntários.
@@ -183,7 +185,9 @@ v
 [ REFINAMENTO DE OURO-SANGUE ]
   (Mutação: Chifres, Garras, Pele)        (Invocação de Imps e Bestas)
 
-### 1. Rituais de Transmutação e Arkanum da Carne
+
+
+1. Rituais de Transmutação e Arkanum da Carne
 Ao traçarem círculos rituais com poeira de osso profanada e óleo de piche, os sacerdotes canalizam o Arkanum das Trevas diretamente nos tecidos do praticante:
 O Rito das Garras de Pesadelo: O ritualista mergulha as mãos em um tacho de nitrato de mercúrio fervente impregnado com pó de arcanita e sangue de besta. As unhas caem instantaneamente, e ossos afiados e escuros emergem das falanges, criando garras duras como Aço-Anil capazes de canalizar eletricidade estática roxa.
 A Crisálida da Pele Rubra: O acólito é banhado em Ouro-Sangue misturado a enxofre e bile abissal. A epiderme humana descasca em placas, dando lugar a uma pele espessa e vermelha como carmim vivo, que repele lâminas comuns e extingue chamas ao toque.
@@ -347,9 +351,8 @@ O Círculo de Giz da Torre Pura enxerga a Doutrina como uma infecção canceríg
 3. O Conflito Teológico com Nyxara e os Guardiões do Ciclo
 Para os devotos e sacerdotes da deusa da morte Nyxara (incluindo a Irmandade da Cinza e os Guardiões do Ciclo), a Doutrina do Abismo é a abominação suprema. Ao prender as almas em frascos de Ouro-Sangue, transfigurar a carne mortal em aberrações demoníacas e impedir que o "eco" do falecido siga o fluxo natural para o além, a Doutrina provoca uma náusea espiritual profunda em qualquer necromante paliativo. Os sacerdotes de Nyxara caçam as células da Doutrina para libertar os ecos aprisionados nos tanques de mercúrio.
 
-## Ganchos de Missão
-
-### 1. A Infestação dos Imps de Piche
+## VIII. Ganchos de Aventura e Ameaças
+1. A Infestação dos Imps de Piche
 O Cenário: Uma praga de pequenos Imps de Piche invadiu os depósitos de pergaminhos do Distrito dos Selos em Bastion, roendo certidões de patente e provocando pequenos incêndios de fogo sulfuroso nos arquivos.
 A Complicação: A Guarda Real acha que é uma infestação comum de pragas, mas a Arquimaga Sohl descobre que os imps estão roubando especificamente os mapas de localização dos nós subterrâneos da Grade Arcana.
 O Gancho: Os aventureiros são contratados para caçar os diabretes nos sótãos e tubulações da cidade, rastrear o ninho clandestino nos esgotos e neutralizar o acólito de pele rubra que os comanda antes que os mapas sejam entregues à Sra. Vespera.

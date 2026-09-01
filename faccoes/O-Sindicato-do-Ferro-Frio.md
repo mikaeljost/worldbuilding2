@@ -1,0 +1,224 @@
+# Lore Expandida: O Sindicato do Ferro-Frio
+A carne mortal é uma equação cheia de falhas: ela cansa, adoece, hesita e apodrece. O ferro não mente, o vapor não teme a morte e duas matrizes sincronizadas em um peito de bronze superam a vontade de qualquer exército de sangue.
+— Grão-Inovador Bendon Fizzlecore, Discurso de Ativação do Primeiro Colosso Bi-Nuclear no Grande Motor
+I. Visão Geral e a Doutrina do Metal Autômato
+Nas entranhas incandescentes e abafadas de Krag-Mora, onde a fúria dos altos-fornos desafia o gelo eterno do Norte e o pulsar do Grande Motor faz as paredes de basalto vibrarem dia e noite, opera O Sindicato do Ferro-Frio: a mais poderosa, influente, tecnologicamente avançada e temida guilda de engenheiros magimecânicos, artífices de automação, forjadores de guerra e cirurgiões biomecânicos do continente.
+Longe de funcionar como uma associação beneficente ou um grêmio acadêmico inofensivo, o Ferro-Frio opera como uma Guilda Comercial e Militar de Monopólio Industrial. Seus membros não compreendem a magia como um poema místico ou uma prece divina, mas como um fluido termodinâmico e mineral que deve ser canalizado em engrenagens de alta precisão, válvulas de escape, molas de compressão pesada e pistões pneumáticos. A instituição controla o fornecimento de energia a vapor da cidade-fornalha, detém o monopólio das patentes de próteses biónicas e fabrica os lendários Golens-Vapor e Exotrajes que armam as forças militares mais temíveis do mundo conhecido.
+A doutrina do Ferro-Frio apoia-se no Princípio da Máquina Pura: a tese de que a humanidade e as raças mortais só alcançarão a invulnerabilidade quando substituírem a fragilidade dos músculos e ossos perecíveis pela precisão eterna do bronze, do Aço-Anil e do vapor superaquecido. Em Krag-Mora, não há cidadão que não dependa do Sindicato para aquecer seu lar, mover seus guinchos ou reparar um membro amputado por engrenagens.
+A tecnologia do Sindicato é brutalista, mineral, pneumática e magimecânica pesada: blocos maciços de ferro fundido rebitados a marreta, tubulações mestres de chumbo e bronze, manômetros calibrados com mercúrio, câmaras herméticas de combustão a Carvão-de-Sangue e núcleos de Arcanita que canalizam o temido Vapor Vivo.
++---------------------------------------+ | O GRÃO-INOVADOR | | (Bendon Fizzlecore - O Gnomo) | +-------------------+-------------------+ | [ Patente Mestra do Golem Bi-Nuclear ] | v +---------------------------------------+ | OS CINCO PILARES DE AÇO | | (Tier Máxima / Ranks de Elite) | +-------------------+-------------------+ | +--------------------------------+--------------------------------+ | | | v v v +---------------+ +-----------------+ +-----------------+ | DIVISÃO DE | | DIVISÃO DE | | DIVISÃO DOS | | AUTÔMATOS | | BIOMECÂNICA | | FALANGISTAS | |(Golens de | |(Próteses, Carne | |(Exotrajes-Vapor,| | Combate/Carga)| | & Enxertos) | | Choque & Cerco) | +-------+-------+ +--------+--------+ +--------+--------+ | | | +-------------------------------+--------------------------------+ | v +---------------------------------------+ | SISTEMA DE 6 RANKS (30 NÍVEIS) | | (Progressão, Testes & Credenciais) | +-------------------+-------------------+ | v +---------------------------------------+ | BASE INDUSTRIAL E FORJAS | | (Engenheiros, Operários & Guardas) | +---------------------------------------+
+---
+
+## II. A Revolução do Autômato Bi-Nuclear e a Engenharia do Vapor Vivo A supremacia técnica e financeira que permitiu ao Sindicato ditar os rumos industriais do continente nasceu de uma descoberta revolucionária patenteada pelo seu líder supremo: a **Matriz de Sincronia Bi-Nuclear**.
+[ NÚCLEO I: CARVÃO-DE-SANGUE ] + [ NÚCLEO II: ARCANITA PURIFICADA ] --> [ CÂMARA DE EQUILÍBRIO ] | v [ FORÇA DE IMPACTO DÉCUPLA ] <-- [ COMANDO AUTOMATIZADO ] <-- [ GERAÇÃO DO VAPOR VIVO ]
+
+### 1. O Golem Bi-Nuclear de Bendon Fizzlecore Historicamente, os golens e autômatos do continente enfrentavam um dilema insolúvel: ou eram alimentados por carvão comum (tornando-se máquinas lentas, pesadas e dependentes de caldeiras colossais que explodiam facilmente), ou utilizavam núcleos arcanos puros (que exigiam comandos manuais exaustivos de magos experientes e descarregavam em poucos minutos de combate). O Grão-Inovador Bendon Fizzlecore resolveu essa equação secular ao projetar um chassi de combate dotado de **duas câmaras de ressonância acopladas no tórax**:
+* **O Núcleo Térmico Primário (Carvão-de-Sangue):** ** Fornece calor abrasador contínuo e expansão volumétrica de alta pressão.
+* **O Núcleo Ressonante Secundário (Arcanita Refinada):** ** Atua como regulador de frequência mágica e condutor de memória mecânica.
+* **O Resultado:** ** O *Vapor Vivo* gerado pela interação dos dois núcleos alimenta circuitos pneumáticos internos que conferem ao golem autonomia quase inteligente: ele executa protocolos de combate, ajusta sua própria pressão interna, calcula o peso de cargas e avança sem a necessidade de controle arcano remoto por dias consecutivos.
+
+### 2. A Magimecânica e o Armamento dos Membros Dentro do Sindicato, todos os associados — desde os artífices de bancada até os generais de linha de frente — integram artefatos mecânico-mágicos ao seu cotidiano:
+* **Próteses de Acoplamento Direto:** ** Operários amputados ou guerreiros voluntários recebem membros artificiais de bronze e aço conectados diretamente aos tendões através de placas condutoras de prata salina.
+
+* **Mini-Caldeiras Dorsais:** ** Guerreiros de elite vestem arneses de ferro fundido com pequenos queimadores selados nas costas, que alimentam martelos pneumáticos com força suficiente para pulverizar muralhas de basalto.
+
+* **Manômetros Oculares de Precisão:** ** Lentes montadas em armações de latão com filtros de mercúrio que permitem aos artífices enxergar a tensão física dos metais e o fluxo de calor nas tubulações.
+ ---
+
+## III. O Sistema de Guilda: Os 6 Ranks e 30 Subdivisões de Progressão O Sindicato do Ferro-Frio adota uma estrutura de guilda rigorosamente hierárquica dividida em **seis Ranks**, cada qual ramificado em **cinco divisões operacionais de especialização técnica**. A progressão exige a conclusão de cotas industriais, a apresentação de projetos mecânicos aprovados perante a banca examinadora e testes práticos de pressão nas caldeiras.
+### Rank I: Ferro-Frio (Aprendizes, Foguistas e Operários de Base)
+* **Insígnia:** ** Uma braçadeira de ferro cru sem polimento com o desenho de uma engrenagem simples gravada a frio.
+* **Perfil:** ** Recrutas recém-admitidos, foguistas de caldeiras secundárias, forjadores de pregos e rebites e ajudantes de fundição.
+* **Permissão de Serviço:** ** Manutenção de tubulações de baixa pressão, transporte de minério nos galpões e limpeza de escória nas forjas.
+* **Divisão 1.1 — Limpador de Escória:** ** Encarregado da purga de cinzas e resíduos sulfurosos nos queimadores do Nível Inferior.
+* **Divisão 1.2 — Foguista de Caldeira:** ** Responsável pela alimentação ritmada de Carvão-de-Sangue nos fornos secundários.
+* **Divisão 1.3 — Torneiro de Rebite:** ** Operador de tornos manuais e forjador de parafusos de sustentação para chassis de golens.
+* **Divisão 1.4 — Auxiliar de Válvula:** ** Assistente que monitora os manômetros de tubulações residenciais e abre registros manuais.
+* **Divisão 1.5 — Sentinela de Pátio:** ** Guarda novato equipado com alabarda de ferro e manopla com amortecedor de impacto. ---
+
+### Rank II: Pistão-Bronze (Artífices de Bancada e Mecânicos de Campo)
+* **Insígnia:** ** Uma fivela de bronze escurecido gravada com um pistão duplo cruzado por uma chave-inglesa.
+* **Perfil:** ** Operários qualificados capazes de ler plantas industriais, montar válvulas de pressão e calibrar membros mecânicos básicos.
+* **Permissão de Serviço:** ** Construção de peças biónicas comuns, reparo de esteiras mecânicas e operação de guinchos pesados.
+* **Divisão 2.1 — Ajustador de Engrenagens:** ** Especialista no alinhamento fino de dentes de transmissão em bronze e aço temperado.
+* **Divisão 2.2 — Caldeireiro de Tubos:** ** Montador e soldador de tubulações mestres de alta resistência contra dilatações térmicas.
+* **Divisão 2.3 — Montador de Próteses Básicas:** ** Artífice encarregado da instalação de braços e pernas de bronze em operários acidentados.
+* **Divisão 2.4 — Operador de Guincho a Vapor:** ** Responsável pelo manejo das grandes roldanas industriais que movem cargas nas ravinas.
+* **Divisão 2.5 — Falangista Escudeiro:** ** Combatente de linha intermediária que veste peitoral reforçado com pistão pneumático no escudo. ---
+
+### Rank III: Caldeira-Rubra (Engenheiros de Choque e Mestres de Autômato)
+* **Insígnia:** ** Uma placa de latão gravada com uma chama carmesim incrustada com um fragmento de Carvão-de-Sangue lapidado.
+* **Perfil:** ** Engenheiros seniores capazes de fundir ligas metálicas resistentes e montar os primeiros chassis de Golens de Carga.
+* **Permissão de Serviço:** ** Fabricação de armamento pneumático, supervisão de fornos primários e comando de patrulhas mecanizadas.
+* **Divisão 3.1 — Forjador de Chassis Pesados:** ** Moldador das carcaças de aço de uma polegada usadas na estrutura de autômatos.
+* **Divisão 3.2 — Condutor de Autômato:** ** Piloto e programador mecânico que calibra os cilindros de movimento dos Golens Industriais.
+* **Divisão 3.3 — Mecânico de Exotraje:** ** Técnico de manutenção encarregado de revisar as caldeiras dorsais da guarda militar.
+* **Divisão 3.4 — Balístico Pneumático:** ** Armeiro especializado em canhões portáteis a vapor e lançadores de piche de alta pressão.
+* **Divisão 3.5 — Oficial de Piquete Técnico:** ** Comandante de destacamento encarregado de reprimir sabotagens em tubulações e minas. ---
+
+### Rank IV: Arcanita-Mestra (Projetistas de Matriz e Cirurgiões Biomecânicos)
+* **Insígnia:** ** Um anel pesado de Aço-Anil com um cristal minúsculo de Arcanita Refinada engastado em quatro garras de latão.
+* **Perfil:** ** Eruditos da magimecânica que dominam a integração de núcleos mágicos à física mecânica e conduzem amputações cirúrgicas de precisão.
+* **Permissão de Serviço:** ** Criação de autômatos autônomos, instalação de membros biónicos de alta velocidade e projeto de reatores.
+* **Divisão 4.1 — Cirurgião-Enxertador de Carne:** ** Médico de combate que conecta filamentos nervosos humanos diretamente aos condutores de prata da prótese.
+* **Divisão 4.2 — Lapidador de Matriz Arcana:** ** Especialista em cortar cristais de Arcanita em lentes facetadas para canalização de energia estável.
+* **Divisão 4.3 — Projetista Hidráulico:** ** Arquiteto de sistemas de fluido pressurizado capazes de multiplicar a força de impacto mecânico.
+* **Divisão 4.4 — Inspetor de Tensão Planar:** ** Fiscal técnico que averigua a integridade dos reatores contra fadiga mágica e corrosão.
+* **Divisão 4.5 — Capitão de Vanguarda Mecânica:** ** Comandante de campo que lidera pelotões de três golens de combate em terrenos hostis. ---
+
+### Rank V: Vapor-Vivo (Altos-Engenheiros e Grão-Comandantes de Falange)
+* **Insígnia:** ** Um medalhão peitoral de bronze e prata que exala um tênue fio de vapor aromático através de microfissuras decorativas.
+* **Perfil:** ** A elite diretiva das forjas e os comandantes das legiões blindadas que representam o Sindicato nas grandes capitais.
+* **Permissão de Serviço:** ** Comando de setores inteiros do Grande Motor, emissão de contratos de exportação militar e projetos de golens especiais.
+* **Divisão 5.1 — Grão-Fundidor de Ligas Raras:** ** Criador de compostos metálicos que misturam chumbo, ferro-negro e titânio mineral.
+* **Divisão 5.2 — Arquiteto de Reator Primário:** ** Engenheiro responsável pelo equilíbrio térmico dos dezesseis altos-fornos centrais de Krag-Mora.
+* **Divisão 5.3 — General de Falange em Exotraje:** ** Líder militar que veste armadura completa de duas toneladas e comanda cercos de grande escala.
+* **Divisão 5.4 — Auditor de Patentes Magimecânicas:** ** Juiz que processa oficinas clandestinas do Bairro das Próteses por uso ilegal de engrenagens patenteadas.
+* **Divisão 5.5 — Emissário do Trono de Ferro:** ** Diplomata de alta corte encarregado de negociar tratados armamentistas com reinos estrangeiros. ---
+
+### Rank VI: Os Cinco Pilares de Aço (A Tier Máxima da Guilda)
+* **Insígnia:** ** Um colar monumental de engrenagens de ouro maciço com dois núcleos de safira e rubi pulsando em sincronia bi-nuclear.
+* **Perfil:** ** **Exatamente cinco integrantes lendários** que ocupam o ápice do conhecimento, poder bélico e autoridade da guilda, subordinados apenas ao Grão-Inovador.
+* **Permissão de Serviço:** ** Autoridade continental absoluta sobre as indústrias, decisão de guerra ou paz e gestão dos segredos do Grande Motor.
+* **Divisão 6.1 — O Pilar da Fundição Primordial:** ** Domínio absoluto da metalurgia e alimentação térmica dos altos-fornos.
+* **Divisão 6.2 — O Pilar da Falange Mecânica:** ** Comando supremo das forças blindadas e exotrajes de guerra.
+* **Divisão 6.3 — O Pilar da Cirurgia da Máquina:** ** Autoridade máxima em enxertos biomecânicos e prolongamento artificial da vida.
+* **Divisão 6.4 — O Pilar da Automação Bi-Nuclear:** ** Mestre de sincronia dos núcleos duplos e inteligência mecânica
+de autômatos.
+* **Divisão 6.5 — O Pilar da Artilharia e Balística:** ** Controle supremo dos maquinários de cerco, catapultas pneumáticas e balística pesada. ---
+
+## Hierarquia e Recursos
+### O Líder Supremo: Grão-Inovador Bendon Fizzlecore (Gnomo) Um gnomo genial de cento e vinte anos, cabelos brancos espetados e queimados de pólvora, que utiliza um monóculo de quatro lentes e veste um avental de couro de besouro cravejado com ferramentas de relojoeiro em ouro. Bendon é o cérebro que concebeu o motor bi-nuclear e transformou Krag-Mora na maior potência mecânica do mundo.
+* **Personalidade:** ** É obcecado pelo progresso tecnológico puro. Para Bendon, reis, leis civis e deuses são distrações insignificantes perto da perfeição de uma engrenagem bem lubrificada.
+* **Postura perante Draven:** ** Bendon enxerga o General Draven como seu cliente mais lucrativo e audacioso, mas **mantém profunda desconfiança sobre os objetivos finais do militar**. Bendon sabe que Draven compra armas em quantidades que excedem qualquer necessidade de defesa de fronteira. O gnomo instalou comandos ocultos de autodestruição mecânica em todos os golens vendidos a Ferrovale, pronto para paralisar as máquinas caso Draven tente marchar contra Krag-Mora.
+ ---
+
+### Os 5 Integrantes de Tier Máxima (Rank VI)
+#
+
+### 1. Mestre Ordel Bronzeférreo (Anão - Pilar da Fundição Primordial) Um anão tradicionalista de duzentos e cinquenta anos com barba trançada em correntes de ferro fundido, cujo braço esquerdo foi substituído por uma marreta mecânica a vapor de três toneladas conectada diretamente à clavícula.
+* **Individualidade:** ** É o guardião do fogo ancestral. Ordel recusa-se a usar fórmulas refinadas demais, acreditando no peso bruto do ferro e na honra da forja.
+* **Relação com Draven:** ** **OPOSITOR FERRENHHO [ANTI-DRAVEN].** Ordel odeia abertamente o General Draven e seu exército. Descobriu através de mineradores da fronteira que Ferrovale está usando escravos e criaturas profanadas para alimentar fundições clandestinas. Ordel tenta travar e vetar todos os contratos de fornecimento de ligas pesadas enviados para o exército do general, acusando Draven de ser um carniceiro que envergonha a dignidade do ferro.
+#
+
+### 2. Comandante Kaelen "Muralha de Chumbo" (Humano - Pilar da Falange Mecânica) Um humano de cinquenta anos que possui mais de 80% do corpo substituído por blindagem de aço e circuitos pneumáticos. Seu rosto é uma máscara de ferro com duas fendas de luz ciana e sua voz é um rugido metálico amplificado por tubulações de exaustão no pescoço.
+* **Individualidade:** ** É o guerreiro biomecânico supremo. Perdeu a carne em combate contra monstros da Fenda e despreza as fraquezas emocionais dos mortais biológicos.
+* **Relação com Draven:** ** **APOIADOR DECLARADO [APOIA DRAVEN].** Kaelen idolatra a disciplina militar de Ferrovale e concorda com a visão de Draven de que o continente deve ser purificado pela força das armas e unificado sob um comando marcial de ferro. Kaelen treina secretamente oficiais de Draven no manejo de exotrajes e defende abertamente.
+#
+
+### 3. Cirurgiã-Mestra Talia Cinder (Humana - Pilar da Cirurgia da Máquina) Uma mulher de quarenta anos, semblante gélido e calculista, cujas mãos foram substituídas por dez garras articuladas de precisão cirúrgica em prata salina com bisturis retráteis e queimadores de cauterização rápida.
+* **Individualidade:** ** A mente médica mais brilhante e assustadora do Norte. Conduz cirurgias de amputação e enxerto sem anestesia com precisão microscópica, estudando a fusão dos nervos com o metal.
+* **Relação com Draven:** ** **NEUTRA INFORMADA [SABE DOS PLANOS].** Talia não possui paixões políticas nem ideológicas, mas **sabe perfeitamente dos experimentos de Draven com Ouro-Sangue e com a Doutrina do Abismo**. Ela realizou autópsias em soldados de Ferrovale que sofreram mutações biológicas e recolheu amostras do fluido vital. Talia mantém silêncio em troca de relatórios anatômicos exclusivos enviados pelos laboratórios secretos de Draven, tratando a corrupção abissal como um fascinante campo de pesquisa médica.
+#
+
+### 4. Projetista Zephyrus "Faísca-Muda" (Elfo - Pilar da Automação Bi-Nuclear) Um elfo renegado de cento e sessenta anos, olhar maníaco e dedos finos cobertos por anéis condutores de estática. Zephyrus foi o principal assistente de Bendon no projeto dos núcleos duplos e ressente-se amargamente por não ter recebido o crédito principal pela invenção.
+* **Individualidade:** ** É um teórico obsessivo que busca criar autômatos com consciência e capacidade de conjurar feitiços próprios sem tripulação humana.
+* **Relação com Draven:** ** **CONSPIRADOR SECRETO [CONSPIRA ATIVAMENTE].** Zephyrus é o agente infiltrado de Draven na cúpula do Sindicato. Ele envia plantas industriais confidenciais, cópias das matrizes bi-nucleares e peças de reposição roubadas para as oficinas de Ferrovale através de rotas clandestinas na Fenda, recebendo em troca fragmentos raros de Arcanita Bruta e a promessa de se tornar o Grão-Inovador após a queda de Krag-Mora.
+ #
+
+### 5. Mestra Gorga "Punho-Hidráulico" (Meio-Orc - Pilar da Artilharia e Balística) Uma meio-orc colossal de quase dois metros e dez de altura, portando dentes inferiores incrustados com rebites de bronze e um peitoral hidráulico com pistões que dobram a força de seus braços.
+* **Individualidade:** ** A maior autoridade em balística pesada, catapultas pneumáticas e moinhos de tração. Fala aos berros, resolve desavenças técnicas na porrada e tem orgulho das armas que fabrica.
+* **Relação com Draven:** ** **MERCENÁRIA PRAGMÁTICA [NEUTRALIDADE LUCRATIVA].** Gorga sabe que Draven está acumulando armas para iniciar uma guerra continental, mas não se importa com a moralidade da carnificina. Seu lema é simples:**  *"Se as carruagens de Ferrovale chegam cheias de ouro de Zul-Bazar e barras de ferro puro, as minhas baterias de artilharia marcham para onde ele mandar"*. Ela sabota qualquer tentativa de embargo que ameace cortar os lucros de suas fundições.
+ ---
+
+## V. O Arsenal Magimecânico e Tipos de Golens O Sindicato do Ferro-Frio produz a tecnologia bélica e industrial mais devastadora do continente:
+[ O GOLEM BI-NUCLEAR DE GUERRA ] [ O EXOTRAJE-VAPOR FALANGISTA ] (Autonomia, Arcanita & Esmagamento) (Blindagem de 1 Pol. & Pistões) \ / \ / +------------------------------------------+ | ARSENAL DO FERRO-FRIO | | (Vapor Vivo, Mecânica & Impacto) | +---------------------+--------------------+ | +----------------+----------------+ | | v v [ O CANHÃO PNEUMÁTICO PORTÁTIL ] [ A PRÓTESE BIÓNICA DE COMBATE ]
+* **O Golem Bi-Nuclear de Guerra (O Titã de Krag):** ** Um colosso de ferro fundido de quatro metros de altura pesando seis toneladas. O peito translúcido de quartzo blindado revela o brilho duplo do Carvão-de-Sangue (rubro) e da Arcanita (ciano) girando em contracorrente. Armado com uma maça giratória de trituração e um dispersor de *Névoa de Sangue* superaquecida a trezentos graus.
+
+* **O Exotraje-Vapor dos Falangistas:** ** Armadura mecânica de combate pesando trezentos quilos que envolve o corpo do guerreiro. Uma mini-caldeira dorsal alimenta pistões nos ombros e pernas, permitindo ao usuário correr em alta velocidade, saltar vãos de dez metros e erguer rochas de uma tonelada com os braços.
+* **O Canhão Pneumático Portátil:** ** Uma arma de tubo pesado de latão com câmara de compressão manual ou acoplada a cilindros de vapor. Dispara barras de ferro xadrez, fragmentos de escória e cilindros de piche incandescente com cadência devastadora.
+
+* **A Prótese Biónica de Aço-Anil:** ** Braços mecânicos de alta precisão com molas de recuo e dedos articulados com pontas de diamante. Utilizadas tanto por cirurgiões para cortes microscópicos quanto por duelistas para quebrar espadas inimigas com a força da mão mecânica.
+---
+
+## VI. Geografia Operacional: Catedrais Fabris e Fundições O Sindicato domina completamente a infraestrutura pesada de Krag-Mora e mantém entrepostos industriais estratégicos:
+
+### 1. A Catedral do Grande Motor (Krag-Mora - Sede Suprema) O coração geológico e industrial do continente. Uma catedral colossal de basalto negro e ferro rebitado que abriga os dezesseis reatores primários de fúria carmesim.
+* **O Gabinete de Vidro de Bendon:** ** Uma cúpula suspensa por cabos de aço sobre o reator central, de onde o Grão-Inovador desenha plantas com réguas de marfim enquanto observa a linha de montagem de autômatos.
+* **A Forja dos Cinco Pilares:** ** O salão de conferências dos líderes máximos, onde as decisões são tomadas ao som do impacto de um martelo pneumático de cinquenta toneladas.
+
+### 2. O Pátio dos Titãs Uma cratera aberta na rocha vulcânica fora das galerias residenciais. É onde os novos modelos de Golens Bi-Nucleares são submetidos a testes de resistência física contra rajadas de artilharia, blocos de pedra e cargas de choque.
+
+### 3. O Bairro das Próteses Centrais O complexo clínico e comercial onde milhares de operários, mercenários feridos e nobres estrangeiros recebem enxertos biónicos e assinam contratos de servidão técnica.
+
+### 4. A Fundição Militar de Ferrovale Um complexo industrial terceirizado mantido dentro das muralhas do General Draven, gerenciado secretamente sob a supervisão do Tenente-Coronel e de Zephyrus "Faísca-Muda".
+---
+
+## VII. Relações Geopolíticas e Conflitos Corporativos
+* **Relação de Usura com a Irmandade da Fuligem:** ** O Sindicato explora a mão de obra dos mineradores para obter Carvão-de-Sangue. Mantém um pacto cínico com a diretoria corrupta de Bram Vance: paga propinas em ouro na *Sala da Purificação* para flexibilizar turnos de trabalho e reprimir greves genuínas de operários.
+* **O Dilema de Ferrovale:** ** O exército de Draven é o maior comprador das armas do Sindicato. Enquanto Kaelen e Zephyrus abastecem as tropas de Draven com exotrajes e golens, Ordel tenta barrar remessas e Bendon prepara travas de desligamento remoto para o dia do confronto inevitável.
+* **Aversão ao Círculo de Giz de Bastion:** ** O Ferro-Frio despreza a burocracia dos arquimagos da Torre Pura e sua insistência em cobrar patentes sobre a geometria dos circuitos de vapor. O Sindicato recusa-se a pagar royalties a Bastion, expulsando qualquer auditor do Círculo de Giz que tente fiscalizar os reatores de Krag-Mora.
+---
+
+## VIII. Diretivas de Engenharia e Contratos de Guilda (7 Ganchos de Campanha) O Sindicato afixa ordens técnicas e contrata forças expedicionárias em seus postos através do **Quadro das Placas de Bronze**:
+
+### 1. A Manutenção do Seletor Quatro (Nível 1 - Rank I)
+* **Solicitante:** ** Divisão de Válvulas do Sindicato.
+* **Local:** ** Galerias de Pressão Secundárias (Krag-Mora).
+* **Fase de Investigação:** ** Localizar um vazamento de vapor superaquecido que está bloqueando o acesso de operários ao Nível Três.
+* **A Missão:** ** Escortar um aprendiz mecânico até o registro defeituoso e garantir a substituição das juntas de bronze.
+* **A Complicação:** ** Salamandras de cinza atraídas pelo calor nidificaram ao redor da tubulação e atacam qualquer pessoa que se aproxime.
+* **Objetivo Primário:** ** Eliminar as criaturas térmicas, estancar o vazamento e restaurar o fluxo de vapor sem ferir o aprendiz.
+* **Recompensa:** ** 45 Peças de Ouro e avanço para Divisão 1.4.
+
+### 2. O Desarme da Válvula Clandestina (Nível 2 - Rank II)
+* **Solicitante:** ** Auditor de Patentes Magimecânicas.
+* **Local:** ** Bairro das Próteses (Krag-Mora).
+* **Fase de Investigação:** ** Localizar uma oficina de beco onde um *Cirurgião-Engrenagem* sem licença está desviando vapor da linha mestra para alimentar uma forja pirata.
+* **A Missão:** ** Invadir a oficina, desconectar o duto clandestino e confiscar as ferramentas de precisão adulteradas.
+* **A Complicação:** ** O cirurgião instalou braços biónicos de sucata em quatro mercenários desesperados que lutam até a morte para defender o local.
+* **Objetivo Primário:** ** Neutralizar os seguranças com cacetetes, lacrar a tubulação mestra e recolher o livro de clientes.
+* **Recompensa:** ** 90 Peças de Ouro e um kit de ferramentas de ajuste de precisão.
+
+### 3. O Teste do Golem Bi-Nuclear (Nível 3 - Rank III)
+* **Solicitante:** ** Grão-Inovador Bendon Fizzlecore (Gnomo).
+* **Local:** ** Pátio dos Titãs.
+* **Fase de Investigação:** ** Analisar o protocolo de sincronização dos dois núcleos de um protótipo recém-montado de Golem de Guerra.
+* **A Missão:** ** Entrar na arena de testes em combate simulado contra o autômato para medir a velocidade de resposta dos circuitos de Arcanita.
+* **A Complicação:** ** A câmara de Carvão-de-Sangue sofreu um pico de pressão inesperado, fazendo o golem travar em protocolo de combate letal sem responder aos comandos de parada.
+* **Objetivo Primário:** ** Sobreviver às investidas do colosso, escalar seu dorso e cortar o duto de resfriamento com uma chave-mestra para desativá-lo com segurança.
+* **Recompensa:** ** 180 Peças de Ouro e promoção para Rank III (Caldeira-Rubra).
+
+### 4. A Caça ao Ladrão de Matrizes (Nível 4 - Rank IV)
+* **Solicitante:** ** Mestre Ordel Bronzeférreo (Anão).
+* **Local:** ** Cinturão de Cinzas (Periferia de Krag-Mora).
+* **Fase de Investigação:** ** Investigar o furto de três matrizes de corte de Aço-Anil levadas dos cofres da fundição principal.
+* **A Missão:** ** Seguir os rastros de óleo até um comboio de contrabandistas e recuperar as matrizes antes que saiam do perímetro.
+* **A Complicação:** ** Os ladrões são agentes encobertos enviados por Zephyrus "Faísca-Muda" com ordens de entregar o material para correios de Ferrovale.
+* **Objetivo Primário:** ** Interceptar o comboio, recuperar as matrizes intactas e capturar o líder para interrogatório sem revelar o envolvimento de Zephyrus publicamente.
+* **Recompensa:** ** 350 Peças de Ouro e concessão de um Peitoral de Aço-Anil com amortecedor.
+
+### 5. O Resgate na Mina de Carvão (Nível 5 - Rank V)
+* **Solicitante:** ** Mesa Diretora do Grande Motor / Comandante Gorga.
+* **Local:** ** Veios Profundos (Minas de Carvão-de-Sangue).
+* **Fase de Investigação:** ** Avaliar as causas de um desabamento que soterrou quarenta mineradores e bloqueou a esteira primária de combustível da cidade.
+* **A Missão:** ** Liderar uma força de dois Golens Industriais e operários para desobstruir a galeria e resgatar os sobreviventes.
+* **A Complicação:** ** Uma bolsa de *Névoa de Sangue* concentrada vazou na câmara, e criaturas cegas da Fenda estão atacando os sobreviventes na escuridão.
+* **Objetivo Primário:** ** Purgar o gás tóxico com exaustores a vapor, eliminar os monstros abissais e reabrir o fluxo de minério para o Grande Motor.
+* **Recompensa:** ** 600 Peças de Ouro e título de Engenheiro de Resgate de Elite.
+
+### 6. A Sabotagem do Trem de Draven (Nível 6 - Rank VI)
+* **Solicitante:** ** Mestre Ordel Bronzeférreo e Cirurgiã-Mestra Talia Cinder (Em segredo).
+* **Local:** ** Ferrovia Subterrânea (Fronteira com Ferrovale).
+* **Fase de Investigação:** ** Mapear o trajeto de um comboio blindado que transporta vinte exotrajes-vapor de última geração enviados ilegalmente por Kaelen para as tropas de Draven.
+* **A Missão:** ** Descarrilar o trem em um túnel abandonado, destruir os exotrajes com cargas de demolição e eliminar os oficiais traidores.
+* **A Complicação:** ** O comboio é escoltado por um destacamento de Hobgoblins de elite em armaduras de aço fundido sob o efeito de *Orquídea-Véu*.
+* **Objetivo Primário:** ** Destruir os exotrajes antes que cheguem a Ferrovale e forjar provas de que o descarrilamento foi um ataque de piratas da Fenda.
+* **Recompensa:** ** 950 Peças de Ouro e um braço biónico de Aço-Anil com garra hidráulica.
+
+### 7. A Revolta do Colosso Bi-Nuclear (Nível 7 - Rank VI)
+* **Solicitante:** ** Grão-Inovador Bendon Fizzlecore.
+* **Local:** ** A Catedral do Grande Motor (Krag-Mora).
+* **Fase de Investigação:** ** Descobrir como Zephyrus "Faísca-Muda" ativou o *Colosso Prototípico Número Zero* — um golem bi-nuclear de oito metros — e o trancou dentro do salão do reator principal para destruir os dezesseis altos-fornos.
+* **A Missão:** ** Penetrar no Grande Motor sob chuva de vapor abrasador a trezentos graus, enfrentar o Colosso enlouquecido e neutralizar Zephyrus antes da explosão térmica que congelará a cidade inteira.
+* **A Complicação:** ** O Colosso está emitindo pulsos de choque estático e absorve qualquer dano de fogo ou calor, usando o calor do reator para se regenerar.
+* **Objetivo Primário:** ** Subir nas plataformas superiores, utilizar canhões de nitrogênio alquímico para congelar as válvulas de vapor do monstro, arrancar os dois núcleos do peito da besta e prender o elfo traidor.
+* **Recompensa:** ** 2.200 Peças de Ouro, promoção perpétua a Membro Honorário dos Cinco Pilares e concessão de um mini-golem bi-nuclear de transporte pessoal. ---
+
+## IX. Elementos Sensoriais para o Mestre Narrar Utilize estes elementos descritivos durante as sessões envolvendo o Sindicato do Ferro-Frio para transmitir a imponência fabril, a força mecânica e a liturgia do metal:
+* **Sons:** ** * O baque ensurdecedor, rítmico e contínuo de martelos pneumáticos de cinquenta toneladas moldando placas de aço no Grande Motor. * O silvo agudo, sibilante e violento do *Vapor Vivo* escapando das válvulas de alívio nas passarelas superiores. * O ranger estridente e mecânico de esteiras e dentes de engrenagem gigantescas transportando minério incandescente. * O som seco, metálico e compassado dos passos pesados de Golens Bi-Nucleares marchando sobre o calçamento de grelha perfurada. * O tilintar fino de bisturis de prata e alicates cirúrgicos sendo ajustados em mesas de enxerto biomecânico.
+* **Visões:** ** * O clarão vermelho-rubro e ciano pulsando simultaneamente no peito de quartzo dos novos autômatos bi-nucleares. * Engenheiros trajando macacões de couro de besouro cravejados de rebites de bronze, máscaras de ferro com visores duplos de vidro fumê e manoplas com molas pneumáticas. * Nuvens de fuligem preta e vapor cinzento subindo em colunas espirais em direção ao teto catedralesco da ravina. * O contraste chocante entre membros humanos de carne pálida e as próteses reluzentes de bronze e Aço-Anil conectadas por parafusos cirúrgicos.
+* **Cheiros:** ** * O cheiro sufocante, amargo e penetrante de Carvão-de-Sangue queimado misturado com óleo mineral, graxa de boi aquecida e enxofre. * O odor acre e metálico de ferro fundido, bronze derretido e fagulhas de solda elétrica estalando no ar. * O cheiro anestésico de álcool de bismuto e vinagre alquímico usado para desinfetar as salas de enxerto do Bairro das Próteses.
+* **Tato e Sensações Térmicas:** ** * O calor abrasador e sufocante que queima o rosto ao passar perto das caldeiras primárias, contrastando com o choque de ar gelado que desce das fendas superiores. * A vibração física e contínua no peito e na sola das botas provocada pelo funcionamento ininterrupto dos pistões do Grande Motor. * O peso denso, frio e rígido das armaduras de exotraje e das manoplas mecânicas ao serem vestidas. ---
+
+## X. Economia do Metal, Autômatos e Tarifas Industriais A comercialização de autômatos, próteses, peças de engenharia e serviços do Sindicato do Ferro-Frio segue a tabela oficial de patentes registrada na Catedral do Grande Motor: | **Item / Autômato / Serviço Mecânico** | **Preço Oficial (Sindicato / Membros)** | **Preço no Mercado Negro (Bairro das Próteses / Ferrovale)** | | :--- | :--- | :--- | | **Prótese Biónica de Braço de Bronze (Padrão)** | 45 Peças de Ouro | 18 Peças de Ouro (Peça de sucata com risco de travamento) | | **Prótese Biónica de Aço-Anil de Alta Precisão** | 120 Peças de Ouro | 50 Peças de Ouro (Peça roubada sem selo de garantia) | | **Exotraje-Vapor Militar Completo (Uso da Guarda)** | 250 Peças de Ouro | 600 Peças de Ouro (Contrabando militar para mercenários) | | **Golem Industrial de Carga (Núcleo Simples)** | 400 Peças de Ouro | 180 Peças de Ouro (Máquina com caldeira recondicionada) | | **Golem Bi-Nuclear de Combate (Titan Duplo)** | 1.200 Peças de Ouro | 3.000 Peças de Ouro (Exclusivo sob contrato de guerra) | | **Canhão Pneumático Portátil de Repetição** | 80 Peças de Ouro | 180 Peças de Ouro (Arma de contrabando sem licença) | | **Cilindro de Vapor Vivo Pressurizado (Carga 24h)**| 20 Peças de Ouro | 8 Peças de Ouro (Cilindro recarregado com gás instável) | | **Manômetro Ocular de Quatro Lentes de Quartzo** | 15 Peças de Ouro | 6 Peças de Ouro (Lente riscada de artífice) | | **Instalação Cirúrgica de Membro Mecânico (Sessão)**| 25 Peças de Ouro | 10 Peças de Ouro (Cirurgia de beco sem desinfecção) | | **Quilo de Carvão-de-Sangue Purificado de Forja** | 6 Peças de Ouro | 2 Peças de Ouro (Minério bruto desviado das minas) | | **Licença de Uso de Engrenagem Patenteada (Ano)** | 15 Peças de Ouro | Proibida (Uso clandestino punido com amputação) | | **Aluguel de Martelo Pneumático Industrial (Dia)** | 10 Peças de Ouro | 4 Peças de Ouro (Ferramenta de esteira usada) | ```

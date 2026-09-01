@@ -1,7 +1,7 @@
-# Lore Expandida: A Guarda da Carapaça
+Lore Expandida: A Guarda da Carapaça
 A onda não quebra a rocha pela força, mas pela constante entrega do seu fluxo; nós somos a maré que acolhe os fracos, defende o titã e devolve os violentos às profundezas de onde nunca deveriam ter saído.
 
-## Identidade e Motivação (Visão Geral) e a Doutrina da Maré Fluida
+## I. Visão Geral e a Doutrina da Maré Fluida
 Se nos reinos do continente as forças militares marcham em armaduras pesadas de ferro cru com botas ritmadas que fazem a terra tremer, A Guarda da Carapaça representa o oposto absoluto da arte da guerra tradicional: é a ordem dedicada de guardiões, protetores e mestres marciais de Tartuga. Operando a partir do Bastião de Coral Vivo instalado nas placas traseiras e nadadeiras do leviatã, a Guarda cumpre uma missão sagrada: defender o ecossistema único do colosso marinho, garantir a paz interior das passarelas de madrepérola e repelir qualquer ameaça trazida por piratas, corsários ou abominações que sobem das fossas do abismo.
 A Guarda não é uma milícia comunitária amadora ou rotativa, tampouco uma guilda mercenária de aventureiros caçadores de recompensa. Trata-se de uma Ordem Monástica e Militar Dedicada, cujos membros abdicam de ambições políticas e dedicam suas vidas ao estudo do Caminho da Água Serena. Seus integrantes entram para a ordem ainda jovens e passam por anos de rigoroso treinamento físico, espiritual, acrobático e elementar.
 Ao contrário dos exércitos continentais que visam a aniquilação física do inimigo por perfuração e esmagamento, a filosofia da Guarda repousa no Princípio da Reflexão e Desvio: o guardião nunca contrapõe força contra força. Ele absorve o impacto do golpe inimigo, usa a gravidade e o impulso do próprio agressor contra ele mesmo e arremessa o oponente nas águas do oceano ou o imobiliza com travamentos articulares de precisão antes que uma única gota de sangue inocente seja derramada sobre o casco sagrado.
@@ -130,7 +130,9 @@ A Sintonização Cardíaca: Mergulhado nas câmaras inferiores do casco, o inici
 <--
 [ BATISMO COMPLETO ]
 
-## II. A Arte Marcial das Marés: A Dança das Seis Correntes
+
+
+II. A Arte Marcial das Marés: A Dança das Seis Correntes
 A eficácia tática e a reputação formidável da Guarda repousam em uma disciplina marcial única no continente: A Dança das Seis Correntes. Esta arte combina o combate corporal acrobático, o uso de bastões flexíveis de madeira, projéteis de arpoamento e a manipulação elementar fluida da água salgada e da umidade do ar.
 
 [ ATAQUE INIMIGO EM INVESTIDA ]
@@ -148,7 +150,9 @@ v
 [ TRAVAMENTO ARTICULAR / ARREMESSO ]
  (Uso de Escudos Fluidos de Maré)              (Projeção do Inimigo ao Oceano)
 
-### 1. As Seis Formas de Combate Corporal
+
+
+1. As Seis Formas de Combate Corporal
 A Forma do Orvalho (Esquiva e Leveza): O guardião move-se com a fluidez de uma gota deslizando por uma folha de lótus aquático. Permite esquivar de estocadas rápidas de adagas, flechas e projéteis com movimentos mínimos de tronco e quadril, utilizando o piso molhado ou escorregadio das passarelas de junco como vantagem de deslocamento.
 A Forma do Redemoinho (Desarme e Rotação): Focada em interceptar e redirecionar o peso de oponentes armados. Ao receber um golpe de espada pesada ou machado de duas mãos, o guardião gira o corpo, agarra o pulso ou o cabo da arma do agressor e usa a força da própria investida para desarmá-lo e arremessá-lo sobre a balaustrada diretamente no mar.
 A Forma da Cascata (Impacto e Pressão Nervosa): Uma sequência rápida e ritmada de golpes com as palmas das mãos, cotovelos e a base do bastão em pontos de pressão nervosa do corpo humano. Capaz de paralisar temporariamente os membros do oponente ou induzir desmaio instantâneo sem quebrar ossos ou causar hemorragias internas.
@@ -180,7 +184,9 @@ A progressão dentro da Guarda da Carapaça é estritamente meritocrática, téc
 [ PATRULHEIRO GOTA-GUIA ]
   (Conselho Supremo)         (Comandante de Setor)      (Guardião de Passarela)
 
-### 1. Patente 1: Concha-Branca (Iniciados e Guarda Urbana)
+
+
+1. Patente 1: Concha-Branca (Iniciados e Guarda Urbana)
 Emblema: Um pingente simples de concha espiral branca trançado em cabo de junco marinho.
 Função Militar: Jovens guardiões que concluíram o treinamento básico de três anos. Atuam na patrulha das passarelas da Feira de Madrepérola, no controle de tráfego de botes nos ancoradouros, no apoio a idosos e no auxílio de emergências comunitárias.
 Subdivisões Especializadas:

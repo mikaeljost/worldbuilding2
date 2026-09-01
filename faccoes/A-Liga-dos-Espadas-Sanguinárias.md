@@ -1,7 +1,7 @@
-# Lore Expandida: A Liga dos Espadas-Sanguinárias
+Lore Expandida: A Liga dos Espadas-Sanguinárias
 O aço não pergunta a linhagem do guerreiro, e a moeda de ouro não distingue o sangue de um rei do sangue de um porco; aqui, o seu valor é medido pelo número de crânios que você pendura no cinturão.
 
-## Identidade e Motivação (Visão Geral) e a Doutrina do Aço Mercenário
+## I. Visão Geral e a Doutrina do Aço Mercenário
 Nas arenas ensanguentadas, nas estradas poeireitas do Deserto de Sol-Crestado e nas fronteiras conturbadas da Marca da Fenda, poucas insígnias causam tanto respeito quanto o broche de ferro fundido em formato de duas cimitarras cruzadas sobre uma presa de javali: a marca da Liga dos Espadas-Sanguinárias. Fundada originalmente por clãs Orcs renegados que recusaram a servidão, a Liga transformou-se na maior, mais temida e mais respeitada Guilda Livre de Mercenários, Caçadores de Recompensa e Guardas de Choque do continente.
 Diferente de ordens militares fechadas ou guardas estatais presas a burocracias de reino, a Liga opera abertamente como uma Guilda Comercial de Combate. Qualquer indivíduo que saiba empunhar uma lâmina — seja um guerreiro Orc em busca de glória, um Meio-Orc expulso de vilarejos rurais, um humano desertor ou um anão sem clã — pode bater nas portas de um dos Salões das Presas e pedir a Iniciação do Aço. Se o candidato sobreviver à Prova de Sangue, seu nome é gravado na pedra de registro e ele recebe o direito de aceitar contratos de combate, escolta, caça a monstros e eliminação de alvos no continente.
 A cultura da Liga é profundamente impregnada pelas tradições marciais Orcs: o respeito absoluto à força física, a lealdade inabalável ao contrato assinado, a disciplina em combate de bando e o ritual de contagem de troféus. Para os Orcs da Liga, a guerra não é um ato de sadismo desordenado, mas a expressão máxima da honra e da sobrevivência. Um mercenário da Liga que quebra um contrato aceito ou foge de uma batalha abandonando seus companheiros de bando é declarado Lâmina-Sem-Honra: suas insígnias são derretidas, suas dentes são quebrados e ele passa a ser caçado por seus próprios irmãos de guilda.
@@ -138,7 +138,8 @@ Contratos de Lenda e Extermínio (Selo Vermelho - Rank S): Caça a Behemoths do 
   <--
 [ ACEITE PELO BANDO ]
 
-### 2. O Registro do Mercenário e a Progressão de Nível (Ranks)
+
+2. O Registro do Mercenário e a Progressão de Nível (Ranks)
 Para aceitar missões no Mural dos Crânios, o mercenário precisa estar devidamente registrado na guilda. Ao ser aprovado no teste inicial, o mercenário recebe sua Placa das Presas — uma placa de ferro fundido presa ao pulso por uma braçadeira de couro com cravo de bronze.
 A progressão dentro da Liga exige o cumprimento de cotas de contratos concluídos, apresentação de troféus confirmados (crânios, orelhas ou dentes de inimigos) e a aprovação na Prova de Sangue realizada perante o conselho de veteranos da guilda.
 
@@ -247,7 +248,10 @@ A Liga dos Espadas-Sanguinárias mantém Salões de Contratação estratégicos 
 [ MARCA DA FENDA: O POSTO DOS VETERANOS ]
 <- Posto Semi-Abandonado / Pouca Atividade
 
-### 1. O Salão das Presas da Borda (Malaxis)
+
+
+
+1. O Salão das Presas da Borda (Malaxis)
 Localizado na Borda dos Desesperados, sobre uma projeção de basalto que se estende sobre a Garganta do Escorpião.
 Estrutura: É a maior e mais influente guarnição da guilda. Abriga o Mural dos Crânios Principal, a Pista de Sangue oficial para Provas de Sangue, adegas de cerveja forte e alojamentos para quinhentos mercenários. É a sede principal do Conselho das Presas.
 2. O Bastião do Aço Negro (Krag-Mora)

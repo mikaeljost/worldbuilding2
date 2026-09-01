@@ -1,7 +1,7 @@
-# Lore Expandida: A Irmandade da Fuligem
+Lore Expandida: A Irmandade da Fuligem
 O suor do mineiro alimenta a fornalha e a sua tosse ritma o progresso da cidade; mas é a assinatura da nossa diretoria que decide qual caldeira recebe o fogo e qual setor congelará no escuro.
 
-## Identidade e Motivação (Visão Geral) e a Doutrina do Sindicalismo de Escória
+## I. Visão Geral e a Doutrina do Sindicalismo de Escória
 Nas galerias abafadas, enfumaçadas e incandescentes dos Veios Profundos — centenas de metros abaixo das estufas, caldeiras e forjas do Sindicato do Ferro-Frio em Krag-Mora —, a vida de um trabalhador é medida em sacos de minério extraídos, na integridade de suas juntas e na resistência dos seus pulmões à Névoa de Sangue. É nesse cenário de exploração extenuante, calor abrasador e fuligem permanente que opera A Irmandade da Fuligem: a poderosa corporação laboral, sindicato minerador e cartel de distribuição de combustível que representa a massa de operários, picaretadores, carregadores de esteira e limpadores de combustão da cidade-fornalha.
 Fundada originalmente após a lendária Greve dos Três Dias — quando milhares de mineradores paralisaram os poços geotérmicos centrais e ameaçaram congelar os reatores do Grande Motor —, a Irmandade apresenta-se ao público e às galerias de mineração com uma postura abertamente populista, inflamada, demagógica e combativa. Seus líderes vestem macacões rasgados de couro queimado, mancham propositalmente os rostos com poeira de carvão antes de subirem aos pátios, ostentam cicatrizes de queimaduras e fazem discursos acalorados sobre "a dignidade da marreta", "o direito ao respirador limpo" e "a união dos despossuídos contra a aristocracia do vapor". Para o minerador comum que trabalha dezoito horas por dia sob o risco contínuo de desabamentos, soterramentos e necrose pulmonar, a Irmandade é o único escudo entre a sua família e a miséria absoluta.
 Contudo, por trás da retórica inflamada de assembleia, dos punhos erguidos, das faixas carmesins e das canções de greve entoadas ao som de marretadas nas tubulações, esconde-se uma diretoria sindicalista profundamente pragmática, gananciosa, autoritária e auto-interessada. A alta cúpula da Irmandade aprendeu rapidamente que o controle absoluto sobre a extração e o fluxo do Carvão-de-Sangue é a maior arma geopolítica, financeira e militar do Norte Congelado. Sem a cota diária de minério extraída pelos seus associados, os reatores centrais de Krag-Mora congelam em vinte e quatro horas, a pressão das tubulações de vapor despenca, a produção de armas para o exército do General Draven em Ferrovale é paralisada e a cidade vira um túmulo de ferro gelado.
@@ -146,7 +146,9 @@ A Taxa de Descompressão (A Propina Real): Quando o Sindicato do Ferro-Frio prec
 <--
 [ PROPINA EM ARCA DE OURO ]
 
-## III. Estrutura e Cargos no Sindicato
+
+
+III. Estrutura e Cargos no Sindicato
 A Irmandade organiza seus membros através de uma estrutura rígida que combina títulos de representação trabalhista com funções de cobrança, vigilância e coerção violenta:
 
 [ MINERADOR / SINDICALIZADO ]
@@ -163,7 +165,9 @@ A Irmandade organiza seus membros através de uma estrutura rígida que combina 
 <--
 [ COMISSÁRIO DE AÇÃO ]
 
-### 1. Sindicalizado de Base (A Massa de Manobra)
+
+
+1. Sindicalizado de Base (A Massa de Manobra)
 Distintivo: Uma moeda de ferro fundido perfurada presa ao pulso por um cordão de fita de chumbo.
 Perfil: Mineradores de marreta, carregadores de esteira e operários de caldeira. Sofrem de tosse de fuligem, trabalham sob calor abrasador e acreditam piamente que a diretoria do sindicato luta bravamente pela sua sobrevivência. São mobilizados em massa para votações de greve e atos públicos de protesto.
 2. Delegado de Galeria (Os Agitadores de Piquete)
